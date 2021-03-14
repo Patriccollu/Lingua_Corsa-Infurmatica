@@ -1,0 +1,239 @@
+﻿[info]
+; translation author information
+translated_by=Patriccollu di Santa Maria è Sichè
+; native language name
+language=Corsu
+[common]
+common.ok=Vai
+common.apply=Appiecà
+common.cancel=Abbandunà
+common.yes=Iè
+common.no=Innò
+common.all=Tutti
+common.close=Chjode
+common.resetToDefault=Reinizià à i valori predefiniti
+common.needToApply=Duvete appiecà i cambiamenti nanzu di cuntinuà
+common.filter.allFiles=Tutti i schedarii
+common.filter.midiFiles=Schedarii MIDI
+common.filter.soundfontFiles=Schedarii di banca di soni
+common.filter.sfConfig=Cunfigurazione di e banche di soni VirtualMIDISynth
+common.filter.mixerState=Statu di u mischiadore VirtualMIDISynth
+common.filter.mcFileList=Lista di i schedarii di u cunvertidore MIDI di VirtualMIDISynth
+[synth]
+; configurator
+cfg.donate=Dunazione…
+cfg.website=Situ web
+; soundfonts tab
+cfg.sf.tab=Banche di soni
+cfg.sf.fontExists=A banca di soni « {0} » hè dighjà stata aghjunta à a lista.
+cfg.sf.soundfonts=&Lista ordinata di e banche di soni
+cfg.sf.info=NOTA : Cliccà nant’à e LED o appughjà nant’à u numeru currispondente per attivà o disattivà una banca di soni per un apparechju.\nCTRL+cliccu attiverà o disattiverà a banca di soni per tutti l’apparechji.\nL’ordine di caricamentu di e banche di soni hè da l’altu ver di u bassu (l’ultima rimpiazzeghja a prima).
+cfg.sf.listHelp=Depunite quì i vostri schedarii di banca di soni o appughjate nant’à u buttone +…
+cfg.sf.preset=Prerigatura
+cfg.sf.presetLabel=Prerigatura ({0} – {1}, {0} = "Tutte e prerigature")
+cfg.sf.bank=Banca
+cfg.sf.bankLabel=Numeru di a banca ({0} – {1}, Prerigatura <> {2})
+cfg.sf.bankOffsetLabel=Spiazzamentu di a banca ({0} – {1}, Prerigatura = {2})
+cfg.sf.volume=Vulume
+cfg.sf.volumeLabel=Vulume ({0} – {1}%)
+cfg.sf.size=Dimensione
+cfg.sf.preload=Precaricamentu
+cfg.sf.preloadLabel=&Precaricà in memoria a banca di soni per aummentà a fluidità di lettura\n(Avertimentu : què aummenterà dinù a memoria richiesta)
+cfg.sf.xgdrums=Impiegà a banca 127 per l’insemi di tamburu in modu XG
+cfg.sf.editorTitle=Mudificà e pruprietà di a banca di soni
+cfg.sf.details=Detaglii di a banca di soni
+cfg.sf.addSoundfontsTitle=Aghjunghje banche di soni…
+cfg.sf.importTitle=Caricà a cunfigurazione di a banca di soni da…
+cfg.sf.exportTitle=Espurtà a cunfigurazione di a banca di soni ver di…
+cfg.sf.tt.add=Aghjunghje nove banche di soni à a lista
+cfg.sf.tt.remove=Caccià da a lista e banche di soni selezziunate
+cfg.sf.tt.edit=Mudificà a banca di soni selezziunata
+cfg.sf.tt.up=Dispiazzà insù a banca di soni selezziunata
+cfg.sf.tt.down=Dispiazzà inghjò a banca di soni selezziunata
+cfg.sf.tt.import=Impurtà una lista di banche di soni da un schedariu
+cfg.sf.tt.export=Espurtà una lista di banche di soni ver di un schedariu
+; midi mapper tab
+cfg.midi.tab=MIDI Mapper
+cfg.midi.defaultDevice=&Apparechju predefinitu d’esciuta MIDI (cunfigurazione MIDI Mapper)
+cfg.midi.warning=Avertimentu : ci vole à verificà s’è u vostru lettore MIDI hà un’ozzione di cunfigurazione per sceglie l’apparechju d’esciuta MIDI. S’ella hè vera, ci vole à sceglie « VirtualMIDISynth » nant’à u lettore è ùn passà micca da u MIDI Mapper.
+cfg.midi.win8warning=MIDI Mapper hè statu cacciatu da Windows 8 è dunque ci vole à cunfigurà u vostru prugramma MIDI per mandà esplicitamente a so esciuta ver di l’apparechji VirtualMIDISynth.\nOsinnò, pudete installà {0}, un rimpiazzamentu per Windows di u MIDIMapper, è impiegà sta finestra (o u so propiu dialogu) per cunfigurallu.
+cfg.midi.wmpDefaultDevice=Apparechju predefinitu di lettura di media in Windows
+; options tab
+cfg.opt.tab=Ozzioni
+cfg.opt.devicesCount=&Numeru d’apparechji (cambià què richiede di rilancià VirtualMIDISynth)
+cfg.opt.audioOutDevice=&Apparechju audio d’esciuta
+cfg.opt.defaultDeviceMenu=predefinitu
+cfg.opt.allDevicesMenu=definisce tutti l’apparechji à…
+cfg.opt.hwMixer=&Permette u mischju da u materiale\n(riduce e risorse di u prucessore ma pò cagiunà barbagliulime cù piloti gattivi)
+cfg.opt.effects=Valori predefiniti di l’effetti MIDI GS/XG
+cfg.opt.reverb=Livellu massimu di &riverberazione (0–127)
+cfg.opt.chorus=Livellu massimu di l’effetu &chorus (0–127)
+cfg.opt.overrideSysex=Rimpiazzà i messaghji S&YSEX MIDI ricevuti
+cfg.opt.language=&Lingua
+; advanced tab
+cfg.adv.grpDevice=Preferenze di l’apparechju
+cfg.opt.grpSynthesis=Sintesi MIDI
+cfg.opt.grpAppearance=Aspettu
+cfg.adv.disableEffects=&Disattivà l’effetti MIDI (sustenimentu, riverberazione)
+cfg.adv.disableStereo=Disattivà u modu &stereo (canale mono)
+cfg.adv.voicesLimit=Numeru massimu di note sunate à &tempu (pulifunia) (16–{0})
+cfg.adv.releaseOnlyLast=L’avvenimentu « Note Off » rilascia solu a più vechja instanza d’una nota.
+cfg.adv.sincInterpolatedMix=Impiegà u mischju di campioni interpulati da sincrunizazione piuttostu chì quella lineare.\n(Què aummenterà a qualità di u sonu ma dinù l’adopru di a CPU.)
+cfg.adv.cpuLimit=P&ercentuale massimu di tempu impiegatu per a sintesi (0–100%, 0=senza limitazione)
+cfg.adv.force8bit=Sfurzà a sintesi cù campioni di &8 bit (qualità assai bassa)
+cfg.adv.disableVUMeter=Disattivà u &VU-metru è l’indicadore d’attività di u mischiadore
+cfg.adv.snapWindows=Ancurà e finestre\n(appughjà nant’à MAIUSC per disattivà timpurariamente)
+cfg.adv.outputRate=&Frequenza predefinita di campiunariu d’esciuta (Hz)
+cfg.adv.outputBuffer=&Memoria stampone addiziunale d’esciuta (aiuta à riduce u barbagliulime o i prublemi durante a ripruduzzione, ma aummenterà u tempu d’attesa) (0–{0}ms)
+cfg.adv.blacklist=Lista nera di l’utilizatori MIDI
+cfg.adv.SuppressDeviceInUseMessage=Piattà u messaghju « L’apparechju hè dighjà impiegatu »
+cfg.adv.autostartAtLogon=Principia autumaticamente dopu a cunnessione
+; update tab
+cfg.upd.tab=Rinnovi
+cfg.upd.lastCheck=Data di l’ultima verificazione
+cfg.upd.availVersion=Versione dispunibule à l’ultima verificazione\n(Cliccu per apre a pagina di scaricamentu)
+cfg.upd.updateAvailable=Una versione più recente di VirtualMIDISynth hè dispunibule.\n\nCliccà nant’à l’etichetta rossa per apre a pagina di scaricamentu.
+cfg.upd.checkNow=&Verificà subitu…
+cfg.upd.curVersion=Versione attuale
+cfg.upd.checkFreq=Verificà i &rinnovi ogni (*)
+cfg.upd.checkFreqWarn=(*) NOTA : Quandu un rinnovu hè statu trovu, a verificazione autumatica di i rinnovi hè disattivata finch’è a versione attuale sia cambiata, dunque a versione indicata quì puderia ùn esse micca l’ultima.\nPudete sfurzà una nova verificazione appughjendu nant’à u buttone « Verificà subitu… ».
+cfg.upd.days0=Mai
+cfg.upd.daysx={0} ghjorni
+; shortcuts tab
+cfg.key.tab=Accurtatoghji
+cfg.key.title=Accurtatoghji glubale (sempre attivi)
+cfg.key.openMixer=Apre u &Mischiadore MIDI
+cfg.key.midiPanic=Tastu &Panicu MIDI\n(inviu d’un messaghju « Note Off » à tutti i canali)
+cfg.key.midiMixer=Accurtatoghji di u Mischiadore MIDI
+; key names and functions
+cfg.key.1=dispiazzà a selezzione ver di à manca/diritta
+cfg.key.2=selezziunà u canale maestru
+cfg.key.3=selezziunà u canale 1-9
+cfg.key.4=selezziunà u canale 10-16
+cfg.key.4.name=CTRL
+cfg.key.5=aummentà/diminuisce u vulume di u canale
+cfg.key.6=definisce in furia u vulume à u mas/min
+cfg.key.6.name=PRINCIPIU/FINE
+cfg.key.7=attivà o disattivà u statu mutu di u canale
+cfg.key.s=attivà o disattivà u statu solo di u canale
+cfg.key.8=reinizià u statu di u mischiadore
+; about tab
+cfg.about.tab=Apprupositu
+cfg.about.debugReport=&Raportu di spannatura…
+cfg.about.debugReportSave=Arregistrà u raportu di spannatura…
+cfg.about.debugReportSaveCompleted=Raportu di spannatura arregistratu bè in :\n"{0}".\n\nAprelu subitu ?
+; blacklist editor
+be.title=Prugrammi in lista nera
+be.intro=Lista persunalizata di i prugrammi chì ùn sò micca auturizati à caricà u pilotu.\nAghjunghje un nome di prugramma à a linea, inchjundendu l’estensione (cum’è prugrammu.exe).
+be.invalidItems=A lista nera di i prugrammi cuntene un elementu inaccettevule :« {0} »\nTutti l’elementi devenu finisce cù .exe.
+be.runningProcesses=&Aghjunghje un prucessu in funzione
+be.noprocess=Nisunu prucessu in funzione impiegheghja u pilotu.
+; systray context menu
+scm.configure=Cunfigurazione…
+scm.mixer=&Mischiadore MIDI
+scm.mixers=&Mischiadori MIDI…
+scm.panic=&Panicu MIDI
+scm.midiConverter=&Cunvertidore di schedariu MIDI…
+scm.about=&Apprupositu di VirtualMIDISynth…
+scm.exit=&Esce
+scm.updateAvailableMenu=--> &Rinnovu dispunibule, cliccà quì <--
+scm.updateAvailableBalloon=Una versione più recente hè dispunibule.\nCliccà quì per sapene di più.
+; MIDI Mixer
+mixer.title=Mischiadore MIDI
+mixer.master=Maestru
+mixer.muteAll=Attivà « Ammutulisce » nant’à tutti i canali
+mixer.unmuteAll=Disattivà « Ammutulisce » nant’à tutti i canali
+mixer.soloAll=Attivà « Solo » nant’à tutti i canali
+mixer.unsoloAll=Disattivà « Solo » nant’à tutti i canali
+mixer.topmost=Mantene à u primu pianu
+mixer.reset=Reinizià
+mixer.load=Caricà u statu di u mischiadore…
+mixer.save=Arregistrà u statu di u mischiadore…
+mixer.openWindowsMixer=Apre u mischiadore audio di Windows…
+mixer.copyStateFrom=Cupià u statu da
+mixer.soloRatio=Percentuale Solo
+; warnings
+warn.openDevices=Unu o parechji apparechji VirtualMIDISynth sò in funzione.\nCi vole à chjodeli è pruvà torna.\n\n{0}
+warn.restartVms=VirtualMIDISynth deve esse rilanciatu per appiecà i cambiamenti di cunfigurazione.\nVulete rilanciallu subitu ?
+warn.driverInstallCompleted=L’installazione di u pilotu MIDI hè riesciuta, ci vole à rilancià u prugramma.
+warn.driverInstallFailed=L’installazione di u pilotu MIDI hè fiasca, ci vole à installà torna u prugramma.
+; errors
+err.hotkeyCreation=Un sbagliu hè accadutu à a creazione di l’accurtatoghju « {0} » :l’accurtatoghju sceltu ({1}) hè statu dighjà impiegatu da un altru prugramma.\n\nCliccà quì per apre u cunfiguratore di VirtualMIDISynth è scegliene un altru.
+err.outputDeviceOpen=Un sbagliu hè accadutu à l’apertura di l’apparechju d’esciuta per l’apparechju MIDI {2}.\n\nCodice di sbagliu : {0}\nDiscrizzione : {1}
+err.outputDeviceInaccessible=Ùn si pò apre l’apparechju d’esciuta selezziunatu richiestu da {0}, ci vole à verificà a cunfigurazione.\n\nPassagiu à l’apparechju predefinitu…
+err.midiStream=Sbagliu à l’apertura di u flussu MIDI.\n\nCodice di sbagliu : {0}\nDiscrizzione : {1}
+err.sfLoad=Sbagliu à u caricamentu di a banca di soni <{1}>\n\nSbagliu : {0}\nDiscrizzione : {2}\n\nCi vole à verificà u nome di schedariu, a banca è a prerigatura.\n\nA banca di soni serà disattivata.
+err.sfPreload=Sbagliu à u precaricamentu di a banca di soni <{1}>\n\nSbagliu : {0}\nDiscrizzione : {2}\n\nA banca di soni ùn serà micca precaricata.
+err.noSoundfont=Sbagliu di cunfigurazione di a banca di soni.\n\nCliccà quì per apre u dialogu di cunfigurazione è attribuì omancu una banca di soni à ogni apparechju.
+err.fileMappingCreate=Ùn si pò creà a cartugrafia di u schedariu (forse un altru servitore hè in funzione…), sbagliu : {0}.
+err.listenThread=Ùn si pò principià u filu d’ascolta, sbagliu : {0}.
+err.missingBitness=AVERTIMENTU : l’apparechju selezziunatu ùn hà micca a versione {0}.\n\nQuè pò cagiunà prublemi impurtantissimi. Ci vole à selezziunà un apparechju chì permette e duie versioni x86/x64.
+err.driverMissing=U pilotu MIDI ùn hè micca installatu bè nant’à stu sistema.\nVulete curregelu ?\n\nFATE CASU :i diritti d’amministratore sò richiesti
+[midiconverter]
+mc.title=Cunvertidore MIDI di VirtualMIDISynth
+mc.intro=U cunvertidore MIDI cunvertisce i schedarii MIDI ver di i furmati WAV/MP3/FLAC/… impieghendu a cunfigurazione di e banche di soni di l’apparechju « {0} ».
+mc.inputFile=Schedarii MIDI di fonte
+mc.addFilesTitle=Aghjunghje schedarii MIDI à cunvertisce…
+mc.filesHelp=Depunite quì i vostri schedarii à cunvertisce o appughjate nant’à u buttone +…\n(CTRL+A per selezziunà tutti i schedarii)
+mc.err.outFileAlreadyExists=U schedariu d’esciuta {0} esiste dighjà, vulete rimpiazzallu ?
+mc.selectFolderTitle=Selezziunà u cartulare di destinazione
+mc.outputFolder=Cartulare di destinazione (osinnò, u cartulare di fonte hè impiegatu)
+mc.outputFormat=&Furmatu di u schedariu d’esciuta (cù u cudificatore esternu richiestu)
+mc.encoderOptions=&Ozzioni addiziunale di u cudificatore
+mc.skipInitialSilence=&Saltà u silenziu iniziale
+mc.startConversion=&Principià a cunversione
+mc.progress=Prugressione di a cunversione
+mc.log=Ghjurnale di messaghji
+mc.completed=Cunversione compia
+mc.canceled=Cunversione abbandunata
+mc.importTitle=Impurtà a lista di schedarii di u cunvertidore MIDI…
+mc.exportTitle=Espurtà a lista di schedarii di u cunvertidore MIDI…
+mc.column.srcFilename=Nome di schedariu di fonte
+mc.column.key=Cambiamentu di tunalità
+mc.column.outFilename=Nomi di u schedariu d’esciuta
+mc.tt.addFiles=Aghjunghje novi schedarii à a lista
+mc.tt.removeFiles=Caccià da a lista e schedarii selezziunati
+mc.tt.importFileList=Impurtà una lista di schedarii à cunvertisce…
+mc.tt.exportFileList=Espurtà a lista di schedarii à cunvertisce…
+mc.tt.keyDecrease=Diminuisce a tunalità
+mc.tt.keyReset=Rimette a tunalità d’origine
+mc.tt.keyIncrease=Aummentà a tunalità
+mc.tt.multichannelMode=Ingenerà schedarii d’esciuta multiple, unu per ogni canale MIDI
+mc.err.bassNoInit=Bibliuteca audio BASS micca iniziata
+mc.err.inFileMissing=U schedariu di fonte <{0}> ùn esiste micca o hè inaccessibile.
+mc.err.outFolderMissing=U cartulare di destinazione <{0}> ùn esiste micca o hè inaccessibile.
+mc.err.overwriteExistingFiles=Omancu unu di i schedarii d’esciuta esiste dighjà. Vulete rimpiazzalli ?
+mc.err.skippedExistingFile=U schedariu <{0}> esiste dighjà ; tralasciatu.
+mc.err.alreadyRunning=A cunversione MIDI hè in corsu
+mc.err.noSoundfont=Nisuna banca di soni caricata o attivata per l’apparechju {0}.
+mc.err.noEncoder=U cudificatore richiestu per stu tipu di schedariu d’esciuta ùn si trova micca.\nI furmati d’esciuta altri chì WAV anu bisognu d’un cudificatore, micca pruvistu da VirtualMIDISynth, chì deve esse scaricatu manualmente.\n\nCudificatore assente : {0}\nIndirizzu di scaricamentu : {1}\n\nQuand’ellu serà scaricatu, ci vole à copiallu in u cartulare « {2} » di l’« encoders » di VirtualMIDISynth.\n\nAppughjate nant’à « Vai » per apre simultaneamente l’indirizzu di scaricamentu (cù u vostru navigatore predefinitu) è u cartulare di destinazione…
+mc.err.noInputFile=Ùn si trova nisunu schedariu di fonte
+mc.err.inputFile=Sbagliu à l’apertura di u schedariu MIDI.\n\nCodice di sbagliu : {0}\nMessaghju : {1}
+mc.err.outputFile=Sbagliu à a creazione di u schedariu d’esciuta.\n\nCodice di sbagliu : {0}\nMessaghju : {1}
+[driver]
+; error messages
+drv.errIpcOpen=Ùn si pò apre u canale IPC in u sintetizatore MIDI, sbagliu : {0}.\n\nCi vole à verificà s’è VirtualMIDISynth.exe hè in funzione.
+drv.errDeviceInUse=L’apparechju « {0} » hè dighjà impiegatu da u prucessu « {1} », PID #{2}.
+[setup]
+; setup strings
+setup.install=installazione
+setup.uninstall=disinstallazione
+setup.uninstall.partial=U cartulare d’installazione cuntene schedarii micca installati da l’assistente d’installazione di VirtualMIDISynth è duvete caccialli manualmente.
+setup.upgradeNotSupported=VirtualMIDISynth $CURVER hè dighjà installatu.\nU cambiamentu da $CURVER ver di ${VERSION_USER} ùn hè micca accettatu.\n\nDisinstallà a versione attuale subitu ?
+setup.autoUninstallFailed=Sbagliu durante a disinstallazione di a versione $CURVER.
+setup.betaWarning=Una versione beta di VirtualMIDISynth hè installata attualmente.\nHè ricumandatu di squassà e preferenze attuale prima di cuntinuà.\n\nSquassà e preferenze di VirtualMIDISynth subitu ?
+setup.lock.title=Lista di i prucessi chì immubulizeghjanu u pilotu VirtualMIDISynth
+setup.lock.subtitle=Fate un cliccu dirittu nant’è l’elementi di a lista è pruvate di chjodeli per evità un rilanciu à a fine di $1. NOTA : S’è un prucessu ùn pò micca esse chjosu, appughjate nant’à u buttone Cuntinuà (rilanciu à a fine).
+setup.lock.continue=Cuntinuà
+setup.lock.heading=Lista di i prucessi chì immubulizeghjanu u pilotu, cliccu dirittu per chjodeli.
+setup.lock.menu1=Chjode stu prucessu
+setup.lock.menu2=Cupià a lista ver di u preme’papei
+setup.readme.title=Lista di e mudificazioni di ${PRODUCT}
+setup.readme.subtitle=Lighjite u ducumentu quaghjò per sapè ciò chì hè novu in sta versione…
+setup.post.title=Cunfigurazione in fine d’installazione
+setup.post.subtitle=Tacche ozzionale di cunfigurazione
+setup.post.autoUpdate=Verificà autumaticamente i rinnovi
+setup.post.setDefaultMidi=Definisce ${PRODUCT} cum’è u vostru apparechju predefinitu d’esciuta MIDI
+setup.post.openWebsite=VirtualMIDISynth richiede schedarii di banca di soni per funziunà, visitate u situ web CoolSoft per scaricane subitu
+setup.post.autostart=Lancià VirtualMIDISynth à l’avviu di Windows
+setup.post.runSynth=Lancià VirtualMIDISynth à a fine di l’installazione
