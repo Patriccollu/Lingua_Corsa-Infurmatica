@@ -94,7 +94,7 @@ _Prugramma per creà un assistente d’installazione o stalladore nant’à Wind
 
 ## ✨ OmegaT
 https://omegat.org/co/  
-_OmegaT hè un attrezzu di Traduzzione Assistita da l’Urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma, scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
+_Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma, scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.
 
@@ -104,11 +104,13 @@ _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tut
 
 ## ✨ PDF Split and Merge
 https://pdfsam.org/  
-_PDFsam basic hè un prugramma simplice, indipendente di u sistema, è fattu per sparte et adunisce i schedarii pdf. Hè stabule, bellu liberu è deve risponde à a maiò parte di i vostri bisogni._
+_Indipendente di u sistema è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
+  
+💡 __Astuzia__ : Ci vole à sceglie ___PDFsam basic___ chì hè a versione di rigalu.
 
 ## ✨ Poedit è WinSparkle
 https://poedit.net/  
-_Creazione è mudificazione di traduzzioni per l’appiecazioni o i siti Internet chì adopranu « gettext » è i so schedarii .PO (Portable Object). **WinSparkle** hè u prugramma d’installazione di Poedit nant’à Windows._
+_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
 
 ## ✨ RandPass
 https://www.den4b.com/products/randpass  
@@ -124,7 +126,7 @@ _Lettore di ducumenti purtevule per Windows, capace di leghje i formati PDF, eBo
 
 ## ✨ Video DownloadHelper
 https://www.downloadhelper.net/  
-_Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quandu l’estensione scopre quelli schedarii, l’icona di a barra d’attrezzi s’attiveghja per vi permette di fighjà ciò chì sò dispunibule è un cliccu simplice principierà u so scaricamentu. St’estensione funziuneghja nant’à Firefox, Chrome è Microsoft Edge. L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, un’interfaccia à u cunvertidore video ffmpeg._  
+_Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quandu l’estensione scopre quelli schedarii, l’icona di a barra d’attrezzi s’attiveghja per vi permette di fighjà ciò chì sò dispunibule è un cliccu simplice principierà u so scaricamentu. St’estensione funziuneghja nant’à Firefox, Chrome è Microsoft Edge._   _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, un’interfaccia à u cunvertidore video ffmpeg._  
   
 💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiega Video DownloadHelper in corsu. Da prima, ci vole à scaricà u schedariu di lingua corsa chì si trova quì :
 https://github.com/Patriccollu/Schedarii-di-Lingua/blob/master/Video%20DownloadHelper/Corsican%20messages.json  
@@ -161,7 +163,7 @@ https://github.com/JasnaPaka/mozbackup/issues/5
 https://vpn.mozilla.org/  
 _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncipita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._  
   
-⚠️ __Fate casu__ : À st’ora, stu prugramma ùn hè micca dispunibule nè per Francia, nè per Corsica ;-)
+⚠️ __Fate casu__ : À st’ora, stu prugramma ùn hè micca dispunibule, nè per Francia, nè per Corsica ;-)
 
 ## ⏳ VirtualMIDISynth
 https://coolsoft.altervista.org/en/virtualmidisynth  
@@ -186,22 +188,24 @@ https://github.com/sysprogs/WinCDEmu/raw/70d06784ea51d4aa4801266f145c35b2eaff74b
 
 ## 🎯 CDBurnerXP
 https://cdburnerxp.se/fr/  
-_CDBurnerXP hè un’appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. Ella permette d’impruntà è creà fiure ISO, ma cuntene dinù un’interfaccia multilingue. Tutti, ancu l’imprese, pò impiegalla d’una manera libera._
+_Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurnerXP vi permette d’impruntà è creà fiure ISO, ma cuntene dinù un’interfaccia multilingue. Tutt’ognunu, ancu l’imprese, pò impiegalla d’una manera libera._
 
 ## 🎯 Common Voice
 https://commonvoice.mozilla.org/fr  
-_Common Voice hè l’iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
+_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
-_Unicode CLDR hè un prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
+_Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
 
 ## 🎯 VLC media player
 https://www.videolan.org/vlc/  
-_Lettore capace d’apre è leghje (sunà) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
+_Lettore capace d’apre è leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
   
 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu una metà - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
 
 ## 🎯 wxWidgets
 https://www.wxwidgets.org/  
-wxWidgets hè una bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice.
+Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice.  
+
+© Patriccollu di Santa Maria è Sichè, 2021
