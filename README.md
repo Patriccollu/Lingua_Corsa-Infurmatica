@@ -126,10 +126,12 @@ _Lettore di ducumenti purtevule per Windows, capace di leghje i formati PDF, eBo
 
 ## ✨ Video DownloadHelper
 https://www.downloadhelper.net/  
-_Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quandu l’estensione scopre quelli schedarii, l’icona di a barra d’attrezzi s’attiveghja per vi permette di fighjà ciò chì sò dispunibule è un cliccu simplice principierà u so scaricamentu. St’estensione funziuneghja nant’à Firefox, Chrome è Microsoft Edge._   _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, un’interfaccia à u cunvertidore video ffmpeg._  
+_Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quandu l’estensione scopre quelli schedarii, l’icona di a barra d’attrezzi s’attiveghja per vi permette di fighjà ciò chì sò dispunibule è un cliccu simplice principierà u so scaricamentu. St’estensione funziuneghja nant’à Firefox, Chrome è Microsoft Edge._  
+
+_L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video ffmpeg._  
   
 💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiega Video DownloadHelper in corsu. Da prima, ci vole à scaricà u schedariu di lingua corsa chì si trova quì :
-https://github.com/Patriccollu/Schedarii-di-Lingua/blob/master/Video%20DownloadHelper/Corsican%20messages.json  
+https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Video%20DownloadHelper/Corsican%20messages.json  
 Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ ». Tandu, per caricallu in l’estensione di Video DownloadHelper, ci vole à fà un cliccu dirittu in l’interfaccia è impurtà u schedariu di sta manera : *Paramètres > Plus… > Traduction* è tandu di cliccà nant’à i buttoni *Importer* è *Enregistrer*.
 
 ## ✨ VLC for Android
@@ -170,7 +172,7 @@ https://coolsoft.altervista.org/en/virtualmidisynth
 _Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedia Windows è chì pò esse impiegatu cum’è un apparechju classicu d’esciuta MIDI. Appughjatu nant’à a bibliuteca BASS sviluppata da un4seen, VirtualMIDISynth pò funziunà nant’à Windows XP (SP3) / Vista (SP1) / 7 (SP1) / 8.x / 10 (x86 o x64)._  
   
 💡 __Astuzia__ : A lingua corsa serà distribuita cù a prossima versione ma si pò dighjà impiegalla cù a versione 2.11.0 grazia à u schedariu di lingua chì si pò scaricà da quì :
-https://github.com/Patriccollu/Schedarii-di-Lingua/blob/master/VirtualMIDISynth/1155.lang  
+https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/VirtualMIDISynth/1155.lang  
 Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ ».
 
 ## ⏳ WinCDEmu
@@ -178,7 +180,7 @@ https://wincdemu.sysprogs.org/
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu da quì :  
-https://github.com/Patriccollu/Schedarii-di-Lingua/blob/master/WinCDEmu/vmntcorsican.lng   
+https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/WinCDEmu/vmntcorsican.lng   
 Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ » eppò cupiallu ver di u cartulare `C:\Program Files\WinCDEmu\langfiles` o `C:\Program Files (x86)\WinCDEmu\langfiles` s’è voi avete un urdinatore 64-bit.  
 S’è a leia insù ùn funziuneghja micca, si pò scaricà u schedariu di lingua da quess’altru locu :  
 https://github.com/sysprogs/WinCDEmu/raw/70d06784ea51d4aa4801266f145c35b2eaff74bd/distr/langfiles/vmntcorsican.lng
@@ -208,4 +210,4 @@ _Lettore capace d’apre è leghje (stà à sente) guasi tutti i schedarii audio
 https://www.wxwidgets.org/  
 Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice.  
 
-© Patriccollu di Santa Maria è Sichè, 2021
+_© Patriccollu di Santa Maria è Sichè, 2021_
