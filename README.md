@@ -19,7 +19,9 @@ _Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’u
 
 ## ✨ CCleaner
 https://www.ccleaner.com/ccleaner  
-_Per nettà ciò chì ùn serve à nunda nant’à u vostru urdinatore è ottene un PC più nettu, più sicuru è più rapidu._
+_Per nettà ciò chì ùn serve à nunda nant’à u vostru urdinatore è ottene un PC più nettu, più sicuru è più rapidu._  
+  
+⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _CCleaner Free_ chì hè di rigalu, o _CCleaner Professional_ ch’ella ci vole à pagà.
 
 ## ✨ CDex
 https://cdex.mu/  
@@ -63,7 +65,7 @@ _Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è c
 
 ## ✨ GeneWeb
 https://geneweb.tuxfamily.org/wiki/GeneWeb/fr  
-_Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web._
+_Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web._
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 7.0.0 è quelle più recente.  
   
@@ -86,7 +88,7 @@ _Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3 è ID3v2.4. Grazia à u 
 https://notepad-plus-plus.org/  
 _Mudificatore di codice chì piglia in contu parechji linguaghji di prugrammazione. Stu prugramma, scrittu in C++ cù STL è l’API win32, hè statu fattu per pruvede un mezu, di chjuca dimensione ma assai putente, per mudificà u codice surghjente. Uptimizeghja parechje funzioni da una manera piacevule ciò chì face ch’ellu cuntribuisce à a limitazione di u CO2 in u mondu sanu ! In fatti, cum’ellu riduce l’impiegu di a CPU, a cunsumazione di l’urdinatori si ne trova ridutta è in fine di contu... a pianeta hè più bella è più verde ;-)_  
   
-💡 __Astuzia__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma.
+💡 __Astuzia__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Ma s’è a vi scurdate, ci hè l’[istruzzioni per installà u schedariu di lingua chì manca](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/Prughjetti/notepad/Installazione.md)
 
 ## ✨ NSIS: Nullsoft Scriptable Install System
 https://nsis.sourceforge.io/MainPage  
@@ -110,15 +112,15 @@ _Indipendente di u sistema è fattu per sparte et adunisce i ducumenti PDF, stu 
 
 ## ✨ Poedit è WinSparkle
 https://poedit.net/  
-_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
+_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
 
 ## ✨ RandPass
 https://www.den4b.com/products/randpass  
-_Ingeneratore di parolle d’entrata à l’azardu impieghendu simbulli o parolle à l’azardu. Si pò selezziunnà gruppi di caratteri à impiegà per e parolle d’entrata, cum’è lettere minuscule, lettere maiuscule, cifri, è gruppi di caratteri persunnalizati. Si pò dinù definisce u furmatu di a parolla d’entrata, verificà ch’ella hè unica, caccià i caratteri simile._
+_Ingeneratore di parolle d’entrata à l’azardu impieghendu simbulli o parolle à l’azardu. Si pò selezziunà gruppi di caratteri à impiegà per e parolle d’entrata, cum’è lettere minuscule, lettere maiuscule, cifri, è gruppi di caratteri persunnalizati. Si pò dinù definisce u furmatu di a parolla d’entrata, verificà ch’ella hè unica, caccià i caratteri simile._
 
 ## ✨ Resizer
 https://www.den4b.com/products/resizer  
-_Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguillà è depone_ » assai faciule à impiegà. Ci sò parechje ozzioni, cum’è un metoda d’addattazione d’aspettu da percentuale, un furmatu persunnalizatu di destinazione di fiura, è un mudellu di nome di schedariu d’esciuta. I furmati di fiura permessi sò : BMP, GIF, PNG, JPEG è TIFF._
+_Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguillà è depone_ » assai faciule à impiegà. Ci sò parechje ozzioni, cum’è un metoda d’addattazione d’aspettu da percentuale, un furmatu persunnalizatu di destinazione di fiura, è un mudellu di nome di schedariu d’esciuta. I furmati di fiura permessi sò : BMP, GIF, PNG, JPEG è TIFF._
 
 ## ✨ SumatraPDF
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
@@ -142,14 +144,14 @@ _Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qual
 
 ## ✨ VLC for iOS
 https://itunes.apple.com/fr/app/vlc-for-mobile/id650377962  
-_Purtera di u lettore media liberu VLC nant’à iPad, iPhone è iPod touch chì pò sunà tutti i vostri video, spettaculi è musica in a maiò parte di i furmati direttamente, senza cunversione. Permette a sincrunizazione di i schedarii cù Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, offre i scaricamenti diretti, u spartimentu WiFi, ma dinù a lettura di cuntinuu à partesi di servitori media SMB, FTP, UPnP/DLNA è da u web. VLC permette l’impiegu di sottutituli avanzati includendu a cumpatibilità sana SSA, l’audio multi-traccia, è u cuntrollu di a vitezza di ripruduzzione. VLC per iOS hè sanu di rigalu è di tipu « fonte aperta »._
+_Purtera di u lettore media liberu VLC nant’à iPad, iPhone è iPod touch chì pò sunà tutti i vostri video, spettaculi è musica in a maiò parte di i furmati direttamente, senza cunversione. Permette a sincrunizazione di i schedarii cù Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, offre i scaricamenti diretti, u spartimentu WiFi, ma dinù a lettura di cuntinuu à partesi di servitori media SMB, FTP, UPnP/DLNA è da u web. VLC permette l’impiegu di sottutituli avanzati includendu a cumpatibilità sana SSA, l’audio multi-traccia, è u cuntrollu di a vitezza di ripruduzzione. VLC per iOS hè sanu di rigalu è di tipu « fonte aperta »._
 
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
 
 ## ⏳ HandBrake
 https://handbrake.fr/  
-_Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma chì permette di cunvertisce guasi tutti i furmati di video._
+_Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma chì permette di cunvertisce guasi tutti i furmati di video._
   
 💡 __Astuzia__ : A lingua corsa serà distribuita cù a prossima versione ma si pò dighjà pruvalla grazia à una versione timpuraria di sviluppu chì si pò scaricà da quì :
 https://handbrake.fr/nightly.php
@@ -177,7 +179,7 @@ Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
-_Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
+_Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu da quì :  
 https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/WinCDEmu/vmntcorsican.lng   
@@ -210,4 +212,4 @@ _Lettore capace d’apre è leghje (stà à sente) guasi tutti i schedarii audio
 https://www.wxwidgets.org/  
 Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice.  
 
-_© Patriccollu di Santa Maria è Sichè, 2021_
+© Patriccollu di Santa Maria è Sichè, 2021
