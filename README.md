@@ -108,7 +108,7 @@ _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tut
 https://pdfsam.org/  
 _Indipendente di u sistema è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
   
-💡 __Astuzia__ : Ci vole à sceglie ___PDFsam basic___ chì hè a versione di rigalu.
+⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ella ci vole à pagà.
 
 ## ✨ Poedit è WinSparkle
 https://poedit.net/  
