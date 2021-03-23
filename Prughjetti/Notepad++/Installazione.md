@@ -20,3 +20,5 @@ Lancià Notepad++ è mudificà e preferenze di langua di l’interfaccia
 - in francese : `Paramètres` > `Préférences…` > `Général` > `Langue` > `Corsu`
 - in inglese : `Settings` > `Preferences…` > `General` > `Localizatione` > `Corsu`
 - in talianu : `Configurazione` > `Preferenze…` > `Generale` > `Lingua` > `Corsu`
+
+Avà, l’interfaccia di Notepad++ hè in lingua corsa
