@@ -182,7 +182,7 @@ https://wincdemu.sysprogs.org/
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu da quì :  
-https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/vmntcorsican.lng   
+https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/vmnt_corsican.lng  
 Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ » eppò cupiallu ver di u cartulare `C:\Program Files\WinCDEmu\langfiles` o `C:\Program Files (x86)\WinCDEmu\langfiles` s’è voi avete un urdinatore 64-bit.  
 S’è a leia insù ùn funziuneghja micca, si pò scaricà u schedariu di lingua da quess’altru locu :  
 https://github.com/sysprogs/WinCDEmu/raw/70d06784ea51d4aa4801266f145c35b2eaff74bd/distr/langfiles/vmntcorsican.lng
