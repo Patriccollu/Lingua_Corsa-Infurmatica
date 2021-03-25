@@ -204,7 +204,9 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 
 ## 🎯 wxWidgets
 https://www.wxwidgets.org/  
-_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
+_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
+
 ### ✔️ [_Una lista alternativa si trova nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
+
 ##
 _© Patriccollu di Santa Maria è Sichè, 2021_
