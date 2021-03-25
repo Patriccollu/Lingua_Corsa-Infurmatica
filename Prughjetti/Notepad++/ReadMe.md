@@ -4,7 +4,7 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### __Cunverzione__
+### [__Cunversione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Cunversione.md)
 L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da OmegaT
 ### [__Installazione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Installazione.md)  
 L’istruzzioni per installà l’interfaccia in lingua corsa
