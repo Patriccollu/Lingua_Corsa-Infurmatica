@@ -132,9 +132,7 @@ _Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quand
 
 _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video ffmpeg._  
   
-💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiega Video DownloadHelper in corsu. Da prima, ci vole à scaricà u schedariu di lingua corsa chì si trova quì :
-https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Video%20DownloadHelper/Corsican%20messages.json  
-Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ ». Tandu, per caricallu in l’estensione di Video DownloadHelper, ci vole à fà un cliccu dirittu in l’interfaccia è impurtà u schedariu di sta manera : *Paramètres > Plus… > Traduction* è tandu di cliccà nant’à i buttoni *Importer* è *Enregistrer*.
+💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Video%20DownloadHelper/Installazione.md)
 
 ## ✨ VLC for Android
 https://play.google.com/store/apps/details?id=org.videolan.vlc  
@@ -160,7 +158,7 @@ https://handbrake.fr/nightly.php
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
   
-💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’infurmazioni particulare per impiegà MozBackup in lingua corsa :
+💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’infurmazione particulare per impiegà MozBackup in lingua corsa :
 https://github.com/JasnaPaka/mozbackup/issues/5
 
 ## ⏳ Mozilla VPN
@@ -181,11 +179,7 @@ Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
-💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu da quì :  
-https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/vmnt_corsican.lng  
-Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ » eppò cupiallu ver di u cartulare `C:\Program Files\WinCDEmu\langfiles` o `C:\Program Files (x86)\WinCDEmu\langfiles` s’è voi avete un urdinatore 64-bit.  
-S’è a leia insù ùn funziuneghja micca, si pò scaricà u schedariu di lingua da quess’altru locu :  
-https://github.com/sysprogs/WinCDEmu/raw/70d06784ea51d4aa4801266f145c35b2eaff74bd/distr/langfiles/vmntcorsican.lng
+💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/Installazione.md)
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
@@ -204,7 +198,7 @@ _Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accet
 
 ## 🎯 VLC media player
 https://www.videolan.org/vlc/  
-_Lettore capace d’apre è leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
+_Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
   
 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu una metà - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
 
