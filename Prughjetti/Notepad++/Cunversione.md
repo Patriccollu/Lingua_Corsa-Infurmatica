@@ -22,11 +22,11 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 
  1. Apre u cartulare di Notepad++ induve si trova u schedariu `shortcuts.xml` perchè ghjè quellu chì cuntene tutte e vostre prucedure persunalizate. Da bona regula, stu cartulare si trova in `C:\Users\xxxxxxxx\AppData\Roaming\Notepad++` (induve _xxxxxxxx_ hè u vostru nome d’utilizatore).  
 
-    Per apre stu cartulare d’una manera più faciule, ci vole à fà una ricerca Windows cù sta catena : `%APPDATA%\Notepad++`
+    Per apre stu cartulare d’una manera più faciule, ci vole à fà una ricerca Windows cù sta catena : `%APPDATA%\Notepad++`
 
  2. In u cartulare chì s’apre, sciglite u schedariu shortcuts.xml è apritelu cù Notepad++.
 
- 3. Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
+ 3. Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
 ```
 	<Macro name=".......">
 	   ...
@@ -139,14 +139,14 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 
  1. Lancià Notepad++
 
- 2. Apre un schedariu di traduzzione ch’ellu ci vole à cunvertisce, per indettu : `english.xml`
+ 2. Apre un schedariu di traduzzione ch’ellu ci vole à cunvertisce, per indettu : `english.xml`
 
  3. Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
- 
+
  4. Selezziunà `Cunversione_Notepad-OmegaT`
- 
+
  5. Cliccu nant’à `Eseguisce 1 volta`
- 
+
  6. Appughjà nant’à u buttone `Eseguisce`
- 
+
  7. Arregistrà u schedariu trasfurmatu in un schedariu cù l’estensione `.lng`
