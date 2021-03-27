@@ -10,5 +10,5 @@ L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da Ome
 L’istruzzioni per installà l’interfaccia in lingua corsa
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa
-### __Traduzzione__
+### [__Traduzzione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Traduzzione.md)
 L’istruzzioni per traduce l’interfaccia in lingua corsa
