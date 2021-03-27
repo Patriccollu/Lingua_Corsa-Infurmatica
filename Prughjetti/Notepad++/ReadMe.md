@@ -12,3 +12,17 @@ L’istruzzioni per installà l’interfaccia in lingua corsa
 A memoria di traduzzione di l’interfaccia in lingua corsa
 ### [__Traduzzione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Traduzzione.md)
 L’istruzzioni per traduce l’interfaccia in lingua corsa
+
+## Eccu d’altri liami ghjuvevule
+
+- [A pagina d’accolta di Notepad++](https://notepad-plus-plus.org/)
+
+- [L’annunzie ufficiale di Notepad++](https://community.notepad-plus-plus.org/category/1/announcements)
+
+- [A ducumentazione di Notepad++](https://npp-user-manual.org/)
+
+- [A cronolugia di e mudificazioni di u schedariu di lingua inglese](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml)
+
+- [A cronolugia di e mudificazioni di u schedariu di lingua corsa](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml)
+
+- [A cronolugia di e dumande di mudificazione di u schedariu di lingua corsa](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican)
