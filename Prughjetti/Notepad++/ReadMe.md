@@ -18,7 +18,7 @@ Tutti sti siti sò di lingua inglese.
 
 - [A pagina d’accolta di Notepad++](https://notepad-plus-plus.org/)
 
-- [L’annunzie ufficiale di Notepad++](https://community.notepad-plus-plus.org/category/1/announcements)
+- [L’annunziamenti ufficiale di Notepad++](https://community.notepad-plus-plus.org/category/1/announcements)
 
 - [A ducumentazione di Notepad++](https://npp-user-manual.org/)
 
