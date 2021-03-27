@@ -24,7 +24,7 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 
     Per apre stu cartulare d’una manera più faciule, ci vole à fà una ricerca Windows cù sta catena : `%APPDATA%\Notepad++`
 
- 2. In u cartulare chì s’apre, sciglite u schedariu shortcuts.xml è apritelu cù Notepad++.
+ 2. In u cartulare chì s’apre, sciglite u schedariu `shortcuts.xml` è apritelu cù Notepad++.
 
  3. Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
 ```
@@ -149,4 +149,6 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 
  6. Appughjà nant’à u buttone `Eseguisce`
 
- 7. Arregistrà u schedariu trasfurmatu in un schedariu cù l’estensione `.lng`
+ 7. Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
+ 
+ 8. Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad__ in _OmegaT_.
