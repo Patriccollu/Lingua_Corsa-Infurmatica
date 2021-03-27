@@ -20,13 +20,13 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 
 ## Installazione di a prucedura
 
- 1. Apre u cartulare di Notepad++ induve si trova u schedariu `shortcuts.xml` perchè ghjè quellu chì cuntene tutte e vostre prucedure persunalizate. Da bona regula, stu cartulare si trova in `C:\Users\xxxxxxxx\AppData\Roaming\Notepad++` (induve _xxxxxxxx_ hè u vostru nome d’utilizatore).  
+- Apre u cartulare di Notepad++ induve si trova u schedariu `shortcuts.xml` perchè ghjè quellu chì cuntene tutte e vostre prucedure persunalizate. Da bona regula, stu cartulare si trova in `C:\Users\xxxxxxxx\AppData\Roaming\Notepad++` (induve _xxxxxxxx_ hè u vostru nome d’utilizatore).  
 
     Per apre stu cartulare d’una manera più faciule, ci vole à fà una ricerca Windows cù sta catena : `%APPDATA%\Notepad++`
 
- 2. In u cartulare chì s’apre, sciglite u schedariu `shortcuts.xml` è apritelu cù Notepad++.
+- In u cartulare chì s’apre, sciglite u schedariu `shortcuts.xml` è apritelu cù Notepad++.
 
- 3. Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
+- Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
 ```
 	<Macro name=".......">
 	   ...
@@ -34,7 +34,7 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 	   ...
 	</Macro>
 ```
- 4. Basta à aghjunghje st’istruzzioni nanzu a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
+- Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
         <Macro name="Cunversione_Notepad-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -131,24 +131,24 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
             <Action type="2" message="0" wParam="42043" lParam="0" sParam="" />
         </Macro>
 ```
- 5. Tandu a nova prucedura - `Cunversione_Notepad-OmegaT` - hè dispunibule in Notepad++.  
+- Tandu a nova prucedura - `Cunversione_Notepad-OmegaT` - hè dispunibule in Notepad++.  
  
-    Di sicuru, si pò sceglie un altru nome di prucedura.
+    Di sicuru, si pò sceglie __un altru nome di prucedura__.
 
 ## Impiegu di a prucedura
 
- 1. Lancià Notepad++
+- Lancià Notepad++
 
- 2. Apre un schedariu di traduzzione ch’ellu ci vole à cunvertisce, per indettu : `english.xml`
+- Apre un schedariu di traduzzione ch’ellu ci vole à cunvertisce, per indettu : `english.xml`
 
- 3. Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
+- Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
 
- 4. Selezziunà `Cunversione_Notepad-OmegaT`
+- Selezziunà `Cunversione_Notepad-OmegaT`
 
- 5. Cliccu nant’à `Eseguisce 1 volta`
+- Cliccu nant’à `Eseguisce 1 volta`
 
- 6. Appughjà nant’à u buttone `Eseguisce`
+- Appughjà nant’à u buttone `Eseguisce`
 
- 7. Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
+- Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
  
- 8. Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad__ in _OmegaT_.
+- Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad++__ in _OmegaT_.
