@@ -14,6 +14,7 @@ A memoria di traduzzione di l’interfaccia in lingua corsa
 L’istruzzioni per traduce l’interfaccia in lingua corsa
 
 ## Eccu d’altri liami ghjuvevule
+Tutti sti siti sò di lingua inglese.
 
 - [A pagina d’accolta di Notepad++](https://notepad-plus-plus.org/)
 
@@ -23,6 +24,6 @@ L’istruzzioni per traduce l’interfaccia in lingua corsa
 
 - [A cronolugia di e mudificazioni di u schedariu di lingua inglese](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml)
 
-- [A cronolugia di e mudificazioni di u schedariu di lingua corsa](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml)
+- [A cronolugia di e mudificazioni di u schedariu di lingua corsa](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/corsican.xml)
 
 - [A cronolugia di e dumande di mudificazione di u schedariu di lingua corsa](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican)
