@@ -39,7 +39,7 @@ Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinato
 
 - Andà nant’à u [situ ufficiale di Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 
-- Cliccà nant’à u buttone « _Go to file_ » è scrive `corsican.xml` per circà stu schedariu.
+- Cliccà nant’à u buttone `Go to file` è scrive « _corsican.xml_ » per circà stu schedariu.
 
 - Cliccà nant’à a linea `PowerEditor/installer/nativeLang/corsican.xml` per fighjà a versione attuale.
 
@@ -51,46 +51,49 @@ Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinato
 
 - Verificà e mudificazioni grazia à l’unghjetta « _Preview changes_ ». S’ellu ci hè qualcosa à cambià, si pò sempre mudificalla via l’unghjetta « _Edit file_ ».
 
-- Quandu u schedariu hè prontu, ci vole à andà tuttu inghjò. Sottu u paragrafu _Propose changes_ scrive un cummentu per spiegà perchè u schedariu hè mudificatu. Per indettu : `Update Corsican translation for Notepad++ 7.9.6`
+- Quandu u schedariu hè prontu, ci vole à andà tuttu inghjò. Sottu u paragrafu _Propose changes_ scrivite un cummentu per spiegà perchè u schedariu hè mudificatu. Per indettu : `Update Corsican translation for Notepad++ 7.9.6`
 
 - Cliccà nant’à u buttone « _Propose changes_ » per acccettà e mudificazioni direttamente ver di una nova ghjamba lucale. Da bona regula, a ghjamba principale (o maestra) si chjama _Master_ è l’altre, impiegate per i cambiamenti sò chjamate autumaticamente `patch-1, …, patch-n`
 
-- Una funzione « _Comparing changes_ » vi prupone di paragunà a versione attuale :
-`base repository: notepad-plus-plus/notepad-plus-plus/` `base: master`  
-cù a vostra versione creata pocu fà :
-`head repository: u_mo_nome_github/notepad-plus-plus/` `compare: patch-1`
-_✔️ Able to merge. These branches can be automatically merged._  
-  Ci hè un buttone verde « _Create pull request_ » ma __ùn ci vole micca à fà què__ subitu !
+- Una funzione « _Comparing changes_ » vi prupone di paragunà a versione attuale :  
+  `base repository: notepad-plus-plus/notepad-plus-plus/` `base: master`  
+cù a vostra versione creata pocu fà :  
+  `head repository: u_mo_nome_github/notepad-plus-plus/` `compare: patch-1`  
+  _✔️ Able to merge. These branches can be automatically merged._  
 
-- Avà, ci vole à rinuminà sta ghjamba creata pocu fà perchè Notepadd++ richiede __una nova ghjamba per ogni mudificazione__. U nome ricumandatu hè `NPP_aaaammgg` induve _aaaa_=l’annu, _mm_=u mese è _gg_=u ghjornu), per indettu `NPP_20210327`
+  Ci hè un buttone verde `Create pull request` ma __ùn ci vole micca à fà què__ subitu !
+
+- Avà, ci vole à rinuminà sta ghjamba creata pocu fà perchè Notepad++ richiede __una nova ghjamba per ogni mudificazione__. U nome ricumandatu hè `NPP_aaaammgg` induve _aaaa_=l’annu, _mm_=u mese è _gg_=u ghjornu), per indettu `NPP_20210328`
 
 - Andà à u vostru dipositu lucale nant’à GitHub : `https://github.com/u_mo_nome_github/notepad-plus-plus`
 
-- Cliccà nant’à u buttone cù u numeru di e ghjambe chì si trova trà u buttone _Master_ è u numeru d’etichette (_tags_).
+- Cliccà nant’à u buttone cù u numeru di e ghjambe chì si trova trà u buttone `Master` è u numeru d’etichette (`tags`).
 
 - Cliccà nant’à l’icona di a mina, in pettu à u nome di a nova ghjamba, per indettu `patch-1`, per cambiallu.
 
-- Rimpiazzà u nome attuale da `NPP_aaaammgg` è cliccà nant’à u buttone « _Rename branch_ »
+- Rimpiazzà u nome attuale da `NPP_aaaammgg` è cliccà nant’à u buttone `Rename branch`
 
-- Andà à l’unghjetta « _Code_ » per vede l’ultimu cambiamentu. Ci hè un messaghju dicendu : _ NPP_aaaammgg had recent pushes less than a minute ago_
+- Andà à l’unghjetta « _Code_ » per vede l’ultimu cambiamentu. Ci hè un messaghju dicendu :  
+  `NPP_aaaammgg had recent pushes less than a minute ago`
 
-- Appughjà nant’à u buttone verde « _Compare & pull request_ »
+- Appughjà nant’à u buttone verde `Compare & pull request`
 
-- Avà, ghjè a funzione « _Open a pull request_ » chì torna vi prupone di paragunà a versione attuale :
-`base repository: notepad-plus-plus/notepad-plus-plus/` `base: master`  
-cù a vostra versione creata pocu fà :
-`head repository: u_mo_nome_github/notepad-plus-plus/` `compare: NPP_aaaammgg`
-_✔️ Able to merge. These branches can be automatically merged._  
+- Avà, ghjè a funzione « _Open a pull request_ » chì torna vi prupone di paragunà a versione attuale :  
+  `base repository: notepad-plus-plus/notepad-plus-plus/` `base: master`  
+  cù a vostra versione creata pocu fà :  
+  `head repository: u_mo_nome_github/notepad-plus-plus/` `compare: NPP_aaaammgg`  
+  _✔️ Able to merge. These branches can be automatically merged._  
 
-- St’azzione - __Pull Request__ - hè una dumanda à a squadra Notepadd++ per accettà a nova versione cù e vostre mudificazioni. Un titulu per sta dumanda hè prupostu ; ghjè quellu dighjà scrittu per spiegà i cambiamenti : `Update Corsican translation for Notepad++ 7.9.6`
+- L’azzione _Pull Request_ hè una dumanda à a squadra Notepad++ per accettà a nova versione cù e vostre mudificazioni. Un titulu per sta dumanda hè prupostu ; ghjè quellu dighjà scrittu per spiegà i cambiamenti : `Update Corsican translation for Notepad++ 7.9.6`  
+  Si pò cambià u titulu.
 
 - Ci vole à aghjunghje un cummentu. Fighjate a [cronolugia di e dumande scorse](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican) per sapene di più.
 
-- Quandu a vostra dumanda - titulu è cummentu - hè pronta, cliccà nant’à u buttone « _Create pull request_ ».
+- Quandu a vostra dumanda - titulu è cummentu - hè pronta, cliccà nant’à u buttone `Create pull request`
 
-- Una nova dumanda hè stata creata per appruntà una fusione :  
+- Una nova dumanda hè stata creata per appruntà una fusione :  
   `1 commit into notepad-plus-plus:master from u_mo_nome_github:NPP_aaaammgg`
 
-- Ci vole à aspettà chì sta dumanda sia trattata da Don, u sviluppatore di Notepadd++. Si pò [seguitalla in a lista di tutte e dumande.](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls) Què pò piglià un parechji ghjorni.
+- Ci vole à aspettà chì sta dumanda sia trattata da a squadra Notepad++. Si pò [seguitalla in a lista di tutte e dumande aperte.](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls) Què pò piglià parechji ghjorni.
 
-- Quandu sta dumanda hè stata pigliata in contu, si pò squassà a vostra ghjamba lucale `NPP_aaaammgg`
+- Quandu sta dumanda hè stata pigliata in contu da Don, u sviluppatore di Notepad++, si pò squassà a vostra ghjamba lucale `NPP_aaaammgg`
