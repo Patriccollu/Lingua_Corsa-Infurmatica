@@ -158,8 +158,7 @@ https://handbrake.fr/nightly.php
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
   
-💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’infurmazione particulare per impiegà MozBackup in lingua corsa :
-https://github.com/JasnaPaka/mozbackup/issues/5
+💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/MozBackup/Installazione.md)
 
 ## ⏳ Mozilla VPN
 https://vpn.mozilla.org/  
@@ -179,7 +178,7 @@ Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
-💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/Installazione.md)
+💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/Installazione.md)
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
