@@ -134,6 +134,12 @@ _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piatt
   
 💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Video%20DownloadHelper/Installazione.md)
 
+## ✨ VirtualMIDISynth
+https://coolsoft.altervista.org/en/virtualmidisynth  
+_Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedia Windows è chì pò esse impiegatu cum’è un apparechju classicu d’esciuta MIDI. Appughjatu nant’à a bibliuteca BASS sviluppata da un4seen, VirtualMIDISynth pò funziunà nant’à Windows XP (SP3) / Vista (SP1) / 7 (SP1) / 8.x / 10 (x86 o x64)._  
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.11.1 è quelle più recente.
+
 ## ✨ VLC for Android
 https://play.google.com/store/apps/details?id=org.videolan.vlc  
 _Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qualsisia schedariu video è audio, ma dinù i flussi è i lettori di reta, e fiure ISO di DVD, cum’è a versione di scagnu di VLC. Ghjè un lettore audio cumpletu, cù una banca di dati sana, un ugualizatore è filtri, capace di sunà tutte i furmati audio bizari. Hè cuncipitu per tutti, cumpletamente di rigalu, senza publicità, ne appiegazione à cumprà, ne spiunagiu, è hè sviluppatu da vuluntarii appassiunati. Tuttu u codice di fonte hè dispunibule di rigalu._  
@@ -166,14 +172,6 @@ _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cu
   
 ⚠️ __Fate casu__ : À st’ora, stu prugramma ùn hè micca dispunibule, nè per Francia, nè per Corsica ;-)
 
-## ⏳ VirtualMIDISynth
-https://coolsoft.altervista.org/en/virtualmidisynth  
-_Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedia Windows è chì pò esse impiegatu cum’è un apparechju classicu d’esciuta MIDI. Appughjatu nant’à a bibliuteca BASS sviluppata da un4seen, VirtualMIDISynth pò funziunà nant’à Windows XP (SP3) / Vista (SP1) / 7 (SP1) / 8.x / 10 (x86 o x64)._  
-  
-💡 __Astuzia__ : A lingua corsa serà distribuita cù a prossima versione ma si pò dighjà impiegalla cù a versione 2.11.0 grazia à u schedariu di lingua chì si pò scaricà da quì :
-https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/VirtualMIDISynth/1155.lang  
-Cliccu dirittu nant’à u buttone « _Raw_ » è « _Arregistrà a sibula di a leia sottu…_ ».
-
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
@@ -205,7 +203,7 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 https://www.wxwidgets.org/  
 _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
 
-### ✔️ [_Una lista alternativa si trova nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
+### ✔️ [_Sta lista si trova dinù nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
 
 ##
 _© Patriccollu di Santa Maria è Sichè, 2021_
