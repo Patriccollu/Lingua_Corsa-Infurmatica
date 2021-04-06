@@ -9,14 +9,14 @@ In fatti, u cartulare d’installazione di MozBackup ùn cuntene ch’__un solu 
 S’è ùn a vo sentite micca cù l’inglese, d’altre lingue, cum’è u francese, sò dispunibule è ponu esse scaricate da sta pagina per __rimpiazzà__ a lingua attuale :
     http://mozbackup.jasnapaka.com/translations.php
 
-Dunque, hè ricumandatu di __cambià u nome__ di u schedariu di a lingua attuale - _Default.lng_ - __nanzu d’installà un’altra lingua__. Per indettu, cambiatelu da _Default.lng_ ver di _Default-__EN__.lng_ s’è a lingua attuale hè l’inglese, o ver di _Default-__FR__.lng_ s’è a lingua attuale hè u francese. È cusì, s’ella ci hè bisognu, serà più faciule di rivene à a lingua d’origine.
+Dunque, hè ricumandatu di __cambià u nome__ di u schedariu di a lingua attuale - _Default.lng_ - __nanzu d’installà un’altra lingua__. Per indettu, cambiatelu da _Default.lng_ ver di _Default-__EN__.lng_ s’è a lingua attuale hè l’inglese, o ver di _Default-__FR__.lng_ s’è a lingua attuale hè u francese. È cusì, s’ella hè bisognu, serà più faciule di rivene à a lingua d’origine.
 
 ### Scaricamentu
 
 - Scaricà u schedariu di lingua corsa da sta pagina :  
   https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/MozBackup/Default.lng
 
-- Fà un cliccu dirittu nant’à u buttone `Raw` chì si trova insù è à dirittu, accant’à l’icone di a mina è di l’empiilozzu
+- Fà un cliccu dirittu nant’à u buttone `Raw` chì si trova insù è à dirittu, accant’à l’icone di u screnu, di a mina è di a curbella
 
 - Sceglie l’ozzione `Arregistrà a sibula di a leia sottu…`
 
