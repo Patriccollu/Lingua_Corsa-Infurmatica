@@ -29,4 +29,4 @@ Fate casu chì sta lingua si trova guasi à a fine di a lista di e lingue prupos
 
 ### Verificazione
 
-Si pò verificà chì a langua di st’interfaccia hè u corsu
+Si pò verificà chì a lingua di st’interfaccia hè u corsu
