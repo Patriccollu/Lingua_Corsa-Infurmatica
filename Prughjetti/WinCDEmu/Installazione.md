@@ -21,7 +21,7 @@ Cupià stu schedariu in u cartulare d’installazione di _WinCDEmu_, secondu à 
 Quandu u schedariu di lingua si trova in u sottucartulare `\langfiles\`
 - Lancià u prugramma __WinCDEmu Settings__ per fighjà o mudificà e preferenze di u prugramma
 
-![](Fiure/Preferenze di WinCDEmu.png)
+![](Fiure/Preferenze%20di%20WinCDEmu.png)
 
 - Cambià a lingua di l'interfaccia per sceglie : `Corsu`
 
@@ -33,4 +33,4 @@ Fate casu chì sta lingua si trova guasi à a fine di a lista di e lingue prupos
 - Lancià l’espluratore Windows è fà un cliccu dirittu nant’à un schedariu cù l’estensione `.iso`  
 Ci hè l’ozzione addiziunale : `Selezziunà a lettera di lettore è muntà`
 
-![](Fiure/Muntà una fiura di discu.png)
+![](Fiure/Munt%C3%A0%20una%20fiura%20di%20discu.png)
