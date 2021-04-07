@@ -27,4 +27,8 @@ Lancià _Notepad++_ è mudificà e preferenze di langua di l’interfaccia, seco
 - in inglese : `Settings` > `Preferences…` > `General` > `Localizatione` > `Corsu`
 - in talianu : `Configurazione` > `Preferenze…` > `Generale` > `Lingua` > `Corsu`
 
-Avà, l’interfaccia di Notepad++ hè in lingua corsa
+### Verificazione
+
+Si pò vede chì a lingua di st’interfaccia hè u corsu  
+
+<img src = "Fiure/Preferenze%20di%20Notepad%2B%2B.png">
