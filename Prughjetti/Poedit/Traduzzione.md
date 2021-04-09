@@ -1,7 +1,7 @@
 # A traduzzione in lingua corsa di _Poedit_
 
 ## Distribuzione
-- A prima traduzzione in corsu hè stata distribuita cù a version 1.5.5 di marzu di u 2013
+- A prima traduzzione in corsu hè stata distribuita cù a versione 1.5.5 di marzu di u 2013
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
