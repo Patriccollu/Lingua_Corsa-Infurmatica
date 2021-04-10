@@ -15,3 +15,7 @@ Tutti sti siti sò di lingua inglese.
 - [A pagina d’accolta di a squadra corsa nant’à Pontoon](https://pontoon.mozilla.org/co/info/)
 
 - [A pagina nant’à Pontoon di i prughjetti Mozilla in lingua corsa](https://pontoon.mozilla.org/co/)
+
+Eccu una fiura di sta pagina :  
+
+<img src = "Fiure/Pontoon%20-%20Prughjetti%20Mozilla%20in%20lingua%20corsa.png">
