@@ -14,9 +14,9 @@ Dunque, hè ricumandatu di __cambià u nome__ di u schedariu di a lingua attuale
 ### Scaricamentu
 
 - Scaricà u schedariu di lingua corsa da sta pagina :  
-  https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/MozBackup/Default.lng
+  https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Default.lng
 
-- Fà un cliccu dirittu nant’à u buttone `Raw` chì si trova insù è à dirittu, accant’à l’icone di u screnu, di a mina è di a curbella
+- Fà un cliccu dirittu nant’à u buttone `Raw` chì si trova insù è à dirittu, accant’à l’icone di u screnu, di a mina è di a curbella.
 
 - Sceglie l’ozzione `Arregistrà a sibula di a leia sottu…`
 
@@ -25,3 +25,8 @@ Dunque, hè ricumandatu di __cambià u nome__ di u schedariu di a lingua attuale
 - Cupià u schedariu ver di u cartulare d’installazione di MozBackup
 
 Avà, l’interfaccia di _MozBackup_ hè in lingua corsa.
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
