@@ -4,6 +4,7 @@
 - A prima traduzzione in corsu hè stata distribuita cù a version 6.9.2 di settembre di u 2016
 - U stallatore NSIS hè statu distribuitu cù a versione 7.3.3 di maghju di u 2017
 - Una [cronolugia di tutte e dumande di mudificazione](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican) si trova nant’à GitHub
+
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
 
@@ -118,3 +119,8 @@ cù a vostra versione creata pocu fà :
   - Si pò aghjunghje un cummentu, per indettu per spiegà chì st'ultima mudificazione era per traduce una mudificazione recente di u schedariu di fonte in inglese
   - Tandu si facenu parechji cuntrolli in _GitHub_ grazia à a funzione _appveyor_ è si pò vede cù un circulu ghjallu chì serà rimpiazzatu cù u segnu ✔️ quandu i cuntrolli seranu compii
 - Quandu sta dumanda hè stata pigliata in contu da Don, u sviluppatore di Notepad++, si pò squassà a vostra ghjamba lucale `NPP_aaaammgg`
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
