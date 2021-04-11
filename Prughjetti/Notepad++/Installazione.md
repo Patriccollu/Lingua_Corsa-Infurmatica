@@ -32,3 +32,8 @@ Lancià _Notepad++_ è mudificà e preferenze di langua di l’interfaccia, seco
 Si pò vede chì a lingua di st’interfaccia hè u corsu  
 
 <img src = "Fiure/Preferenze%20di%20Notepad%2B%2B.png">
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
