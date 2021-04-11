@@ -4,14 +4,19 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [__Cunversione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Cunversione.md)
+### [__Cunversione__](Cunversione.md)
 L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da OmegaT
-### [__Installazione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Installazione.md)  
+### [__Installazione__](Installazione.md)  
 L’istruzzioni per installà l’interfaccia in lingua corsa
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa
-### [__Traduzzione__](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Traduzzione.md)
+### [__Traduzzione__](Traduzzione.md)
 L’istruzzioni per traduce l’interfaccia in lingua corsa
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
 
 ## Eccu d’altri liami ghjuvevule
 Tutti sti siti sò di lingua inglese.
