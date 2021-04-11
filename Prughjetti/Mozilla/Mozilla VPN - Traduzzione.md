@@ -49,17 +49,19 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 ## Cumu fà a traduzzione ?
 
 ### In linea
+- Si pò impiegà stu metoda quandu ci hè poca affare à traduce.
 - A traduzzione si face direttamente in linea nant’à u situ _Pontoon_ :
   - per [_Mozilla VPN Client_](https://pontoon.mozilla.org/co/mozilla-vpn-client/mozillavpn.xliff/)
   - per [_Mozilla VPN Website_](https://pontoon.mozilla.org/co/mozilla-vpn-website/vpn.ftl/)
-- L’appiecazione _Pontoon_ hè capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi pruponele per aiutavvi à traduce. Di più, si pò dinù fighjà a traduzzione pruposta da d’altre lingue, cum’è u francese o u talianu. Toccu à voi di selezziunà e lingue chì vi piacenu.
+- L’appiecazione _Pontoon_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele per aiutavvi à traduce. Di più, si pò dinù fighjà a traduzzione pruposta da d’altre lingue, cum’è u francese o u talianu. Toccu à voi di selezziunà e lingue chì vi piacenu in e preferenze di _Pontoon_.
 
 ### In lucale
+- Stu metoda hè piuttostu ricumandatu quandu ci hè assai catene à traduce.
 - Ci vole à impiegà _Pontoon_ per espurtà (_Download Translations_) i schedarii di lingua à traduce
 - A traduzzione si face nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à tutte e vostre traduzzioni, qualsissia i furmati di i schedarii di traduzzione
-- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci (_Upload Translations_) i schedarii di traduzzione
+- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci (_Upload Translations_) i schedarii di traduzzione.
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
 - [Rivene à a lista di tutti i prughjetti](../)
-- [Rivene à a lista di tutti i prugrammi](../../../#readme)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
