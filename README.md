@@ -88,7 +88,7 @@ _Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3 è ID3v2.4. Grazia à u 
 https://notepad-plus-plus.org/  
 _Mudificatore di codice chì piglia in contu parechji linguaghji di prugrammazione. Stu prugramma, scrittu in C++ cù STL è l’API win32, hè statu fattu per pruvede un mezu, di chjuca dimensione ma assai putente, per mudificà u codice surghjente. Uptimizeghja parechje funzioni da una manera piacevule ciò chì face ch’ellu cuntribuisce à a limitazione di u CO2 in u mondu sanu ! In fatti, cum’ellu riduce l’impiegu di a CPU, a cunsumazione di l’urdinatori si ne trova ridutta è in fine di contu... a pianeta hè più bella è più verde ;-)_  
   
-💡 __Astuzia__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Installazione.md)
+💡 __Astuzia__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Notepad%2B%2B/Installazione.md)
 
 ## ✨ NSIS: Nullsoft Scriptable Install System
 https://nsis.sourceforge.io/MainPage  
@@ -132,7 +132,7 @@ _Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quand
 
 _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video ffmpeg._  
   
-💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Video%20DownloadHelper/Installazione.md)
+💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md)
 
 ## ✨ VirtualMIDISynth
 https://coolsoft.altervista.org/en/virtualmidisynth  
@@ -164,7 +164,7 @@ https://handbrake.fr/nightly.php
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
   
-💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/MozBackup/Installazione.md)
+💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md)
 
 ## ⏳ Mozilla VPN
 https://vpn.mozilla.org/  
@@ -176,7 +176,7 @@ _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
-💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/WinCDEmu/Installazione.md)
+💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md)
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
