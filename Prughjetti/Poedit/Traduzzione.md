@@ -55,4 +55,9 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
-Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impurtallu in _Crowdin_.  
+Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impurtallu in _Crowdin_.
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
