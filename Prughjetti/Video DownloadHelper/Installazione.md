@@ -10,8 +10,8 @@ In fatti, ùn ci hè nisuna ozzione in _Video DownloadHelper_ per sceglie a ling
 
 Scaricà u schedariu chì cuntene a lingua corsa di l’interfaccia
 - Andà à st’indirizzu :  
-https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Video%20DownloadHelper/Corsican%20messages.json
-- Fà un cliccu dirittu nant’à u buttone « _Raw_ » chì si trova insù è à dirittu, accant’à l’icone di a mina è di l’empiilozzu
+https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Corsican%20messages.json
+- Fà un cliccu dirittu nant’à u buttone « _Raw_ » chì si trova insù è à dirittu, accant’à l’icone di u screnu, di a mina è di a curbella.
 - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
 
 ### Installazione
@@ -27,3 +27,8 @@ Lancià _Video DownloadHelper_ è impurtà u schedariu di sta manera
 - Fà un cliccu nant’à u buttone `Save`
 
 Avà, l’interfaccia di _Video DownloadHelper_ hè in lingua corsa.
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
