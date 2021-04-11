@@ -45,8 +45,8 @@ Ma pocu à pocu, trà duie versione d’_Audacity_, a versione di sviluppu cambi
 
 ## Cumu fà a traduzzione ?
 - Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione.
-- Ma si pò quantunque impiegà _Transifex_ per fà què. St’appiecazione hè capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
-- In tutti i casi, hè ricumandatu d’impiegà _OmegaT_ per fà què. In più di e funzioni di _Transifex_ indicate insù, _OmegaT_ hè un prugramma installatu nant’à u vostru urdinatore chì cunnosce tutte e vostre traduzzioni.
+- Dunque, hè ricumandatu d’impiegà _OmegaT_ per traduce. Stu prugramma hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. È cusì, hè capace di truvà e catene uguale o simile è di pruponele per aiutavvi à traduce.
+- Ma si pò quantunque impiegà _Transifex_ per fà a traduzzione. St’appiecazione hà dinù una memoria di traduzzione, più chjuca, perchè cuntene solu e traduzzioni di u prughjettu _Audacity_.
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
