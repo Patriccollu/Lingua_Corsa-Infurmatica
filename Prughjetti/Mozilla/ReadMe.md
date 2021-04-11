@@ -9,6 +9,11 @@ A memoria di traduzzione di l’interfaccia in lingua corsa
 ### [__Mozilla VPN - Traduzzione__](Mozilla%20VPN%20-%20Traduzzione.md)
 L’istruzzioni per traduce in lingua corsa l’interfaccia di Mozilla VPN è u so situ Web
 
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
+
 ## Eccu d’altri liami ghjuvevule
 Tutti sti siti sò di lingua inglese.
 
