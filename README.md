@@ -132,7 +132,7 @@ _Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quand
 
 _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video ffmpeg._  
   
-💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md)
+💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md)
 
 ## ✨ VirtualMIDISynth
 https://coolsoft.altervista.org/en/virtualmidisynth  
@@ -176,7 +176,7 @@ _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
-💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni chì si trovanu quì.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md)
+💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md)
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
