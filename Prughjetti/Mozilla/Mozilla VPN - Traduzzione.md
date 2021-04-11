@@ -59,6 +59,7 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 - A traduzzione si face nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à tutte e vostre traduzzioni, qualsissia i furmati di i schedarii di traduzzione
 - Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci (_Upload Translations_) i schedarii di traduzzione
 
-#### Liami di navigazione
-- [Rivene à a lista di i membri di u prughjettu Mozilla](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/tree/master/Prughjetti/Mozilla) 
-- [Rivene à a lista di tutti i prughjetti](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/tree/master/Prughjetti)
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../#readme)
