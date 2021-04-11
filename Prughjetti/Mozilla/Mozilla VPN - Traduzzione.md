@@ -58,7 +58,7 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 ### In lucale
 - Stu metoda hè piuttostu ricumandatu quandu ci hè assai catene à traduce.
 - Ci vole à impiegà _Pontoon_ per espurtà (_Download Translations_) i schedarii di lingua à traduce
-- A traduzzione si face nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à tutte e vostre traduzzioni, qualsissia i furmati di i schedarii di traduzzione
+- Si pò fà a traduzzione nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
 - Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci (_Upload Translations_) i schedarii di traduzzione.
 
 #### Liami di navigazione nant’à stu situ
