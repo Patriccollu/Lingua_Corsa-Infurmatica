@@ -152,3 +152,8 @@ Ste linee ponu esse arregistrate in un schedariu cù l’estensione `.lng` chì 
 - Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
  
 - Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad++__ in _OmegaT_.
+
+#### Liami di navigazione nant’à stu situ
+- [Rivene à a lista di i membri di stu prughjettu](./)
+- [Rivene à a lista di tutti i prughjetti](../)
+- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
