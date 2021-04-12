@@ -63,5 +63,6 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
-- [Rivene à a lista di tutti i prughjetti](../)
-- [Rivene à a lista di tutti i prugrammi](../../../../#readme)
+- [Rivene à a lista di i membri di i prughjetti Mozilla](../)
+- [Rivene à a lista di tutti i prughjetti](../../)
+- [Rivene à a lista di tutti i prugrammi](../../../../../#readme)
