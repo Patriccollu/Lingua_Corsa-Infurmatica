@@ -35,6 +35,8 @@ U dipositu di tutte __a fonte__ di _Firefox for iOS_ si trova nant’à _GitHub_
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
 - À ogni mumentu, a squadra di sviluppu di _Firefox for iOS_ pò mudificà e catene di fonte nant’à _Pontoon_ aghjunghjendu catene nove è mudifichendu o squassendu catene anziane. In stu casu, si vede un avertimentu nant’à _Pontoon_ cù un’icona di campana 🔔 di culore rossu? È cù un cliccu nant’à sta campana, si pò fighjà tutti i messaghji d’avertimentu.
+- Si pò fighjà e catene chì fermanu à traduce à sta pagina :  
+  https://pontoon.mozilla.org/co/firefox-for-ios/all-resources/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
 - Hè ricumandatu dinù di scrivessi à a lista di distribuzione [mozilla.dev.l10n](https://groups.google.com/forum/#!forum/mozilla.dev.l10n) per riceve infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
 
