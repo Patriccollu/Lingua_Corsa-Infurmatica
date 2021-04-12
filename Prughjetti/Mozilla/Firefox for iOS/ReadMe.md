@@ -6,7 +6,7 @@ St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa
-### [__Firefox for iOS - Traduzzione__](Traduzzione.md)
+### [__Traduzzione__](Traduzzione.md)
 L’istruzzioni per traduce in lingua corsa l’interfaccia di Firefox for iOS
 
 #### Liami di navigazione nant’à stu situ
@@ -18,8 +18,10 @@ L’istruzzioni per traduce in lingua corsa l’interfaccia di Firefox for iOS
 ## Eccu d’altri liami ghjuvevule
 Tutti sti siti sò di lingua inglese.
 
-- [A pagina d’accolta di a squadra corsa nant’à Pontoon](https://pontoon.mozilla.org/co/info/)
+- [A pagina d’accolta di a squadra corsa ind’è Mozilla](https://pontoon.mozilla.org/co/info/)
 
-- [A pagina nant’à Pontoon di i prughjetti Mozilla in lingua corsa](https://pontoon.mozilla.org/co/)
+- [A pagina di traduzzione in lingua corsa di tutti i prughjetti Mozilla](https://pontoon.mozilla.org/co/)
 
-- [A pagina nant’à Pontoon di u prughjettu Firefox for iOS in lingua corsa](https://pontoon.mozilla.org/co/firefox-for-ios/)
+- [A pagina di traduzzione in lingua corsa di u prughjettu _Firefox for iOS_](https://pontoon.mozilla.org/co/firefox-for-ios/)
+
+- [A pagina di tutte e lingue dispunibule per _Firefox for iOS_](https://pontoon.mozilla.org/projects/firefox-for-ios/)
