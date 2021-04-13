@@ -42,8 +42,8 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
-- À ogni mumentu, a squadra di sviluppu di _Mozilla VPN_ pò mudificà e catene di fonte nant’à _Pontoon_ aghjunghjendu catene nove è mudifichendu o squassendu catene anziane. In stu casu, si vede un avertimentu nant’à _Pontoon_ cù un’icona di campana 🔔 di culore rossu? È cù un cliccu nant’à sta campana, si pò fighjà tutti i messaghji d’avertimentu.
-- Si pò fighjà e catene chì fermanu à traduce à ste pagine :  
+- À ogni mumentu, a squadra di sviluppu di _Mozilla VPN_ pò mudificà e catene di fonte nant’à _Pontoon_ aghjunghjendu catene nove è mudifichendu o squassendu catene anziane. In stu casu, si vede un avertimentu nant’à _Pontoon_ cù un’icona di campana 🔔 di culore rossu accant’à a vostra icona d’utilizatore. È cù un cliccu nant’à sta campana, si pò fighjà tutti i messaghji d’avertimentu.
+- Si pò fighjà e catene chì fermanu à traduce nant’à ste pagine :  
   - https://pontoon.mozilla.org/co/mozilla-vpn-client/all-resources/?status=missing
   - https://pontoon.mozilla.org/co/mozilla-vpn-website/all-resources/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
@@ -52,17 +52,18 @@ U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitH
 ## Cumu fà a traduzzione ?
 
 ### In linea
-- Si pò impiegà stu metoda quandu ci hè poca affare à traduce.
+- Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
 - A traduzzione si face direttamente in linea nant’à u situ _Pontoon_ :
   - per [_Mozilla VPN Client_](https://pontoon.mozilla.org/co/mozilla-vpn-client/mozillavpn.xliff/)
   - per [_Mozilla VPN Website_](https://pontoon.mozilla.org/co/mozilla-vpn-website/vpn.ftl/)
 - L’appiecazione _Pontoon_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele per aiutavvi à traduce. Di più, si pò dinù fighjà a traduzzione pruposta da d’altre lingue, cum’è u francese o u talianu. Toccu à voi di selezziunà e lingue chì vi piacenu in e preferenze di _Pontoon_.
 
 ### In lucale
-- Stu metoda hè piuttostu ricumandatu quandu ci hè assai catene à traduce.
-- Ci vole à impiegà _Pontoon_ per espurtà (_Download Translations_) i schedarii di lingua à traduce
-- Si pò fà a traduzzione nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
-- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci (_Upload Translations_) i schedarii di traduzzione.
+- Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
+- Ùn ci vole micca à impiegà _Pontoon_ per espurtà i schedarii di lingua à traduce (>_Download Translations_) perchè st’azzione scaricheghja quelli in lingua corsa.
+- Ci vole à scaricà i schedarii in lingua inglese è appruntalli per _OmegaT_. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+- Tandu, si pò fà a traduzzione nant’à u vostru urdinatore cù st’appiecazione chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, st’appiecazione hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
+- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci i schedarii di traduzzione (>_Upload Translations_).
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
