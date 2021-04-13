@@ -29,3 +29,7 @@ Tutti sti siti sò di lingua inglese.
 - [A pagina di traduzzione in lingua corsa di u prughjettu _Firefox for iOS_](https://pontoon.mozilla.org/co/firefox-for-ios/)
 
 - [A pagina di tutte e lingue dispunibule per _Firefox for iOS_](https://pontoon.mozilla.org/projects/firefox-for-ios/)
+
+- [A ducumentazione di Mozilla nant’à a lucalizazione di _Firefox for iOS_](https://mozilla-l10n.github.io/localizer-documentation/products/firefox_ios/)
+
+- [Una pagina induve si pò scaricà un schedariu `co.zip` chì cuntene tutti i screni di l’ultima versione di l’appiecazione _Firefox for iOS_ nant’à un telefunu.](https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.firefox-ios.l10n-screenshots.latest)
