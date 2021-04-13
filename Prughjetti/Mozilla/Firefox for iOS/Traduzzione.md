@@ -56,7 +56,7 @@ Per aiutavvi, eccu una pagina induve si pò scaricà un schedariu `co.zip` chì 
 - Ùn ci vole micca à impiegà _Pontoon_ per espurtà u schedariu di lingua à traduce (>_Download Translations_) perchè st’azzione scaricheghja quellu in lingua corsa.
 - Ci vole à scaricà u schedariu in lingua inglese è appruntallu per _OmegaT_. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 - Tandu, si pò fà a traduzzione nant’à u vostru urdinatore cù st’appiecazione chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, st’appiecazione hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
-- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci i schedarii di traduzzione (>_Upload Translations_).
+- Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci u schedariu di traduzzione (>_Upload Translations_).
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
