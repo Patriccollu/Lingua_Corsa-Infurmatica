@@ -5,9 +5,13 @@
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa
+A memoria di traduzzione di l’interfaccia in lingua corsa di _Firefox for iOS_
+
+### [__OmegaT__](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Firefox for iOS_
+
 ### [__Traduzzione__](Traduzzione.md)
-L’istruzzioni per traduce in lingua corsa l’interfaccia di Firefox for iOS
+L’infurmazione nant’à a traduzzione in lingua corsa di _Firefox for iOS_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
