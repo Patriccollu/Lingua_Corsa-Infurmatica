@@ -23,6 +23,8 @@
 
 - U furmatu di i schedarii : `.xml`
 - À st’ora, schedarii, ci n’hè 30, tutti cù u nome `strings.xml` ognunu in u so sottucartulare
+- A lista di i nomi di tutti sti schedarii si trova in u membru [OmegaT](OmegaT.md).
+- Ci hè dinù una prucedura per scaricalli tutti. Per sapene di più, fighjate u membru [OmegaT](OmegaT.md).
 - E fonte d’origine in inglese si trovanu in sottucartulari chjamati `/values/`
 - I schedarii in lingua corsa si trovanu in sottucartulari chjamati `/values-co/`
 - Per indettu, quelli di Fenix si trovanu quì :  
