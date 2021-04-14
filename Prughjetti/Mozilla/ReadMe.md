@@ -7,7 +7,7 @@ Basta à cliccà nant’à u nome per fighjà l’infurmazione di u prughjettu.
 
 ### [Common Voice](Common%20Voice#readme)
 
-### [Firefox for Android](Firefox%20for%20iOS#readme)
+### [Firefox for Android](Firefox%20for%20Android#readme)
 
 ### [Firefox for iOS](Firefox%20for%20iOS#readme)
 
