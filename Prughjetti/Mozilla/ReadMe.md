@@ -1,15 +1,17 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per i prughjetti _Mozilla_
+## Stu cartulare vi permette di sceglie un prughjettu _Mozilla_
+Ci hè un sottucartulare per ogni prughjettu di traduzzione _Mozilla_.  
+  
+Basta à cliccà nant’à u nome per fighjà l’infurmazione di u prughjettu.
 
-St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
+### [Common Voice](Common%20Voice#readme)
 
-### __Memoria__
-A memoria di traduzzione in lingua corsa di tutti i prughjetti Mozilla
-### [__Firefox for iOS - Traduzzione__](Firefox%20for%20iOS/Traduzzione.md)
-L’istruzzioni per traduce in lingua corsa l’interfaccia di Mozilla VPN è u so situ Web
-### [__Mozilla VPN - Traduzzione__](Mozilla%20VPN/Traduzzione.md)
-L’istruzzioni per traduce in lingua corsa l’interfaccia di Mozilla VPN è u so situ Web
+### [Firefox for Android](Firefox%20for%20iOS#readme)
+
+### [Firefox for iOS](Firefox%20for%20iOS#readme)
+
+### [Mozilla VPN](Mozilla%20VPN#readme)
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di i prughjetti Mozilla](./)
