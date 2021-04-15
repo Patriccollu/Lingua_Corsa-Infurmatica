@@ -36,8 +36,8 @@ U dipositu di tutte __a fonte__ di _Firefox for Android_ si trova nant’à _Git
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
-- À ogni mumentu, a squadra di sviluppu di _Firefox for Android_ pò mudificà e catene di fonte nant’à _Pontoon_ aghjunghjendu catene nove è mudifichendu o squassendu catene anziane. In stu casu, si vede un avertimentu nant’à _Pontoon_ cù un’icona di campana 🔔 di culore rossu? È cù un cliccu nant’à sta campana, si pò fighjà tutti i messaghji d’avertimentu.
-- Si pò fighjà e catene chì fermanu à traduce à sta pagina :  
+- À ogni mumentu, a squadra di sviluppu di _Firefox for Android_ pò mudificà e catene di fonte nant’à _Pontoon_ aghjunghjendu catene nove è mudifichendu o squassendu catene anziane. In stu casu, si vede un avertimentu nant’à _Pontoon_, insù è à dirittu, cù un’icona di campana 🔔 di culore rossu accant’à a vostra icona d’utilizatore. È cù un cliccu nant’à sta campana, si pò fighjà tutti i messaghji d’avertimentu.
+- Si pò fighjà e catene chì fermanu à traduce nant’à sta pagina :  
   https://pontoon.mozilla.org/co/firefox-for-android/all-resources/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
 - Hè ricumandatu dinù di scrivessi à a lista di distribuzione [mozilla.dev.l10n](https://groups.google.com/forum/#!forum/mozilla.dev.l10n) per riceve infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
@@ -52,8 +52,9 @@ U dipositu di tutte __a fonte__ di _Firefox for Android_ si trova nant’à _Git
 
 ### In lucale
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
-- Ci vole à impiegà _Pontoon_ per espurtà i schedarii di lingua à traduce (>_Download Translations_).
-- Si pò fà a traduzzione nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
+- Ùn ci vole micca à impiegà _Pontoon_ per espurtà i schedarii di lingua à traduce (>_Download Translations_) perchè st’azzione scaricheghja quelli in lingua corsa.
+- Ci vole à scaricà i schedarii in lingua inglese è appruntalli per _OmegaT_. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+- Tandu, si pò fà a traduzzione nant’à u vostru urdinatore cù st’appiecazione chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Pontoon_, st’appiecazione hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
 - Dopu a traduzzione, ci vole à impiegà _Pontoon_ per impurtacci i schedarii di traduzzione (>_Upload Translations_).
 
 #### Liami di navigazione nant’à stu situ
