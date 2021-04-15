@@ -4,17 +4,17 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [__OmegaT__](OmegaT.md)
-L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Firefox for Android_
-
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa di _Firefox for Android_
 
-### [__Traduzzione__](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di _Firefox for Android_
+### [OmegaT](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Firefox for Android_
 
-### [__Schedarii in inglese.ps1__](Schedarii%20in%20inglese.ps1)
+### [Schedarii in inglese.ps1](Schedarii%20in%20inglese.ps1)
 Parte d’una prucedura per scaricà tutti i schedarii in inglese di _Firefox for Android_
+
+### [Traduzzione](Traduzzione.md)
+L’infurmazione nant’à a traduzzione in lingua corsa di _Firefox for Android_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
