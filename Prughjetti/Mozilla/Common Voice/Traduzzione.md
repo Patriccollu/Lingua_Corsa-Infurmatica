@@ -3,10 +3,12 @@
 ## Distribuzione
 
 - A prima traduzzione in lingua corsa hè principiata di settembre di u 2020
-- Una cronolugia di tutte e mudificazioni si trova nant’à .....
+- Una cronolugia di tutte e mudificazioni si trova nant’à GitHub :  
+    - [cross-locale.ftl](https://github.com/common-voice/common-voice/commits/main/web/locales/co/cross-locale.ftl)
+    - [messages.ftl](https://github.com/common-voice/common-voice/commits/main/web/locales/co/messages.ftl)
 
 ## Traduttore
-- Orsu, Seb, Paulucciu
+- Orsu, Patriccollu di Santa Maria è Sichè, Paulucciu, Seb
 
 ## Pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla
 - https://pontoon.mozilla.org/co/
@@ -30,11 +32,11 @@
 
 - U furmatu di i schedarii : `.ftl`
 - E fonte d’origine in inglese sò :  
-    - cross-locale.ftl
-    - messages.ftl
+    - [cross-locale.ftl](https://github.com/common-voice/common-voice/blob/main/web/locales/en/cross-locale.ftl)
+    - [messages.ftl](https://github.com/common-voice/common-voice/blob/main/web/locales/en/messages.ftl)
 
 U dipositu di tutte __e lingue__ di _Common Voice_ si trova nant’à _GitHub_ :  
-   https:
+   https://github.com/common-voice/common-voice/tree/main/web/locales
 
 U dipositu di tutte __a fonte__ di _Common Voice_ si trova nant’à _GitHub_ :  
    https://github.com/common-voice/common-voice
