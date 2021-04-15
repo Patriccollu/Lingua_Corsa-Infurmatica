@@ -35,10 +35,10 @@
     - [cross-locale.ftl](https://github.com/common-voice/common-voice/blob/main/web/locales/en/cross-locale.ftl)
     - [messages.ftl](https://github.com/common-voice/common-voice/blob/main/web/locales/en/messages.ftl)
 
-U dipositu di tutte __e lingue__ di _Common Voice_ si trova nant’à _GitHub_ :  
+U dipositu di tutte __e lingue tradutte__ di _Common Voice_ si trova nant’à _GitHub_ :  
    https://github.com/common-voice/common-voice/tree/main/web/locales
 
-U dipositu di tutte __a fonte__ di _Common Voice_ si trova nant’à _GitHub_ :  
+U dipositu di tutta __a fonte__ di _Common Voice_ si trova nant’à _GitHub_ :  
    https://github.com/common-voice/common-voice
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
