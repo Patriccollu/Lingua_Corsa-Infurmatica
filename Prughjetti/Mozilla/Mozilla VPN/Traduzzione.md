@@ -34,10 +34,10 @@ I dui prughjetti sò _Mozilla VPN Client_ è _Mozilla VPN Website_
   - [Mozilla VPN Client](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/co/mozillavpn.xliff)
   - [Mozilla VPN Website](https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/co/vpn.ftl)
 
-U dipositu di tutte __e lingue__ di _Mozilla VPN Client_ si trova nant’à _GitHub_ :  
+U dipositu di tutte __e lingue tradutte__ di _Mozilla VPN Client_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-l10n/mozilla-vpn-client-l10n
 
-U dipositu di tutte __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitHub_ :  
+U dipositu di tutta __a fonte__ di _Mozilla VPN Client_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-mobile/mozilla-vpn-client
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
