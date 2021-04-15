@@ -4,11 +4,11 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [OmegaT](OmegaT.md)
-L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Common Voice_
-
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa di _Common Voice_
+
+### [OmegaT](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Common Voice_
 
 ### [Traduzzione](Traduzzione.md)
 L’infurmazione nant’à a traduzzione in lingua corsa di _Common Voice_
