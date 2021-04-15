@@ -4,11 +4,11 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [OmegaT](OmegaT.md)
-L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Mozilla VPN_
-
 ### __Memoria__
 A memoria di traduzzione di l’interfaccia in lingua corsa di _Mozilla VPN_
+
+### [OmegaT](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Mozilla VPN_
 
 ### [Traduzzione](Traduzzione.md)
 L’infurmazione nant’à a traduzzione in lingua corsa di l’appiecazione _Mozilla VPN_ è di u so situ web
