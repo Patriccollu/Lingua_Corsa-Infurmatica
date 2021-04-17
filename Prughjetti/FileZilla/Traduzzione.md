@@ -27,7 +27,7 @@
 U dipositu di tutte __e lingue__ di _FileZilla_ si trova nant’à u so situ Web :  
    https://filezilla-project.org/translations.php
 
-U dipositu di tutta __a fonte__ di _FileZilla_ si trova nant’à un cartulare _Subversion_ :  
+U dipositu di tutta __a fonte__ di _FileZilla_ si trova nant’à un dipositu _Subversion_ :  
    https://svn.filezilla-project.org/svn/FileZilla3
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
@@ -51,6 +51,13 @@ A traduzzione ùn si pò micca fà in linea. A sola manera hè di traduce in luc
 ### Cù _OmegaT_
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
 - Seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+
+## Cumu verificà a traduzzione ?
+
+- U cuntrollu di a sintassa di u vostru schedariu `.po` si face [via a pagina di e traduzzioni](https://filezilla-project.org/translations.php)
+- Nant’à sta pagina, dopu à _Compile this file:_, cliccà nant’à u buttone `Parcourir…`
+- Selezziunà u vostru schedariu di lingua corsa
+- Tandu cliccà nant’à u buttone `Compile` è verificà chì ùn ci hè micca di messaghju di sbagliu
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
