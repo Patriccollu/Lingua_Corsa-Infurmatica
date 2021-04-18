@@ -39,7 +39,7 @@ U dipositu di tutta __a fonte__ di _FileZilla_ si trova nant’à un dipositu _S
 
 A traduzzione ùn si pò micca fà in linea. A sola manera hè di traduce in lucale, cù _Poedit_ o _OmegaT_.
 
-### Cù _Poedit_
+### Traduce cù _Poedit_
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
 - Scaricà u [schedariu di lingua corsa](https://filezilla-project.org/locales/co.po) `co.po`
 - Lancià _Poedit_
@@ -48,7 +48,7 @@ A traduzzione ùn si pò micca fà in linea. A sola manera hè di traduce in luc
 - Traduce in lingua corsa e catene di lingua inglese chì ùn sò ancu tradutte
 - Verificà a sintassa cù l’ozzione `Catalogu` eppò `Validà e traduzzioni`
 
-### Cù _OmegaT_
+### Traduce cù _OmegaT_
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
 - Seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 
@@ -61,4 +61,4 @@ A traduzzione ùn si pò micca fà in linea. A sola manera hè di traduce in luc
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
-Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à mandà un messaghju elettronicu à st’indirizzu `tim.kosse@filezilla-project.org` è ligà u schedariu di lingua corsa `co.po`.
+Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à mandà un messaghju elettronicu à u [sviluppatore di _FileZilla_](mailto:tim.kosse@filezilla-project.org) è aghjunghje u schedariu di lingua corsa `co.po` à u vostru inviu.
