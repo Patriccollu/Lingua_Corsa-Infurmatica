@@ -45,4 +45,4 @@ Ci vole à creà un schedariu `.po` viotu da u mudellu in inglese (.POT)
 
 ## Incaricamentu di i schedarii di lingua corsa
 
-Ci vole à mandà u vostru schedariu di lingua corsa da un messaghju elettronicu perchè ùn ci hè alcuna azzione in linea per incaricallu.
+Ci vole à mandà u vostru schedariu di lingua corsa da un messaghju elettronicu perchè ùn ci hè alcuna azzione in linea per incaricallu. [Cliccà quì per sapene di più nant’à st’azzione](Traduzzione.md#istruzzioni-per-pigli%C3%A0-in-contu-u-novu-schedariu-di-lingua-corsa).
