@@ -4,14 +4,23 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [__Cunversione__](Cunversione.md)
+### [Installazione](Installazione.md)  
+L’istruzzioni per installà l’interfaccia in lingua corsa di _Notepad++_
+
+### [Listinu cuntestuale](Listinu%20cuntestuale.md)
+L’istruzzioni per installà u listinu cuntestuale in lingua corsa di _Notepad++_
+
+### [contextMenu.xml](contextMenu.xml)  
+U listinu cuntestuale in lingua corsa di _Notepad++_
+
+### [Traduzzione](Traduzzione.md)
+L’istruzzioni per traduce l’interfaccia in lingua corsa di _Notepad++_
+
+### [Cunversione](Cunversione.md)
 L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da OmegaT
-### [__Installazione__](Installazione.md)  
-L’istruzzioni per installà l’interfaccia in lingua corsa
+
 ### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa
-### [__Traduzzione__](Traduzzione.md)
-L’istruzzioni per traduce l’interfaccia in lingua corsa
+A memoria di traduzzione di l’interfaccia in lingua corsa di _Notepad++_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
