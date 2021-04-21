@@ -28,7 +28,9 @@ Si pò verificà chì u listinu cuntestuale di l’interfaccia di _Notepad++_ h�
 - Lancià _Notepad++_
 - In un novu ducumentu, fà un cliccu drittu in l’aghja di u testu
 - Tandu ci hè un listinu chì s’affissa cù parechje ozzioni cum’è : `Taglià`, `Cupià`, `Incullà`, `Squassà`, …
-- Tutte l’ozzioni devenu esse tradutte in lingua corsa
+- __Tutte l’ozzioni devenu esse tradutte in lingua corsa__
+
+<img src = "Fiure/Listinu%20cuntestuale.png">
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
