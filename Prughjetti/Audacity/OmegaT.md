@@ -39,7 +39,9 @@ Ci hè dinù una __manera alternativa__ di creà un schedariu `.po` viotu impieg
   - `Squadra di traduzzione`
   - `Forme plurale` > `Impiegà un espressione predefinita` > __nplurals=2; plural=(n > 1);__
 - Arregistrà u schedariu cù u nome : `Audacity.po`
-  
+
+Sta manera alternativa pò dinù esse impiegata cusì per trasfurmà un altru schedariu di lingua - qualchissia a so lingua di destinazione, per indettu `fr.po` - in un novu schedariu viotu.
+
 ## Copia di u schedariu di lingua inglese
 
 - Cupià o dispiazzà stu schedariu `Audacity.po` in u cartulare `source` di u prughjettu _Audacity_ in _OmegaT_.
