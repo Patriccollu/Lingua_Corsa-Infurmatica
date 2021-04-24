@@ -5,7 +5,7 @@
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### [Traduzzione](Traduzzione.md)
-L’istruzzioni per traduce l’interfaccia in lingua corsa
+L’istruzzioni per traduce l’interfaccia in lingua corsa d’_Audacity_
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Audacity_
