@@ -4,14 +4,14 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### __Cunversione__
-L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da OmegaT
-### __Installazione__  
-L’istruzzioni per installà l’interfaccia in lingua corsa
-### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa
-### [__Traduzzione__](Traduzzione.md)
+### [Traduzzione](Traduzzione.md)
 L’istruzzioni per traduce l’interfaccia in lingua corsa
+
+### [OmegaT](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Audacity_
+
+### [Memoria](Memoria.zip)
+A memoria di traduzzione di l’interfaccia in lingua corsa d’_Audacity_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
