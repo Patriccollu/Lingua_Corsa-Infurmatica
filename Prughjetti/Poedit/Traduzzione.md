@@ -68,9 +68,15 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - A traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_ chì sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
 - A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
-- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata quandu _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
+- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 - Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Crowdin_ per espurtà u schedariu di lingua corsa cù l’azzione `File` > `Download`.
+- Eppò lancià _Poedit_
+  - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
+  - Selezziunà u schedariu `.po` scaricatu da _Crowdin_
+  - Selezziunà l’ozzione `Affissà` eppò `Elementi micca tradutti in primu`
+  - Traduce e catene senza traduzzione
+  - Arregistrà u schedariu cù u listessu nome
 - Dopu a traduzzione, ci vole torna à impiegà _Crowdin_ per impurtacci u schedariu di traduzzione cù l’azzione `File` > `Upload Translations…`.
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
