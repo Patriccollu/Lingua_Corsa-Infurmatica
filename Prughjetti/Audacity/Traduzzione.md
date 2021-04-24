@@ -2,19 +2,19 @@
 
 ## Distribuzione
 - A prima traduzzione in corsu hè stata distribuita cù a versione 3.0.0 di marzu di u 2021
-- L’installazione di u prugramma si pò fà in lingua corsa perchè u stallatore hè _NSIS_
+- L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa
 - Una [cronolugia di tutte e mudificazioni](https://github.com/audacity/audacity/commits/master/locale/co.po) si trova nant’à GitHub
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
 
-## Pagina di u situ Web ufficiale nant’à a traduzzione
+## Pagina ufficiale di u situ web nant’à a traduzzione
 - https://www.audacityteam.org/community/translators/
 
 ## Ciò ch’ella ci vole per traduce
 - Obligatoriu
   - Un iscrizzione à una lista di distribuzione di messaghju
-  - Un prugramma per traduce - è esse capace di mudificà - i schedarii _gettext_ cù l’estensione `.po` o `.pot` cum’è : _Poedit_ o _OmegaT_
+  - Un prugramma per traduce - è esse capace di mudificà - i schedarii _gettext_ cù l’estensioni `.po` o `.pot`, per indettu : _Poedit_ o _OmegaT_
 - Ozzionale
   - Un contu _Transifex_
   - _Notepad++_, prugramma per mudificà un testu
@@ -22,34 +22,61 @@
 ## I schedarii di lingua à traduce
 
 U dipositu di tutta a fonte d’_Audacity_ si trova nant’à GitHub :  
-   https://github.com/audacity/audacity
+   https://github.com/audacity/audacity  
 
-I schedarii di lingua si trovanu in u cartulare [/locale/.](https://github.com/audacity/audacity/tree/master/locale)
+I schedarii di tutte e lingue tradutte si trovanu in u cartulare [/locale/.](https://github.com/audacity/audacity/tree/master/locale)
 
 - U furmatu di i schedarii : `.po`
 - A fonte d’origine : [audacity.pot](https://github.com/audacity/audacity/blob/master/locale/audacity.pot)
 - U schedariu di lingua corsa : [co.po](https://github.com/audacity/audacity/blob/master/locale/co.po)
 
 Ci hè dinù un altru locu - ind’è [_Transifex_](https://www.transifex.com/klyok/audacity/language/co/) - induve si pò truvà duie versione di u schedariu di lingua corsa :
-- A versione attuale `Audacity`
-- A versione di sviluppu `Audacity (development)`
+- `Audacity` hè una copia di a versione attuale
+- `Audacity (development)` hè a versione di sviluppu, quella chì diventerà a prossima versione
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
-Ci vole à scrivessi à sta lista di distribuzione di messaghju : [audacity-translation mailing list](https://lists.sourceforge.net/lists/listinfo/audacity-translation)  
+Ci vole à abbunassi à sta lista di distribuzione di messaghju : [audacity-translation mailing list](https://lists.sourceforge.net/lists/listinfo/audacity-translation)  
 
-Quandu ci hè una nova versione cù nove catene à traduce, a squadra d’_Audacity_ manda un messaghju - una o duie settimane nanzu a data d’esciuta prevista - à tutti quelli chì sò iscritti à sta lista di distribuzione.  
+Quandu ci hè una nova versione cù nove catene à traduce, a squadra d’_Audacity_ manda un messaghju - una o duie settimane nanzu a data d’esciuta prevista - à tutti i traduttori chì sò iscritti nant’à a lista di distribuzione.
 
-À stu mumentu, nant’à [_Transifex_](https://www.transifex.com/klyok/audacity/dashboard/), a versione attuale è a versione di sviluppu sò listesse per tutte e lingue.  
+- In stu casu, [i schedarii di lingue nant’à _GitHub_](https://github.com/audacity/audacity/blob/master/locale/) cuntenenu tutti :
+  - l’anziane catene dighjà tradutte (ghjè a maiò parte)
+  - e nove catene a traduce
+- Di più, [per e lingue amministrate nant’à _Transifex_](https://www.transifex.com/klyok/audacity/dashboard/), cum’è a lingua corsa, a versione attuale hè uguale à a versione di sviluppu.  
 
-Ma pocu à pocu, trà duie versione d’_Audacity_, a versione di sviluppu cambia. S’è vo avete un contu _Transifex_, ci hè una nutificazione per ogni cambiamentu. È cusì, manu manu, ghjè pussibule di traduce e catene chì seranu in a prossima versione, invece d’aspettà u messaghju di cambiamentu di versione.
+Ma pocu à pocu, trà duie versione d’_Audacity_, a versione di sviluppu cambia. S’è vo avete un contu _Transifex_, ci hè una nutificazione mandata à ogni cambiamentu. È cusì, manu manu, ghjè pussibule di traduce e catene chì seranu in a prossima versione, invece d’aspettà u messaghju di cambiamentu di versione da a squadra d’_Audacity_. Di sta manera, a traduzzione di e nove catene si face pianu pianu è quandu s’affaca a nova versione, u vostru schedariu di lingua hè guasi prontu.
 
 ## Cumu fà a traduzzione ?
-- Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione.
-- Dunque, hè ricumandatu d’impiegà _OmegaT_ per traduce. Stu prugramma hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. È cusì, hè capace di truvà e catene uguale o simile è di pruponele per aiutavvi à traduce.
-- Ma si pò quantunque impiegà _Transifex_ per fà a traduzzione. St’appiecazione hà dinù una memoria di traduzzione, più chjuca, perchè cuntene solu e traduzzioni di u prughjettu _Audacity_.
+Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione. Ma si pò quantunque impiegà _Transifex_ per traduce. St’appiecazione in linea hè capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
 
-## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
+### In linea
+- Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
+- A traduzzione si face direttamente in linea nant’à u situ _Transifex_ :  
+  https://www.transifex.com/klyok/audacity/language/co/
+- Ci vole à selezziunà a risorsa à traduce : `Audacity` o `Audacity (development)`
+- Cliccà nant’à u buttone `Traduire`
+- St’azzione currisponde à st’indirizzi :
+  - `Audacity` https://www.transifex.com/klyok/audacity/translate/#co/audacity
+  - `Audacity (development)` https://www.transifex.com/klyok/audacity/translate/#co/audacity-development
+- E catene - tradutte o micca - sò affissate in l’ordine alfabeticu ma si pò vede trè categurie : `Toutes`, `Non traduites` è `Non révisées`
+- Cliccà nant’à a categuria `Non traduites` per fighjà solu e catene chì fermanu à traduce
+- L’appiecazione _Transifex_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele (fihjendu e _Suggestions_) per aiutavvi à traduce.
 
-Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à mandallu in pezza ligata à a lista di distribuzione d’_Audacity_.  
+### In lucale
+- Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
+- U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
+- A traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_ chì sò capace treminduie, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è di vi e prupone per aiutavvi à traduce.
+- A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii solu di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
+- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata quandu _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
+- Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+- Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà u schedariu di lingua corsa :
+  - `Audacity` https://www.transifex.com/klyok/audacity/audacity/co/download/for_translation/
+  - `Audacity (development)` https://www.transifex.com/klyok/audacity/audacity-development/co/download/for_translation/
+- Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu
+- Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
 
-Di regula, ghjè _James Crook_ chì hè incaricatu di piglià in contu tutti i schedarii di lingua è di mudificà a basa d’Audacity. Per tuttu ciò chì tocca à _Transifex_, ci vole à cuntattà _Thomas De Rocker_. Si pò truvà i so indirizzi à tremindui in l’[archivii di i messaghji di a lista di distribuzione](https://sourceforge.net/p/audacity/mailman/audacity-translation/).
+## Istruzzioni per piglià in contu u novu schedariu in lingua corsa
+
+Quandu u vostru schedariu di lingua corsa hè prontu, ci vole à mandà u schedariu in furmatu `.po` in pezza aghjunta à a lista di distribuzione d’_Audacity_.  
+
+Di regula, ghjè _James Crook_ chì hè incaricatu di piglià in contu tutti i schedarii di lingua è di mudificà a basa d’Audacity. Per tuttu ciò chì tocca à _Transifex_, ci vole à cuntattà _Thomas De Rocker_. Si pò truvà i so indirizzi à tremindui in l’[archivii di i messaghji di a lista di distribuzione d’_Audacity_](https://sourceforge.net/p/audacity/mailman/audacity-translation/).
