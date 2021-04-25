@@ -11,7 +11,7 @@ L’istruzzioni per traduce l’interfaccia in lingua corsa d’_Audacity_
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Audacity_
 
 ### [Memoria](Memoria.zip)
-A memoria di traduzzione di l’interfaccia in lingua corsa d’_Audacity_
+Un schedariu zip chì cuntene a memoria di traduzzione in furmatu TMX d’_Audacity_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
