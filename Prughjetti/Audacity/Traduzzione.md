@@ -2,7 +2,7 @@
 
 ## Distribuzione
 - A prima traduzzione in corsu hè stata distribuita cù a versione 3.0.0 di marzu di u 2021
-- L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa
+- L’installazione di u prugramma, chì impiega _Inno Setup_, si pò fà in lingua corsa
 - Una [cronolugia di tutte e mudificazioni](https://github.com/audacity/audacity/commits/master/locale/co.po) si trova nant’à GitHub
 
 ## Traduttore
@@ -12,7 +12,7 @@
 - https://www.audacityteam.org/community/translators/
 
 ## Ciò ch’ella ci vole per traduce
-- Obligatoriu
+- Richiestu
   - Un iscrizzione à una lista di distribuzione di messaghju
   - Un prugramma per traduce - è esse capace di mudificà - i schedarii _gettext_ cù l’estensioni `.po` o `.pot`, per indettu : _Poedit_ o _OmegaT_
 - Ozzionale
@@ -59,8 +59,8 @@ Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u
   - `Audacity` https://www.transifex.com/klyok/audacity/translate/#co/audacity
   - `Audacity (development)` https://www.transifex.com/klyok/audacity/translate/#co/audacity-development
 - E catene - tradutte o micca - sò affissate in l’ordine alfabeticu ma si pò vede trè categurie : `Toutes`, `Non traduites` è `Non révisées`
-- Cliccà nant’à a categuria `Non traduites` per fighjà solu e catene chì fermanu à traduce
-- L’appiecazione _Transifex_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele (fihjendu e _Suggestions_) per aiutavvi à traduce.
+- Cliccà nant’à a categuria `Non traduites` per fighjà solu e catene chì fermanu à traduce.
+- L’appiecazione _Transifex_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele (fighjendu e _Suggestions_) per aiutavvi à traduce.
 
 ### In lucale
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
@@ -69,7 +69,7 @@ Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u
 - A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii solu di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
 - Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
-- Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà u schedariu di lingua corsa :
+- Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà direttamente u schedariu di lingua corsa :
   - `Audacity` https://www.transifex.com/klyok/audacity/audacity/co/download/for_translation/
   - `Audacity (development)` https://www.transifex.com/klyok/audacity/audacity-development/co/download/for_translation/
 - Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu
