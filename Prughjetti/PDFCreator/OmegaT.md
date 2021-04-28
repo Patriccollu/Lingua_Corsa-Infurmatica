@@ -11,7 +11,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 Per ogni risorsa (chjamata _Projet_), selezziunalla, è cliccà nant’à `Fichiers` eppò `Télécharger le fichier de traduction d’origine (Fichier PO Gettext)`.
 
-- Eccu l'indirizzi per scaricà direttamente i dui schedarii di lingua :  
+- Osinnò eccu l'indirizzi per scaricà direttamente i dui schedarii di lingua :  
 
   - `Messages` https://translate.pdfforge.org/download/pdfcreator/messages/co_FR/
   - `Setup` https://translate.pdfforge.org/download/pdfcreator/setup/co_FR/
