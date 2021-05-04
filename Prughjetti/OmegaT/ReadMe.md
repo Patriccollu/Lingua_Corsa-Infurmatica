@@ -11,7 +11,7 @@ L’infurmazione nant’à a traduzzione in lingua corsa d’_OmegaT_ è di u so
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _OmegaT_ è i so moduli d’estensione
 
 ### [Memoria](Memoria.zip)
-Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX d’_OmegaT_ è di i so moduli d’estensione
+Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX per _OmegaT_ è i so moduli d’estensione
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
