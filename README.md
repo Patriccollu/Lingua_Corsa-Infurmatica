@@ -78,7 +78,7 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 
 ## ✨ Inno Setup
 https://jrsoftware.org/isinfo.php  
-_Prugramma per creà un assistente d’installazione nant’à Windows per d’altri prugrammi._
+_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, sti prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
 
 ## ✨ Mozilla VPN
 https://vpn.mozilla.org/  
@@ -98,7 +98,7 @@ _Mudificatore di codice chì piglia in contu parechji linguaghji di prugrammazio
 
 ## ✨ NSIS: Nullsoft Scriptable Install System
 https://nsis.sourceforge.io/MainPage  
-_Prugramma per creà un assistente d’installazione o stalladore nant’à Windows per d’altri prugrammi._
+_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, sti prugrammi l’impieganu : 7-zip, CCleaner, Cdex, FileZilla, Mp3tag, Notepad++, OpenOffice, Paint.NET, VirtualMIDISynth è VLC Media Player._
 
 ## ✨ OmegaT
 https://omegat.org/co/  
