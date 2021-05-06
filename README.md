@@ -80,6 +80,12 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 https://jrsoftware.org/isinfo.php  
 _Prugramma per creà un assistente d’installazione nant’à Windows per d’altri prugrammi._
 
+## ✨ Mozilla VPN
+https://vpn.mozilla.org/  
+_Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncipita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._  
+  
+⚠️ __Fate casu__ : Per disgrazia, stu prugramma ùn hè micca pruvistu di rigalu è __ci vole à pagà__ per impiegallu :-(
+
 ## ✨ Mp3tag
 https://www.mp3tag.de/en/  
 _Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3 è ID3v2.4. Grazia à u so accessu à e banche di dati in-linea cum’è Amazon, discogs, MusicBrainz o freedb, st’attrezzu putente è faciule à impiegà pò ricoglie autumaticamente l’infurmazioni reale di a vostra bibliuteca di musica._
@@ -165,12 +171,6 @@ http://mozbackup.jasnapaka.com/
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
   
 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md)
-
-## ⏳ Mozilla VPN
-https://vpn.mozilla.org/  
-_Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncipita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._  
-  
-⚠️ __Fate casu__ : À st’ora, stu prugramma ùn hè micca dispunibule, nè per Francia, nè per Corsica ;-)
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
