@@ -48,7 +48,7 @@ Ci vole à fà què per `pdfcreator-messages-co_FR.po` è `pdfcreator-setup-co_F
 
 - Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu.
 
-## Preparazione di i schedarii nanzu a traduzzione
+## Preparazione di i schedarii dopu a traduzzione
 
 ✔️ Ùn ci hè alcunu approntu à fà à u schedariu di lingua corsa.
 
