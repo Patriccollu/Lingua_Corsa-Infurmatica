@@ -36,7 +36,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 - Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu.
 
-## Preparazione di i schedarii nanzu a traduzzione
+## Preparazione di i schedarii dopu a traduzzione
 
 ✔️ Ùn ci hè nisunu approntu à fà à i schedarii di lingua corsa.
 
