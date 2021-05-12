@@ -37,8 +37,10 @@ Per infurmazione, u dipositu di tutta a fonte di Poedit si trova nant’à _GitH
 
 I schedarii di lingua di a versione attuale di _Poedit_ nant’à Windows si trovanu in u cartulare [/locales/.](https://github.com/vslavik/poedit/tree/master/locales)
 
-- A fonte d’origine : [audacity.pot](https://github.com/vslavik/poedit/blob/master/locales/poedit.pot)
+- A fonte d’origine : [poedit.pot](https://github.com/vslavik/poedit/blob/master/locales/poedit.pot)
 - U schedariu di lingua corsa : [co.po](https://github.com/vslavik/poedit/blob/master/locales/co.po)
+
+Ma fate casu chì i dui schedarii insù ùn ponu micca ghjuvà di basa per a traduzzione perchè sò mudificati più tardi chì nant’à u situ _Crowdin_.
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
@@ -53,8 +55,6 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
   - sia in lucale nant’à u vostru urdinatore perchè _Crowdin_ prupone funzioni per espurtà è impurtà i schedarii
   - in stu casu, a traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_
 - Ste duie appiecazioni sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
-- A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
-- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata quandu _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 
 ### In linea
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
@@ -67,7 +67,7 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - A traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_ chì sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
-- A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
+- A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` o `.xliff` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
 - Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 - Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Crowdin_ per espurtà u schedariu di lingua corsa cù l’azzione `File` > `Download`.
