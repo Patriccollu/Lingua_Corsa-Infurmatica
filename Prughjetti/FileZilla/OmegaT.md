@@ -39,7 +39,7 @@ Ci vole à creà un schedariu `.po` viotu da u mudellu in inglese (.POT)
 
 - Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu.
 
-## Preparazione di i schedarii nanzu a traduzzione
+## Preparazione di i schedarii dopu a traduzzione
 
 ✔️ Ùn ci hè alcunu approntu à fà à u schedariu di lingua corsa.
 
