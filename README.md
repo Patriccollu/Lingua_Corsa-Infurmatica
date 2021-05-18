@@ -189,6 +189,10 @@ _Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurn
 https://commonvoice.mozilla.org/fr  
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
 
+## 🎯 paint.net
+https://www.getpaint.net/  
+_Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._
+
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
 _Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
