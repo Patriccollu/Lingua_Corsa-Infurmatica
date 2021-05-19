@@ -19,7 +19,14 @@ Ci hè dui schedarii à traduce.
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
-✔️ Ùn ci hè nisunu approntu à fà à i schedarii di lingua inglese.
+Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`
+
+- Lancià _Poedit_
+- Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
+- Selezziunà u schedariu `.xliff` scaricatu
+- Cliccà nant’à u buttone `Currege a lingua`
+- In a finestra chì richiede a lingua di traduzzione, scrive `co`
+- Arregistrà u schedariu cù listessu nome
 
 ## Copia di i schedarii di lingua inglese
 
