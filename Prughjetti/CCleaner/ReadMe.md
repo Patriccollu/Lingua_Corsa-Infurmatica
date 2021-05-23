@@ -26,4 +26,5 @@ A maiò parte di sti siti hè di lingua inglese.
 
 - [A pagina d’accolta in francese di _CCleaner_](https://www.ccleaner.com/fr-fr)
 - [A ducumentazione in linea](https://www.ccleaner.com/docs/ccleaner)
+- [L’annunziamenti ufficiale di _CCleaner_](https://www.ccleaner.com/knowledge?c=release-announcement)
 - [A cronolugia di e versioni di _CCleaner_](https://www.ccleaner.com/ccleaner/version-history)
