@@ -45,7 +45,8 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
   - sia in lucale nant’à u vostru urdinatore perchè _Crowdin_ prupone funzioni per espurtà è impurtà i schedarii
   - in stu casu, a traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_
 - Ste duie appiecazioni sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
-- In tutti i casi, hè ricumandatu d’impiegà _OmegaT_ per fà què perchè st’appiecazione, chì cunnosce tutte e vostre traduzzioni, hà una memoria di traduzzione tamanta.
+- In duie parolle, una memoria di traduzzione s’assumiglia un pocu à un dizziunariu chì pò cambià autumaticamente e catene in inglese cù a so traduzzione in corsu.
+- In tutti casi, hè ricumandatu d’impiegà _OmegaT_ per fà què perchè st’appiecazione, chì cunnosce tutte e vostre traduzzioni, hà una memoria di traduzzione tamanta.
 
 ### In linea
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
@@ -57,10 +58,21 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 ### In lucale
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
-- Ùn ci vole micca à impiegà _Crowdin_ per espurtà u schedariu di lingua à traduce (_File_ >_Download_) perchè st’azzione scaricheghja quellu in lingua corsa.
-- Ci vole à scaricà u schedariu in lingua inglese è appruntallu per _OmegaT_. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
-- Tandu, si pò fà a traduzzione nant’à u vostru urdinatore cù st’appiecazione chì hà una memoria di traduzzione tamanta grazia à e traduzzioni di tutti i vostri prughjetti, qualsissia i furmati di i schedarii di traduzzione. Cum’è _Crowdin_, st’appiecazione hè capace di truvà e catene uguale o simile per aiutavvi à traduce.
-- Dopu a traduzzione, ci vole à impiegà _Crowdin_ per impurtacci u schedariu di traduzzione (_File_ >_Upload Translations…_).
+- A traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_ chì sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
+- A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` o `.xliff` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
+- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.xliff` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.xliff` o di qualchì altru furmatu.
+- Cù _OmegaT_
+  - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+- Cù _Poedit_
+  - Per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Crowdin_ per espurtà u schedariu di lingua corsa cù l’azzione `File` > `Download in XLIFF`. St’azzione scaricheghja un schedariu cù l’estensione `.xliff`.
+  - Eppò lancià _Poedit_
+    - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
+    - Selezziunà u schedariu `.xliff` scaricatu da _Crowdin_
+    - Verificà chì a lingua di destinazione sia `co` o `co_FR`
+    - Selezziunà l’ozzione `Affissà` eppò `Elementi micca tradutti in primu`
+    - Traduce e catene senza traduzzione
+    - Arregistrà u schedariu cù u listessu nome
+- Dopu a traduzzione, ci vole torna à impiegà _Crowdin_ per impurtacci u schedariu di traduzzione cù l’azzione `File` > `Upload Translations…`.
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
