@@ -12,8 +12,8 @@
   - Un contu _Crowdin_ chì si pò ottene da quì : https://crowdin.com/join
   - Una dumanda nant’à _Crowdin_ per participà à a traduzzione di _CCleaner_
 - Ricumandatu
-  - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.lng` o `.xliff`
   - _Poedit_, prugramma per mudificà i schedarii _gettext_ cù l’estensioni `.xliff`
+  - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.lng` o `.xliff`
   - _Notepad++_, prugramma per mudificà un testu, paragunà duie versioni d’un testu, o trasfurmà u cuntenutu d’un testu cù una prucedura pre-arregistrata
 
 ## I schedarii di lingua à traduce
@@ -52,7 +52,8 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
 - A traduzzione si face direttamente in linea nant’à u situ _Crowdin_ :  
   https://crowdin.com/project/avast-ccleaner/co#
-- Per piazzà e catene mancu tradutte à u capu di a lista, ci vole à assicurassi chì u filtru sceltu hè `All, Untranslated First (Default)`
+- Per piazzà e catene mancu tradutte à u capu di a lista, ci vole à assicurassi chì u filtru sceltu hè `All, Untranslated First (Default)`.
+- Per accede à a lista di filtri, ci vole à cliccà nant’à l’icona chì riprisenta un imbutu cù trè tratti di longhezza sfarente, à diritta di u campu di ricerca, quandu vo site in corsu di traduzzione nant’à un schedariu.
 - St’appiecazione, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile (cù un percentuale chì si pò definisce) è di pruponele per aiutavvi à traduce.
 
 ### In lucale
@@ -60,11 +61,15 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - A traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_ chì sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
 - A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii di furmatu `.po` o `.xliff` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
-- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.xliff` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.xliff` o di qualchì altru furmatu.
-- Cù _OmegaT_
+- Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` o `.xliff` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un tale schedariu o di qualchì altru furmatu.
+- Cù _Crowdin_ si pò scaricà un schedariu in dui furmati :
+  - u so furmatu d’origine cù l’azzione `File` > `Download`
+  - u furmatu `.xliff` cù l’azzione `File` > `Download in XLIFF`
+- Ste duie azzioni si trovanu nant’à u listinu chì si chjama « hamburger » - insù è à manca accant’à CORSICAN - quandu vo site in corsu di traduzzione nant’à un schedariu.
+#### Cù _OmegaT_
   - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
-- Cù _Poedit_
-  - Per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Crowdin_ per espurtà u schedariu di lingua corsa cù l’azzione `File` > `Download in XLIFF`. St’azzione scaricheghja un schedariu cù l’estensione `.xliff`.
+#### Cù  _Poedit_
+  - Per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà un schedariu cù l’estensione `.xliff` scaricatu da _Crowdin_ cù l’azzione `File` > `Download in XLIFF`.
   - Eppò lancià _Poedit_
     - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
     - Selezziunà u schedariu `.xliff` scaricatu da _Crowdin_
@@ -74,7 +79,7 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
     - Arregistrà u schedariu cù u listessu nome
 - Dopu a traduzzione, ci vole torna à impiegà _Crowdin_ per impurtacci u schedariu di traduzzione cù l’azzione `File` > `Upload Translations…`.
 
-## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
+## Istruzzioni per piglià in contu i novi schedarii di lingua corsa
 
 Quandu i schedarii di lingua corsa sò stati rinfrescati nant’à _Crowdin_, ùn ci hè più nunda à fà.
 
