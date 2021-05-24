@@ -4,7 +4,10 @@ Eccu parechje prucedure di cunversione di i schedarii di traduzzione _CCleaner_ 
 
 ## Scopu di e prucedure
 
-Per disgrazia, i schedarii di traduzzione `.nsh` è `.rc` di _CCleaner_ ùn ponu micca esse tradutti direttamente da _OmegaT_ è ci vole à trasfurmà u furmatu di u so cuntenutu. Eccu parechje prucedure macro chì si pò caricà è impiegà in _Notepad++_ per fà ste trasfurmazioni.  
+Per disgrazia, i schedarii di traduzzione `.nsh` è `.rc` di _CCleaner_ ùn ponu micca esse tradutti direttamente da _OmegaT_ è ci vole à trasfurmà u furmatu di u so cuntenutu. Eccu trè prucedure macro chì si pò caricà è impiegà in _Notepad++_ per fà ste trasfurmazioni :
+1. `Cunversione_CCleaner_NSH-OmegaT` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh` da u so furmatu d’origine ver di u furmatu `.lng`
+2. `Cunversione_OmegaT-CCleaner_NSH` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh.lng` da u furmatu cunnisciutu da _OmegaT_, ver di u so furmatu d’origine
+3. `Cunversione_CCleaner_RC-OmegaT` per trasfurmà u cuntenutu di u schedariu `res_en.rc` da u so furmatu d’origine ver di u furmatu `.lng`
 
 A) Esempiu di linee in u schedariu d’origine `lang_en.nsh` :
 ```
@@ -184,26 +187,19 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
 ```
-- Tandu e nove prucedure sò dispunibule in _Notepad++_.  
- 
-    Di sicuru, si pò sceglie __un altru nome di prucedura__.
+- Tandu e nove prucedure sò dispunibule in _Notepad++_.
+- Di sicuru, si pò sceglie __d’altri nomi__ di prucedura.
+- Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru.
 
 ## Impiegu di e prucedure
 
 - Lancià _Notepad++_
-
 - Apre u schedariu di traduzzione ch’ellu ci vole à cunvertisce
-
 - Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-
 - Selezziunà u nome di a prucedura à impiegà
-
 - Cliccu nant’à `Eseguisce 1 volta`
-
 - Appughjà nant’à u buttone `Eseguisce`
-
 - Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
- 
 - Cupià stu schedariu in u cartulare `/source/` di u prughjettu __CCleaner__ in _OmegaT_.
 
 #### Liami di navigazione nant’à stu situ
