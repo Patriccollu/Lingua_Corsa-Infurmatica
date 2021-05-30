@@ -5,21 +5,21 @@ Eccu parechje prucedure di cunversione di i schedarii di traduzzione _CCleaner_ 
 ## Scopu di e prucedure
 
 Per disgrazia, i schedarii di traduzzione `.nsh` è `.rc` di _CCleaner_ ùn ponu micca esse tradutti direttamente da _OmegaT_ è ci vole à trasfurmà u furmatu di u so cuntenutu. Eccu trè prucedure macro chì si pò caricà è impiegà in _Notepad++_ per fà ste trasfurmazioni :
-1. `Cunversione_CCleaner_NSH-OmegaT` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh` da u so furmatu d’origine ver di u furmatu `.lng`
-2. `Cunversione_OmegaT-CCleaner_NSH` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh.lng` da u furmatu cunnisciutu da _OmegaT_, ver di u so furmatu d’origine
-3. `Cunversione_CCleaner_RC-OmegaT` per trasfurmà u cuntenutu di u schedariu `res_en.rc` da u so furmatu d’origine ver di u furmatu `.lng`
+1. `Cunversione CCleaner.NSH-OmegaT` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh` da u so furmatu d’origine ver di u furmatu `.lng`
+2. `Cunversione CCleaner.RC-OmegaT` per trasfurmà u cuntenutu di u schedariu `res_en.rc` da u so furmatu d’origine ver di u furmatu `.lng`
+3. `Cunversione OmegaT-CCleaner.NSH` per trasfurmà u cuntenutu di u schedariu `lang_en.nsh.lng` da u furmatu cunnisciutu da _OmegaT_, ver di u so furmatu d’origine
 
 A) Esempiu di linee in u schedariu d’origine `lang_en.nsh` :
 ```
 LangString ADVANCED_OPTIONS_SUBTITLE ${LANG_ENGLISH} "Select any advanced options"
 LangString ADVANCED_OPTIONS_TITLE ${LANG_ENGLISH} "Advanced Options"
 ```
-Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione_CCleaner_NSH-OmegaT` :
+Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione CCleaner.NSH-OmegaT` :
 ```
 LangString_ADVANCED_OPTIONS_SUBTITLE_${LANG_ENGLISH}=Select any advanced options
 LangString_ADVANCED_OPTIONS_TITLE_${LANG_ENGLISH}=Advanced Options
 ```
-In più di què, ci hè una prucedura chì face a trasfurmazione à l’arritrosa : `Cunversione_OmegaT-CCleaner_NSH`.  
+In più di què, ci hè una prucedura chì face a trasfurmazione à l’arritrosa : `Cunversione OmegaT-CCleaner.NSH`.  
 
 B) Esempiu di linee in u schedariu d’origine `res_en.rc` :
 ```
@@ -28,7 +28,7 @@ B) Esempiu di linee in u schedariu d’origine `res_en.rc` :
 9,	"Uninstall CCleaner"
 102,	"Click here to visit the CCleaner website at www.ccleaner.com/ccleaner"
 ```
-Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione_CCleaner_RC-OmegaT` :
+Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione CCleaner.RC-OmegaT` :
 ```
 100=1033
 8=CCleaner Homepage
@@ -55,24 +55,24 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione_CCleaner_NSH-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione CCleaner.NSH-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Mudificazione > Operazioni nant’à u spaziu > Ammuzzà i spazii di fine di linea" />
             <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {LangString } da {LangString_}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |LangString | da |LangString_|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="LangString " />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="LangString_" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di { ${LANG_ENGLISH} "} da {_${LANG_ENGLISH}=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di | ${LANG_ENGLISH} &quot;| da |_${LANG_ENGLISH}=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=' ${LANG_ENGLISH} &quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="_${LANG_ENGLISH}=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu allungatu di {"\n} da {\n}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu allungatu di |&quot;\n| da |\n|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='&quot;&#x000D;&#x000A;' />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
@@ -80,15 +80,15 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
-        <Macro name="Cunversione_CCleaner_RC-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà tuttu ciò chì si trova trà { /*} è {*/}" />
+        <Macro name="Cunversione CCleaner.RC-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà tuttu ciò chì si trova trà | /*| è |*/|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=" /\*([^*]|[\r\n]|(\*+([^*/]|[\r\n])))*\*+/" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà tuttu ciò chì si trova trà {\t/*} è {*/}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà tuttu ciò chì si trova trà |\t/*| è |*/|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&#x0009;/\*([^*]|[\r\n]|(\*+([^*/]|[\r\n])))*\*+/" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
@@ -97,49 +97,49 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Mudificazione > Operazioni nant’à u spaziu > Ammuzzà i spazii di fine di linea" />
             <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu allungatu di {"\n} da {\n}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu allungatu di |&quot;\n| da |\n|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='&quot;&#x000D;&#x000A;' />
             <Action type="3" message="1625" wParam="0" lParam="1" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="\n" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {, 	"} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |, &#x0009;&quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=', &#x0009;&quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {,	"} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |,&#x0009;&quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=',&#x0009;&quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {,    "} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |,    &quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=',    &quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {,   "} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |,   &quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=',   &quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {,  "} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |,  &quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam=',  &quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="=" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {	"} da {=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |&#x0009;&quot;| da |=|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='&#x0009;&quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
@@ -163,22 +163,22 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Ricerca > Indetta > Caccià e linee indettate" />
             <Action type="2" message="0" wParam="43021" lParam="0" sParam="" />
         </Macro>
-        <Macro name="Cunversione_OmegaT-CCleaner_NSH" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di {LangString } da {LangString_}" />
+        <Macro name="Cunversione OmegaT-CCleaner.NSH" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |LangString_| da |LangString |" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="LangString_" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="LangString " />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di { ${LANG_ENGLISH} "} da {_${LANG_ENGLISH}=}" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di |_${LANG_ENGLISH}=| da | ${LANG_ENGLISH} &quot;|' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="_${LANG_ENGLISH}=" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam=' ${LANG_ENGLISH} &quot;' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per aghjunghje un segnu {"} à a fine di tutte e line chì principianu da {LangString }" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per aghjunghje un segnu {&quot;} à a fine di tutte e line chì principianu da {LangString }' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^(LangString .*)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
@@ -188,8 +188,9 @@ Per i dui schedarii, ste linee ponu esse arregistrate in un schedariu cù l’es
         </Macro>
 ```
 - Tandu e nove prucedure sò dispunibule in _Notepad++_.
-- Di sicuru, si pò sceglie __d’altri nomi__ di prucedura.
-- Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru.
+- Di sicuru, si pò sceglie __d’altri nomi__ di prucedura.  
+
+Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
 
 ## Impiegu di e prucedure
 
