@@ -2,7 +2,9 @@
 
 ## Distribuzione
 ### VLC for Windows
-- A prima traduzzione in corsu hè stata distribuita cù a versione 3.0.0 di marzu di u 2021
+- A traduzzione in corsu hè stata principiata da Ghjuvan Pasquinu Castellani in u 2006. À st’epica, ci era 3 catene tradutte nant’à più di 3800
+- Aghju decisu di raghjunghje stu prughjettu in u 2015 è distribuitu a traduzzione di u situ web à a squadra VLC. Di nuvembre di u 2017 era distribuita a mo prima versione per Windows chì cuntinia 2339 catene tradutte nant’à 6030, sia 38%
+- In u 2021, a versione di VLC 3.0 cuntene 6268 catene è a versione in lingua corsa hè tradutta à 43%. Ben intesu, u travagliu hè sempre in corsu !
 - L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa
 - Una cronolugia di e mudificazioni si trova à st’indirizzu :
 https://code.videolan.org/videolan/vlc/-/commits/master/po/co.po
@@ -20,7 +22,7 @@ https://code.videolan.org/videolan/vlc/-/commits/master/po/co.po
   - https://code.videolan.org/videolan/vlc-android/-/commits/master/application/resources/src/main/res/values-co/strings.xml
 
 ## Traduttori
-- Patriccollu di Santa Maria è Sichè, Ghjuvan Pasquinu Castellani
+- Ghjuvan Pasquinu Castellani, Patriccollu di Santa Maria è Sichè
 
 ## Pagina ufficiale di u situ web nant’à a traduzzione
 - https://www.videolan.org/developers/i18n/
@@ -28,10 +30,11 @@ https://code.videolan.org/videolan/vlc/-/commits/master/po/co.po
 ## Ciò ch’ella ci vole per traduce
 - Richiestu
   - Un contu _Transifex_
+  - Una dumanda nant’à _Transifex_ per participà à a traduzzione di _VLC_
 - Ricumandatu
   - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.po`, `.strings`, `.txt`, `.xlf` o `.xml`
   - _Poedit_, prugramma per mudificà i schedarii _gettext_ cù l’estensioni `.po`
-  - _Notepad++_, prugramma per mudificà un testu è paragunà duie versioni d’un testu
+  - _Notepad++_, prugramma per mudificà un testu, paragunà duie versioni di testu, o trasfurmà u cuntenutu cù una prucedura pre-arregistrata
 - Ozzionale
   - Un iscrizzione à una lista di distribuzione di messaghju
 
@@ -90,7 +93,8 @@ XLIFF WinRT (xlf)
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - A traduzzione si pò fà cù l’appiecazioni _OmegaT_ (per tutti i furmati) o _Poedit_ (solu per i schedarii `.po`) chì sò capace treminduie, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è di vi e prupone per aiutavvi à traduce.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
-- Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
+- Dopu a traduzzione, ci vole à impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
+- Di sicuru, ci vole à fà st’operazione per ogni schedariu di lingua corsa.
 
 ## Istruzzioni per piglià in contu u novu schedariu in lingua corsa
 
