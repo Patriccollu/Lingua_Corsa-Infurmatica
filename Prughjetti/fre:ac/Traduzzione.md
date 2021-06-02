@@ -38,20 +38,21 @@ Per infurmazione, u dipositu di tutta a fonte di _fre:ac_ è di u so cumpunente 
    https://github.com/enzo1982/freac  
    https://github.com/enzo1982/smooth
 
-I schedarii di lingua di a versione attuale di _fre:ac_ si trovanu in u cartulare [/i18n/.] (https://github.com/enzo1982/freac/tree/master/i18n)  
-Quelli di u so cumpunente _smooth_ si trovanu in u cartulare [/locales/.] (https://github.com/enzo1982/smooth/tree/master/classes/i18n/locales)  
+I schedarii di lingua di a versione attuale di _fre:ac_ si trovanu in u cartulare [/i18n/](https://github.com/enzo1982/freac/tree/master/i18n).  
+
+Quelli di u so cumpunente _smooth_ si trovanu in u cartulare [/locales/](https://github.com/enzo1982/smooth/tree/master/classes/i18n/locales).
 
 Nant’à u primu situ, si pò truvà una copia di :
 - A fonte d’origine :
-  - [freac.xml](https://github.com/enzo1982/freac/blob/master/i18n/freac/freac.xml)
-  - [setup.xml](https://github.com/enzo1982/freac/blob/master/i18n/setup/setup.xml)
-  - [tips.xml](https://github.com/enzo1982/freac/blob/master/i18n/tips/tips.xml)
-  - [eupdate.xml](https://github.com/enzo1982/freac/blob/master/i18n/updater/eupdate.xml)
+  - [freac.xml](https://github.com/enzo1982/freac/blob/master/i18n/freac/crowdin/freac.xml)
+  - [setup.xml](https://github.com/enzo1982/freac/blob/master/i18n/setup/crowdin/setup.xml)
+  - [tips.xml](https://github.com/enzo1982/freac/blob/master/i18n/tips/crowdin/tips.xml)
+  - [eupdate.xml](https://github.com/enzo1982/freac/blob/master/i18n/updater/crowdin/eupdate.xml)
 - U schedariu di lingua corsa :
-  - [freac_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/freac/freac_co.xml)
-  - [setup_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/setup/setup_co.xml)
-  - [tips_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/tips/tips_co.xml)
-  - [eupdate_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/updater/eupdate_co.xml)
+  - [freac_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/freac/crowdin/freac_co.xml)
+  - [setup_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/setup/crowdin/setup_co.xml)
+  - [tips_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/tips/crowdin/tips_co.xml)
+  - [eupdate_co.xml](https://github.com/enzo1982/freac/blob/master/i18n/updater/crowdin/eupdate_co.xml)
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
