@@ -27,5 +27,6 @@ A maiò parte di sti siti hè di lingua inglese.
 - [A pagina d’accolta in francese di _GeneWeb_](https://geneweb.tuxfamily.org/wiki/GeneWeb/fr)
 - [L’annunziamenti ufficiale di _GeneWeb_](https://geneweb.tuxfamily.org/wiki/news)
 - [A ducumentazione in linea in francese di _GeneWeb_](https://geneweb.tuxfamily.org/wiki/manual/fr)
+- [Una basa genealogica di demustrazione chì si pò impiegà in lingua corsa](https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;)
 - [A cronolugia di e mudificazioni di u schedariu di traduzzione](https://github.com/geneweb/geneweb/commits/master/hd/lang/lexicon.txt)
 - [A cronolugia di e dumande di mudificazione di u schedariu per a lingua corsa](https://github.com/geneweb/geneweb/pulls?q=is%3Apr+corsican)
