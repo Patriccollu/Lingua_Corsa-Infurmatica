@@ -10,6 +10,9 @@ L’infurmazione nant’à a traduzzione in lingua corsa d’_OmegaT_ è di u so
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _OmegaT_ è i so moduli d’estensione
 
+### [Fonte](Fonte.md__)
+I liami di e fonte di a traduzzione in lingua corsa d’_OmegaT_
+
 ### [Memoria](Memoria.zip)
 Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX per _OmegaT_ è i so moduli d’estensione
 
