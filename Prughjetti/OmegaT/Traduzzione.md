@@ -13,14 +13,14 @@
 ## Ciò ch’ella ci vole per traduce
 - Richiestu
   - Un contu _GitHub_
-  - Mandà una dumanda à [u cuurdinatore di a lucalisazione d’_OmegaT_](mailto:localization@omegat.org)
+  - Mandà una dumanda à [u cuurdinatore di a lucalisazione d’_OmegaT_](mailto:localization@omegat.org) per participà à a traduzzione d’_OmegaT_ in _Corsican_
   - _OmegaT_, prugramma per traduce i schedarii di parechji furmati è estensioni, cum’è `.ini`, `.lng`, `.po`, `.properties`, `.strings`, `.txt` è `.xml`
 - Ricumandatu
   - _Notepad++_, prugramma per mudificà un testu è paragunà duie versioni d’un testu
 
 ## I schedarii di lingua à traduce
 
-À st'ora, ci hè una sessantina di schedarii, di furmatu sfarente, chì cuntenenu a traduzzione d’_OmegaT_ è di u so situ web per e piattaforme Mac, Linux è Windows.
+À st'ora, ci hè una sessantina di schedarii, di furmatu sfarente, chì cuntenenu a traduzzione di l’appiecazione _OmegaT_, d’una parte di a so ducumentazione è di u so situ web per e piattaforme Mac, Linux è Windows.
 
 - I furmati di schedariu sò : `.html`, `.ini`, `.json`, `.properties`, `.strings`, `.txt` è `.xml`
 
@@ -35,16 +35,17 @@ Quandu s’appronta una nova versione, a squadra d’_OmegaT_ manda un messaghju
 ## Cumu fà a traduzzione ?
 
 - A traduzzione si face nant’à u vostru urdinatore cù l’appiecazione _OmegaT_ chì prupone un’interfaccia di sincrunizazione cù _GitHub_
-- A traduzzione ùn si pò micca fà direttamente nant’à _GitHub_
+- A traduzzione ùn si face micca direttamente nant’à _GitHub_
 - _OmegaT_ hè capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
-- L’arregistramentu di u prughjettu in _OmegaT_ crea o mudificheghja a so memoria di traduzzione nant’à _GitHub_
-- Ghjè sta memoria di traduzzione chì serà impiegata da u cuurdinatore di e traduzzioni d’_OmegaT_ per creà o mudificà tutti i schedarii di traduzzione per ogni lingua.
+- L’arregistramentu in _OmegaT_ di u prughjettu di squadra crea o mudificheghja a so memoria di traduzzione - `project_save.tmx` - nant’à _GitHub_
 
 Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 
 ## Istruzzioni per piglià in contu i novi schedarii di lingua corsa
 
-Quandu u prughjettu hè statu arregistratu in _OmegaT_, ùn ci hè più nunda à fà.
+- Quandu u prughjettu hè statu arregistratu in _OmegaT_, ùn ci hè più nunda à fà.
+- Tandu, toccu à u cuurdinatore di e traduzzioni d’_OmegaT_ d’impiegà a memoria di traduzzione di u prughjettu - `project_save.tmx` - per creà o mudificà tutti i schedarii di traduzzione per ogni lingua.
+- In u [schedariu Fonte](Fonte.md) si trovanu i liami per accede, sia à u testu, sia à a cronolugia di e mudificazioni d’ogni schedariu di traduzzione in lingua corsa.
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
