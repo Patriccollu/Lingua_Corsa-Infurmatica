@@ -72,6 +72,12 @@ _Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghju
 💡 __Astuzia__ : Si pò ancu fighjà in linea è in lingua corsa una versione di _dimustrazione_ à st’indirizzu :  
 https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 
+## ✨ HandBrake
+https://handbrake.fr/  
+_Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente.
+
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
 _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di cudificatori : CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160 è ED2K. Tutti i schedarii trattati sò ricunnisciuti è i tazzechji sò pronti à esse espurtati ver di parechji furmati di verificazione di schedariu cum’è SFV, MD5SUM è SHA1SUM. Sì pò dinù paragunà dui schedarii._
@@ -158,13 +164,6 @@ _Purtera di u lettore media liberu VLC nant’à iPad, iPhone è iPod touch chì
 
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
-
-## ⏳ HandBrake
-https://handbrake.fr/  
-_Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma chì permette di cunvertisce guasi tutti i furmati di video._
-  
-💡 __Astuzia__ : A lingua corsa serà distribuita cù a prossima versione ma si pò dighjà pruvalla grazia à una versione timpuraria di sviluppu chì si pò scaricà da quì :
-https://handbrake.fr/nightly.php
 
 ## ⏳ MozBackup
 http://mozbackup.jasnapaka.com/  
