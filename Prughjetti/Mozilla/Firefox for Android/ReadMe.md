@@ -32,3 +32,7 @@ Tutti sti siti sò di lingua inglese.
 - [A pagina di traduzzione in lingua corsa di u prughjettu _Firefox for Android_](https://pontoon.mozilla.org/co/firefox-for-android/)
 
 - [A pagina di tutte e lingue dispunibule per _Firefox for Android_](https://pontoon.mozilla.org/projects/firefox-for-android/)
+
+- [A versione stabile di l’appiecazione _Firefox for Android_ nant’à _Google Play_](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr)
+
+- [A versione di sviluppu di l’appiecazione _Firefox for Android_ nant’à _Google Play_](https://play.google.com/store/apps/details?id=org.mozilla.fenix.nightly)
