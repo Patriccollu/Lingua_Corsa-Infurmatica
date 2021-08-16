@@ -28,7 +28,7 @@
   - [L’origine in inglese](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/focus-android/app/src/main/res/values/strings.xml)
   - [A traduzzione in lingua corsa](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/focus-android/app/src/main/res/values-co/strings.xml)
 
-U dipositu di tutte __a fonte__ di _Focus for Android_ si trova nant’à _GitHub_ :  
+U dipositu di tutta __a fonte__ di _Focus for Android_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-mobile/focus-android
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
