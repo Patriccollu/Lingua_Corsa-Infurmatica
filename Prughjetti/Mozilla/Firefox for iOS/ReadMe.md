@@ -33,3 +33,5 @@ Tutti sti siti sò di lingua inglese.
 - [A ducumentazione di Mozilla nant’à a lucalizazione di _Firefox for iOS_](https://mozilla-l10n.github.io/localizer-documentation/products/firefox_ios/)
 
 - [Una pagina induve si pò scaricà un schedariu `co.zip` chì cuntene tutti i screni di l’ultima versione di l’appiecazione _Firefox for iOS_ nant’à un telefunu.](https://firefox-ci-tc.services.mozilla.com/tasks/index/mobile.v2.firefox-ios.l10n-screenshots.latest)
+
+- [A versione stabile di l’appiecazione _Firefox for iOS_ nant’à _l’Apple Store_](https://apps.apple.com/fr/app/firefox-web-browser/id989804926)
