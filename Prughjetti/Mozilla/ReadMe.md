@@ -11,6 +11,8 @@ Basta à cliccà nant’à u nome per fighjà l’infurmazione di u prughjettu.
 
 ### [Firefox for iOS](Firefox%20for%20iOS#readme)
 
+### [Focus for Android](Focus%20for%20Android#readme)
+
 ### [Mozilla VPN](Mozilla%20VPN#readme)
 
 #### Liami di navigazione nant’à stu situ
