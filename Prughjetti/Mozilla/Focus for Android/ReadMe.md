@@ -29,3 +29,7 @@ Tutti sti siti sò di lingua inglese.
 - [A pagina di traduzzione in lingua corsa di u prughjettu _Focus for Android_](https://pontoon.mozilla.org/co/focus-for-android/)
 
 - [A pagina di tutte e lingue dispunibule per _Focus for Android_](https://pontoon.mozilla.org/projects/focus-for-android/)
+
+- [L’appiecazione _Focus for Android_ nant’à _Google Play_](https://play.google.com/store/apps/details?id=org.mozilla.focus)
+
+- [L’appiecazione _Firefox Klar_ nant’à _Google Play_ (per l’Alemagna, l’Austria è a Sguizzera)](https://play.google.com/store/apps/details?id=org.mozilla.klar)
