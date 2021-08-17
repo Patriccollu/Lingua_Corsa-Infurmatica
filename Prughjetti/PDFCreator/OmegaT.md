@@ -25,9 +25,7 @@ I schedarii scaricati sò in lingua corsa, vole si dì ch’elli cuntenenu tutte
 - Selezziunà u schedariu `.po` scaricatu
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di e catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
-- Arregistrà u schedariu cù u nome : `Audacity.po`
-
-Ci vole à fà què per `pdfcreator-messages-co_FR.po` è `pdfcreator-setup-co_FR.po`.
+- Arregistrà u schedariu cù u nome : `pdfcreator-messages.po` o `pdfcreator-setup.po`.
 
 ## Copia di i schedarii di lingua inglese
 
