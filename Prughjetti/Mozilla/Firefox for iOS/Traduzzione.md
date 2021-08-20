@@ -29,7 +29,7 @@
 U dipositu di tutte __e lingue__ di _Firefox for iOS_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-l10n/firefoxios-l10n
 
-U dipositu di tutte __a fonte__ di _Firefox for iOS_ si trova nant’à _GitHub_ :  
+U dipositu di tutta __a fonte__ di _Firefox for iOS_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-mobile/firefox-ios
 
 Per aiutavvi, eccu una pagina induve si pò scaricà un schedariu `co.zip` chì cuntene tutti i screni di l’ultima versione di l’appiecazione _Firefox for iOS_ nant’à un telefunu :  
@@ -41,7 +41,7 @@ Per aiutavvi, eccu una pagina induve si pò scaricà un schedariu `co.zip` chì 
 - Si pò fighjà e catene chì fermanu à traduce nant’à sta pagina :  
   https://pontoon.mozilla.org/co/firefox-for-ios/all-resources/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
-- Hè ricumandatu dinù di scrivessi à a lista di distribuzione [mozilla.dev.l10n](https://groups.google.com/forum/#!forum/mozilla.dev.l10n) per riceve infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
+- Hè ricumandatu dinù di scrivessi à stu [foru _Discourse_ di _moz:lla_](https://discourse.mozilla.org/c/l10n/547) per fighjà l’infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
 
 ## Cumu fà a traduzzione ?
 
