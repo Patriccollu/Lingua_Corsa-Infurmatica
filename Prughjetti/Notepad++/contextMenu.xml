@@ -30,24 +30,24 @@ https://npp-user-manual.org/docs/config-files/#the-context-menu-contextmenu-xml
 		Use FolderName (optional) to create sub-menu. FolderName can be used in any type of item.
 		FolderName value can be in any language.
 		-->
-        <Item FolderName="Marcà tutte l’occurenze di testu" id="43022"/>
-        <Item FolderName="Marcà tutte l’occurenze di testu" id="43024"/>
-        <Item FolderName="Marcà tutte l’occurenze di testu" id="43026"/>
-        <Item FolderName="Marcà tutte l’occurenze di testu" id="43028"/>
-        <Item FolderName="Marcà tutte l’occurenze di testu" id="43030"/>
+        <Item FolderName="Stilizà tutte l’occurenze di testu" id="43022"/>
+        <Item FolderName="Stilizà tutte l’occurenze di testu" id="43024"/>
+        <Item FolderName="Stilizà tutte l’occurenze di testu" id="43026"/>
+        <Item FolderName="Stilizà tutte l’occurenze di testu" id="43028"/>
+        <Item FolderName="Stilizà tutte l’occurenze di testu" id="43030"/>
 
-        <Item FolderName="Marcà una occurenza di testu" id="43062"/>
-        <Item FolderName="Marcà una occurenza di testu" id="43063"/>
-        <Item FolderName="Marcà una occurenza di testu" id="43064"/>
-        <Item FolderName="Marcà una occurenza di testu" id="43065"/>
-        <Item FolderName="Marcà una occurenza di testu" id="43066"/>
+        <Item FolderName="Stilizà una occurenza di testu" id="43062"/>
+        <Item FolderName="Stilizà una occurenza di testu" id="43063"/>
+        <Item FolderName="Stilizà una occurenza di testu" id="43064"/>
+        <Item FolderName="Stilizà una occurenza di testu" id="43065"/>
+        <Item FolderName="Stilizà una occurenza di testu" id="43066"/>
 
-        <Item FolderName="Spazzà tutte e marche" id="43023"/>
-        <Item FolderName="Spazzà tutte e marche" id="43025"/>
-        <Item FolderName="Spazzà tutte e marche" id="43027"/>
-        <Item FolderName="Spazzà tutte e marche" id="43029"/>
-        <Item FolderName="Spazzà tutte e marche" id="43031"/>
-        <Item FolderName="Spazzà tutte e marche" id="43032"/>
+        <Item FolderName="Nettà tutti i stili" id="43023"/>
+        <Item FolderName="Nettà tutti i stili" id="43025"/>
+        <Item FolderName="Nettà tutti i stili" id="43027"/>
+        <Item FolderName="Nettà tutti i stili" id="43029"/>
+        <Item FolderName="Nettà tutti i stili" id="43031"/>
+        <Item FolderName="Nettà tutti i stili" id="43032"/>
         <Item id="0"/>
 
 		<!--
