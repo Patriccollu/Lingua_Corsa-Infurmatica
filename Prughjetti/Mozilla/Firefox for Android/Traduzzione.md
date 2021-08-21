@@ -22,7 +22,7 @@
 ## I schedarii di lingua à traduce
 
 - U furmatu di i schedarii : `.xml`
-- À st’ora, schedarii, ci n’hè 30, tutti cù u nome `strings.xml` ognunu in u so sottucartulare
+- À st’ora, schedarii, ci n’hè più di 30, tutti cù u listessu nome `strings.xml` ma ognunu in u so sottucartulare
 - A lista di i nomi di tutti sti schedarii si trova in u membru [OmegaT](OmegaT.md).
 - Ci hè dinù una prucedura per scaricalli tutti. Per sapene di più, fighjate u membru [OmegaT](OmegaT.md).
 - E fonte d’origine in inglese si trovanu in sottucartulari chjamati `/values/`
@@ -31,7 +31,7 @@
   - [U schedariu d’origine in inglese](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml)
   - [U schedariu in lingua corsa](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values-co/strings.xml)
 
-U dipositu di tutte __a fonte__ di _Firefox for Android_ si trova nant’à _GitHub_ :  
+U dipositu di tutta __a fonte__ di _Firefox for Android_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-mobile/fenix
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
@@ -40,7 +40,7 @@ U dipositu di tutte __a fonte__ di _Firefox for Android_ si trova nant’à _Git
 - Si pò fighjà e catene chì fermanu à traduce nant’à sta pagina :  
   https://pontoon.mozilla.org/co/firefox-for-android/all-resources/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
-- Hè ricumandatu dinù di scrivessi à a lista di distribuzione [mozilla.dev.l10n](https://groups.google.com/forum/#!forum/mozilla.dev.l10n) per riceve infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
+- Hè ricumandatu dinù di scrivessi à stu [foru _Discourse_ di _moz:lla_](https://discourse.mozilla.org/c/l10n/547) per leghje l’articuli nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
 
 ## Cumu fà a traduzzione ?
 
