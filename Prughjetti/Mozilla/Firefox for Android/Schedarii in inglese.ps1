@@ -10,6 +10,12 @@ Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml" -OutFile "components-browser-toolbar-strings.xml"
 
+Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/awesomebar/src/main/res/values/strings.xml" -OutFile "components-compose-awesomebar-strings.xml"
+
+Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/browser-toolbar/src/main/res/values/strings.xml" -OutFile "components-compose-browser-toolbar-strings.xml"
+
+Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/tabstray/src/main/res/values/strings.xml" -OutFile "components-compose-tabstray-strings.xml"
+
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml" -OutFile "components-feature-addons-strings.xml"
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/app-links/src/main/res/values/strings.xml" -OutFile "components-feature-app-links-strings.xml"
