@@ -4,7 +4,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ## Scaricamentu di i schedarii di lingua inglese
 
-À st’ora, schedarii, ci n’hè 30, tutti cù u listessu nome `strings.xml` è ognunu in u so sottucartulare. Ancu di grazia, ci hè una prucedura per scaricalli tutti di manera autumatica. Sta prucedura, chì impiega __Windows PowerShell__, si chjama `Schedarii in inglese.ps1`.
+À st’ora, schedarii, ci n’hè più di 30, tutti cù u listessu nome `strings.xml` è ognunu in u so sottucartulare. Ancu di grazia, ci hè una prucedura per scaricalli tutti di manera autumatica. Sta prucedura, chì impiega __Windows PowerShell__, si chjama `Schedarii in inglese.ps1`.
 
 ###  A prucedura autumatica
 
@@ -27,6 +27,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/menu/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/compose/awesomebar/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/compose/browser-toolbar/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/compose/tabstray/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/app-links/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/autofill/src/main/res/values/strings.xml  
@@ -62,6 +65,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   components-browser-menu2-strings.xml
   components-browser-menu-strings.xml
   components-browser-toolbar-strings.xml
+  components-compose-awesomebar-strings.xml
+  components-compose-browser-toolbar-strings.xml
+  components-compose-tabstray-strings.xml
   components-feature-addons-strings.xml
   components-feature-app-links-strings.xml
   components-feature-autofill-strings.xml
