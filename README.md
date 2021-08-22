@@ -125,12 +125,14 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
 ## ✨ PDFCreator, HotFolder è Images2PDF
 https://www.pdfforge.org/pdfcreator  
 _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tutta appiecazione capace di stampà. **HotFolder** pò trasfurmà u cuntenutu di tuttu un cartulare in schedarii PDF o imaghjine. **Images2PDF** pò cunvertisce imaghjine in schedarii PDF. I dui prugrammi HotFolder è Images2PDF sò distribuiti solu cù PDFCreator Professional._
+  
+⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFCreator_ chì hè di rigalu, o _PDFCreator Professional_ ch’ellu ci vole à pagà.
 
 ## ✨ PDF Split and Merge
 https://pdfsam.org/  
 _Indipendente di u sistema è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
   
-⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ella ci vole à pagà.
+⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ellu ci vole à pagà.
 
 ## ✨ Poedit è WinSparkle
 https://poedit.net/  
