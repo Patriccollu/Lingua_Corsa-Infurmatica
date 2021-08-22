@@ -53,13 +53,13 @@ _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’
   
 📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://apps.apple.com/fr/app/firefox-focus/id1055677337).
 
-## ✨ Firefox Focus for Android
+## ✨ Focus for Android
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
-_Navigatore per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
+_Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
   
 📗 __Nota__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr).
 
-## ✨ Firefox Focus for iOS
+## ✨ Focus for iOS
 https://apps.apple.com/fr/app/firefox-focus/id1055677337  
 _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principale di Firefox Focus hè di rende a navigazione privata più faciule è simplice. St’appiecazione blucca autumaticamente una parte maiò di i perseguitatori, da quandu vi a lanciate fine à quandu vi a chjudite. Squassate di manera faciule a vostra cronolugia di navigazione, e vostre parolle d’entrate è i vostri canistrelli per liberavvi di certi elementi cum’è e publicità indesiderevule._
   
