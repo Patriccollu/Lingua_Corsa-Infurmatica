@@ -37,7 +37,7 @@ U dipositu di tutta __a fonte__ di _Focus for Android_ si trova nant’à _GitHu
 - Si pò fighjà e catene chì fermanu à traduce nant’à sta pagina :  
   https://pontoon.mozilla.org/co/focus-for-android/mozilla-mobile/focus-android/app/src/main/res/values/strings.xml/?status=missing
 - Di più, quandu s’appronta una nova versione, si pò fighjà una data _Deadline_ in pettu à u prughjettu nant’à a [pagina di a squadra corsa nant’à a traduzzione di i prughjetti Mozilla](https://pontoon.mozilla.org/co/).
-- Hè ricumandatu dinù di scrivessi à a lista di distribuzione [mozilla.dev.l10n](https://groups.google.com/forum/#!forum/mozilla.dev.l10n) per riceve infurmazione nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
+- Hè ricumandatu dinù di scrivessi à stu [foru _Discourse_ di _moz:lla_](https://discourse.mozilla.org/c/l10n/547) per leghje l’articuli nant’à a traduzzione (l10n = _localization_) di i prughjetti Mozilla.
 
 ## Cumu fà a traduzzione ?
 
