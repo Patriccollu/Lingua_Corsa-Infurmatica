@@ -15,7 +15,7 @@ _Per cumpresse o stringhje unu o parechji schedarii, o cartulari, in un solu sch
 
 ## ✨ Audacity
 https://www.audacityteam.org/  
-_Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale._
+_Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
 
 ## ✨ CCleaner
 https://www.ccleaner.com/ccleaner  
@@ -138,7 +138,7 @@ _Indipendente di u sistema (Windows, Mac è Linux) è fattu per sparte et adunis
 
 ## ✨ Poedit è WinSparkle
 https://poedit.net/  
-_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
+_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. Stu prugramma funziuneghja nant’à Windows, Mac è Linux. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
 
 ## ✨ RandPass
 https://www.den4b.com/products/randpass  
