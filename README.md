@@ -41,23 +41,33 @@ https://filezilla-project.org/download.php?show_all=1
 
 ## ✨ Firefox for Android
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
-_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
+_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzion per urganizà i siti web visitati..._
+  
+📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr).
 
 ## ✨ Firefox for iOS
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’entrata, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
   
-💡 __Astuzia__ : Aghjunghje a lingua Corsu in e preferenze generale di u vostru telefonu : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.
+💡 __Astuzia__ : Aghjunghje a lingua Corsu in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.
+  
+📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://apps.apple.com/fr/app/firefox-focus/id1055677337).
 
 ## ✨ Firefox Focus for Android
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
-_Navigatore per Android - un pocu anzianu ma simplice - sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
+_Navigatore per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
   
-📗 __Nota__ : Stu pruduttu hè sempre distribuitu da Mozilla ma a so evoluzione hè stata piantata. Nant’à Android, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr) cum’è navigatore Internet.
+📗 __Nota__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr).
+
+## ✨ Firefox Focus for iOS
+https://apps.apple.com/fr/app/firefox-focus/id1055677337  
+_Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principale di Firefox Focus hè di rende a navigazione privata più faciule è simplice. St’appiecazione blucca autumaticamente una parte maiò di i perseguitatori, da quandu vi a lanciate fine à quandu vi a chjudite. Squassate di manera faciule a vostra cronolugia di navigazione, e vostre parolle d’entrate è i vostri canistrelli per liberavvi di certi elementi cum’è e publicità indesiderevule._
+  
+📗 __Nota__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](https://apps.apple.com/fr/app/firefox-web-browser/id989804926).
 
 ## ✨ Firefox Lockwise
 https://apps.apple.com/fr/app/firefox-lockwise/id1314000270  
-_Funzione svillupata da Mozilla per urganizà e vostre parolle d’entrata di Firefox da una manera sicura è accedeci dapertuttu grazia à a sincrunizazione._
+_Funzione svillupata da Mozilla per urganizà e vostre parolle d’entrata di Firefox da una manera sicura è accedeci dapertuttu grazia à una sincrunizazione nant’à un prufilu persunale._
 
 ## ✨ fre:ac
 https://www.freac.org/  
@@ -76,7 +86,7 @@ https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 https://handbrake.fr/  
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à Windows.
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à _Windows_.
 
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
