@@ -11,7 +11,7 @@ Eccu i nomi di sti prugrammi, i siti web induve si trovanu, è una corta discriz
 
 ## ✨ 7-zip
 https://www.7-zip.org/  
-_Per cumpresse o stringhje unu o parechji schedarii, o cartulari, in un solu schedariu più chjucu. In più di què, stu schedariu cumpressu pò esse prutettu da una parolla d’entrata._
+_Per cumpresse o stringhje unu o parechji schedarii, o cartulari, in un solu schedariu più chjucu. In più di què, stu schedariu cumpressu pò esse prutettu da una parolla d’entrata. A cumpressione è a scumpressione hè permessa per i furmati : 7z, XZ, BZIP2, GZIP, TAR, ZIP è WIM. Ma a scumpressione sola hè pussibule per tutti quelli : AR, ARJ, CAB, CHM, CPIO, CramFS, DMG, EXT, FAT, GPT, HFS, IHEX, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, QCOW2, RAR, RPM, SquashFS, UDF, UEFI, VDI, VHD, VMDK, WIM, XAR è Z._
 
 ## ✨ Audacity
 https://www.audacityteam.org/  
@@ -19,9 +19,9 @@ _Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’u
 
 ## ✨ CCleaner
 https://www.ccleaner.com/ccleaner  
-_Per nettà ciò chì ùn serve à nunda nant’à u vostru urdinatore è ottene un PC più nettu, più sicuru è più rapidu._  
+_Per nettà ciò chì ùn serve à nunda nant’à u vostru urdinatore è ottene un PC più nettu, più sicuru è più rapidu. Stu prugramma pò dinù analizà a versione di i prugrammi è di i piloti installati._  
   
-⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _CCleaner Free_ chì hè di rigalu, o _CCleaner Professional_ ch’ella ci vole à pagà.
+⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _CCleaner Free_ chì hè di rigalu, o _CCleaner Professional_ ch’ellu ci vole à pagà.
 
 ## ✨ CDex
 https://cdex.mu/  
@@ -33,7 +33,7 @@ _Per aiutavvi à sceglie un culore à partesi di parechje tavulette o à coglie 
 
 ## ✨ FileZilla
 https://filezilla-project.org/index.php  
-_Per mandà nant’à un servitore FTP, SFTP è FTPS, o piglià da stu servitore, schedarii o cartulari._  
+_Per mandà nant’à un servitore FTP, SFTP è FTPS, o piglià da stu servitore, schedarii o cartulari. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._  
   
 ⚠️ __Fate casu__ : ci vole à scaricà u prugramma da quì :
 https://filezilla-project.org/download.php?show_all=1  
@@ -71,14 +71,14 @@ _Funzione svillupata da Mozilla per urganizà e vostre parolle d’entrata di Fi
 
 ## ✨ fre:ac
 https://www.freac.org/  
-_Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è cudificatori cunnisciuti._
+_Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è cudificatori cunnisciuti cum’è MP3, M4A/AAC, FLAC, WMA, Opus, Ogg Vorbis, Speex, Monkey's Audio (APE), WavPack, WAV è d’altri. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
 
 ## ✨ GeneWeb
 https://geneweb.tuxfamily.org/wiki/GeneWeb/fr  
-_Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web._
+_Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 7.0.0 è quelle più recente.  
-  
+   Stu prugramma funziuneghja nant’à Windows, Mac è Linux.
 💡 __Astuzia__ : Si pò ancu fighjà in linea è in lingua corsa una versione di _dimustrazione_ à st’indirizzu :  
 https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 
@@ -94,7 +94,7 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 
 ## ✨ Inno Setup
 https://jrsoftware.org/isinfo.php  
-_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, sti prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
+_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
 
 ## ✨ Mozilla VPN
 https://vpn.mozilla.org/  
@@ -104,7 +104,9 @@ _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cu
 
 ## ✨ Mp3tag
 https://www.mp3tag.de/en/  
-_Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3 è ID3v2.4. Grazia à u so accessu à e banche di dati in-linea cum’è Amazon, discogs, MusicBrainz o freedb, st’attrezzu putente è faciule à impiegà pò ricoglie autumaticamente l’infurmazioni reale di a vostra bibliuteca di musica._
+_Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WMA, Vorbis Comments è APE Tags di schedarii audio di [furmati numerosi](https://www.mp3tag.de/en/#formats). Grazia à u so accessu à e banche di dati in-linea cum’è Amazon, discogs, MusicBrainz o freedb, st’attrezzu putente è faciule à impiegà pò ricoglie autumaticamente l’infurmazioni reale di a vostra bibliuteca di musica._
+  
+⚠️ __Fate casu__ : Ci hè dinù [una versione per Mac](https://apps.apple.com/fr/app/id1532597159/) ma **ci vole à pagà** per impiegalla :-(
 
 ## ✨ Notepad++
 https://notepad-plus-plus.org/  
@@ -118,7 +120,7 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 
 ## ✨ OmegaT
 https://omegat.org/co/  
-_Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma, scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
+_Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.
 
@@ -130,7 +132,7 @@ _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tut
 
 ## ✨ PDF Split and Merge
 https://pdfsam.org/  
-_Indipendente di u sistema è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
+_Indipendente di u sistema (Windows, Mac è Linux) è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
   
 ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ellu ci vole à pagà.
 
