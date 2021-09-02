@@ -15,6 +15,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 - Lancià _Windows PowerShell_ cù un cliccu dirittu nant’à u listinu « Démarrer »
 - Rimpiazzià u cartulare attuale - cù a cumanda `CD u_mo_cartulare` - da quellu induve ci vole à piazzà i schedarii scaricati, per indettu : `CD C:\Traduzzione\OmegaT\Firefox_Android\source\`
 - Incullà e linee cupiate cù a cumanda `Ctrl-V`
+- Appughjate nant’à u tastu `Entrée`
 - Quandu tutte e cumande sò state passate, i schedarii d’origine in inglese si trovanu in u cartulare sceltu
 - Chjode _Windows PowerShell_ cù a cumanda `exit`
 
