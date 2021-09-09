@@ -86,7 +86,7 @@ https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 https://handbrake.fr/  
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à _Windows_.
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à _Windows_. Ci vole à aspettà a versione 1.5.0 per esse distribuita nant’à _Mac_ è _Linux_.
 
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
