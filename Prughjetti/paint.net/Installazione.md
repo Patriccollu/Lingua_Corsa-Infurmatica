@@ -7,7 +7,7 @@
 Scaricà u schedariu chì cuntene a lingua corsa di l’interfaccia
 - Andà à st’indirizzu :  
 https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/paint.net/PaintDotNet.Strings.3.co.resources
-- Fà un cliccu dirittu nant’à u buttone « _Raw_ » chì si trova insù è à dirittu, accant’à l’icone di u screnu, di a mina è di a curbella.
+- Fà un cliccu dirittu nant’à u buttone « _Download_ » chì si trova insù è à dirittu, accant’à l’icona di u screnu è quella di a curbella.
 - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
 
 ### Installazione
@@ -21,10 +21,9 @@ https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/pa
 
 - Lancià _paint.net_
 - Affissà e preferenze di u prugramma cù l’icona in forma di rotula, insù è à diritta
+- In l’unghjettu `Interfaccia di l’utilizatore`, à a rubrica `Lingua`, sceglie a lingua `Corsu`
 
 <img src = "Fiure/Preferenze.png">
-
-- In l’unghjettu `Interfaccia di l’utilizatore`, à a rubrica `Lingua`, sceglie a lingua `Corsu`
 
 ### Verificazione
 
