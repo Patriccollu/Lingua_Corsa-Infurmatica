@@ -32,4 +32,4 @@ Tutti sti siti sò di lingua inglese.
 - [U blogu di _paint.net_](https://blog.getpaint.net/)
 - [I fori di _paint.net_](https://forums.getpaint.net/)
 - [U foru di _paint.net_ nant’à a traduzzione è a lucalizazione](https://forums.getpaint.net/forum/5-translation-and-localization/)
-- [L’articulu di u foru nant’à a traduzzione in lingua corsa](https://forums.getpaint.net/topic/99999-corsican-localization/)
+- [L’articulu di u foru nant’à a traduzzione in lingua corsa](https://forums.getpaint.net/topic/118644-corsican-localization/)
