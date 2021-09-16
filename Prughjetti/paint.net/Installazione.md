@@ -21,13 +21,15 @@ https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/pa
 
 - Lancià _paint.net_
 - Affissà e preferenze di u prugramma cù l’icona in forma di rotula, insù è à diritta
-- In l’unghjettu `Interfaccia di l’utilizatore`, à a rubrica `Lingua`, sceglie a lingua `Corsu`
+- In l’unghjettu `Interface utilisateur`, à a rubrica `Langue`, sceglie a lingua `Corsu`
 
-<img src = "Fiure/Preferenze.png">
+<img src = "Fiure/Param%C3%A8tres.png">
 
 ### Verificazione
 
-Ci vole à rilancià _paint.net_ è tandu a so interfaccia hè in lingua corsa.  
+Ci vole à rilancià _paint.net_ è tandu a so interfaccia hè in lingua corsa.
+
+<img src = "Fiure/Interfaccia%20in%20corsu.png">
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
