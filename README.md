@@ -49,7 +49,7 @@ _L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozi
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’entrata, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
   
-💡 __Astuzia__ : Aghjunghje a lingua Corsu in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.
+💡 __Astuzia__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.
   
 📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://apps.apple.com/fr/app/firefox-focus/id1055677337).
 
@@ -77,8 +77,8 @@ _Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è c
 https://geneweb.tuxfamily.org/wiki/GeneWeb/fr  
 _Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 7.0.0 è quelle più recente.  
-   Stu prugramma funziuneghja nant’à Windows, Mac è Linux.
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 7.0.0 è quelle più recente. Stu prugramma funziuneghja nant’à Windows, Mac è Linux.  
+  
 💡 __Astuzia__ : Si pò ancu fighjà in linea è in lingua corsa una versione di _dimustrazione_ à st’indirizzu :  
 https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 
@@ -104,8 +104,7 @@ _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cu
 
 ## ✨ Mp3tag
 https://www.mp3tag.de/en/  
-_Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WMA, Vorbis Comments è APE Tags di schedarii audio di [furmati numerosi](https://www.mp3tag.de/en/#formats). Grazia à u so accessu à e banche di dati in-linea cum’è Amazon, discogs, MusicBrainz o freedb, st’attrezzu putente è faciule à impiegà pò ricoglie autumaticamente l’infurmazioni reale di a vostra bibliuteca di musica._
-  
+_Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WMA, Vorbis Comments è APE Tags di schedarii audio di [furmati numerosi](https://www.mp3tag.de/en/#formats). Grazia à u so accessu à e banche di dati in-linea cum’è Amazon, discogs, MusicBrainz o freedb, st’attrezzu putente è faciule à impiegà pò ricoglie autumaticamente l’infurmazioni reale di a vostra bibliuteca di musica._  
 ⚠️ __Fate casu__ : Ci hè dinù [una versione per Mac](https://apps.apple.com/fr/app/id1532597159/) ma **ci vole à pagà** per impiegalla :-(
 
 ## ✨ Notepad++
@@ -158,7 +157,7 @@ _Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quand
 
 _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video ffmpeg._  
   
-💡 __Astuzia__ : Ùn ci hè nisuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md)
+💡 __Astuzia__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md).
 
 ## ✨ VirtualMIDISynth
 https://coolsoft.altervista.org/en/virtualmidisynth  
@@ -183,13 +182,21 @@ _Purtera di u lettore media liberu VLC nant’à iPad, iPhone è iPod touch chì
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
   
-💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md)
+💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’istruzzioni particulare per [impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
+
+## ⏳ paint.net
+https://www.getpaint.net/  
+_Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._  
+  
+💡 __Astuzia__ : Si pò dighjà impiegà a versione attuale in lingua corsa. Per sapene di più, seguitate [l’istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/paint.net/Installazione.md).  
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 4.3.1 è quelle più recente.
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
-💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua.](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md)
+💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricallu è installallu. Per sapene di più, seguitate [l’istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
@@ -201,10 +208,6 @@ _Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurn
 ## 🎯 Common Voice
 https://commonvoice.mozilla.org/fr  
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
-
-## 🎯 paint.net
-https://www.getpaint.net/  
-_Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
