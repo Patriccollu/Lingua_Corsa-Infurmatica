@@ -6,6 +6,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 ## Scaricamentu di u schedariu à traduce
 
+- U schedariu di lingua inglese si trova in quellu sottucartulare d’installazione di _paint.net_ :  
+`C:\Program Files\paint.net\resx`
+
 - Si pò scaricà u schedariu __in lingua corsa__ da quì :  
   https://crowdin.com/project/paintdotnet/co#
 
@@ -13,11 +16,14 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
   - `Download` per scaricà un schedariu in u so furmatu `.resx` d’origine
   - `Download in XLIFF` per scaricà un schedariu cù u furmatu `.xliff` (**RICUMANDATU**)
 
-- Si pò dinù scaricà [un schedariu compressu](https://crowdin.com/backend/download/project/paintdotnet.zip) chì cuntene u schedariu per ogni lingua.
+- Ci vole à sapè ch’ellu si pò scaricà dinù [un schedariu compressu](https://crowdin.com/backend/download/project/paintdotnet.zip) chì cuntene u schedariu per ogni lingua è chì seria ghjuvevule per paragunà a traduzzione trà parechje lingue.
+
+- Fate casu chì si pò accede à tutti sti liami nant’à _Crowdin_ solu s’è vo site cunnessi à u vostru contu _Crowdin_.
 
 ## Preparazione di u schedariu nanzu a traduzzione
-
-- Hè **ricumandatu** di scaricà u schedariu in u furmatu `.xliff` perchè l’approntu hè più faciule.
+Secondu u schedariu scaricatu, l’approntu hè più o menu faciule :
+- Cù u schedariu `PaintDotNet.Strings.3.resx` scaricatu da u sottucartulare d’installazione di _paint.net_, ùn ci hè alcunu approntu
+- Cù u schedariu `PaintDotNet.Strings.3.co.xliff` scaricatu da _Crowdin_ cù l’azzione `Download in XLIFF`, l’approntu hè faciule è l’istruzzioni si trovanu in u paragrafu chì seguita
 
 ### Estensione .xliff
 - Lancià _Poedit_
@@ -27,6 +33,10 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di tutte ste catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
 - Arregistrà u schedariu cù u listessu nome
+
+### Estensione .resx
+- Ùn ci hè alcunu approntu s’è u schedariu `PaintDotNet.Strings.3.resx` hè statu scaricatu da u sottucartulare d’installazione di _paint.net_ perchè e catene sò tutte in lingua inglese
+- Ma s’è u schedariu `PaintDotNet.Strings.3.co.resx` hè statu scaricatu da _Crowdin_ cù l’azzione `Download`, l’approntu ùn hè micca pussibule perchè e catene sò solu in lingua corsa
 
 ## Copia di u schedariu di lingua inglese
 
