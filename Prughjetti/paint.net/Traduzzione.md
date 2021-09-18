@@ -27,11 +27,14 @@
 
 ### Situ officiale di traduzzione
 
-Tutti i schedarii di lingua - per ogni lingua dispunibule in _paint.net_ - si trovanu nant’à [_Crowdin_](https://crowdin.net/project/paintdotnet).
+- U schedariu di lingua inglese si trova in quellu sottucartulare d’installazione di _paint.net_ :  
+`C:\Program Files\paint.net\resx`
 
-Quellu per a lingua corsa si trova quì : https://crowdin.net/project/paintdotnet/co#
+- Tutti i schedarii di lingua - per ogni lingua dispunibule in _paint.net_ - si trovanu nant’à [_Crowdin_](https://crowdin.net/project/paintdotnet).
 
-Fate casu chì si pò accede à tutti sti liami nant’à _Crowdin_ solu s’è vo site cunnessi à u vostru contu _Crowdin_.
+- Quellu per a lingua corsa si trova quì : https://crowdin.net/project/paintdotnet/co#
+
+- Fate casu chì si pò accede à tutti sti liami nant’à _Crowdin_ solu s’è vo site cunnessi à u vostru contu _Crowdin_.
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
