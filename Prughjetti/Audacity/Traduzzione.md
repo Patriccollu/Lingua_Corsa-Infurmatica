@@ -70,12 +70,14 @@ Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u
 - A memoria di traduzzione di _Poedit_ hè nutrita da e traduzzioni di schedarii solu di furmatu `.po` invece chì quella d’_OmegaT_ hè più maiò perchè ella cresce da e traduzzioni di schedarii di tutti i furmati.
 - Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
-- Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà direttamente u schedariu di lingua corsa :
-  - `Audacity master (development version, updated daily)` https://www.transifex.com/klyok/audacity/audacity-master-development/co/download/for_translation/
-  - `Audacity master (string freeze version)` https://www.transifex.com/klyok/audacity/audacity-master/co/download/for_translation/
-  - `Audacity release-3.0.3)` https://www.transifex.com/klyok/audacity/audacity-release-303/co/download/for_translation/
+- Osinnò per cumpletà una traduzzione cù _Poedit_, ci hè duie ozzioni :
+  - Scaricà u [schedariu di lingua corsa `co.po` da _GitHub_](https://github.com/audacity/audacity/blob/master/locale/co.po)
+  - Impiegà _Transifex_ per espurtà direttamente u schedariu di lingua corsa :
+    - `Audacity master (development version, updated daily)` https://www.transifex.com/klyok/audacity/audacity-master-development/co/download/for_translation/
+    - `Audacity master (string freeze version)` https://www.transifex.com/klyok/audacity/audacity-master/co/download/for_translation/
+    - `Audacity release-3.0.3)` https://www.transifex.com/klyok/audacity/audacity-release-303/co/download/for_translation/
 - Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu.
-- Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
+- Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téléverser un fichier` per rinfrescà u schedariu di traduzzione.
 
 ## Istruzzioni per piglià in contu u novu schedariu in lingua corsa
 
