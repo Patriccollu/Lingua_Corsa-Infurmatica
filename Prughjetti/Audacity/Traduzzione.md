@@ -30,9 +30,10 @@ I schedarii di tutte e lingue tradutte si trovanu in u cartulare [/locale/.](htt
 - A fonte d’origine : [audacity.pot](https://github.com/audacity/audacity/blob/master/locale/audacity.pot)
 - U schedariu di lingua corsa : [co.po](https://github.com/audacity/audacity/blob/master/locale/co.po)
 
-Ci hè dinù un altru locu - ind’è [_Transifex_](https://www.transifex.com/klyok/audacity/language/co/) - induve si pò truvà duie versione di u schedariu di lingua corsa :
-- `Audacity` hè una copia di a versione attuale
-- `Audacity (development)` hè a versione di sviluppu, quella chì diventerà a prossima versione
+Ci hè dinù un altru locu - ind’è [_Transifex_](https://www.transifex.com/klyok/audacity/language/co/) - induve si pò truvà parechje versione di u schedariu di lingua corsa :
+- `Audacity master (development version, updated daily)` hè a versione di sviluppu, quella chì pò cambià à ogni mumentu è chì diventerà a prossima versione
+- `Audacity master (string freeze version)` hè una copia di a versione attuale
+- Un altra versione, cum’è, per indettu, `Audacity release-3.0.3`
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 Ci vole à abbunassi à sta lista di distribuzione di messaghju : [audacity-translation mailing list](https://lists.sourceforge.net/lists/listinfo/audacity-translation)  
@@ -53,12 +54,12 @@ Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
 - A traduzzione si face direttamente in linea nant’à u situ _Transifex_ :  
   https://www.transifex.com/klyok/audacity/language/co/
-- Ci vole à selezziunà a risorsa à traduce : `Audacity` o `Audacity (development)`
+- Ci vole à selezziunà una risorsa à traduce : `Audacity master (development)` o `Audacity master`
 - Cliccà nant’à u buttone `Traduire`
 - St’azzione currisponde à st’indirizzi :
-  - `Audacity` https://www.transifex.com/klyok/audacity/translate/#co/audacity
-  - `Audacity (development)` https://www.transifex.com/klyok/audacity/translate/#co/audacity-development
-- E catene - tradutte o micca - sò affissate in l’ordine alfabeticu ma si pò vede trè categurie : `Toutes`, `Non traduites` è `Non révisées`
+  - `Audacity master (development version, updated daily)` https://www.transifex.com/klyok/audacity/translate/#co/audacity-master-development
+  - `Audacity master (string freeze version)` https://www.transifex.com/klyok/audacity/translate/#co/audacity-master
+- In a parte à manca di l’appiecazione, e catene - tradutte o micca - sò affissate in l’ordine alfabeticu ma si pò vede trè categurie : `Toutes`, `Non traduites` è `Non révisées`
 - Cliccà nant’à a categuria `Non traduites` per fighjà solu e catene chì fermanu à traduce.
 - L’appiecazione _Transifex_, grazia à a so memoria di traduzzione, hè capace di truvà e catene uguale o simile è di pruponele (fighjendu e _Suggestions_) per aiutavvi à traduce.
 
@@ -70,9 +71,10 @@ Officialmente, _Audacity_ ùn prupone alcuna appiecazione - lucale o nant’à u
 - Dunque _Poedit_ serà piuttostu impiegatu per cumpletà a traduzzione d’un schedariu `.po` dighjà principiata è _OmegaT_ serà ricumandatu per fà a traduzzione sana d’un schedariu `.po` o di qualchì altru furmatu.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 - Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà direttamente u schedariu di lingua corsa :
-  - `Audacity` https://www.transifex.com/klyok/audacity/audacity/co/download/for_translation/
-  - `Audacity (development)` https://www.transifex.com/klyok/audacity/audacity-development/co/download/for_translation/
-- Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu
+  - `Audacity master (development version, updated daily)` https://www.transifex.com/klyok/audacity/audacity-master-development/co/download/for_translation/
+  - `Audacity master (string freeze version)` https://www.transifex.com/klyok/audacity/audacity-master/co/download/for_translation/
+  - `Audacity release-3.0.3)` https://www.transifex.com/klyok/audacity/audacity-release-303/co/download/for_translation/
+- Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu.
 - Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
 
 ## Istruzzioni per piglià in contu u novu schedariu in lingua corsa
