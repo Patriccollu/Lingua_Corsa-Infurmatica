@@ -7,28 +7,30 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ## Scaricamentu di u schedariu à traduce
 
 - Si pò scaricà a __versione attuale__ da dui lochi :
-  - Nant’à [_GitHub_](https://github.com/audacity/audacity/blob/master/locale/co.po) si chjama `co.po`
+  - Nant’à [_GitHub_](https://github.com/audacity/audacity/blob/master/locale/audacity.pot) si chjama `audacity.pot`
     - Fà un cliccu drittu nant’à u buttone « _Raw_ » chì si trova à dritta, accant’à l’icone di u screnu, di a mina è di a curbella
     - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
-  - Nant’à [_Transifex_](https://www.transifex.com/klyok/audacity/audacity/co/download/for_translation/) si chjama `for_translation_audacity_audacity_co.po`
-- A __versione di sviluppu__ si trova solu nant’à [_Transifex_](https://www.transifex.com/klyok/audacity/audacity-development/co/download/for_translation/) è si chjama `for_translation_audacity_audacity-development_co.po`
+  - Nant’à [_Transifex_](https://www.transifex.com/klyok/audacity/audacity-master/en/download/for_translation/) si chjama `for_translation_audacity_audacity-master_co.po`
+- A __versione di sviluppu__ si trova solu nant’à [_Transifex_](https://www.transifex.com/klyok/audacity/audacity-master-development/en/download/for_translation/) è si chjama `for_translation_audacity_audacity-master-development_co.po`
 
 ## Preparazione di u schedariu nanzu a traduzzione
 
-U schedariu `.po` scaricatu hè una versione in lingua corsa, vole si dì ch’ellu cuntene tutte e catene in lingua inglese è e so traduzzioni in lingua corsa. Eccu l’istruzzioni per fane una __versione di fonte in lingua inglese__.
+### Estensione .po
+U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì e catene di fonte è quelle di traduzzione sò tutte in lingua inglese. Eccu l’istruzzioni per fane una versione in inglese impieghevule da _Omegat_.
 
 - Lancià _Poedit_
 - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
 - Selezziunà u schedariu `.po` scaricatu
+- Ci hè un messaghju dicendu : `A lingua di a traduzzione hè listessa chì quelle d’origine`
+- Cliccà nant’à u buttone `Currege a lingua`
+- In a finestra chì richiede a lingua di traduzzione, scrive `co` è cliccà nant’à `Vai`
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di e catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
 - Arregistrà u schedariu cù u nome : `Audacity.po`
 
-Ci hè dinù una __manera alternativa__ di creà un schedariu `.po` viotu impieghendu u mudellu di schedariu di traduzzione in inglese (.POT)
+### Estensione .pot
+Un schedariu `.pot` hè un mudellu di schedariu di traduzzione chì permette di creà un schedariu `.po` viotu per una lingua particulare. Eccu l’istruzzioni per fà què.
 
-- Scaricà u [mudellu di schedariu di traduzzione in inglese](https://github.com/audacity/audacity/blob/master/locale/audacity.pot) `audacity.pot`
-  - Fà un cliccu drittu nant’à u buttone « _Raw_ » chì si trova à dritta, accant’à l’icone di u screnu, di a mina è di a curbella
-  - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
 - Lancià _Poedit_
 - Sceglie l’ozzione `Schedariu` > `Novu da un schedariu POT/PO…` o slezziunà l’azzione `Creà nova…` nant’à u screnu di benvenuta
 - Selezziunà u schedariu `.pot` scaricatu
@@ -40,7 +42,7 @@ Ci hè dinù una __manera alternativa__ di creà un schedariu `.po` viotu impieg
   - `Forme plurale` > `Impiegà un espressione predefinita` > __nplurals=2; plural=(n > 1);__
 - Arregistrà u schedariu cù u nome : `Audacity.po`
 
-Sta manera alternativa pò dinù esse impiegata cusì per trasfurmà un altru schedariu di lingua - qualchissia a so lingua di destinazione, per indettu `fr.po` - in un novu schedariu viotu.
+Sta manera alternativa pò dinù esse impiegata cusì per trasfurmà un altru schedariu di lingua - qualchissia a so lingua di destinazione, per indettu `fr.po` - per fane un novu schedariu viotu.
 
 ## Copia di u schedariu di lingua inglese
 
@@ -50,6 +52,7 @@ Sta manera alternativa pò dinù esse impiegata cusì per trasfurmà un altru sc
 
 - Lancià l’appiecazione _OmegaT_
 - Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+  - Verificà chì u furmatu `PO` hè attivatu.  
   - Verificà l’ozzioni di u furmatu `PO` :  
     - [x] `Permette e traduzzioni viote in i schedarii tradutti`
     - [ ] `Permette a traduzzione di i segmenti d’origine vioti`
@@ -69,4 +72,4 @@ Sta manera alternativa pò dinù esse impiegata cusì per trasfurmà un altru sc
 
 Ci vole à mandà u vostru schedariu di lingua corsa da un messaghju elettronicu perchè ùn ci hè alcuna azzione in linea per incaricallu. [Cliccà quì per sapene di più nant’à st’azzione](Traduzzione.md#istruzzioni-per-pigli%C3%A0-in-contu-u-novu-schedariu-in-lingua-corsa).  
 
-Cum’è u corsu hè una di e lingue d’_Audacity_ amministrate nant’à _Transifex_, hè ricumandatu di rinfrescalla nant’à st’appiecazione cù l’ozzione `Téleverser un fichier`.
+Cum’è u corsu hè una di e lingue d’_Audacity_ amministrate nant’à _Transifex_, hè ricumandatu di rinfrescalla nant’à st’appiecazione cù l’ozzione `Téléverser un fichier`.
