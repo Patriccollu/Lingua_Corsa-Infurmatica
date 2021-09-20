@@ -13,7 +13,7 @@ L’istruzzioni per installà l’interfaccia di _VirtualMIDISynth_ in lingua co
 ### [Memoria](Memoria.zip)
 Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _VirtualMIDISynth_
 
-### __Traduzzione__
+### [Traduzzione](Traduzzione.md)
 L’istruzzioni per traduce l’interfaccia di _VirtualMIDISynth_ in lingua corsa
 
 #### Liami di navigazione nant’à stu situ
