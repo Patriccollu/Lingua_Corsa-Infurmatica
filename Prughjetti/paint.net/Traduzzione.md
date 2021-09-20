@@ -47,7 +47,7 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - I traduttori devenu impiegà _Crowdin_ ma a traduzzione si pò fà di parechje manere :
   - sia in linea, a traduzzione si face direttamente nant’à _Crowdin_
   - sia in lucale nant’à u vostru urdinatore perchè _Crowdin_ prupone funzioni per espurtà è impurtà i schedarii
-  - in stu casu, a traduzzione si pò fà cù l’appiecazioni _Poedit_ o _OmegaT_
+  - in stu casu, a traduzzione si pò fà cù l’appiecazioni _OmegaT_ o _Poedit_
 - Ste duie appiecazioni sò capace, grazia à a so memoria di traduzzione, di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce.
 - In duie parolle, una memoria di traduzzione s’assumiglia un pocu à un dizziunariu chì pò cambià autumaticamente e catene in inglese cù a so traduzzione in corsu.
 - In tutti casi, hè ricumandatu d’impiegà _OmegaT_ per fà què perchè st’appiecazione, chì cunnosce tutte e vostre traduzzioni, hà una memoria di traduzzione tamanta.
@@ -64,7 +64,7 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - Stu metoda hè piuttostu ricumandatu quandu ci hè __assai catene à traduce__.
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - Cù _Crowdin_ si pò scaricà un schedariu in dui furmati :
-  - u so furmatu d’origine cù l’azzione `File` > `Download`
+  - u so furmatu d’origine `.resx` cù l’azzione `File` > `Download`
   - u furmatu `.xliff` cù l’azzione `File` > `Download in XLIFF`
 - Ste duie azzioni si trovanu nant’à u listinu chì si chjama « hamburger » - insù è à manca accant’à CORSICAN - quandu vo site in corsu di traduzzione nant’à un schedariu.
 #### Cù _OmegaT_
