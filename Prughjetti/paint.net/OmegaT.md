@@ -40,7 +40,7 @@ Secondu u schedariu scaricatu, l’approntu hè più o menu faciule :
 
 ## Copia di u schedariu di lingua inglese
 
-- Cupià o dispiazzà stu schedariu in u cartulare `source` di u prughjettu _paint.net_ in _OmegaT_.
+- Cupià o dispiazzà u schedariu approntatu - di furmatu `.resx` o `.xliff` - in u cartulare `source` di u prughjettu _paint.net_ in _OmegaT_.
 
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
