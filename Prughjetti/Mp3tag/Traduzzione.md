@@ -28,22 +28,21 @@
   `C:\Program Files (x86)\Mp3tag\lang`
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
-- Ci vole à verificà di quandu in quandu s’è una nova versione cuntene un schedariu `English.lng` cù nove catene.
+- Ci vole à verificà di quandu in quandu s’è una nova versione cuntene un schedariu `English.lng` cù nove catene
 
 ## Cumu fà a traduzzione ?
-- Ci vole à scaricà u schedariu di lingua inglese
 
 ### In linea
-- Ùn ci hè alcunu situ web o appiecazione per aiutà à fà a traduzzione. I traduttori ponu impiegà ciò ch’elli volenu.
+- Ùn ci hè alcunu situ web o appiecazione per aiutà à fà a traduzzione
 
 ### In lucale
 - Si pò impiegà duie metode :
-1. A prima quandu ci hè __poca affare à traduce__
-    - Scaricà u schedariu di lingua corsa
-	- Aprelu cù un editore è traduce e nove catene 
-2. A seconda quandu ci hè __assai catene à traduce__
-    - Scaricà u schedariu di lingua inglese
-    - Approntallu è traducelu cù _OmegaT_. Per fà què, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
+1. Quandu ci hè __poca affare à traduce__
+    - Scaricà u schedariu di lingua __corsa__
+	- Aprelu cù un __editore__ simplice è traduce e nove catene manualmente
+2. Quandu ci hè __assai catene à traduce__
+    - Scaricà u schedariu di lingua __inglese__
+    - Approntallu è traducelu cù _OmegaT_. Per fà què, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md)
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
