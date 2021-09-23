@@ -47,7 +47,8 @@
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
-Quandu u schedariu di lingua corsa hè prontu, ci vole à mandallu à u sviluppatore di _Mp3tag_.
+- Quandu u schedariu di lingua corsa hè prontu, ci vole à mandallu à u sviluppatore di _Mp3tag_
+- U sò indirizzu hè scrittu [nant’à a so pagina di cuntattu](https://www.mp3tag.de/en/contact.html)
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
