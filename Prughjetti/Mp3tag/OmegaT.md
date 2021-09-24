@@ -42,4 +42,4 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 ## Incaricamentu di i schedarii di lingua corsa
 - Quandu u schedariu di lingua corsa hè prontu, ci vole à mandallu à u sviluppatore di _Mp3tag_
-- U sò indirizzu hè scrittu [nant’à a so pagina di cuntattu](https://www.mp3tag.de/en/contact.html)
+- U so indirizzu hè scrittu [nant’à a so pagina di cuntattu](https://www.mp3tag.de/en/contact.html)
