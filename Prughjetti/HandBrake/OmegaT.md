@@ -18,7 +18,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   - Fà un cliccu drittu nant’à u buttone « _Raw_ » chì si trova à dritta, accant’à l’icone di u screnu, di a mina è di a curbella
   - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
 
-## Preparazione di u schedariu nanzu a traduzzione
+## Preparazione di i schedarii nanzu a traduzzione
 
 ### Estensione .resx
 
@@ -64,7 +64,7 @@ U schedariu `.xlf` scaricatu si chjama `for_translation_mac-ui_enxliff_en.xlf`. 
 - In a finestra chì richiede a lingua di traduzzione, scrive `co` è cliccà nant’à `Vai`
 - Arregistrà u schedariu cù u nome : `for_omegat_mac-ui_enxliff_en.xlf`
 
-## Copia di u schedariu di lingua inglese
+## Copia di i schedarii di lingua inglese
 
 - Cupià o dispiazzà i schedarii appruntati in u cartulare `source` di u prughjettu _HandBrake_ in _OmegaT_.
 
