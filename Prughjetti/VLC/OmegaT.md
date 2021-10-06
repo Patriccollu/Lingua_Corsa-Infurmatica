@@ -56,9 +56,14 @@ U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì
 ### Estensione .strings
 - Lancià _Notepad++_
 - Installà e prucedure di cunversione cum’è indicatu in [st’istruzzioni detagliate](Cunversione.md)
-- Apre tutti i schedarii cù l’estensione : `.strings`
-- Eseguisce a macro di cunversione `Cunversione VLC.STRINGS-OmegaT` installata appostu
-- Fate casu chì a cunversione si face in tutti i schedarii cù l’estensione `.strings` aperti in a sessione di _Notepad++_
+- Apre __tutti i schedarii__ cù l’estensione : `.strings`
+- Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
+- Selezziunà u nome di a prucedura à impiegà : `Cunversione VLC.STRINGS-OmegaT`
+- Cliccu nant’à `Eseguisce 1 volta`
+- Appughjà nant’à u buttone `Eseguisce`
+- Quandu s’impiegherà sta prucedura, viderete 3 volte u messaghju quì sottu è ci vulerà à risponde OK :  
+  `Vulete rimpiazzà tutte l’occurrenze in tutti i schedarii aperti ?`
+- Fate casu chì a cunversione si face in __tutti i schedarii__ cù l’estensione `.strings` aperti in una sessione di _Notepad++_. S’ellu hè bisognu, si pò apre una seconda sessione _Notepad++_
 - Arregistrà u schedariu cù u nome : `for_omegat_vlc-trans_xxxxx-yyyyy_en.strings`
 
 ### Estensione .xlf
