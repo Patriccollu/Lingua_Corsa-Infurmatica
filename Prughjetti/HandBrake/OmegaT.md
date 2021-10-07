@@ -30,9 +30,14 @@ U schedariu `.po` scaricatu si chjama `for_translation_linux-ui_ghbpot_en.po`. G
 - Lancià _Poedit_
 - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
 - Selezziunà u schedariu `.po` scaricatu
-- Ci hè un messaghju dicendu : `A lingua di a traduzzione hè listessa chì quelle d’origine`
+- Ci hè un messaghju dicendu : `A lingua di a traduzzione hè listessa chì quella d’origine`
 - Cliccà nant’à u buttone `Currege a lingua`
-- In a finestra chì richiede a lingua di traduzzione, scrive `co` è cliccà nant’à `Vai`
+- Indicà l’infurmazioni richieste in a finestra :
+  - `Nome è versione di prughjettu`
+  - `Squadra di traduzzione`
+  - `Lingua` > __co__
+  - `Forme plurale` > `Impiegà un espressione predefinita` > __nplurals=2; plural=(n > 1);__
+- Cliccà nant’à u buttone `Vai`
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di e catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
 - Arregistrà u schedariu cù u nome : `for_omegat_linux-ui_ghbpot_en.po`
@@ -59,7 +64,7 @@ U schedariu `.xlf` scaricatu si chjama `for_translation_mac-ui_enxliff_en.xlf`. 
 - Lancià _Poedit_
 - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
 - Selezziunà u schedariu `.xlf` scaricatu
-- Ci hè un messaghju dicendu : `A lingua di a traduzzione hè listessa chì quelle d’origine`
+- Ci hè un messaghju dicendu : `A lingua di a traduzzione hè listessa chì quella d’origine`
 - Cliccà nant’à u buttone `Currege a lingua`
 - In a finestra chì richiede a lingua di traduzzione, scrive `co` è cliccà nant’à `Vai`
 - Arregistrà u schedariu cù u nome : `for_omegat_mac-ui_enxliff_en.xlf`
