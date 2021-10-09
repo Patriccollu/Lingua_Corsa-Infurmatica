@@ -4,17 +4,20 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [1155.lang](1155.lang)
-U schedariu di l’interfaccia di _VirtualMIDISynth_ in lingua corsa
-
 ### [Installazione](Installazione.md)
 L’istruzzioni per installà l’interfaccia di _VirtualMIDISynth_ in lingua corsa
 
-### [Memoria](Memoria.zip)
-Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _VirtualMIDISynth_
+### [1155.lang](1155.lang)
+U schedariu di l’interfaccia di _VirtualMIDISynth_ in lingua corsa
 
 ### [Traduzzione](Traduzzione.md)
-L’istruzzioni per traduce l’interfaccia di _VirtualMIDISynth_ in lingua corsa
+L’infurmazione nant’à a traduzzione di _VirtualMIDISynth_ in lingua corsa
+
+### [OmegaT](OmegaT.md)
+L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _VirtualMIDISynth_
+
+### [Memoria](Memoria.zip)
+Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _VirtualMIDISynth_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
