@@ -7,12 +7,11 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Scaricamentu di u schedariu à traduce
 
 - Ci sò duie manere di scaricà u schedariu à traduce :
- 1. Da u prugramma d’installazione in versione beta, impieghendu una prucedura di cunversione cù _Notepad++_
- 2- Da a versione installata nant’à u vostru navigatore, senza installà alcuna prucedura di cunversione
+1. Da u prugramma d’installazione in versione beta, impieghendu una prucedura di cunversione cù _Notepad++_
+2. Da a versione installata nant’à u vostru navigatore, senza installà alcuna prucedura di cunversione
 
 ### Da u prugramma d’installazione in versione beta
-- Si pò scaricà l’ultima versione di u prugramma d’installazione in versione beta da quì :  
-  https://www.downloadhelper.net/firefox/betas
+- Si pò scaricà l’ultima versione di u prugramma d’installazione in versione beta da quì : https://www.downloadhelper.net/firefox/betas
 - Cliccà nant’à u buttone `Install beta version vv.rr.mmm` induve `vv.rr.mmm` riprisente u numeru di versione, per indettu : `7.6.1a1`
 - U prugramma scaricatu hè un schedariu cumpressu chì si chjama `video_downloadhelper-vv.rr.mmm-an+fx.xpi`
 - Si pò impiegà u prugramma _7-Zip_ per apre stu schedariu cumpressu è estrae i schedarii chì si trovanu dentru
@@ -26,9 +25,8 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 - S’ella hè bisognu, ci hè dinù un schedariu in __lingua corsa__ chì si chjama `messages.json` è chì si trova in u cartulare `\_locales\co\`
 
 ### Da a versione installata nant’à u vostru navigatore
-- Lancià _Video DownloadHelper_ __in lingua inglese__ è espurtà u schedariu di sta manera
-- Fà un cliccu dirittu nant’à l’icona di l’interfaccia
-- Sceglie : `Preferences` > `Plus…` > `Traduction`
+- Fà un cliccu dirittu nant’à l’icona di l’interfaccia di _Video DownloadHelper_ installata nant’à u vostru navigatore
+- Sceglie : `Preferenze` > `Più…` > `Traduzzione`
 - Fà un cliccu nant’à u buttone `Export`
 
 ## Copia di u schedariu di lingua inglese
