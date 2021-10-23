@@ -190,7 +190,7 @@ _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Win
   
 💡 __Astuzia__ : Si pò dighjà impiegà a versione attuale in lingua corsa. Per sapene di più, seguitate [l’istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/paint.net/Installazione.md).  
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 4.3.1 è quelle più recente.
+📗 __Nota__ : A lingua corsa serà distribuita cù a versione 4.3.3 è quelle più recente.
 
 ## ✨ PDFCreator Online
 https://tools.pdfforge.org/fr  
