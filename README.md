@@ -192,6 +192,10 @@ _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Win
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 4.3.1 è quelle più recente.
 
+## ✨ PDFCreator Online
+https://tools.pdfforge.org/fr  
+_Un situ web induve si trovanu tutte e funzioni per mudificà **in linea** i vostri schedarii PDF : unione, divizione, cumpressione, paragone, aghjuntu di parolla d’intesa, di stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
+
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
