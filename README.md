@@ -129,7 +129,7 @@ _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tut
   
 ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFCreator_ chì hè di rigalu, o _PDFCreator Professional_ ch’ellu ci vole à pagà.
 
-## ✨ PDF Split and Merge
+ ## ✨ PDF Split and Merge
 https://pdfsam.org/  
 _Indipendente di u sistema (Windows, Mac è Linux) è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._  
   
@@ -196,6 +196,10 @@ _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Win
 https://tools.pdfforge.org/fr  
 _Un situ web induve si trovanu tutte e funzioni per mudificà **in linea** i vostri schedarii PDF : unione, divizione, cumpressione, paragone, aghjuntu di parolla d’intesa, di stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
 
+## ✨ Shutter
+https://www.den4b.com/products/shutter  
+_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta avvenimenti è azzioni numerosi. L’avvenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._
+
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
@@ -213,6 +217,10 @@ _Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurn
 https://commonvoice.mozilla.org/fr  
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
 
+## 🎯 ReNamer
+https://www.den4b.com/products/renamer  
+_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
+
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
 _Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
@@ -222,6 +230,10 @@ https://www.videolan.org/vlc/
 _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
   
 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu una metà - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
+
+## 🎯 WinMerge
+https://winmerge.org/?lang=fr  
+_Attrezzu di paragone è di fusione in « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._
 
 ## 🎯 wxWidgets
 https://www.wxwidgets.org/  
