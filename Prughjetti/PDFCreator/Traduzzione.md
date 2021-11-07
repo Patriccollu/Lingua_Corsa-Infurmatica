@@ -3,6 +3,7 @@
 ## Distribuzione
 - A prima traduzzione in corsu hè stata distribuita cù a versione 1.2.0 d’aprile di u 2011
 - L’installazione di u prugramma, chì impiega _Inno Setup_, si pò fà in lingua corsa
+- Ci hè dinù [un situ Web](https://tools.pdfforge.org/co-FR) per quellu a traduzzione hè stata distribuita di nuvembre di u 2021
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
@@ -25,10 +26,12 @@
 - U furmatu di i schedarii : `.po`
 
 - Tutte e lingue dispunibule si trovanu nant’à _pdfforge translate_ :  
-  https://translate.pdfforge.org/projects/pdfcreator/#languages
+  https://translate.pdfforge.org/projects/pdfcreator/#languages  
+  https://translate.pdfforge.org/projects/pdfcreator-online/#languages
 
 - Quelli per a lingua corsa si trovanu quì :  
-  https://translate.pdfforge.org/languages/co_FR/pdfcreator/
+  https://translate.pdfforge.org/languages/co_FR/pdfcreator/  
+  https://translate.pdfforge.org/languages/co_FR/pdfcreator-online/
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 Trà duie versioni, a squadra di _PDFCreator_ mudificheghja e catene di fonte nant’à _pdfforge translate_ aghjunghjendu catene nove, mudifichendu catene anziane, o ancu aghjughjendu un novu schedariu.  Quand’ella casca, sta squadra manda un messaghju à tutti i traduttori.
@@ -41,9 +44,10 @@ I traduttori devenu impiegà _pdfforge translate_ ma a traduzzione si pò fà di
 ### In linea
 - Si pò impiegà stu metoda quandu ci hè __poca affare à traduce__.
 - A traduzzione si face direttamente in linea nant’à u situ _pdfforge translate_ :  
-  https://translate.pdfforge.org/languages/co_FR/pdfcreator/
-- Ci vole à selezziunà a risorsa à traduce : `Messages` o `Setup`
-- Tandu, ci vole à sceglie a categuria di catene. Ci hè parechje categurie ma e più impurtante sò :
+  https://translate.pdfforge.org/languages/co_FR/
+- Ci vole à selezziunà u prughjettu à traduce : `PDFCreator` o `PDFCreator Online`
+- Tandu, ci vole à selezziunà u cumpunente à traduce : `Messages`, `Setup` o `Frontend`
+- Eppò, ci vole à sceglie a categuria di catene. Ci hè parechje categurie ma e più impurtante sò :
   - `Chaînes nécessitant une action`
   - `Chaînes non traduites`
   - `Toutes les chaînes`
@@ -60,6 +64,7 @@ I traduttori devenu impiegà _pdfforge translate_ ma a traduzzione si pò fà di
 - Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _pdfforge translate_ per espurtà u schedariu di lingua corsa :
   - `Messages` https://translate.pdfforge.org/download/pdfcreator/messages/co_FR/
   - `Setup` https://translate.pdfforge.org/download/pdfcreator/setup/co_FR/
+  - `Frontend` https://translate.pdfforge.org/download/pdfcreator-online/frontend/co_FR/
 - Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu
 - Dopu a traduzzione, ci vole à impiegà _pdfforge translate_ cù l’ozzione `Fichiers` eppò `Téleverser la traduction` per rinfrescà u schedariu di traduzzione.
 
