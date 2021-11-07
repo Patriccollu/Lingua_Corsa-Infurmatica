@@ -7,14 +7,16 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ## Scaricamentu di i schedarii à traduce
 
 - Si pò scaricà i schedarii da sta lista di prughjetti :  
-  https://translate.pdfforge.org/languages/co_FR/pdfcreator/  
+  https://translate.pdfforge.org/languages/co_FR/  
 
-Per ogni risorsa (chjamata _Projet_), selezziunalla, è cliccà nant’à `Fichiers` eppò `Télécharger le fichier de traduction d’origine (Fichier PO Gettext)`.
+- Per ogni prughjettu, ci vole à selezziunà un cumpunente nant’à a lista di i cumpunenti di u prughjettu
+- Tandu, per ogni cumpunente, ci vole à selezziunallu, è cliccà nant’à `Fichiers` eppò `Télécharger le fichier de traduction d’origine (Fichier PO Gettext)`.
 
-- Osinnò eccu l'indirizzi per scaricà direttamente i dui schedarii di lingua :  
+- Osinnò eccu l'indirizzi per scaricà direttamente tutti i schedarii di lingua :  
 
   - `Messages` https://translate.pdfforge.org/download/pdfcreator/messages/co_FR/
   - `Setup` https://translate.pdfforge.org/download/pdfcreator/setup/co_FR/
+  - `Frontend` https://translate.pdfforge.org/download/pdfcreator-online/frontend/co_FR/
 
 ## Preparazione di i schedarii nanzu a traduzzione
 
@@ -25,7 +27,10 @@ I schedarii scaricati sò in lingua corsa, vole si dì ch’elli cuntenenu tutte
 - Selezziunà u schedariu `.po` scaricatu
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di e catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
-- Arregistrà u schedariu cù u nome : `pdfcreator-messages.po` o `pdfcreator-setup.po`.
+- Arregistrà u schedariu cù u so nome :
+  - `pdfcreator-messages-co_FR.po`
+  - `pdfcreator-setup-co_FR.po`
+  - `pdfcreator-online-frontend-co_FR.po`
 
 ## Copia di i schedarii di lingua inglese
 
@@ -52,4 +57,7 @@ I schedarii scaricati sò in lingua corsa, vole si dì ch’elli cuntenenu tutte
 
 ## Incaricamentu di i schedarii di lingua corsa
 
-Dopu a traduzzione, ci vole à impiegà _pdfforge translate_ cù l’ozzione `Fichiers` eppò `Téleverser la traduction` per rinfrescà i schedarii di traduzzione `pdfcreator-messages-co_FR.po` è `pdfcreator-setup-co_FR.po`.
+Dopu a traduzzione, ci vole à impiegà _pdfforge translate_ cù l’ozzione `Fichiers` eppò `Téleverser la traduction` per rinfrescà i schedarii di traduzzione cù quelli schedarii tradutti da _OmegaT_ chì si trovanu in u cartulare `target` di u prughjettu _PDFCreator_ :  
+- `pdfcreator-messages-co_FR.po`
+- `pdfcreator-setup-co_FR.po`
+- `pdfcreator-online-frontend-co_FR.po`
