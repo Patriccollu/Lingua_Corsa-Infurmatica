@@ -123,6 +123,12 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.
 
+## ✨ paint.net
+https://www.getpaint.net/  
+_Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._  
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 4.3.3 è quelle più recente.
+
 ## ✨ PDFCreator, HotFolder è Images2PDF
 https://www.pdfforge.org/pdfcreator  
 _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tutta appiecazione capace di stampà. **HotFolder** pò trasfurmà u cuntenutu di tuttu un cartulare in schedarii PDF o fiure. **Images2PDF** pò cunvertisce e fiure in schedarii PDF. I dui prugrammi HotFolder è Images2PDF sò distribuiti solu cù PDFCreator Professional._
@@ -188,13 +194,9 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
   
 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
-## ⏳ paint.net
-https://www.getpaint.net/  
-_Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._  
-  
-💡 __Astuzia__ : Si pò dighjà impiegà a versione attuale in lingua corsa. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/paint.net/Installazione.md).  
-  
-📗 __Nota__ : A lingua corsa serà distribuita cù a versione 4.3.3 è quelle più recente.
+## ⏳ ReNamer
+https://www.den4b.com/products/renamer  
+_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
 
 ## ⏳ Shutter
 https://www.den4b.com/products/shutter  
@@ -216,10 +218,6 @@ _Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurn
 ## 🎯 Common Voice
 https://commonvoice.mozilla.org/co  
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
-
-## 🎯 ReNamer
-https://www.den4b.com/products/renamer  
-_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
