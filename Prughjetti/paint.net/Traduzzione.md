@@ -3,7 +3,8 @@
 ## Distribuzione
 - A prima traduzzione in corsu hè stata fatta di settembre di u 2021
 - Si pò dighjà installalla è impiegalla cù a versione 4.2.16
-- A lingua corsa hè distribuita cù a versione 4.3.1
+- A lingua corsa hè distribuita cù a versione 4.3.3 di nuvembre di u 2021
+- L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
@@ -34,7 +35,7 @@
 
 - Quellu per a lingua corsa si trova quì : https://crowdin.net/project/paintdotnet/co#
 
-- Fate casu chì si pò accede à tutti sti liami nant’à _Crowdin_ solu s’è vo site cunnessi à u vostru contu _Crowdin_.
+- Fate casu chì si pò accede à tutti sti liami nant’à _Crowdin_ solu s’è vo site cunnessi à u vostru contu _Crowdin_ è avete dumandatu à participà à a traduzzione di _paint.net_
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
@@ -65,12 +66,12 @@ Quandu st’operazione si face, ghjè pussibule di riceve un messaghju elettroni
 - U scopu hè d’estrae u schedariu di traduzzione, di traducelu cù un’appiecazione lucale eppò di ricaricà u schedariu traduttu in lingua corsa.
 - Cù _Crowdin_ si pò scaricà un schedariu in dui furmati :
   - u so furmatu d’origine `.resx` cù l’azzione `File` > `Download`
-  - u furmatu `.xliff` cù l’azzione `File` > `Download in XLIFF`
+  - u furmatu `.xliff` cù l’azzione `File` > `Export in XLIFF`
 - Ste duie azzioni si trovanu nant’à u listinu chì si chjama « hamburger » - insù è à manca accant’à CORSICAN - quandu vo site in corsu di traduzzione nant’à un schedariu.
 #### Cù _OmegaT_
   - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 #### Cù _Poedit_
-  - Per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà un schedariu cù l’estensione `.xliff` scaricatu da _Crowdin_ cù l’azzione `File` > `Download in XLIFF`.
+  - Per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà un schedariu cù l’estensione `.xliff` scaricatu da _Crowdin_ cù l’azzione `File` > `Export in XLIFF`.
   - Eppò lancià _Poedit_
     - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
     - Selezziunà u schedariu `.xliff` scaricatu da _Crowdin_
