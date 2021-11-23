@@ -14,7 +14,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 - Ci vole à cliccà nant’à l’icona chì riprisenta trè punti è sceglie un’azzione :
   - `Download` per scaricà un schedariu in u so furmatu `.resx` d’origine
-  - `Download in XLIFF` per scaricà un schedariu cù u furmatu `.xliff` (**RICUMANDATU**)
+  - `Export in XLIFF` per scaricà un schedariu cù u furmatu `.xliff` (**RICUMANDATU**)
 
 - Ci vole à sapè ch’ellu si pò scaricà dinù [un schedariu compressu](https://crowdin.com/backend/download/project/paintdotnet.zip) chì cuntene u schedariu per ogni lingua è chì seria ghjuvevule per paragunà a traduzzione trà parechje lingue.
 
@@ -23,7 +23,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Preparazione di u schedariu nanzu a traduzzione
 Secondu u schedariu scaricatu, l’approntu hè più o menu faciule :
 - Cù u schedariu `PaintDotNet.Strings.3.resx` scaricatu da u sottucartulare d’installazione di _paint.net_, ùn ci hè alcunu approntu
-- Cù u schedariu `PaintDotNet.Strings.3.co.xliff` scaricatu da _Crowdin_ cù l’azzione `Download in XLIFF`, l’approntu hè faciule è l’istruzzioni si trovanu in u paragrafu chì seguita
+- Cù u schedariu `PaintDotNet.Strings.3.co.xliff` scaricatu da _Crowdin_ cù l’azzione `Export in XLIFF`, l’approntu hè faciule è l’istruzzioni si trovanu in u paragrafu chì seguita
 
 ### Estensione .xliff
 - Lancià _Poedit_
