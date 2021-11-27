@@ -4,6 +4,7 @@
 - A prima traduzzione in corsu hè stata distribuita cù a version 6.9.2 di settembre di u 2016
 - U stallatore NSIS hè statu distribuitu cù a versione 7.3.3 di maghju di u 2017
 - Una [cronolugia di tutte e dumande di mudificazione](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican) si trova nant’à GitHub
+- Una [cronolugia di tutte e mudificazioni](https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/corsican.xml) si trova nant’à GitHub
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
@@ -12,12 +13,12 @@
 - https://npp-user-manual.org/docs/binary-translation/
 
 ## Ciò ch’ella ci vole per traduce
-- Obligatoriu
-  - Un contu nant’à GitHub
+- Richiestu
+  - Un contu nant’à _GitHub_
 - Ozzionale
-  - Notepad++, prugramma per mudificà un testu
-  - OmegaT, prugramma per traduce
-
+  - _Notepad++_, prugramma per mudificà un testu, paragunà duie versioni di testu, o trasfurmà u cuntenutu cù una prucedura pre-arregistrata
+  - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.lng`
+ 
 ## I schedarii di lingua à traduce
 
 U dipositu di tutta a fonte di Notepad++ si trova nant’à GitHub :  
@@ -38,8 +39,8 @@ https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEdito
 Un cliccu nant’à ogni mudificazione vi permette di fighjà tutte e sfarenze trà duie versioni : e linee squassate, cambiate o aghjunte.
 
 ## Cumu fà a traduzzione ?
-- Notepad++ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione.
-- Si pò quantunque impiegà __OmegaT__ per fà què. Per sapene di più, seguitate l’[istruzzioni per cunvertisce un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Cunversione.md) per ch’ellu sia accettatu da  _OmegaT_.  
+- _Notepad++_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione.
+- Si pò quantunque impiegà __OmegaT__ per fà què. Per sapene di più, seguitate l’[istruzzioni per cunvertisce un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Cunversione.md) per ch’ellu sia accettatu da _OmegaT_.  
 
 Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impiegà _GitHub_ per pigliallu in contu, vole si dì dumandà a mudificazione di a versione attuale di u schedariu di destinazione per ch’ella sia rimpiazzata da a vostra versione lucale.
 
