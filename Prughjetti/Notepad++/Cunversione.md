@@ -8,13 +8,27 @@ Per disgrazia, un schedariu di traduzzione `.xml` di Notepad++ - cum’è __engl
 
 Esempiu di linee in u schedariu d’origine :
 ```
+                    <Item menuId="file" name="&amp;File"/>
                     <Item id="21224" name="Open:"/>
+            <Run title="Run...">
+            <PluginsAdminDlg title="Plugins Admin" titleAvailable = "Available" titleUpdates = "Updates" titleInstalled = "Installed">
+            <ProjectPanelSaveError title="$STR_REPLACE$" message="An error occurred while writing your workspace file.
+Your workspace has not been saved."/> <!-- HowToReproduce: this message prevents from system failure. It's hard to reproduce. -->
             <replace-in-files-progress-title value="Replace In Files progress..."/>
 ```
 Eccu e listesse linee dopu à trasfurmazione :
 ```
-	21224=Open:
-	replace-in-files-progress-title=Replace In Files progress...
+file=&amp;File
+21224=Open:
+Run=Run...
+PluginsAdminDlg=Plugins Admin
+titleAvailable=Available
+titleUpdates=Updates
+titleInstalled=Installed
+ProjectPanelSaveError=$STR_REPLACE$
+ProjectPanelSaveError_MSG=An error occurred while writing your workspace file.
+Your workspace has not been saved. 
+replace-in-files-progress-title=Replace In Files progress...
 ```
 Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` chì hè un furmatu cunnisciutu da OmegaT.
 
