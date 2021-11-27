@@ -1,11 +1,11 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _Notepad++_
+## Stu cartulare cuntene l’infurmazione nant’à _Notepad++_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### [Installazione](Installazione.md)  
-L’istruzzioni per installà l’interfaccia in lingua corsa di _Notepad++_
+L’istruzzioni per installà l’interfaccia di _Notepad++_ in lingua corsa
 
 ### [Listinu cuntestuale](Listinu%20cuntestuale.md)
 L’istruzzioni per installà u listinu cuntestuale in lingua corsa di _Notepad++_
@@ -14,13 +14,13 @@ L’istruzzioni per installà u listinu cuntestuale in lingua corsa di _Notepad+
 U listinu cuntestuale in lingua corsa di _Notepad++_
 
 ### [Traduzzione](Traduzzione.md)
-L’istruzzioni per traduce l’interfaccia in lingua corsa di _Notepad++_
+L’infurmazione nant’à a traduzzione di _Notepad++_ in lingua corsa
 
 ### [Cunversione](Cunversione.md)
-L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da OmegaT
+L’istruzzioni per cunvertisce un schedariu di lingua di _Notepad++__ per esse accettatu da _OmegaT_
 
-### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa di _Notepad++_
+### [Memoria](Memoria.zip)
+Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _Notepad++_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
