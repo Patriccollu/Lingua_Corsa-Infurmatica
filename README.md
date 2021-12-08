@@ -157,6 +157,13 @@ _Ingeneratore di parolle d’intesa à l’azardu impieghendu simbulli o parolle
 https://www.den4b.com/products/resizer  
 _Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguillà è depone_ » assai faciule à impiegà. Ci sò parechje ozzioni, cum’è un metoda d’addattazione d’aspettu da percentuale, un furmatu persunnalizatu di destinazione di fiura, è un mudellu di nome di schedariu d’esciuta. I furmati di fiura permessi sò : BMP, GIF, PNG, JPEG è TIFF._
 
+## ✨ Shutter
+https://www.den4b.com/products/shutter  
+_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta avvenimenti è azzioni numerosi. L’avvenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._  
+  
+📗 __Nota__ : A lingua corsa serà distribuita cù una prossima versione ma si pò dighjà pruvalla grazia à a versione timpuraria _4.4.0.8 Beta_ chì si pò scaricà da quì :  
+    https://www.den4b.com/download/shutter/beta
+
 ## ✨ SumatraPDF
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
 _Lettore di ducumenti per Windows, capace di leghje i formati PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
@@ -198,15 +205,17 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
 https://www.den4b.com/products/renamer  
 _Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
 
-## ⏳ Shutter
-https://www.den4b.com/products/shutter  
-_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta avvenimenti è azzioni numerosi. L’avvenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._
-
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
+
+## ⏳ WinMerge
+https://winmerge.org/?lang=co  
+_Attrezzu di paragone è di fusione in « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
+  
+📗 __Nota__ : A lingua corsa serà distribuita cù a versione 2.16.17 è quelle più recente.
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
@@ -228,10 +237,6 @@ https://www.videolan.org/vlc/
 _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
   
 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu __una metà__ - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
-
-## 🎯 WinMerge
-https://winmerge.org/?lang=fr  
-_Attrezzu di paragone è di fusione in « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._
 
 ## 🎯 wxWidgets
 https://www.wxwidgets.org/  
