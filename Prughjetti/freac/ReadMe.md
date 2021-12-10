@@ -1,6 +1,6 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _fre:ac_
+## Stu cartulare cuntene l’infurmazione nant’à _fre:ac_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
