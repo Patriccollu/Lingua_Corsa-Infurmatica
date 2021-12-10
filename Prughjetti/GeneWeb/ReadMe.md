@@ -1,14 +1,14 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _GeneWeb_
+## Stu cartulare cuntene l’infurmazione nant’à _GeneWeb_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### [Traduzzione](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di _GeneWeb_
+L’infurmazione nant’à a traduzzione di _GeneWeb_ in lingua corsa
 
 ### [Cunversione](Cunversione.md)
-L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da _OmegaT_
+L’istruzzioni per cunvertisce un schedariu di lingua di _GeneWeb__ per esse accettatu da _OmegaT_
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _GeneWeb_
