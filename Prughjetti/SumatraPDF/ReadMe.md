@@ -1,14 +1,14 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _SumatraPDF_
+## Stu cartulare cuntene l’infurmazione nant’à _SumatraPDF_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### [Traduzzione](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di _SumatraPDF_
+L’infurmazione nant’à a traduzzione di _SumatraPDF_ in lingua corsa
 
 ### [Cunversione](Cunversione.md)
-L’istruzzioni per cunvertisce un schedariu di lingua per esse accettatu da _OmegaT_
+L’istruzzioni per cunvertisce un schedariu di lingua di _SumatraPDF__ per esse accettatu da _OmegaT_
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _SumatraPDF_
