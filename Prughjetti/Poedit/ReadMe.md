@@ -1,17 +1,17 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _Poedit_
+## Stu cartulare cuntene l’infurmazione nant’à _Poedit_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
 ### [Traduzzione](Traduzzione.md)
-L’istruzzioni per traduce l’interfaccia in lingua corsa di _Poedit_
+L’infurmazione nant’à a traduzzione di _Poedit_ in lingua corsa
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Poedit_
 
 ### [Memoria](Memoria.zip)
-Un schedariu zip chì cuntene a memoria di traduzzione in furmatu TMX di _Poedit_
+Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _Poedit_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
