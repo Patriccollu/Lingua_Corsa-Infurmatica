@@ -1,6 +1,6 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _Audacity_
+## Stu cartulare cuntene l’infurmazione nant’à _Audacity_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
