@@ -1,17 +1,17 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per _paint.net_
+## Stu cartulare cuntene l’infurmazione nant’à _paint.net_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### [Installazione](Installazione.md)
+### [Installazione](Installazione.md)  
 L’istruzzioni per installà l’interfaccia in lingua corsa di _paint.net_
 
 ### [__PaintDotNet.Strings.3.co.resources__](PaintDotNet.Strings.3.co.resources)
 U schedariu di l’interfaccia in lingua corsa di _paint.net_
 
 ### [Traduzzione](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di _paint.net_
+L’infurmazione nant’à a traduzzione di _paint.net_ in lingua corsa
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _paint.net_
