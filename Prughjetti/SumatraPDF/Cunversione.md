@@ -190,8 +190,8 @@ Per a vostra infurmazione, si pò truvà in una prucedura, istruzzioni `message=
 ## Impiegu di e prucedure
 
 - Seguitate l’istruzzioni secondu à u locu induve vo avete scaricatu e catene :
-  - nant’à a [pagina di u situ di traduzzione _apptranslator.org_](Traduzzione.md#da-una-pagina-di-u-situ-di-traduzzione-apptranslator.org)
-  - nant’à u [schedariu di u situ di sviluppu _GitHub_](Traduzzione.md#da-u-schedariu-unicu-di-u-situ-di-sviluppu-GitHub)
+  - nant’à a [pagina di u situ di traduzzione _apptranslator.org_](OmegaT.md#da-una-pagina-di-u-situ-di-traduzzione-apptranslatororg)
+  - nant’à u [schedariu di u situ di sviluppu _GitHub_](OmegaT.md#da-u-schedariu-unicu-di-u-situ-di-sviluppu-github)
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
