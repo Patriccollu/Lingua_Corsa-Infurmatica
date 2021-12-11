@@ -16,7 +16,7 @@
 
 - Seguitate l’[istruzzioni per installà e prucedure di cunversione](Cunversione.md) chì seranu impiegate per identificà e catene in inglese.
 
-### Da una pagina di u situ di traduzzione _apptranslator.org
+### Da una pagina di u situ di traduzzione _apptranslator.org_
 
 - Andà à a pagina di u situ di traduzzione _apptranslator.org_ chì cuntene tutte e catene in inglese à traduce è e so traduzzioni in lingua corsa :  
   https://www.apptranslator.org/app/SumatraPDF/co
