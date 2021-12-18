@@ -37,5 +37,5 @@ Per sapene di più, seguitate l’[istruzzioni - in francese - per abbunassi à 
 (📗) L’indirizzi di i liami à impiegà sò indicati in u paragrafu `I flussi Atom` di u schedariu `Traduzzione.md` di u prugramma currispundente.
 
 #### Liami di navigazione nant’à stu situ
-- [Rivene à a lista di tutti i prughjetti](../../../Prughjetti)
-- [Rivene à a lista di tutti i prugrammi tradutti in lingua corsa](../../../#readme)
+- [Rivene à a lista di tutti i sottucartulari di prughjettu](../../tree/ceppu/Prughjetti)
+- [Rivene à a lista di tutti i prugrammi tradutti in lingua corsa](../../#readme)
