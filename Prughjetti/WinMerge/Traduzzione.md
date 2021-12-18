@@ -19,6 +19,8 @@
   - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.isl`, `.po` o `.txt`
   - _Poedit_, prugramma per mudificà i schedarii _gettext_ cù l’estensioni `.po`
   - _Notepad++_, prugramma per mudificà un testu, paragunà duie versioni di testu, o trasfurmà u cuntenutu cù una prucedura pre-arregistrata
+  - _Thunderbird_, prugramma di messaghjeria chì permette d’urganizà tutti i vostri messaghji è indirizzi elettronichi in una interfaccia unica, ma soprattuttu d’abbunassi à i flussi d’attualità di _GitHub_
+  - I prugrammi _Notepad++_, _OmegaT_ è _Poedit_ sò stati tradutti è ponu esse **impiegati in lingua corsa**
 
 ## I schedarii di lingua à traduce
 
@@ -45,16 +47,19 @@ Tutti i schedarii di lingua - per ogni lingua dispunibule in _WinMerge_ - si tro
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
-Per disgrazia, ùn hè micca pussibule di riceve un messaghju quandu ci hè qualcosa di novu à traduce, cum’è per indettu, un’iscrizzione à una lista di distribuzione di messaghju.  
-
-Ma ci hè una funzione in GitHub per cunnosce tutte e mudificazioni fatte (commits) nant’à a fonte d’origine :  
-- [per l’interfaccia](https://github.com/WinMerge/winmerge/commits/master/Translations//WinMerge/English.pot)
-- [per u _Shell_](https://github.com/WinMerge/winmerge/commits/master/Translations/ShellExtension/English.pot)
-- [per u stalladore](https://github.com/WinMerge/winmerge/commits/master/Translations/InnoSetup/English.isl)
-- [per u schedariu _ReadMe_](https://github.com/WinMerge/winmerge/commits/master/Docs/Users/ReadMe.txt)
-- [per u situ web](https://github.com/WinMerge/website/commits/master/po/en-US.pot)  
+Per disgrazia, ùn hè micca pussibule di riceve un messaghju elettronicu quandu ci hè qualcosa di novu à traduce, cum’è per indettu, un’iscrizzione à una lista di distribuzione di messaghju.  
   
-Un cliccu nant’à ogni mudificazione vi permette di fighjà tutte e sfarenze trà duie versioni : e linee squassate, cambiate o aghjunte.  
+Ma, per furtuna, ci hè una funzione in _GitHub_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu l’attività di _GitHub_, per indettu quand’un schedariu hè mudificatu. È si pò riceve un avvertimentu in _Thunderbird_ quandu quellu flussu hè ingeneratu.
+
+### I flussi _Atom_
+Eccu i flussi à cuttighjà ch’ella ci vole à definisce in _Thunderbird_ grazia à un abbunamentu :  
+- https://github.com/WinMerge/winmerge/commits/master/Translations/WinMerge/English.pot.atom
+- https://github.com/WinMerge/winmerge/commits/master/Translations/ShellExtension/English.pot.atom
+- https://github.com/WinMerge/winmerge/commits/master/Translations/InnoSetup/English.isl.atom
+- https://github.com/WinMerge/winmerge/commits/master/Docs/Users/ReadMe.txt.atom
+- https://github.com/WinMerge/website/commits/master/po/en-US.pot.atom
+  
+Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_ è riceve l’infurmazione nant’à _Thunderbird_](../../Flussu%20di%20nutizie.md).
 
 ## Cumu fà a traduzzione ?
 
