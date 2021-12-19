@@ -32,34 +32,40 @@
 
 ### Situ di sviluppu
 
-À st'ora, ci hè 5 schedarii, di furmatu sfarente, chì cuntenenu a traduzzione di _WinMerge_.  
+À st'ora, ci hè 5 schedarii, di parechji furmati, chì cuntenenu a traduzzione di _WinMerge_.  
 
 Per infurmazione, tutta a fonte di _WinMerge_ si trova nant’à _GitHub_ in dui dipositi :  
-- [per l’interfaccia](https://github.com/WinMerge/winmerge/)
-- [per u situ web](https://github.com/WinMerge/website/)
+- [u dipositu di l’interfaccia](https://github.com/WinMerge/winmerge/)
+- [u dipositu di u situ web](https://github.com/WinMerge/website/)
 
 Tutti i schedarii di lingua - per ogni lingua dispunibule in _WinMerge_ - si trovanu nant’à _GitHub_ :  
-- [per l’interfaccia](https://github.com/WinMerge/winmerge/tree/master/Translations/WinMerge)
-- [per u _Shell_](https://github.com/WinMerge/winmerge/tree/master/Translations/ShellExtension)
-- [per u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup)
-- [per u schedariu _ReadMe_](https://github.com/WinMerge/winmerge/tree/master/Translations/Docs/Readme)
-- [per u situ web](https://github.com/WinMerge/website/tree/master/po)
+- [in u cartulare di l’interfaccia](https://github.com/WinMerge/winmerge/tree/master/Translations/WinMerge)
+- [in u cartulare di u _Shell_](https://github.com/WinMerge/winmerge/tree/master/Translations/ShellExtension)
+- [in u cartulare di u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup)
+- [in u cartulare di u _ReadMe_](https://github.com/WinMerge/winmerge/tree/master/Translations/Docs/Readme)
+- [in u cartulare di u situ web](https://github.com/WinMerge/website/tree/master/po)
 
 ## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
 
-Per disgrazia, ùn hè micca pussibule di riceve un messaghju elettronicu quandu ci hè qualcosa di novu à traduce, cum’è per indettu, un’iscrizzione à una lista di distribuzione di messaghju.  
-  
-Ma, per furtuna, ci hè una funzione in _GitHub_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu l’attività di _GitHub_, per indettu quand’un schedariu hè mudificatu. È si pò riceve un avvertimentu in _Thunderbird_ quandu quellu flussu hè ingeneratu.
+Trà duie versioni, a squadra di _WinMerge_ pò mudificà e catene di fonte nant’à _GitHub_ aghjunghjendu catene nove, mudifichendu o squassendu catene anziane. Quandu st’operazione si face, ùn hè micca pussibule di riceve autumaticamente un messaghju elettronicu, cum’è per indettu, via un’iscrizzione à una lista di distribuzione.  
+
+Ma, per furtuna, ci hè una funzione in _GitHub_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu l’attività di _GitHub_, per indettu quand’un schedariu hè mudificatu. È si pò riceve un avvertimentu in _Thunderbird_ quand’un tale flussu hè ingeneratu.  
+
+Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_ è riceve l’infurmazione nant’à _Thunderbird_](../../Flussu%20di%20nutizie.md).
 
 ### I flussi _Atom_
+
 Eccu i flussi à cuttighjà ch’ella ci vole à definisce in _Thunderbird_ grazia à un abbunamentu :  
 - https://github.com/WinMerge/winmerge/commits/master/Translations/WinMerge/English.pot.atom
 - https://github.com/WinMerge/winmerge/commits/master/Translations/ShellExtension/English.pot.atom
 - https://github.com/WinMerge/winmerge/commits/master/Translations/InnoSetup/English.isl.atom
 - https://github.com/WinMerge/winmerge/commits/master/Docs/Users/ReadMe.txt.atom
 - https://github.com/WinMerge/website/commits/master/po/en-US.pot.atom
-  
-Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_ è riceve l’infurmazione nant’à _Thunderbird_](../../Flussu%20di%20nutizie.md).
+
+### Cume sapè quandu s’appronta una nova versione ?
+
+Omu po esse infurmatu nant’à e prossime versioni via a pagina di i mozi :  
+  https://github.com/WinMerge/winmerge/milestones
 
 ## Cumu fà a traduzzione ?
 
