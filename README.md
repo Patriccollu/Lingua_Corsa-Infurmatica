@@ -41,7 +41,7 @@ https://filezilla-project.org/download.php?show_all=1
 
 ## ✨ Firefox for Android
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
-_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
+_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à gardà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
   
 📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr).
 
@@ -65,10 +65,6 @@ _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principal
   
 📗 __Nota__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](https://apps.apple.com/fr/app/firefox-web-browser/id989804926).
 
-## ✨ Firefox Lockwise
-https://apps.apple.com/fr/app/firefox-lockwise/id1314000270  
-_Funzione sviluppata da Mozilla per urganizà e vostre parolle d’intesa di Firefox da una manera sicura è accedeci dapertuttu grazia à una sincrunizazione nant’à un prufilu persunale._
-
 ## ✨ fre:ac
 https://www.freac.org/  
 _Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è cudificatori cunnisciuti cum’è MP3, M4A/AAC, FLAC, WMA, Opus, Ogg Vorbis, Speex, Monkey's Audio (APE), WavPack, WAV è d’altri. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
@@ -86,7 +82,10 @@ https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 https://handbrake.fr/  
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à _Windows_. Ci vole à aspettà a versione 1.5.0 per ch’ella sia distribuita nant’à _Mac_ è _Linux_.
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente, ma solu nant’à _Windows_. Ci vole à aspettà a versione 1.5.0 per ch’ella sia distribuita nant’à _Mac_ è _Linux_.  
+  
+💡 __Astuzia__ : S’è vo site in brama d’impiegà _HandBrake_ in lingua corsa nant’à _Mac_ è _Linux_, si pò dighjà fallu cù una custruzzione timpuraria chì si pò scaricà à st’indirizzu :  
+https://github.com/HandBrake/HandBrake-snapshots
 
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
@@ -137,7 +136,7 @@ _**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tut
 
 ## ✨ PDFCreator Online
 https://tools.pdfforge.org/co-FR  
-_Un situ web induve si trovanu un inseme d’attrezzi **in linea** per manighjà i vostri schedarii PDF : unione, divizione, cumpressione, paragone, aghjuntu di parolla d’intesa, di stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
+_Un situ web induve si trovanu un inseme d’attrezzi **in linea** per manighjà i vostri schedarii PDF : unione, divizione, cumpressione, paragone, aghjuntu d’una parolla d’intesa, d’un stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
 
 ## ✨ PDF Split and Merge
 https://pdfsam.org/  
@@ -161,7 +160,7 @@ _Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguill
 https://www.den4b.com/products/shutter  
 _Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta avvenimenti è azzioni numerosi. L’avvenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._  
   
-📗 __Nota__ : A lingua corsa serà distribuita cù una prossima versione ma si pò dighjà pruvalla grazia à a versione timpuraria _4.4.0.8 Beta_ chì si pò scaricà da quì :  
+📗 __Nota__ : A lingua corsa serà distribuita cù una prossima versione ma si pò dighjà pruvalla grazia à a versione timpuraria _4.4.0.8 Beta_ chì si pò scaricà à st’indirizzu :  
     https://www.den4b.com/download/shutter/beta
 
 ## ✨ SumatraPDF
@@ -186,7 +185,7 @@ _Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedià Windows è 
 https://play.google.com/store/apps/details?id=org.videolan.vlc  
 _Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qualsisia schedariu video è audio, ma dinù i flussi è i lettori di reta, e fiure ISO di DVD, cum’è a versione di scagnu di VLC. Ghjè un lettore audio cumpletu, cù una banca di dati sana, un ugualizatore è filtri, capace di sunà tutti i furmati audio bizari. Hè cuncipitu per tutti, cumpletamente di rigalu, senza publicità, ne appiecazione à cumprà, ne spiunagiu, è hè sviluppatu da vuluntarii appassiunati. Tuttu u codice di fonte hè dispunibule di rigalu._  
   
-💡 __Astuzia__ : Bench’è Android ùn ricunnosci unancu a lingua corsa in a lista di e lingue pruposte da u sistema, l’appiecazione VLC permette di sceglie sta lingua.
+💡 __Astuzia__ : Bench’è Android ùn ricunnosci unancu a lingua corsa in a lista di e lingue pruposte da u sistema, l’appiecazione VLC vi permette di sceglie sta lingua.
 
 ## ✨ VLC for iOS
 https://itunes.apple.com/fr/app/vlc-for-mobile/id650377962  
@@ -213,24 +212,25 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
 
 ## ⏳ WinMerge
 https://winmerge.org/?lang=co  
-_Attrezzu di paragone è di fusione in « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
+_Attrezzu di paragone è di fusione à « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
   
-📗 __Nota__ : A lingua corsa serà distribuita cù a versione 2.16.17 è quelle più recente.
+📗 __Nota__ : A lingua corsa serà distribuita cù a versione 2.16.18 è quelle più recente ma si pò dighjà pruvalla grazia à a versione timpuraria _2.16.17 Beta_ chì si pò scaricà à st’indirizzu :  
+    https://github.com/WinMerge/winmerge/releases/tag/v2.16.17
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
 
-## 🎯 CDBurnerXP
-https://cdburnerxp.se/fr/  
-_Appiecazione libera per impruntà CD è DVD, ma dinù Blu-Ray è HD-DVD. CDBurnerXP vi permette d’impruntà è creà fiure ISO, ma cuntene dinù un’interfaccia multilingue. Tutt’ognunu, ancu l’imprese, pò impiegalla d’una manera libera._
-
 ## 🎯 Common Voice
 https://commonvoice.mozilla.org/co  
-_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale di fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
+_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
 _Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
+
+## 🎯 VeraCrypt
+https://veracrypt.fr/en/Home.html  
+_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Si pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
 
 ## 🎯 VLC media player
 https://www.videolan.org/vlc/  
