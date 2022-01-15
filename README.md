@@ -82,7 +82,7 @@ https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 https://handbrake.fr/  
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
   
-📗 __Nota__ : A lingua corsa hè stata distribuita cù a versione 1.4.0 per u sistema _Windows_ è cù a versione 1.5.0 per i sistemi _Linux_ è _Mac_. Di sicuru, e versioni più recente distribuiscenu a lingua corsa per i trè sistemi.  
+📗 __Nota__ : A lingua corsa hè stata distribuita cù a versione 1.4.0 per u sistema _Windows_ è cù a versione 1.5.0 per i sistemi _Linux_ è _Mac_. Di sicuru, e versioni più recente distribuiscenu a lingua corsa per sti trè sistemi.  
 
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
@@ -242,4 +242,4 @@ _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Window
 ### ✔️ [_Si pò dinù fighjà sta lista nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
 
 ##
-_© Patriccollu di Santa Maria è Sichè, 2021_
+_© Patriccollu di Santa Maria è Sichè, 2022_
