@@ -1,14 +1,18 @@
 # A traduzzione in lingua corsa d’_HandBrake_
 
 ## Distribuzione
-- A prima traduzzione in corsu hè stata distribuita per _Windows_ cù a versione 1.4.0 di lugliu di u 2021, è cù a versione 1.5.0 per _Linux_ è _MacOS_.
+- A prima traduzzione in corsu hè stata distribuita :
+  - cù a versione 1.4.0 di lugliu di u 2021 per _Windows_
+  - cù a versione 1.5.0 di ghjennaghju di u 2022 per _Linux_ è _MacOS_
 - L’installazione di u prugramma, nant’à _Windows_, chì impiega _NSIS_, si pò fà in lingua corsa
 - Una cronolugia di tutte e mudificazioni si trova nant’à GitHub
   - Per Windows :
     - [Resources.resx](https://github.com/HandBrake/HandBrake/commits/master/win/CS/HandBrakeWPF/Properties/Resources.co.resx)
     - [ResourcesTooltips.resx](https://github.com/HandBrake/HandBrake/commits/master/win/CS/HandBrakeWPF/Properties/ResourcesTooltips.co.resx)
   - Per Linux :
-    - [Resources.resx](https://github.com/HandBrake/HandBrake/commits/master/gtk/po/co.po)
+    - [gtk/co.po](https://github.com/HandBrake/HandBrake/commits/master/gtk/po/co.po)
+  - Per Mac :
+    - [macosx/Base.lproj](https://github.com/HandBrake/HandBrake/commits/master/macosx/Base.lproj)
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
