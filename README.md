@@ -83,7 +83,7 @@ https://handbrake.fr/
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
   
 📗 __Nota__ : A lingua corsa hè stata distribuita cù a versione 1.4.0 per u sistema _Windows_ è cù a versione 1.5.0 per i sistemi _Linux_ è _Mac_. Di sicuru, e versioni più recente distribuiscenu a lingua corsa per sti trè sistemi.  
-
+  
 ## ✨ Hasher
 https://www.den4b.com/products/hasher  
 _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di cudificatori : CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160 è ED2K. Tutti i schedarii trattati sò ricunnisciuti è i tazzechji sò pronti à esse espurtati ver di parechji furmati di verificazione di schedariu cum’è SFV, MD5SUM è SHA1SUM. Sì pò dinù paragunà dui schedarii._
@@ -117,7 +117,8 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 https://omegat.org/co/  
 _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
   
-📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.  
+❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
 
 ## ✨ paint.net
 https://www.getpaint.net/  
@@ -188,6 +189,13 @@ _Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qual
 https://itunes.apple.com/fr/app/vlc-for-mobile/id650377962  
 _Purtera di u lettore medià liberu VLC nant’à iPad, iPhone è iPod touch chì pò sunà tutti i vostri filmetti, spettaculi è musica in a maiò parte di i furmati direttamente, senza cunversione. Permette a sincrunizazione di i schedarii cù Dropbox, GDrive, OneDrive, Box, iCloud Drive, iTunes, offre i scaricamenti diretti, u spartimentu WiFi, ma dinù a lettura di cuntinuu à partesi di servitori medià SMB, FTP, UPnP/DLNA è da u web. VLC permette l’impiegu di sottutituli avanzati includendu a cumpatibilità sana SSA, l’audio multi-traccia, è u cuntrollu di a vitezza di ripruduzzione. VLC per iOS hè sanu di rigalu è di tipu « fonte aperta »._
 
+## ✨ WinMerge
+https://winmerge.org/?lang=co  
+_Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. WinMerge pò esse impiegatu, sia cum’è un attrezzu esternu di paragone o di fusione, sia cum’è un’appiecazione autonoma, per determinà ciò chì hà cambiatu trà parechje versioni di prughjettu è per fà una fusione di sti cambiamenti. In più di què, WinMerge cuntene tante funzioni ghjuvevule per rende più faciule u paragone, a sincrunizazione è a fusione. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.16.18 è quelle più recente.  
+❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
+
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
 
@@ -207,19 +215,14 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
 
-## ⏳ WinMerge
-https://winmerge.org/?lang=co  
-_Attrezzu di paragone è di fusione à « fonte aperta » per Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
-  
-📗 __Nota__ : A lingua corsa serà distribuita cù a versione 2.16.18 è quelle più recente ma si pò dighjà pruvalla grazia à a versione timpuraria _2.16.17 Beta_ chì si pò scaricà à st’indirizzu :  
-    https://github.com/WinMerge/winmerge/releases/tag/v2.16.17
-
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
 
 ## 🎯 Common Voice
 https://commonvoice.mozilla.org/co  
-_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_
+_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_  
+
+❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
