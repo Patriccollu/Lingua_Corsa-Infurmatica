@@ -205,6 +205,10 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
   
 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
+## ⏳ PrivateBin
+https://privatebin.info/  
+_Serviziu web in linea di tipu « pastebin » minimalistu è à fonte aperta induve u servitore ùn hà micca cunnuscenza di i dati mandati. Sti dati sò cifrati è dicifrati _in u navigatore_ cù una cifratura AES di 256 bit. Stu ghjestiunariu d’appiccicu di testu permette à l’utilizatori di scumparte pezzi di testi è di codice di fonte grazia à un liame ingeneratu da l’appiecazione._
+
 ## ⏳ ReNamer
 https://www.den4b.com/products/renamer  
 _Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
@@ -223,6 +227,10 @@ https://commonvoice.mozilla.org/co
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_  
 
 ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
+
+## 🎯 Lufi
+https://alt.framasoft.org/fr/framadrop  
+_Serviziu web in linea chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
