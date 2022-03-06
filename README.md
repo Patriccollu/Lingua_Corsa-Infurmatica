@@ -92,6 +92,12 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 https://jrsoftware.org/isinfo.php  
 _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
 
+## ✨ Lufi
+https://alt.framasoft.org/fr/framadrop  
+_Serviziu web in linea chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._  
+  
+📗 __Nota__ : A lingua corsa hè distribuita cù a versione 0.05.17 è quelle più recente.  
+
 ## ✨ Mozilla VPN
 https://vpn.mozilla.org/  
 _Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncipita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (oghje ci n’hè più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._  
@@ -156,7 +162,7 @@ _Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguill
 
 ## ✨ Shutter
 https://www.den4b.com/products/shutter  
-_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta avvenimenti è azzioni numerosi. L’avvenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._  
+_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta evenimenti è azzioni numerosi. L’evenimenti sò : u contu à l'arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._  
   
 📗 __Nota__ : A lingua corsa serà distribuita cù una prossima versione ma si pò dighjà pruvalla grazia à a versione timpuraria _4.4.0.8 Beta_ chì si pò scaricà à st’indirizzu :  
     https://www.den4b.com/download/shutter/beta
@@ -201,7 +207,7 @@ _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows ch
 
 ## ⏳ MozBackup
 http://mozbackup.jasnapaka.com/  
-_Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o currottu._  
+_Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._  
   
 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
@@ -212,6 +218,10 @@ _Serviziu web in linea di tipu « pastebin » minimalistu è à fonte aperta i
 ## ⏳ ReNamer
 https://www.den4b.com/products/renamer  
 _Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
+
+## ⏳ VeraCrypt
+https://veracrypt.fr/en/Home.html  
+_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Si pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
@@ -228,17 +238,9 @@ _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a
 
 ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
 
-## 🎯 Lufi
-https://alt.framasoft.org/fr/framadrop  
-_Serviziu web in linea chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._
-
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
-_Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](http://cldr.unicode.org/indexTOC-Who-uses-CLDR-/) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
-
-## 🎯 VeraCrypt
-https://veracrypt.fr/en/Home.html  
-_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Si pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
+_Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](https://cldr.unicode.org/index#h.ezpykkomyltl) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
 
 ## 🎯 VLC media player
 https://www.videolan.org/vlc/  
