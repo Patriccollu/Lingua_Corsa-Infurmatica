@@ -17,13 +17,12 @@ Ste prucedure devenu esse caricate è impiegate in _Notepad++_ per fà a trasfur
 ### Furmatu di l’infurmazione da u situ di traduzzione _apptranslator.org
 
 ```
-Home : SumatraPDF : Corsican translations Not logged in. Log in with Twitter
-0 untranslated out of 341 total strings
-Progress:
-100%
+Home : SumatraPDF : Corsican translations 			Not logged in. Log in with Twitter
+18 untranslated out of 358 total strings
+Progress: ***********************-- 94%
 
 &About Add a translation... • see on Google Translate
-About SumatraPDF Add a translation... • see on Google Translate
+Text Size: %d Add a translation... • see on Google Translate
 &Actual Size\tCtrl+1 => &Dimensione attuale\tCtrl+1 Edit • see on Google Translate
 Add Favorite => Aghjunghje à i favuriti Edit • see on Google Translate 
 ```
@@ -39,7 +38,7 @@ Add Favorite => Aghjunghje à i favuriti Edit • see on Google Translate
 Eccu e listesse linee dopu à trasfurmazione :
 ```
 &About
-About SumatraPDF
+Text Size: %d
 &Actual Size\tCtrl+1
 Add Favorite
 ```
@@ -52,7 +51,7 @@ Add Favorite
 Eccu e listesse linee dopu à trasfurmazione :
 ```
 &About
-About SumatraPDF
+Text Size: %d
 ```
 ### Furmatu di l’infurmazione da u situ di sviluppu _GitHub_
 
