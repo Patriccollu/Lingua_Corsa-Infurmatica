@@ -94,7 +94,7 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 
 ## ✨ Lufi
 https://alt.framasoft.org/fr/framadrop  
-_Serviziu web in linea chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._  
+_Serviziu web **in linea** chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._  
   
 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 0.05.17 è quelle più recente.  
 
@@ -213,7 +213,7 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
 
 ## ⏳ PrivateBin
 https://privatebin.info/  
-_Serviziu web in linea di tipu « pastebin » minimalistu è à fonte aperta induve u servitore ùn hà micca cunnuscenza di i dati mandati. Sti dati sò cifrati è dicifrati _in u navigatore_ cù una cifratura AES di 256 bit. Stu ghjestiunariu d’appiccicu di testu permette à l’utilizatori di scumparte pezzi di testi è di codice di fonte grazia à un liame ingeneratu da l’appiecazione._
+_Serviziu web **in linea** di tipu « pastebin » minimalistu è à fonte aperta induve u servitore ùn hà micca cunnuscenza di i dati mandati. Sti dati sò cifrati è dicifrati _in u navigatore_ cù una cifratura AES di 256 bit. Stu ghjestiunariu d’appiccicu di testu permette à l’utilizatori di scumparte pezzi di testi è di codice di fonte grazia à un liame ingeneratu da l’appiecazione._
 
 ## ⏳ ReNamer
 https://www.den4b.com/products/renamer  
@@ -221,13 +221,17 @@ _Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di pr
 
 ## ⏳ VeraCrypt
 https://veracrypt.fr/en/Home.html  
-_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Si pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
+_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
+
+## ⏳ wxWidgets
+https://www.wxwidgets.org/  
+_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
@@ -247,10 +251,6 @@ https://www.videolan.org/vlc/
 _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii audio è video, ma dinù i DVD, CD Audio, VCD, è d’altri protocolli di diffusione._  
   
 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu __una metà__ - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
-
-## 🎯 wxWidgets
-https://www.wxwidgets.org/  
-_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
 
 ### ✔️ [_Si pò dinù fighjà sta lista nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
 
