@@ -49,8 +49,7 @@ _L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozi
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’intesa, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
   
-> 💡 __Astuzia__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.
-  
+> 💡 __Astuzia__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.  
 > 📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://apps.apple.com/fr/app/firefox-focus/id1055677337).
 
 ## ✨ Focus for Android
@@ -74,7 +73,6 @@ https://geneweb.tuxfamily.org/wiki/GeneWeb/fr
 _Ghjestione di genealugia di tipu « fonte aperta » è scritta in OCaml. Ghjunghje cù un’interfaccia web è pò esse impiegata in lucale o cum’è un serviziu web. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
   
 > 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 7.0.0 è quelle più recente.  
-  
 > 💡 __Astuzia__ : Si pò ancu fighjà in linea è in lingua corsa una versione di _dimustrazione_ à st’indirizzu :  
 https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 
@@ -124,7 +122,7 @@ https://omegat.org/co/
 _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._  
   
 > 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.  
-❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
+> ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
 
 ## ✨ paint.net
 https://www.getpaint.net/  
@@ -161,6 +159,12 @@ _Serviziu web **in linea** di tipu « pastebin » minimalistu è à fonte aper
 ## ✨ RandPass
 https://www.den4b.com/products/randpass  
 _Ingeneratore di parolle d’intesa à l’azardu impieghendu simbulli o parolle à l’azardu. Si pò selezziunà gruppi di caratteri à impiegà per e parolle d’intesa, cum’è lettere minuscule, lettere maiuscule, cifri, è gruppi di caratteri persunnalizati. Si pò dinù definisce u furmatu di a parolla d’intesa, verificà ch’ella hè unica, caccià i caratteri simile._
+
+## ✨ ReNamer
+https://www.den4b.com/products/renamer  
+_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._  
+  
+> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione timpuraria _7.3.0.2 Beta_ è quelle più recente.
 
 ## ✨ Resizer
 https://www.den4b.com/products/resizer  
@@ -205,7 +209,7 @@ https://winmerge.org/?lang=co
 _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. WinMerge pò esse impiegatu, sia cum’è un attrezzu esternu di paragone o di fusione, sia cum’è un’appiecazione autonoma, per determinà ciò chì hà cambiatu trà parechje versioni di prughjettu è per fà una fusione di sti cambiamenti. In più di què, WinMerge cuntene tante funzioni ghjuvevule per rende più faciule u paragone, a sincrunizazione è a fusione. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
   
 > 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.16.18 è quelle più recente.  
-❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
+> ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
 
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
@@ -216,15 +220,12 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
   
 > 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
-## ⏳ ReNamer
-https://www.den4b.com/products/renamer  
-_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
-
 ## ⏳ VeraCrypt
 https://veracrypt.fr/en/Home.html  
 _Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._  
   
 > 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a versione 1.26 è quelle più recente.  
+> 💡 __Astuzia__ : In attesa di distribuzione, si pò quantunque scaricà u schedariu di lingua corsa è installallu. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
@@ -236,7 +237,7 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
 https://www.wxwidgets.org/  
 _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
   
-> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a versione 3.2.0 è quelle più recente.  
+> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a versione 3.1.7 è quelle più recente.  
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
@@ -245,7 +246,7 @@ _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Window
 https://commonvoice.mozilla.org/co  
 _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_  
 
-❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
+> ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository)
 http://cldr.unicode.org/index  
