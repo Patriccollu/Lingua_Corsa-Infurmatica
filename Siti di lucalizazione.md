@@ -1,6 +1,6 @@
-# Impiegà un situ di lucalizazione
+# I siti di lucalizazione
 
-## Cuncettu
+## Discrizzione
 Sti siti di lucalizazione sò piattaforme chì permettenu di traduce **in linea** i schedarii di lingua inglese chì sò stati creati è mudificati da i sviluppatori di e prugrammi.
   
 Per impiegalli, **ci vole à iscrivesi** - cù un nome d’utilizatore è una parolla d’intesa - è fà una dumanda per participà à a traduzzione di u prugramma sceltu.
@@ -22,17 +22,20 @@ _Crowdin_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
 - [PrivateBin](https://crowdin.com/project/privatebin/co)
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.  
+  
 (*) U situ richiede d’esse cunnessu cù u so nome d’utilizatore per vede a lista di i schedarii.
 
 ## Transifex
 
 _Transifex_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
   
-- [Audacity](https://www.transifex.com/klyok/audacity/language/co/)
-- [HandBrake](https://www.transifex.com/HandBrakeProject/dashboard/all_projects/co/)
-- [VLC Media Player](https://www.transifex.com/yaron/vlc-trans/language/co/)
+- [Audacity](https://www.transifex.com/klyok/audacity/language/co/) (*)
+- [HandBrake](https://www.transifex.com/HandBrakeProject/dashboard/all_projects/co/) (*)
+- [VLC Media Player](https://www.transifex.com/yaron/vlc-trans/language/co/) (*)
 
-Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.
+Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.  
+  
+(*) Tutti i siti _Transifex_ richiedenu d’esse cunnessu cù u so nome d’utilizatore per vede a lista di i schedarii.
 
 ## Weblate
 
