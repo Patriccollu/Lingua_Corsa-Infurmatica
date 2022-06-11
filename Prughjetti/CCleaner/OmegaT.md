@@ -9,20 +9,25 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 - Si pò scaricà i schedarii __in lingua corsa__ da quì :  
   https://crowdin.com/project/avast-ccleaner/co#
 
-- Per ogni schedariu - `lang_uk.nsh` è `res_uk.rc` - ci vole à cliccà nant’à l’icona chì riprisenta trè punti è sceglie un’azzione :
+- À st’ora, ci hè trè schedarii :
+  - `res_uk_recuva.rc` Aghjuntu per _Recuva_
+  - `lang_uk.nsh` Stalladore NSIS
+  - `res_uk.rc` Interfaccia di _CCleaner_
+  
+- Per ogni schedariu, ci vole à cliccà nant’à l’icona chì riprisenta trè punti è sceglie un’azzione :
   - `Download` per scaricà un schedariu in u so furmatu d’origine
-  - `Download in XLIFF` per scaricà un schedariu cù u furmatu `.xliff` (**RICUMANDATU**)
+  - `Export in XLIFF` per scaricà un schedariu cù u furmatu `.xliff` (**RICUMANDATU**)
 
 - S’ella hè bisognu, si pò scaricà i schedarii in __lingua inglese__ da quì :  
   https://crowdin.com/project/avast-ccleaner/enp#
 
-- Si pò dinù scaricà [un schedariu compressu](https://crowdin.com/backend/download/project/avast-ccleaner.zip) chì cuntene i dui schedarii per ogni lingua.
+- Si pò dinù scaricà [un schedariu compressu](https://crowdin.com/backend/download/project/avast-ccleaner.zip) chì cuntene i trè schedarii per ogni lingua.
 
 ## Preparazione di i schedarii nanzu a traduzzione
 
 - Hè **ricumandatu** di scaricà i schedarii in u furmatu `.xliff` perchè l’approntu hè più faciule.
-- À st’ora, _OmegaT_ ùn pò micca traduce direttamente i dui schedarii cù l’estensioni `.nsh` è `.rc`
-- Per què, ci vole à [installà è impiegà e prucedure di cunversione](Cunversione.md) per trasfurmà u cuntenutu di `lang_uk.nsh` è `res_uk.rc`
+- À st’ora, _OmegaT_ ùn pò micca traduce direttamente i schedarii cù l’estensioni `.nsh` è `.rc`
+- Per què, ci vole à [installà è impiegà e prucedure di cunversione](Cunversione.md) per trasfurmà u so cuntenutu
 
 ### Estensione .xliff
 - Lancià _Poedit_
@@ -41,9 +46,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ### Estensione .rc
 - Lancià _Notepad++_
-- Apre u schedariu `res_uk.rc`
+- Apre u schedariu `res_uk.rc` o `res_uk_recuva.rc`
 - Eseguisce a macro installata appostu chì si chjama `Cunversione_CCleaner_RC-OmegaT`
-- Arregistrà u schedariu cù u nome `res_uk.rc.lng`
+- Arregistrà u schedariu cù u nome `res_uk.rc.lng` o `res_uk_recuva.rc.lng`
 
 ## Copia di i schedarii di lingua inglese
 
@@ -80,4 +85,4 @@ Per disgrazia, ùn ci hè alcuna prucedura, à st’ora, per trasfurmà u cunten
 
 ## Incaricamentu di i schedarii di lingua corsa
 - Tutti in schedarii tradutti in lingua corsa da _OmegaT_ si trovanu in u cartulare `target` di u prughjettu _CCleaner_
-- Per ogni schedariu traduttu è appruntatu, ci vole à impiegà _Crowdin_ cù l’azzione `File` > `Upload Translations…` per rinfrescallu
+- Per ogni schedariu traduttu è appruntatu, ci vole à impiegà _Crowdin_ via l’azzione `File` > `Upload Translations…` per rinfrescallu
