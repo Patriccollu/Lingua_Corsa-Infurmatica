@@ -8,14 +8,26 @@ Ci hè dui schedarii à traduce.
 
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_01_how_to_vpn/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_02_is_my_vpn_working_correctly/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_03_adding_and_removing_devices/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_04_connecting_external_devices/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
 
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella.
 
-- Arregistrateli, unu dopu à l’altru, cù i so propii nomi :
+- Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
-  mozillavpn.xliff  
-  vpn.ftl  
+  mozillavpn.xliff
+  addons-guide_01_how_to_vpn-strings.xliff
+  addons-guide_02_is_my_vpn_working_correctly.xliff
+  addons-guide_03_adding_and_removing_devices.xliff
+  addons-guide_04_connecting_external_devices.xliff
+  addons-tutorial_01_get_started.xliff
+  addons-tutorial_02_connect_on_startup.xliff
+  vpn.ftl
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
