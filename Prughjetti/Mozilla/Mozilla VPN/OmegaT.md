@@ -31,13 +31,21 @@ Ci hè parechji schedarii à traduce.
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
-Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`
+### Estensione .xliff
 
-- Lancià _Notepad++_
+Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`.  
+
+In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cunversione.md) per trasfurmà u so cuntenutu
+
+- Eppò lancià _Notepad++_
 - Apre u schedariu `.xliff`
 - Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN.XLIFF-OmegaT-txt`
 - Arregistrà u schedariu cù u nome `.xliff.txt`
 - Fà a listessa operazione per tutti i schedarii `.xliff`
+
+### Estensione .ftl
+
+✔️ Ùn ci nisunu approntu à fà per i schedarii cù l’estensione `.ftl`.
 
 ## Copia di i schedarii di lingua inglese
 
