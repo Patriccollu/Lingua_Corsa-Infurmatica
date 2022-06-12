@@ -1,17 +1,22 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per i dui prughjetti _Mozilla VPN_
+## Stu cartulare cuntene l’infurmazione nant’à i dui prughjetti _Mozilla VPN_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa di _Mozilla VPN_
+### [Traduzzione](Traduzzione.md)
+L’infurmazione nant’à a traduzzione in lingua corsa di l’appiecazione _Mozilla VPN_ è di u so situ web
+
+### [Cunversione](Cunversione.md)
+L’istruzzioni per cunvertisce un schedariu di lingua di _Mozilla VPN__ per esse accettatu da _OmegaT_
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Mozilla VPN_
 
-### [Traduzzione](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di l’appiecazione _Mozilla VPN_ è di u so situ web
+### __Memoria__
+Nant’à u situ _Pontoon_ si pò scaricà un schedariu `tmx` chì cuntene a memoria di traduzzione di _Mozilla VPN_ :
+- [Per l’appiecazione](https://pontoon.mozilla.org/translation-memory/co.mozilla-vpn-client.tmx)
+- [Per u situ web](https://pontoon.mozilla.org/translation-memory/co.mozilla-vpn-website.tmx)
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
