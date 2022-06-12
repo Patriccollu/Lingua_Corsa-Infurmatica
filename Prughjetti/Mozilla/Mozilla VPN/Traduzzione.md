@@ -1,12 +1,12 @@
 # A traduzzione in lingua corsa di _Mozilla VPN_
 
-I dui prughjetti sò _Mozilla VPN Client_ è _Mozilla VPN Website_
+I dui prughjetti nant’à _Pontoon_ sò _Mozilla VPN Client_ è _Mozilla VPN Website_
 
 ## Distribuzione
 
-- A prima traduzzione in lingua corsa hè stata fatta di ferraghju di u 2021 ma ùn hè micca distribuita perchè stu prugramma ùn hè ancu dispunibule per Francia
+- A prima traduzzione in lingua corsa hè stata fatta di ferraghju di u 2021
 - Una cronolugia di tutte e mudificazioni si trova nant’à GitHub :
-  - Per [Mozilla VPN Client](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/commits/main/co/mozillavpn.xliff)
+  - Per [Mozilla VPN Client](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/commits/main/co/)
   - Per [Mozilla VPN Website](https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/commits/main/co/vpn.ftl)
 
 ## Traduttore
@@ -29,9 +29,11 @@ I dui prughjetti sò _Mozilla VPN Client_ è _Mozilla VPN Website_
 - U furmatu di i schedarii : `.xliff` è`.ftl` 
 - E fonti d’origine in inglese :
   - [Mozilla VPN Client](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff)
+  - [E so estensioni](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/tree/main/en/addons)
   - [Mozilla VPN Website](https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl)
 - I schedarii di lingua corsa :
   - [Mozilla VPN Client](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/co/mozillavpn.xliff)
+  - [E so estensioni](https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/tree/main/co/addons)
   - [Mozilla VPN Website](https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/co/vpn.ftl)
 
 U dipositu di tutte __e lingue tradutte__ di _Mozilla VPN Client_ si trova nant’à _GitHub_ :  
