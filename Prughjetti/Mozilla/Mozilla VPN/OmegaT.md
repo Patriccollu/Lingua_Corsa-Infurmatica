@@ -4,7 +4,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ## Scaricamentu di i schedarii di lingua inglese
 
-Ci hè dui schedarii à traduce.
+Ci hè parechji schedarii à traduce.
 
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
@@ -33,12 +33,11 @@ Ci hè dui schedarii à traduce.
 
 Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`
 
-- Lancià _Poedit_
-- Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
-- Selezziunà u schedariu `.xliff` scaricatu
-- Cliccà nant’à u buttone `Currege a lingua`
-- In a finestra chì richiede a lingua di traduzzione, scrive `co`
-- Arregistrà u schedariu cù listessu nome
+- Lancià _Notepad++_
+- Apre u schedariu `.xliff`
+- Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN.XLIFF-OmegaT-txt`
+- Arregistrà u schedariu cù u nome `.xliff.txt`
+- Fà a listessa operazione per tutti i schedarii `.xliff`
 
 ## Copia di i schedarii di lingua inglese
 
@@ -65,7 +64,13 @@ Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`
 
 ## Preparazione di i schedarii dopu a traduzzione
 
-✔️ Ùn ci hè nisunu approntu à fà à i schedarii di lingua corsa.
+### Estensione .ftl
+
+✔️ Ùn ci nisunu approntu à fà per i schedarii cù l’estensione `.ftl`.
+
+### Estensione .xliff
+
+⛔ Per disgrazia, ùn ci hè alcuna prucedura, à st’ora, per trasfurmà u cuntenutu di i schedarii da u furmatu `.txt` à u furmatu `.xliff`.
 
 ## Incaricamentu di i schedarii di lingua corsa
 
