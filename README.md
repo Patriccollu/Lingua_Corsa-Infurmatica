@@ -211,6 +211,12 @@ _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows ch
 > 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.16.18 è quelle più recente.  
 > ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
 
+## ✨ wxWidgets
+https://www.wxwidgets.org/  
+_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
+  
+> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 3.1.7 è quelle più recente.  
+
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
 
@@ -233,11 +239,11 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
   
 > 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
 
-## ⏳ wxWidgets
-https://www.wxwidgets.org/  
-_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
+				
+							
+																																						 
   
-> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a versione 3.1.7 è quelle più recente.  
+																										 
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
