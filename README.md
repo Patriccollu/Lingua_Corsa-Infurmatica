@@ -239,11 +239,11 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
   
 > 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
 
-				
-							
-																																						 
+## ⏳ Worldle
+https://worldle.teuteuf.fr/  
+_Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu._  
   
-																										 
+> 💡 __Astuzia__ : In attesa di a prossima versione ufficiale chì distribuiscerà a lingua corsa, si pò dighjà [pruvalla à st’indirizzu](https://deploy-preview-264--worldle-teuteuf.netlify.app/).
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
