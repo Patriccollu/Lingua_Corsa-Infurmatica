@@ -211,6 +211,12 @@ _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows ch
 > 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.16.18 è quelle più recente.  
 > ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
 
+## ✨ Worldle
+https://worldle.teuteuf.fr/  
+_Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu. Per aiutavvi, si vede a forma di stu locu ma ci hè ozzioni per falla girà o ancu piattalla per aumentà a difficultà._  
+  
+> 💡 __Nota__ : A lingua corsa hè dispunibule dapoi u 19 di lugliu di u 2022.
+
 ## ✨ wxWidgets
 https://www.wxwidgets.org/  
 _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
@@ -230,20 +236,14 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
 https://veracrypt.fr/en/Home.html  
 _Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._  
   
-> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a versione 1.26 è quelle più recente.  
-> 💡 __Astuzia__ : In attesa di distribuzione, si pò quantunque scaricà u schedariu di lingua corsa è installallu. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
+> 📗 __Nota__ : A lingua corsa serà distribuita cù a versione 1.26. Una [versione di prova per _Windows_ hè dispunibule nant’à u situ di SourceForge](https://sourceforge.net/p/veracrypt/discussion/general/thread/0cc5a5acc6/).  
+> 💡 __Astuzia__ : Si pò dinù scaricà u schedariu di lingua corsa è installallu nant’à a vostra versione attuale. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
 
 ## ⏳ WinCDEmu
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
   
 > 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
-
-## ⏳ Worldle
-https://worldle.teuteuf.fr/  
-_Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu._  
-  
-> 💡 __Astuzia__ : In attesa di a prossima versione ufficiale chì distribuiscerà a lingua corsa, si pò dighjà [pruvalla à st’indirizzu](https://deploy-preview-264--worldle-teuteuf.netlify.app/).
 
 -----
 # 3) I prugrammi in corsu di _traduzzione_ :
