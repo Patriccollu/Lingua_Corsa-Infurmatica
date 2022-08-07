@@ -24,6 +24,8 @@ In più di què, ci hè una prucedura chì face a trasfurmazione à l’arritros
 
 B) Esempiu di linee in u schedariu d’origine `res_en.rc` o `res_uk_recuva.rc`  :
 ```
+STRINGTABLE
+BEGIN
 100,	"1033"	/* Automated Language ID */
 8,	"CCleaner Homepage"
 9,	"Uninstall CCleaner"
@@ -31,6 +33,8 @@ B) Esempiu di linee in u schedariu d’origine `res_en.rc` o `res_uk_recuva.rc`
 ```
 Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione CCleaner.RC-OmegaT` :
 ```
+;STRINGTABLE
+;BEGIN
 100=1033
 8=CCleaner Homepage
 9=Uninstall CCleaner
@@ -63,14 +67,14 @@ Per i dui furmati `.nsh` è `.rc`, ste linee ponu esse arregistrate in un scheda
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='LangString (.*) \${LANG_ENGLISH} "(.*)"' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam='LangString_\1_\${LANG_ENGLISH}=\2' />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="LangString_\1_\${LANG_ENGLISH}=\2" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
         <Macro name="Cunversione OmegaT-CCleaner.NSH" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per trasfurmà tutte e line da u furmatu LNG à u furmatu NSH' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='LangString_(.*)_\${LANG_ENGLISH}=(.*)' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="LangString_(.*)_\${LANG_ENGLISH}=(.*)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam='LangString \1 \${LANG_ENGLISH} "\2"' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
@@ -114,13 +118,34 @@ Per i dui furmati `.nsh` è `.rc`, ste linee ponu esse arregistrate in un scheda
             <Action type="3" message="1602" wParam="0" lParam="0" sParam='"' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per aghjunghje u segnu ; à tutte e linee" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam=";\1" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià u segnu ; nant'à e linee chì cuntenenu u segnu uguale" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=";(.*)=(.*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1=\2" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
         <Macro name="Cunversione OmegaT-CCleaner.RC" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per trasfurmà tutte e line da u furmatu LNG à u furmatu RC' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(.*)=(.*)' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.*)=(.*)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam='\1,\t"\2"' />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià u segnu ; nant'à e linee chì principanu da stu segnu" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^;(.*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
