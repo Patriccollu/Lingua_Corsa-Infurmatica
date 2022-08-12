@@ -45,6 +45,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/pwa/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/qr/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/search/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/webnotifications/src/main/res/values/strings.xml  
@@ -56,7 +57,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml  
 
-- Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella.
+- Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
@@ -83,6 +84,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
   components-feature-pwa-strings.xml
   components-feature-qr-strings.xml
   components-feature-readerview-strings.xml
+  components-feature-search-strings.xml
   components-feature-sitepermissions-strings.xml
   components-feature-tabs-strings.xml
   components-feature-webnotifications-strings.xml
@@ -96,15 +98,17 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
-✔️ Ùn ci hè nisunu approntu à fà à i schedarii di lingua inglese.
+✔️ Ùn ci hè nisunu approntu à fà à i schedarii di lingua inglese
 
 ## Copia di i schedarii di lingua inglese
 
-- Cupià o dispiazzà stu schedariu in u cartulare `source` di u prughjettu _Firefox for Android_ in _OmegaT_.
+- Cupià o dispiazzà stu schedariu in u cartulare `source` di u prughjettu _Firefox for Android_ in _OmegaT_
 
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
-✔️ Nisuna.
+- Lancià l’appiecazione _OmegaT_
+- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+  - Attivà u furmatu `Risorse Android`
 
 ## Traduzzione in lingua corsa
 
