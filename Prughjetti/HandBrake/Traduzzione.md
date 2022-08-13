@@ -61,6 +61,19 @@ Secondu à u sistema, i schedarii di tutte e lingue tradutte si trovanu nant’�
 
 Quandu s’appronta una nova versione, a squadra d’_HandBrake_ mudificheghja e catene di fonte nant’à _Transifex_ aghjunghjendu catene nove o mudifichendu catene anziane. È quandu st’operazione si face, si riceve una nutificazione nant’à _Transifex_.  
 
+### I flussi _Atom_
+
+Un’altra manera di riceve un’infurmazione da _GitHub_ o da _GitLab_ - quandu ci hè una mudificazione nant’à un schedariu - hè di mette in piazza un flussu _Atom_.  
+
+Eccu i flussi à cuttighjà ch’ella ci vole à definisce in _Thunderbird_ grazia à un abbunamentu :
+```
+https://github.com/HandBrake/HandBrake/commits/master/win/CS/HandBrakeWPF/Properties/Resources.resx.atom
+https://github.com/HandBrake/HandBrake/commits/master/win/CS/HandBrakeWPF/Properties/ResourcesTooltips.resx.atom
+https://github.com/HandBrake/HandBrake/commits/master/macosx/Base.lproj.atom
+https://github.com/HandBrake/HandBrake/commits/master/gtk/po/ghb.pot.atom
+```
+Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_ è riceve l’infurmazione nant’à _Thunderbird_](../../Flussu%20di%20nutizie.md).
+
 ## Cumu fà a traduzzione ?
 Officialmente, _HandBrake_ prupone l’appiecazione _Transifex_ nant’à u Web per fà a traduzzione. Ma si pò quantunque impiegane un’altra in lucale per traduce.
 
@@ -93,8 +106,9 @@ Officialmente, _HandBrake_ prupone l’appiecazione _Transifex_ nant’à u Web 
 - Per disgrazia, e risorse Windows sò di furmatu `.resx` è dunque ùn ponu micca esse mudificate da _Poedit_. Per quelle risorse, ci vole à impiegà _OmegaT_.
 - Per impiegà _OmegaT_, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md).
 - Osinnò per cumpletà una traduzzione cù _Poedit_, ci vole à impiegà _Transifex_ per espurtà direttamente u schedariu di lingua corsa :
-  - `en.xliff` https://www.transifex.com/HandBrakeProject/mac-ui/enxliff/co/download/for_translation/
-  - `ghb.pot` https://www.transifex.com/HandBrakeProject/linux-ui/ghbpot/co/download/for_translation/
+  - `en.xliff` https://www.transifex.com/HandBrakeProject/mac-ui/language/co/
+  - `ghb.pot` https://www.transifex.com/HandBrakeProject/linux-ui/language/co/
+- Per ogni schedariu, ci vole à fà un cliccu nant’à u so nome è sceglie l’ozzione `Télecharger le fichier pour le traduire`
 - Lancià _Poedit_ è apre u schedariu per traducelu eppò arregistrallu
 - Dopu a traduzzione, hè ricumandatu d’impiegà _Transifex_ cù l’ozzione `Téleverser un fichier` per rinfrescà u schedariu di traduzzione.
 
