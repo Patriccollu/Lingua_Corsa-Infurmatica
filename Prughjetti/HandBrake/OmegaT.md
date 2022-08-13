@@ -6,12 +6,14 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ## Scaricamentu di i schedarii à traduce
 
-- Eccu i liami per scaricà direttamente i schedarii in lingua inglese da _Transifex_ :
-  - https://www.transifex.com/HandBrakeProject/WinUI/resourcesresx/en/download/for_translation/
-  - https://www.transifex.com/HandBrakeProject/WinUI/resourcestooltipsresx/en/download/for_translation/
-  - https://www.transifex.com/HandBrakeProject/mac-ui/enxliff/en/download/for_translation/
-  - https://www.transifex.com/HandBrakeProject/linux-ui/ghbpot/en/download/for_translation/
-  
+- Eccu i liami per scaricà i schedarii in lingua inglese da _Transifex_ :
+  - [Windows](https://www.transifex.com/HandBrakeProject/WinUI/language/en/)
+  - [Mac](https://www.transifex.com/HandBrakeProject/mac-ui/language/en/)
+  - [Linux](https://www.transifex.com/HandBrakeProject/linux-ui/language/en/)
+- Per ogni risorsa :
+  - Fà un cliccu nant’à u so nome per affissà tutte l’ozzioni
+  - Sceglie l’ozzione `Télecharger le fichier pour le traduire`
+
 - D’una manera alternativa, solu per Windows è Linux, si pò dinù scaricà i schedarii da _GitHub_ :
   - Windows : [Resources.resx](https://github.com/HandBrake/HandBrake/blob/master/win/CS/HandBrakeWPF/Properties/Resources.resx) è [ResourcesTooltips.resx](https://github.com/HandBrake/HandBrake/blob/master/win/CS/HandBrakeWPF/Properties/ResourcesTooltips.resx)
   - Linux : [ghb.pot](https://github.com/HandBrake/HandBrake/tree/master/gtk/po/ghb.pot)
@@ -22,7 +24,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ### Estensione .resx
 
-✔️ Ùn ci hè alcunu approntu à fà à i schedarii di stu furmatu.
+✔️ Ùn ci hè alcunu approntu à fà à i schedarii di stu furmatu
 
 ### Estensione .po
 U schedariu `.po` scaricatu si chjama `for_translation_linux-ui_ghbpot_en.po`. Ghjè una versione in lingua inglese, vole si dì chì e catene di fonte è quelle di traduzzione sò treminduie in lingua inglese. Eccu l’istruzzioni per fane una versione in inglese impieghevule da _Omegat_.
@@ -96,11 +98,11 @@ U schedariu `.xlf` scaricatu si chjama `for_translation_mac-ui_enxliff_en.xlf`. 
 
 ## Traduzzione in lingua corsa
 
-- Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu.
+- Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu
 
 ## Preparazione di i schedarii dopu a traduzzione
 
-✔️ Ùn ci hè alcunu approntu à fà à u schedariu di lingua corsa.
+✔️ Ùn ci hè alcunu approntu à fà à u schedariu di lingua corsa
 
 ## Incaricamentu di i schedarii di lingua corsa
 
