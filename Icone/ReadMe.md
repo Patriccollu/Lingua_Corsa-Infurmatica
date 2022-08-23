@@ -4,7 +4,7 @@
 
 L’icone chì si trovanu in stu cartulare sò a prupietà di l’impresa o di a squadra di sviluppu chì distribuisce u prugramma.  
 
-St’icone sò state trove nant’à u situ web di u prugramma (vede a lista inghjò) o, in qualchì casu, direttamente in u prugramma.
+St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qualchì casu, direttamente da u prugramma.
 
 #### Per ogni prugramma, eccu l’indirizzu web di a fiura :
 | _Prugramma_ | _Indirizzu web di a fiura_ |
@@ -24,6 +24,7 @@ St’icone sò state trove nant’à u situ web di u prugramma (vede a lista ing
 | HandBrake | https://handbrake.fr/img/logo.png |
 | Inno Setup | https://raw.githubusercontent.com/jrsoftware/issrc/main/Files/SetupClassicIcon.ico |
 | Lufi | https://framagit.org/uploads/-/system/project/avatar/1998/lufi.png |
+| MozBackup | https://mozbackup.jasnapaka.com/images/mozbackup-logo.png |
 | Mozilla VPN | https://github.com/mozilla-mobile/mozilla-vpn-client/raw/main/src/ui/resources/logo.ico |
 | Mp3tag | https://www.mp3tag.de/images/logo.png |
 | Notepad++ | https://notepad-plus-plus.org/images/logo.svg |
@@ -35,10 +36,12 @@ St’icone sò state trove nant’à u situ web di u prugramma (vede a lista ing
 | Poedit | https://d33wubrfki0l68.cloudfront.net/87439bf410f4210f3a71d3b7c401db8700a48732/2d233/images/icons/poedit/icon_96x96.png |
 | PrivateBin | https://privatebin.info/theme/img/icon.svg |
 | SumatraPDF | https://www.sumatrapdfreader.org/favicon.ico |
-| Unicode CLDR (Common Locale Data Repository) | https://lh3.googleusercontent.com/qOtcCnbg7-6xVBHe6GZE3dBmgE-dHlhJtt_deYq3KJEqg_bzUQv1koxmORpqR3xt2HfiVB6IcsgceJmCIK_ayeA=w16383 |
+| Unicode CLDR (Common Locale Data Repository) | https://www.unicode.org/webscripts/logo60s2.gif |
 | VeraCrypt | https://veracrypt.fr/en/VeraCrypt128x128.png |
 | Video DownloadHelper | https://www.downloadhelper.net/images/logo-64.png |
-| VLC for iOS | https://images.videolan.org/images/VLCforiOS128.png |
+| VirtualMIDISynth | https://coolsoft.altervista.org/images/sitelogo.gif |
+| VLC for Android | https://code.videolan.org/uploads/-/system/project/avatar/36/unnamed.png?width=32 |
+| VLC for iOS | https://code.videolan.org/uploads/-/system/project/avatar/11/AppIcon216.png?width=32 |
 | VLC media player | https://images.videolan.org/images/largeVLC.png |
 | WinCDEmu | https://github.com/sysprogs/WinCDEmu/raw/master/vmnt/wcd-icon.ico |
 | WinMerge | https://github.com/WinMerge/winmerge/raw/master/Src/res/LogoImages/WinMergeLogo.png |
