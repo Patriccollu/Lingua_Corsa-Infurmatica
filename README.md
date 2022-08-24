@@ -1,10 +1,12 @@
 # È a lingua corsa in l’infurmatica ?
 
-Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn ci hè nunda à fà di particulare per impiegalli in lingua corsa, fora di installalli è dopu di sceglie a lingua « corsu » o « corsican ». Per certi, per indettu quelli ch’impieganu i prugrammi d’installazione Inno Setup o NSIS, ghjè ancu pussibule d’installalli in lingua corsa !
-<br><br>
-A maiò parte di sti prugrammi hè di tipu « Fonte Aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.
-<br><br>
-Eccu una lista, ordinata in trè parti : i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu, quelli in attesa di distribuzione è l’ultimi in corsu di traduzzione. In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.</p>
+Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn ci hè nunda à fà di particulare per impiegalli in lingua corsa, fora di installalli è dopu di sceglie a lingua « corsu » o « corsican ». Per certi, per indettu quelli ch’impieganu i prugrammi d’installazione Inno Setup o NSIS, ghjè ancu pussibule d’installalli in lingua corsa !  
+
+A maiò parte di sti prugrammi hè di tipu « Fonte Aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.  
+
+Eccu una lista, ordinata in trè parti : i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu, quelli in attesa di distribuzione è l’ultimi in corsu di traduzzione.  
+
+In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.</p>
 
 -----
 # 1) I prugrammi _tradutti_ in lingua corsa :
