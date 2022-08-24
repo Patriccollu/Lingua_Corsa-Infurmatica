@@ -4,7 +4,7 @@ Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn
 <br><br>
 A maiò parte di sti prugrammi hè di tipu « Fonte Aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.
 <br><br>
-Eccu i nomi di sti prugrammi, i siti web induve si trovanu, è una corta discrizzione per sapè ciò ch’elli facenu :</p>
+Eccu una lista, ordinata in trè parti : i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu, quelli in attesa di distribuzione è l’ultimi in corsu di traduzzione. In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.</p>
 
 -----
 # 1) I prugrammi _tradutti_ in lingua corsa :
@@ -89,6 +89,10 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 ## ✨ Inno Setup <a href="#"><img src="./Icone/Inno%20Setup.png" width="30" height="30"></img></a>
 https://jrsoftware.org/isinfo.php  
 _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
+
+## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
+https://www.lazarus-ide.org/  
+_Lazarus hè un « IDE » multipiattaforma cumpatibile cù Delphi per Free Pascal. Free Pascal hè un compilatore GPL chì funzioneghja nant’à Linux, Windows, macOS, FreeBSD è d’altri. LCL (Lazarus Component Library) hè unu di i so cumpunenti chì hè più o menu cumpatibile cù u VCL di Delphi._
 
 ## ✨ Lufi	<a href="#"><img src="./Icone/Lufi.png" width="30" height="30"></img></a>
 https://alt.framasoft.org/fr/framadrop  
