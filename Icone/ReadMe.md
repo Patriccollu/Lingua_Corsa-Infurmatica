@@ -50,5 +50,5 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | wxWidgets | https://github.com/wxWidgets/wxWidgets/raw/master/art/wxlogo.svg |
 
 #### Liami di navigazione nant’à stu situ
-- [Rivene à a lista di tutti i sottucartulari di prughjettu](../../tree/ceppu/Prughjetti)
-- [Rivene à a lista di tutti i prugrammi tradutti in lingua corsa](../../#readme)
+- [Rivene à a lista di tutti i sottucartulari di prughjettu](../Prughjetti)
+- [Rivene à a lista di tutti i prugrammi tradutti in lingua corsa](../../../#readme)
