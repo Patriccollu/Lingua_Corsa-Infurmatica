@@ -23,6 +23,7 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | GeneWeb | https://download.tuxfamily.org/geneweb/wiki/images/geneweb.png |
 | HandBrake | https://handbrake.fr/img/logo.png |
 | Inno Setup | https://raw.githubusercontent.com/jrsoftware/issrc/main/Files/SetupClassicIcon.ico |
+| Lazarus/LCL | https://gitlab.com/uploads/-/system/project/avatar/28419588/mainicon.ico |
 | Lufi | https://framagit.org/uploads/-/system/project/avatar/1998/lufi.png |
 | MozBackup | https://mozbackup.jasnapaka.com/images/mozbackup-logo.png |
 | Mozilla VPN | https://github.com/mozilla-mobile/mozilla-vpn-client/raw/main/src/ui/resources/logo.ico |
