@@ -12,36 +12,58 @@ Ci hè parechji schedarii à traduce.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_02_is_my_vpn_working_correctly/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_03_adding_and_removing_devices/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_04_connecting_external_devices/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_07_app_permissions/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_privacy_bundle_staging/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.12/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.10/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.11/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.12/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started2/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_03_multi_hop/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
 
-- Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella.
+- Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
   mozillavpn.xliff
   addons-guide_01_how_to_vpn-strings.xliff
   addons-guide_02_is_my_vpn_working_correctly.xliff
-  addons-guide_03_adding_and_removing_devices.xliff
-  addons-guide_04_connecting_external_devices.xliff
-  addons-tutorial_01_get_started.xliff
-  addons-tutorial_02_connect_on_startup.xliff
+  addons-guide_03_adding_and_removing_devices-strings.xliff
+  addons-guide_04_connecting_external_devices-strings.xliff
+  addons-guide_05_what_is_multi_hop-strings.xliff
+  addons-guide_06_benefits_of_custom_dns-strings.xliff
+  addons-guide_07_app_permissions-strings.xliff
+  addons-message_privacy_bundle_staging-strings.xliff
+  addons-message_survey-strings.xliff
+  addons-message_update_v2.12-strings.xliff
+  addons-message_whats_new_v2.10-strings.xliff
+  addons-message_whats_new_v2.11-strings.xliff
+  addons-message_whats_new_v2.12-strings.xliff
+  addons-tutorial_01_get_started2-strings.xliff
+  addons-tutorial_01_get_started-strings.xliff
+  addons-tutorial_02_connect_on_startup-strings.xliff
+  addons-tutorial_03_multi_hop-strings.xliff
   vpn.ftl
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
 ### Estensione .xliff
 
-Ci vole à appruntà __solu__ u schedariu cù l’estensione : `.xliff`.  
+Ci vole à appruntà __solu__ i schedarii cù l’estensione : `.xliff`.  
 
-In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cunversione.md) per trasfurmà u so cuntenutu
+In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cunversione.md) per trasfurmà u so cuntenutu.
 
 - Eppò lancià _Notepad++_
 - Apre u schedariu `.xliff`
-- Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN.XLIFF-OmegaT-txt`
-- Arregistrà u schedariu cù u nome `.xliff.txt`
+- Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)`
+- Arregistrà u schedariu cù u listessu nome
 - Fà a listessa operazione per tutti i schedarii `.xliff`
+
+S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)` per trasfurmà un schedariu `.xliff` in furmatu testu simplice. In stu casu, l’estensione di u schedariu trasfurmatu serà `.txt`.
 
 ### Estensione .ftl
 
@@ -49,7 +71,7 @@ In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cun
 
 ## Copia di i schedarii di lingua inglese
 
-- Cupià o dispiazzà sti schedarii in u cartulare `source` di u prughjettu _Mozilla VPN_ in _OmegaT_.
+- Cupià o dispiazzà sti schedarii in u cartulare `source` di u prughjettu _Mozilla VPN_ in _OmegaT_
 
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
@@ -68,7 +90,7 @@ In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cun
 
 ## Traduzzione in lingua corsa
 
-- Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu.
+- Lancià l’appiecazione _OmegaT_ è apre stu prughjettu per traducelu
 
 ## Preparazione di i schedarii dopu a traduzzione
 
@@ -78,6 +100,10 @@ In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cun
 
 ### Estensione .xliff
 
+✔️ Ùn ci nisunu approntu à fà per i schedarii cù l’estensione `.xliff`.
+
+### Estensione .txt
+
 ⛔ Per disgrazia, ùn ci hè alcuna prucedura, à st’ora, per trasfurmà u cuntenutu di i schedarii da u furmatu `.txt` à u furmatu `.xliff`.
 
 ## Incaricamentu di i schedarii di lingua corsa
@@ -86,4 +112,4 @@ Per ogni schedariu, ci vole à impiegà _Pontoon_ per impurtacci u schedariu tra
 - Fà un cliccu nant’à a vostra icona d’utilizatore chì si trova insù è à dirittu, accant’à l’icona di a campana 🔔
 - Sceglie a funzione _`Upload Translations`_ (ghjè una funzione riservata à u respunsevule di prughjettu)
 - Selezziunà u schedariu di lingua corsa chì si trova in u cartulare `target` di u prughjettu _Mozilla VPN_ in _OmegaT_
-- À a fine di stu trattamentu, _Pontoon_ hè statu rinfrescatu cù e nove traduzzioni.
+- À a fine di stu trattamentu, _Pontoon_ hè statu rinfrescatu cù e nove traduzzioni
