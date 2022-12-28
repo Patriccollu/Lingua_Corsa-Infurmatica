@@ -59,11 +59,11 @@ In primu locu, ci vole à [installà è impiegà a prucedura di cunversione](Cun
 
 - Eppò lancià _Notepad++_
 - Apre u schedariu `.xliff`
-- Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)`
+- Eseguisce a macro installata appostu chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)`
 - Arregistrà u schedariu cù u listessu nome
 - Fà a listessa operazione per tutti i schedarii `.xliff`
 
-S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)` per trasfurmà un schedariu `.xliff` in furmatu testu simplice. In stu casu, l’estensione di u schedariu trasfurmatu serà `.txt`.
+S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)` per trasfurmà un schedariu `.xliff` in furmatu testu simplice. In stu casu, l’estensione di u schedariu trasfurmatu serà `.txt`.
 
 ### Estensione .ftl
 
