@@ -91,6 +91,13 @@ About us
             <Action type="3" message="1602" wParam="0" lParam="0" sParam='\1<source>\2</source>\n\1<target xml:lang="co">\2</target>' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di e catene [target-language="en-US"] da [target-language="co"]' />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='target-language="en-US"' />
+            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam='target-language="co"' />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
         <Macro name="Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marca e indetta e linee cuntenendu |<source>|" />
