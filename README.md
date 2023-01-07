@@ -270,7 +270,7 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
   
 > 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu __una metà__ - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
 
-### ✔️ [_Si pò dinù fighjà sta lista nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/#669b)
+### ✔️ [_Si pò dinù fighjà sta lista nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/)
 
 ##
-_© Patriccollu di Santa Maria è Sichè, 2022_
+_© Patriccollu di Santa Maria è Sichè, 2023_
