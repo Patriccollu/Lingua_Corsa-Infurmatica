@@ -1,6 +1,6 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per u prughjettu _Firefox for Android_
+## Stu cartulare cuntene l’infurmazione nant’à u prughjettu _Firefox for Android_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
@@ -10,8 +10,11 @@ A memoria di traduzzione di l’interfaccia in lingua corsa di _Firefox for Andr
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Firefox for Android_
 
+### [Schedarii in corsu.ps1](Schedarii%20in%20corsu.ps1)
+Scenariu per scaricà cù _PowerShell_ tutti i schedarii tradutti in corsu di _Firefox for Android_
+
 ### [Schedarii in inglese.ps1](Schedarii%20in%20inglese.ps1)
-Parte d’una prucedura per scaricà tutti i schedarii in inglese di _Firefox for Android_
+Scenariu per scaricà cù _PowerShell_ tutti i schedarii d’origine in inglese di _Firefox for Android_
 
 ### [Traduzzione](Traduzzione.md)
 L’infurmazione nant’à a traduzzione in lingua corsa di _Firefox for Android_
