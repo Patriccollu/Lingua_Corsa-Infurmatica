@@ -14,6 +14,8 @@ Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/browser-toolbar/src/main/res/values/strings.xml" -OutFile "components-compose-browser-toolbar-strings.xml"
 
+Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/cfr/src/main/res/values/strings.xml" -OutFile "components-compose-cfr-strings.xml"
+
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/compose/tabstray/src/main/res/values/strings.xml" -OutFile "components-compose-tabstray-strings.xml"
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml" -OutFile "components-feature-addons-strings.xml"
@@ -43,6 +45,8 @@ Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/qr/src/main/res/values/strings.xml" -OutFile "components-feature-qr-strings.xml"
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml" -OutFile "components-feature-readerview-strings.xml"
+
+Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/search/src/main/res/values/strings.xml" -OutFile "components-feature-search-strings.xml"
 
 Invoke-WebRequest -Uri "https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml" -OutFile "components-feature-sitepermissions-strings.xml"
 
