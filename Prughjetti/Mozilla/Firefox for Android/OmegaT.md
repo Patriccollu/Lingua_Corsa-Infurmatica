@@ -4,7 +4,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ## Scaricamentu di i schedarii di lingua inglese
 
-À st’ora, schedarii, ci n’hè più di 30, tutti cù u listessu nome `strings.xml` è ognunu in u so sottucartulare. Ancu di grazia, ci hè una prucedura per scaricalli tutti di manera autumatica. Sta prucedura, chì impiega __Windows PowerShell__, si chjama `Schedarii in inglese.ps1`.
+À st’ora, schedarii, ci n’hè più chè 30, tutti cù u listessu nome `strings.xml` è ognunu in u so sottucartulare. Ancu di grazia, ci hè una prucedura per scaricalli tutti di manera autumatica. Sta prucedura, chì impiega __Windows PowerShell__, si chjama `Schedarii in inglese.ps1`.  
+
+Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii in lingua corsa chì si chjama `Schedarii in corsu.ps1`.
 
 ###  A prucedura autumatica
 
