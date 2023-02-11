@@ -4,6 +4,25 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 
 ## Scaricamentu di i schedarii di lingua inglese
 
+À st’ora, schedarii, ci n’hè circa 30, in dui dipositi _GitHub_ è in parechji sottucartulari. Ancu di grazia, ci hè una prucedura per scaricalli tutti di manera autumatica. Sta prucedura, chì impiega __Windows PowerShell__, si chjama `Schedarii in inglese.ps1`.  
+
+Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii in lingua corsa chì si chjama `Schedarii in corsu.ps1`.
+
+###  A prucedura autumatica
+
+- Apre a prucedura per [scaricà tutti i schedarii in inglese](Schedarii%20in%20inglese.ps1)
+- Cliccà nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
+- Selezziunà tutte e linee cù a cumanda `Ctrl-A`
+- Cupià tutte e linee cù a cumanda `Ctrl-C`
+- Lancià _Windows PowerShell_ cù un cliccu dirittu nant’à u listinu « Démarrer »
+- Rimpiazzià u cartulare attuale - cù a cumanda `CD u_mo_cartulare` - da quellu induve ci vole à piazzà i schedarii scaricati, per indettu : `CD C:\Traduzzione\OmegaT\Mozilla_VPN\source\`
+- Incullà e linee cupiate cù a cumanda `Ctrl-V`
+- Appughjate nant’à u tastu `Entrée`
+- Quandu tutte e cumande sò state passate, i schedarii d’origine in inglese si trovanu in u cartulare sceltu
+- Chjode _Windows PowerShell_ cù a cumanda `exit`
+
+###  A manera manuale
+
 Ci hè parechji schedarii à traduce.
 
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
