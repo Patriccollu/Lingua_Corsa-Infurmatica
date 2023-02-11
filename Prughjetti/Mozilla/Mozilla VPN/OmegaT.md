@@ -13,18 +13,28 @@ Ci hè parechji schedarii à traduce.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_03_adding_and_removing_devices/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_04_connecting_external_devices/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_05_what_is_multi_hop/strings.xliff  
-https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_06_benefits_of_custom_dns/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_06_benefits_of_custom_dns/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_07_app_permissions/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_08_privacy_features/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_09_custom_dns/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_10_app_exclusions/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_11_recommended_servers/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_12_multi_account_containers/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_privacy_bundle_staging/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_subscription_expiring/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.12/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.13/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.10/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.11/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.12/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.13/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started2/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_03_multi_hop/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling2/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
 
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
@@ -39,16 +49,26 @@ https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guid
   addons-guide_05_what_is_multi_hop-strings.xliff
   addons-guide_06_benefits_of_custom_dns-strings.xliff
   addons-guide_07_app_permissions-strings.xliff
+  addons-guide_08_privacy_features-strings.xliff
+  addons-guide_09_custom_dns-strings.xliff
+  addons-guide_10_app_exclusions-strings.xliff
+  addons-guide_11_recommended_servers-strings.xliff
+  addons-guide_12_multi_account_containers-strings.xliff
   addons-message_privacy_bundle_staging-strings.xliff
+  addons-message_subscription_expiring-strings.xliff
   addons-message_survey-strings.xliff
   addons-message_update_v2.12-strings.xliff
+  addons-message_update_v2.13-strings.xliff
   addons-message_whats_new_v2.10-strings.xliff
   addons-message_whats_new_v2.11-strings.xliff
   addons-message_whats_new_v2.12-strings.xliff
+  addons-message_whats_new_v2.13-strings.xliff
   addons-tutorial_01_get_started2-strings.xliff
   addons-tutorial_01_get_started-strings.xliff
   addons-tutorial_02_connect_on_startup-strings.xliff
   addons-tutorial_03_multi_hop-strings.xliff
+  addons-tutorial_04_split_tunneling2-strings.xliff
+  addons-tutorial_04_split_tunneling-strings.xliff
   vpn.ftl
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
@@ -79,7 +99,7 @@ S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si c
 
 - Lancià l’appiecazione _OmegaT_
 - Sceglie `Ozzioni` eppò `Filtri di schedariu…`
-  - Disattivà u furmatu `XLIFF`
+  - Attivà u furmatu `XLIFF`
   - Attivà u furmatu `XLIFF files (Okapi)`
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
     ⚫ `Use the default filter settings (okf_xliff)`  
