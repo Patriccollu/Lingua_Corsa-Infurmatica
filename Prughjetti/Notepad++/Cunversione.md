@@ -1,10 +1,10 @@
-# Prucedura di cunversione di schedariu di traduzzione Notepad++
+# Prucedure di cunversione di schedariu di traduzzione Notepad++
 
-Eccu una prucedura di cunversione di schedariu di traduzzione Notepad++ per ch’ellu sia accettatu da  __OmegaT__, attrezzu di traduzzione assistita da l’urdinatore.
+Eccu duie prucedure di cunversione di schedariu di traduzzione Notepad++ per ch’ellu sia accettatu da  __OmegaT__, attrezzu di traduzzione assistita da l’urdinatore.
 
-## Scopu di a prucedura
+## Scopu di e prucedure
 
-Per disgrazia, un schedariu di traduzzione `.xml` di Notepad++ - cum’è __english.xml__ - ùn pò micca esse traduttu direttamente da OmegaT è ci vole à trasfurmà u furmatu di u so cuntenutu. Eccu una prucedura macro - `Cunversione Notepad.XML-OmegaT` - chì si pò caricà è impiegà in Notepad++ per fà sta trasfurmazione.  
+Per disgrazia, un schedariu di traduzzione `.xml` di Notepad++ - cum’è __english.xml__ - ùn pò micca esse traduttu direttamente da OmegaT è ci vole à trasfurmà u furmatu di u so cuntenutu. Eccu una prucedura macro - `Cunversione Notepad(.xml)-OmegaT(.lng)` - chì si pò caricà è impiegà in Notepad++ per fà sta trasfurmazione.  
 
 Esempiu di linee in u schedariu d’origine :
 ```
@@ -31,14 +31,16 @@ Your workspace has not been saved.
 replace-in-files-progress-title=Replace In Files progress...
 ```
 Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` chì hè un furmatu cunnisciutu da OmegaT.
+  
+Ci hè una seconda prucedura macro, simile, - `Cunversione Notepad_wingup(.xml)-OmegaT(.lng)` - chì si pò caricà è impiegà in _Notepad++_ per fà a trasfurmazione di u schedariu di traduzzione di u cumpunente _wingup_ di _Notepad++_.  
 
-## Installazione di a prucedura
+## Installazione di e prucedure
 
-- Apre u cartulare di Notepad++ induve si trova u schedariu `shortcuts.xml` perchè ghjè quellu chì cuntene tutte e vostre prucedure persunalizate. Da bona regula, stu cartulare si trova in `C:\Users\xxxxxxxx\AppData\Roaming\Notepad++` (induve _xxxxxxxx_ hè u vostru nome d’utilizatore).  
+- Apre u cartulare di Notepad++ induve si trova u schedariu `shortcuts.xml` perchè ghjè quellu chì cuntene tutte e vostre prucedure persunalizate. Da bona regula, stu cartulare si trova in `C:\Users\xxxxxxxx\AppData\Roaming\Notepad++` (induve _xxxxxxxx_ hè u vostru nome d’utilizatore)  
 
     Per apre stu cartulare d’una manera più faciule, ci vole à fà una ricerca Windows cù sta catena : `%APPDATA%\Notepad++`
 
-- In u cartulare chì s’apre, sciglite u schedariu `shortcuts.xml` è apritelu cù Notepad++.
+- In u cartulare chì s’apre, sciglite u schedariu `shortcuts.xml` è apritelu cù Notepad++
 
 - Dentru u schedariu, dopu l’istruzzione `<Macros>`, ci hè unu o parechji gruppi d’istruzzioni chì s’assumiglianu à què :
 ```
@@ -50,9 +52,16 @@ Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` ch�
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione Notepad.XML-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione Notepad(.xml)-OmegaT(.lng)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni Notepad">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
             <Action type="2" message="0" wParam="42043" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià i cummenti, ancu s'elli si trovanu nant'à parechje linee" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;!--.*?--&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="1792" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='1u rimpiazzamentu nurmale di e catene [  name="] da [ name="]' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='  name=&quot;' />
@@ -88,13 +97,6 @@ Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` ch�
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per caccià i cummenti' />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;!-- (.*) --&gt;" />
-            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_menuId' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item menuId=&quot;)(.*)(&quot; name=&quot;)(.*)' />
@@ -121,6 +123,13 @@ Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` ch�
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item id=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$4" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_CMDID' />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item CMDID=&quot;)(.*)(&quot; name=&quot;)(.*)' />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="CMDID$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_CMID' />
@@ -231,13 +240,40 @@ Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.lng` ch�
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
+        <Macro name="Cunversione Notepad_wingup(.xml)-OmegaT(.lng)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni Notepad">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià i cummenti, ancu s'elli si trovanu nant'à parechje linee" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;!--.*?--&gt;" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="1792" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
+            <Action type="2" message="0" wParam="42043" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu content=" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(.*)<(.*) content="(.*)"(.*)' />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$3" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà e linee chì principianu da <" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^&lt;(.*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià e linee viote" />
+            <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
+       </Macro>
 ```
-- Tandu a nova prucedura - `Cunversione Notepad.XML-OmegaT` - hè dispunibule in Notepad++.
-- Di sicuru, si pò sceglie __un altru nome di prucedura__.  
-
+- Tandu ste nove prucedure sò dispunibule in Notepad++
+- Di sicuru, si pò sceglie __un altru nome di prucedura__
+  
 Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
 
-## Impiegu di a prucedura
+## Impiegu di e prucedure
 
 - Lancià Notepad++
 
@@ -245,15 +281,19 @@ Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste p
 
 - Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
 
-- Selezziunà `Cunversione Notepad.XML-OmegaT`
+- Selezziunà a prucedura secondu à u schedariu à trasfurmà :
+  - `Cunversione Notepad(.xml)-OmegaT(.lng)` per _Notepad++_
+  - `Cunversione Notepad_wingup(.xml)-OmegaT(.lng)` per u so cumpunente _wingup_
 
 - Cliccu nant’à `Eseguisce 1 volta`
 
 - Appughjà nant’à u buttone `Eseguisce`
 
 - Arregistrà u schedariu trasfurmatu cù l’estensione `.lng`
- 
-- Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad++__ in _OmegaT_.
+
+- Cupià stu schedariu in u cartulare `/source/` di u prughjettu __Notepad++__ in _OmegaT_
+  
+L’impiegu hè simile per u schedariu _wingup_ ; basta à impiegà a prucedura `Cunversione Notepad_wingup(.xml)-OmegaT(.lng)`
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
