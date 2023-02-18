@@ -21,44 +21,72 @@
  
 ## I schedarii di lingua à traduce
 
-U dipositu di tutta a fonte di Notepad++ si trova nant’à GitHub :  
-   https://github.com/notepad-plus-plus/notepad-plus-plus
+U dipositu di tutta a fonte di Notepad++ si trova nant’à _GitHub_ :  
+   https://github.com/notepad-plus-plus/notepad-plus-plus  
+   https://github.com/notepad-plus-plus/wingup
+   
+### L’interfaccia di _Notepad++_
 
 I schedarii di lingua si trovanu in u cartulare [/nativeLang/.](https://github.com/notepad-plus-plus/notepad-plus-plus/tree/master/PowerEditor/installer/nativeLang)
-
+  
 - U furmatu di i schedarii : `xml`
 - A fonte d’origine : [english.xml](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/english.xml)
 - U schedariu di lingua corsa : [corsican.xml](https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/PowerEditor/installer/nativeLang/corsican.xml)
 
-## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
-Per disgrazia, ùn hè micca pussibule di riceve un messaghju quandu ci hè qualcosa di novu à traduce, cum’è per indettu, un’iscrizzione à una lista di distribuzione di messaghju.  
+### U so cumpunente _wingup_
 
-Ma ci hè una funzione in GitHub per cunnosce tutte e mudificazioni fatte (commits) nant’à a fonte d’origine :  
+_wingup_ hè u cumpunentu di _Notepad++_ chì s’incaricheghja e messe à livellu di u prugramma.
+
+I schedarii di lingua di _wingup_ si trovanu in un altru [cartulare specificu](https://github.com/notepad-plus-plus/wingup/tree/master/src/translations)
+
+- A fonte d’origine : [english.xml](https://github.com/notepad-plus-plus/wingup/blob/master/src/translations/english.xml)
+- U schedariu di lingua corsa : [corsican.xml](https://github.com/notepad-plus-plus/wingup/blob/master/src/translations/corsican.xml)
+
+## Cumu sapè quandu ci hè qualcosa di novu à traduce ?
+
+Trà duie versioni, a squadra di _Notepad++_ pò mudificà e catene di fonte nant’à _GitHub_ aghjunghjendu catene nove, mudifichendu o squassendu catene anziane. Quandu st’operazione si face, ùn hè micca pussibule di riceve autumaticamente un messaghju elettronicu, cum’è per indettu, via un’iscrizzione à una lista di distribuzione.  
+
+Ci hè una funzione in GitHub per cunnosce tutte e mudificazioni fatte (commits) nant’à a fonte d’origine :  
 https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml
   
-Un cliccu nant’à ogni mudificazione vi permette di fighjà tutte e sfarenze trà duie versioni : e linee squassate, cambiate o aghjunte.
+Un cliccu nant’à ogni mudificazione vi permette di fighjà tutte e sfarenze trà duie versioni : e linee squassate, cambiate o aghjunte. Ma qu’ella operazione hè manuale.
+  
+Per furtuna, ci hè un’altra funzione in _GitHub_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu l’attività di _GitHub_, per indettu quand’un schedariu hè mudificatu. È si pò riceve un avvertimentu in _Thunderbird_ quand’un tale flussu hè ingeneratu.  
+
+Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_ è riceve l’infurmazione nant’à _Thunderbird_](../../Flussu%20di%20nutizie.md).
+
+### I flussi _Atom_
+
+Eccu i flussi à cuttighjà ch’ella ci vole à definisce in _Thunderbird_ grazia à un abbunamentu :  
+- https://github.com/notepad-plus-plus/notepad-plus-plus/commits/master/PowerEditor/installer/nativeLang/english.xml.atom
+- https://github.com/notepad-plus-plus/wingup/commits/master/src/translations/english.xml.atom
+- https://github.com/notepad-plus-plus/notepad-plus-plus/tags.atom
+
+U primu è u secondu liame permettenu di sapè quandu ci hè una mudificazione di u schedariu di e catene inglese à traduce. L’ultimu liame ghjove à esse infurmatu quandu ci hè una versione nova di _Notepad++_.  
 
 ## Cumu fà a traduzzione ?
-- _Notepad++_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione.
-- Si pò quantunque impiegà __OmegaT__ per fà què. Per sapene di più, seguitate l’[istruzzioni per cunvertisce un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/master/Prughjetti/Notepad%2B%2B/Cunversione.md) per ch’ellu sia accettatu da _OmegaT_.  
 
-Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impiegà _GitHub_ per pigliallu in contu, vole si dì dumandà a mudificazione di a versione attuale di u schedariu di destinazione per ch’ella sia rimpiazzata da a vostra versione lucale.
+- _Notepad++_ ùn prupone alcuna appiecazione - nè lucale, nè nant’à u Web - per fà a traduzzione
+
+- Per fà què, hè ricummandatu d’impiegà __OmegaT__ perchè hè capace di mudificà u furmatu di schedariu `.lng`. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md)
 
 ## Istruzzioni per piglià in contu u novu schedariu di lingua corsa
 
-- Andà nant’à u [situ ufficiale di Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
+Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impiegà _GitHub_ per pigliallu in contu, vole si dì dumandà a mudificazione di a versione attuale di u schedariu di destinazione per ch’ella sia rimpiazzata da a vostra versione lucale.  
 
-- Cliccà nant’à u buttone `Go to file` è scrive « _corsican.xml_ » per circà stu schedariu.
+- Andà nant’à u [situ ufficiale di Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) o quellu di [u so cumpunente _wingup_](https://github.com/notepad-plus-plus/wingup)
 
-- Cliccà nant’à a linea `PowerEditor/installer/nativeLang/corsican.xml` per fighjà a versione attuale.
+- Cliccà nant’à u buttone `Go to file` è scrive « _corsican.xml_ » per circà stu schedariu
+
+- Cliccà nant’à a linea `PowerEditor/installer/nativeLang/corsican.xml` per fighjà a versione attuale
 
 - Cliccà nant’à l’icona di a mina, quella chì si trova tuttu insù à dirittu, trà l’icona di u screnu è quella di l’empiilozzu. Si pò fighjà un cummentu chì dice « _Edit the file in your fork of this project_ ». Vole si dì chì a mudificazione si ferà in lucale, in una copia di u dipositu Notepad++ chì si chjamerà `u_mo_nome_github/notepad-plus-plus`
 
 - D’altronde, ci hè u messaghju dicendu : _You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork u_mo_nome_github/notepad-plus-plus, so you can send a pull request._
 
-- In a sessione di mudificazione « _Edit file_ » chì s’apre, rimpiazzà a versione attuale da a vostra versione lucale di u schedariu di lingua corsa.
+- In a sessione di mudificazione « _Edit file_ » chì s’apre, rimpiazzà a versione attuale da a vostra versione lucale di u schedariu di lingua corsa
 
-- Verificà e mudificazioni grazia à l’unghjetta « _Preview changes_ ». S’ellu ci hè qualcosa à cambià, si pò sempre mudificalla via l’unghjetta « _Edit file_ ».
+- Verificà e mudificazioni grazia à l’unghjetta « _Preview changes_ ». S’ellu ci hè qualcosa à cambià, si pò sempre mudificalla via l’unghjetta « _Edit file_ »
 
 - Quandu u schedariu hè prontu, ci vole à andà tuttu inghjò. Sottu u paragrafu _Propose changes_ scrivite un cummentu per spiegà perchè u schedariu hè mudificatu. Per indettu : `Update Corsican translation for Notepad++ 7.9.6`
 
@@ -76,9 +104,9 @@ cù a vostra versione creata pocu fà :
 
 - Andà à u vostru dipositu lucale nant’à GitHub : `https://github.com/u_mo_nome_github/notepad-plus-plus`
 
-- Cliccà nant’à u buttone cù u numeru di e ghjambe chì si trova trà u buttone `Master` è u numeru d’etichette (`tags`).
+- Cliccà nant’à u buttone cù u numeru di e ghjambe chì si trova trà u buttone `Master` è u numeru d’etichette (`tags`)
 
-- Cliccà nant’à l’icona di a mina, in pettu à u nome di a nova ghjamba, per indettu `patch-1`, per cambiallu.
+- Cliccà nant’à l’icona di a mina, in pettu à u nome di a nova ghjamba, per indettu `patch-1`, per cambiallu
 
 - Rimpiazzà u nome attuale da `NPP_aaaammgg` è cliccà nant’à u buttone `Rename branch`
 
@@ -96,14 +124,14 @@ cù a vostra versione creata pocu fà :
 - L’azzione _Pull Request_ hè una dumanda à a squadra Notepad++ per accettà a nova versione cù e vostre mudificazioni. Un titulu per sta dumanda hè prupostu ; ghjè quellu dighjà scrittu per spiegà i cambiamenti : `Update Corsican translation for Notepad++ 7.9.6`  
   Si pò cambià u titulu.
 
-- Ci vole à aghjunghje un cummentu. Fighjate a [cronolugia di e dumande scorse](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican) per sapene di più.
+- Ci vole à aghjunghje un cummentu. Fighjate a [cronolugia di e dumande scorse](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls?utf8=%E2%9C%93&q=is%3Apr+corsican) per sapene di più
 
 - Quandu a vostra dumanda - titulu è cummentu - hè pronta, cliccà nant’à u buttone `Create pull request`
 
 - Una nova dumanda hè stata creata per appruntà una fusione :  
   `1 commit into notepad-plus-plus:master from u_mo_nome_github:NPP_aaaammgg`
 
-- Ci vole à aspettà chì sta dumanda sia trattata da a squadra Notepad++. Si pò [seguitalla in a lista di tutte e dumande aperte.](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls) Què pò piglià parechji ghjorni, o ancu settimane.
+- Ci vole à aspettà chì sta dumanda sia trattata da a squadra Notepad++. Si pò [seguitalla in a lista di tutte e dumande aperte.](https://github.com/notepad-plus-plus/notepad-plus-plus/pulls) Què pò piglià parechji ghjorni, o ancu settimane
 
 - Fin’tantu chì a vostra dumanda ùn hè stata ancu trattata, s’ella hè bisognu, ci hè pussibule di fà d’altre mudificazioni :
   - Andà nant’à a vostra dumanda cù `https://github.com/notepad-plus-plus/notepad-plus-plus/pull/nnnn/commits`  
