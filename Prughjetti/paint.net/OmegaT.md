@@ -23,12 +23,12 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Preparazione di u schedariu nanzu a traduzzione
 Secondu u schedariu scaricatu, l’approntu hè più o menu faciule :
 - Cù u schedariu `PaintDotNet.Strings.3.resx` scaricatu da u sottucartulare d’installazione di _paint.net_, ùn ci hè alcunu approntu
-- Cù u schedariu `PaintDotNet.Strings.3.co.xliff` scaricatu da _Crowdin_ cù l’azzione `Export in XLIFF`, l’approntu hè faciule è l’istruzzioni si trovanu in u paragrafu chì seguita
+- Cù u schedariu `PaintDotNet.Strings.3.co.xliff` scaricatu da _Crowdin_ cù l’azzione `Export in XLIFF`, l’approntu hè faciule è l’istruzzioni si trovanu in u paragrafu chì seguiteghja
 
 ### Estensione .xliff
 - Lancià _Poedit_
 - Sceglie l’ozzione `Schedariu` > `Apre…` o selezziunà l’azzione `Navigazione` nant’à u screnu di benvenuta
-- Selezziunà u schedariu `.liff` scaricatu
+- Selezziunà u schedariu `.xliff` scaricatu
 - Verificà chì a lingua di destinazione sia `co` o `co_FR`
 - Selezziunà tutte e catene cù a cumanda `Ctrl-A` o cù l’ozzione `Mudificà` > `Tuttu selezziunà`
 - Viutà u cuntenutu di tutte ste catene cù a cumanda `Ctrl-K` o cù l’ozzione `Mudificà` > `Viutà a traduzzione`
