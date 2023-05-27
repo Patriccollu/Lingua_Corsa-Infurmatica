@@ -8,7 +8,7 @@ In fatti, ùn ci hè nisuna ozzione in _Video DownloadHelper_ per sceglie a ling
 
 ### Scaricamentu
 
-- Ci sò duie manere di scaricà u schedariu di lingua corsa :
+Ci sò duie manere di scaricà u schedariu di lingua corsa :
 1. Da u foru di traduzzione di _Video DownloadHelper_, senza installà alcuna prucedura di cunversione
 2. Da u prugramma d’installazione, impieghendu una prucedura di cunversione cù _Notepad++_  
 
