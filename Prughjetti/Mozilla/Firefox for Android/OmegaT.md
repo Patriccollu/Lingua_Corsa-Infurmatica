@@ -58,7 +58,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/base/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml  
-  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/widgets/src/main/res/values/strings.xml/
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/widgets/src/main/res/values/strings.xml/  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml  
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
