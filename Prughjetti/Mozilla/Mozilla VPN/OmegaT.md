@@ -23,14 +23,13 @@ Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii 
 
 ###  A manera manuale
 
-Ci hè parechji schedarii à traduce.
+Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
 
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_01_how_to_vpn/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_02_is_my_vpn_working_correctly/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_03_adding_and_removing_devices/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_04_connecting_external_devices/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_05_what_is_multi_hop/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_06_benefits_of_custom_dns/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_07_app_permissions/strings.xliff  
@@ -39,20 +38,24 @@ Ci hè parechji schedarii à traduce.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_10_app_exclusions/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_11_recommended_servers/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_12_multi_account_containers/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_privacy_bundle_staging/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_subscription_expiring/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.12/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.13/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.14/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.15/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.16/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.10/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.11/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.12/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.13/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started2/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.14/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.15/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.16/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started_recommended_locations/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_03_multi_hop/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling2/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling3/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
 
@@ -64,7 +67,6 @@ Ci hè parechji schedarii à traduce.
   addons-guide_01_how_to_vpn-strings.xliff
   addons-guide_02_is_my_vpn_working_correctly.xliff
   addons-guide_03_adding_and_removing_devices-strings.xliff
-  addons-guide_04_connecting_external_devices-strings.xliff
   addons-guide_05_what_is_multi_hop-strings.xliff
   addons-guide_06_benefits_of_custom_dns-strings.xliff
   addons-guide_07_app_permissions-strings.xliff
@@ -73,20 +75,24 @@ Ci hè parechji schedarii à traduce.
   addons-guide_10_app_exclusions-strings.xliff
   addons-guide_11_recommended_servers-strings.xliff
   addons-guide_12_multi_account_containers-strings.xliff
-  addons-message_privacy_bundle_staging-strings.xliff
   addons-message_subscription_expiring-strings.xliff
   addons-message_survey-strings.xliff
-  addons-message_update_v2.12-strings.xliff
-  addons-message_update_v2.13-strings.xliff
+  addons-message_update_v2.14-strings.xliff
+  addons-message_update_v2.15-strings.xliff
+  addons-message_update_v2.16-strings.xliff
   addons-message_whats_new_v2.10-strings.xliff
   addons-message_whats_new_v2.11-strings.xliff
   addons-message_whats_new_v2.12-strings.xliff
   addons-message_whats_new_v2.13-strings.xliff
-  addons-tutorial_01_get_started2-strings.xliff
+  addons-message_whats_new_v2.14-strings.xliff
+  addons-message_whats_new_v2.15-strings.xliff
+  addons-message_whats_new_v2.16-strings.xliff
+  addons-tutorial_01_get_started_recommended_locations-strings.xliff
   addons-tutorial_01_get_started-strings.xliff
   addons-tutorial_02_connect_on_startup-strings.xliff
   addons-tutorial_03_multi_hop-strings.xliff
   addons-tutorial_04_split_tunneling2-strings.xliff
+  addons-tutorial_04_split_tunneling3-strings.xliff
   addons-tutorial_04_split_tunneling-strings.xliff
   vpn.ftl
 ```
