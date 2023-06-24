@@ -4,7 +4,7 @@
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### __Memoria__
+### [Memoria](https://pontoon.mozilla.org/translation-memory/co.firefox-for-android.tmx)
 A memoria di traduzzione di l’interfaccia in lingua corsa di _Firefox for Android_
 
 ### [OmegaT](OmegaT.md)
