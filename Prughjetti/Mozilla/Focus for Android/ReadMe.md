@@ -1,17 +1,17 @@
 # Cuntenutu di u cartulare
 
-## Stu cartulare cuntene l’infurmazione per u prughjettu _Focus for Android_
+## Stu cartulare cuntene l’infurmazione nant’à u prughjettu _Focus for Android_
 
 St’infurmazione si trova in parechji ducumenti, secondu à u so cuntenutu :
 
-### __Memoria__
-A memoria di traduzzione di l’interfaccia in lingua corsa di _Focus for Android_
+### [Traduzzione](Traduzzione.md)
+L’infurmazione nant’à a traduzzione in lingua corsa di _Focus for Android_
 
 ### [OmegaT](OmegaT.md)
 L’istruzzioni per impiegà l’appiecazione _OmegaT_ per traduce _Focus for Android_
 
-### [Traduzzione](Traduzzione.md)
-L’infurmazione nant’à a traduzzione in lingua corsa di _Focus for Android_
+### [Memoria](https://pontoon.mozilla.org/translation-memory/co.focus-for-android.tmx)
+A memoria di traduzzione di l’interfaccia in lingua corsa di _Focus for Android_
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
