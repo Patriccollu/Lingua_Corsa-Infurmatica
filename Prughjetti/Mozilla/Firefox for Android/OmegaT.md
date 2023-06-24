@@ -23,8 +23,9 @@ Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii 
 
 ###  A manera manuale
 
+Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
+
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
-  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/awesomebar/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/engine-system/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml  
@@ -56,15 +57,13 @@ Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii 
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/service/nimbus/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/base/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml  
-  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/migration/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/widgets/src/main/res/values/strings.xml/
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml  
-
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
-  components-browser-awesomebar-strings.xml
   components-browser-engine-system-strings.xml
   components-browser-errorpages-strings.xml
   components-browser-menu2-strings.xml
@@ -96,8 +95,8 @@ Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii 
   components-service-nimbus-strings.xml
   components-support-base-strings.xml
   components-support-ktx-strings.xml
-  components-support-migration-strings.xml
   components-ui-tabcounter-strings.xml
+  components-ui-widgets-strings.xml
   fenix-app-strings.xml
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
