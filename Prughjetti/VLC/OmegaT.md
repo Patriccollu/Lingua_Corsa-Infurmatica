@@ -63,7 +63,7 @@ U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì
 - Installà e prucedure di cunversione cum’è indicatu in [st’istruzzioni detagliate](Cunversione.md)
 - Apre __tutti i schedarii__ cù l’estensione : `.strings`
 - Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-- Selezziunà u nome di a prucedura à impiegà : `Cunversione VLC.STRINGS-OmegaT`
+- Selezziunà u nome di a prucedura à impiegà : `Cunversione VLC(.strings)-OmegaT(.strings)`
 - Cliccu nant’à `Eseguisce 1 volta`
 - Appughjà nant’à u buttone `Eseguisce`
 - Quandu s’impiegherà sta prucedura, viderete 3 volte u messaghju quì sottu è ci vulerà à risponde OK :  
@@ -115,7 +115,7 @@ U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì
 Ci vole à appruntà __solu__ i schedarii cù l’estensione `.strings` chì si trovanu in u cartulare `target` di u prughjettu _VLC_ in _OmegaT_.
 - Lancià _Notepad++_
 - Apre tutti i schedarii cù l’estensione `.strings`
-- Eseguisce a macro di cunversione `Cunversione OmegaT-VLC.STRINGS` installata pocu fà
+- Eseguisce a macro di cunversione `Cunversione OmegaT(.strings)-VLC(.strings)` installata pocu fà
 - Fate casu chì a cunversione si face in tutti i schedarii cù l’estensione `.strings` aperti in a sessione di _Notepad++_
 - Arregistrà u schedariu cù u listessu nome : `for_omegat_vlc-trans_xxxxx-yyyyy_en.strings`
 
