@@ -7,7 +7,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Scaricamentu di u schedariu à traduce
 
 - Ci sò duie manere di scaricà u schedariu à traduce :
-1. Da u prugramma d’installazione in versione beta, impieghendu una prucedura di cunversione cù _Notepad++_
+1. Da u prugramma d’installazione in versione beta, impieghendu una prucedura di cunversione cù _Notepad++_  
 2. Da a versione installata nant’à u vostru navigatore, senza installà alcuna prucedura di cunversione
 
 ### Da u prugramma d’installazione in versione beta
@@ -28,6 +28,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 - Fà un cliccu dirittu nant’à l’icona di l’interfaccia di _Video DownloadHelper_ installata nant’à u vostru navigatore
 - Sceglie : `Preferenze` > `Più…` > `Traduzzione`
 - Fà un cliccu nant’à u buttone `Export`
+- In stu casu, ùn hè micca bisognu à cunvertisce u schedariu cù a prucedura di cunversione via _Notepad++_
 
 ## Copia di u schedariu di lingua inglese
 
