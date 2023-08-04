@@ -11,18 +11,27 @@ A) Esempiu di linee in u schedariu `message.json` d’origine :
     "save_as": {
         "message": "Save as…"
     },
-    "cancel": {
+       "cancel": {
         "message": "Cancel"
-    },
-    "default": {
+       },
+       "default": {
         "message": "Default"
-    },
+       },
+	"file_ready": {
+		"message": "\"$ARG1$\" is now ready",
+		"placeholders": {
+			"arg1": {
+				"content": "$1"
+			}
+		}
+	},
 ```
-Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione VDH.JSON-OmegaT` :
+Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione VDH(.json)-OmegaT(.json)` :
 ```
     "save_as": "Save as…",
     "cancel": "Cancel",
     "default": "Default",
+    "file_ready": "\"$ARG1$\" is now ready",
 ```
 ## Installazione di a prucedura
 
@@ -42,116 +51,40 @@ Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione VDH.JS
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione VDH.JSON-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione VDH(.json)-OmegaT(.json)" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià e linee chì cuntenenu [argn] è [content] nant'à a linea chì seguiteghja" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&quot;placeholders&quot;:' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='            &quot;arg' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&#x0009;&#x0009;&#x0009;&quot;arg' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&#x0009;&#x0009;&#x0009;&#x0009;&quot;content&quot;:' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='                &quot;content&quot;:' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&#x0009;&#x0009;&#x0009;  &quot;content&quot; :' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&#x0009;&#x0009;&#x0009;&quot;arg' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="            }" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&#x0009;&#x0009;  }" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="        }" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="    }," />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="    }" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="    }," />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam="&#x0009;}" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="2" message="0" wParam="43021" lParam="0" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='{&#x000A;        &quot;message&quot;: ' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='{&#x000A;&#x0009;&#x0009;&quot;message&quot;: ' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
-            <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='&quot;$' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^\s+&quot;(arg1|arg2|arg3|arg4|arg5|arg6|arg7|arg8|arg9)&quot;(:|\s*:)\s+{\n\s+&quot;content&quot;(:|\s*:)\s+&quot;(.*)&quot;\n\s+(}|},)\n" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam='\1&quot;,' />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2178" wParam="0" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià e linee chì cuntenenu [placeholders]" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam=",&#x000A;}" />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&#x000A;}" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam=",$\n\s+&quot;placeholders&quot;:\s*{\n\s+}" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per trasfurmà e linee chì cuntenenu [message]" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="{$\n\s+&quot;message&quot;:\s+&quot;(.*)&quot;\n\s+}" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="&quot;\1&quot;" />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
+            <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per impiegà u listessu numeru di spazii à u principiu di tutte e linee" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^\s+&quot;(.*)" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="    &quot;\1" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
 ```
-- Tandu a nova prucedura - `Cunversione VDH.JSON-OmegaT` - hè dispunibule in _Notepad++_.
+- Tandu a nova prucedura - `Cunversione VDH(.json)-OmegaT(.json)` - hè dispunibule in _Notepad++_.
 - Di sicuru, si pò sceglie __un altru nome di prucedura__.  
 
 Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
@@ -161,7 +94,7 @@ Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste p
 - Lancià _Notepad++_
 - Apre u schedariu di traduzzione ch’ellu ci vole à cunvertisce
 - Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-- Selezziunà u nome di a prucedura à impiegà : `Cunversione VDH.JSON-OmegaT`
+- Selezziunà u nome di a prucedura à impiegà : `Cunversione VDH(.json)-OmegaT(.json)`
 - Cliccu nant’à `Eseguisce 1 volta`
 - Appughjà nant’à u buttone `Eseguisce`
 - Arregistrà u schedariu trasfurmatu cù un nome sfarente, per indettu : `omegat_message.json`
