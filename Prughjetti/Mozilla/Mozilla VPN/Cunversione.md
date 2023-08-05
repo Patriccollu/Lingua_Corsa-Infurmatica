@@ -1,4 +1,4 @@
-# Prucedura di cunversione di i schedarii di traduzzione _Mozilla VPN_
+# Prucedure di cunversione di i schedarii di traduzzione _Mozilla VPN_
 
 In fatti, fine à u mezu di u 2021, era pussibule di traduce direttamente da _OmegaT_ i schedarii `.xliff` di _Mozilla VPN_. Ma à st’epica, anu cambiatu u so furmatu è avà, ùn hè più pussibule.  
 
@@ -10,7 +10,7 @@ I schedarii di traduzzione cù u furmatu `.ftl` ùn sò micca cuncernati da sta 
 
 Perchè i schedarii di traduzzione `.xliff` di _Mozilla VPN_ ùn ponu più esse tradutti direttamente da _OmegaT_, ci vole à trasfurmà u furmatu di u so cuntenutu.  
 
-Eccu a prima prucedura macro chì si pò caricà è impiegà in _Notepad++_ per fà sta trasfurmazione : `Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)`
+Eccu a prima prucedura macro chì si pò caricà è impiegà in _Notepad++_ per fà sta trasfurmazione : `Cunversione Mozilla VPN(.xliff)-OmegaT(.xliff)`
 
 A) Esempiu di linee in u schedariu d’origine `mozillavpn.xliff` :
 ```
@@ -32,7 +32,7 @@ A) Esempiu di linee in u schedariu d’origine `mozillavpn.xliff` :
     </body>
   </file>
 ```
-B1) Eccu e listesse linee dopu a trasfurmazione cù a prucedura `Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)` :
+B1) Eccu e listesse linee dopu a trasfurmazione cù a prucedura `Cunversione Mozilla VPN(.xliff)-OmegaT(.xliff)` :
 ```
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
@@ -55,9 +55,9 @@ B1) Eccu e listesse linee dopu a trasfurmazione cù a prucedura `Cunversione Moz
     </body>
   </file>
 ```
-S’ella hè bisognu, ci hè dinù una seconda prucedura di cunversione chì si chjama `Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)` per trasfurmà un schedariu `.xliff` in furmatu testu simplice. In stu casu, l’estensione di u schedariu trasfurmatu serà `.txt`.  
+S’ella hè bisognu, ci hè dinù una seconda prucedura di cunversione chì si chjama `Cunversione Mozilla VPN(.xliff)-OmegaT(.txt)` per trasfurmà un schedariu `.xliff` in furmatu testu simplice. In stu casu, l’estensione di u schedariu trasfurmatu serà `.txt`.  
 
-B2) Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)` :
+B2) Eccu e listesse linee dopu à trasfurmazione cù a prucedura `Cunversione Mozilla VPN(.xliff)-OmegaT(.txt)` :
 ```
 Privacy notice
 Release version
@@ -83,45 +83,45 @@ About us
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro
 ```
-        <Macro name="Cunversione Mozilla VPN(XLIFF)-OmegaT(XLIFF)" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per aghjunghje una linea <target> dopu à ogni linea <source>' />
+        <Macro name="Cunversione Mozilla VPN(.xliff)-OmegaT(.xliff)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni Mozilla VPN">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per aghjunghje una linea &lt;target&gt; dopu à ogni linea &lt;source&gt;" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(.*)<source>(.*)</source>' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="(.*)&lt;source&gt;(.*)&lt;/source&gt;" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam='\1<source>\2</source>\n\1<target xml:lang="co">\2</target>' />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="\1&lt;source&gt;\2&lt;/source&gt;\n\1&lt;target&gt;\2&lt;/target&gt;" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='Rimpiazzamentu nurmale di e catene [target-language="en-US"] da [target-language="co"]' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='target-language="en-US"' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='target-language=&quot;en-US&quot;' />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam='target-language="co"' />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam='target-language=&quot;co&quot;' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
-        <Macro name="Cunversione Mozilla VPN(XLIFF)-OmegaT(TXT)" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marca e indetta e linee cuntenendu |<source>|" />
+        <Macro name="Cunversione Mozilla VPN(.xliff)-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni Mozilla VPN">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marca e indetta e linee cuntenendu |&lt;source&gt;|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;source&gt;" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marca e indetta e linee cuntenendu |</source>|" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marca e indetta e linee cuntenendu |&lt;/source&gt;|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;/source&gt;" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Caccia e linee senza marca" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |<source>| da ||" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |&lt;source&gt;| da ||" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;source&gt;" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |</source>| da ||" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |&lt;/source&gt;| da ||" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="&lt;/source&gt;" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
@@ -130,7 +130,7 @@ About us
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Viura tutte l'indette" />
             <Action type="2" message="0" wParam="42042" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Ammuzza i spazii di principiu di linea" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per ammuzza i spazii di principiu di linea" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
