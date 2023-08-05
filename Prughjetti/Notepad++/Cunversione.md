@@ -53,7 +53,7 @@ Ci hè una seconda prucedura macro, simile, - `Cunversione Notepad_wingup(.xml)-
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
         <Macro name="Cunversione Notepad(.xml)-OmegaT(.lng)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni Notepad">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
             <Action type="2" message="0" wParam="42043" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià i cummenti, ancu s'elli si trovanu nant'à parechje linee" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -62,24 +62,10 @@ Ci hè una seconda prucedura macro, simile, - `Cunversione Notepad_wingup(.xml)-
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="1792" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='1u rimpiazzamentu nurmale di e catene [  name="] da [ name="]' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per rimpiazzà e catene [  name="] da [ name="] qualsiasi u numeru di spazii' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='  name=&quot;' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam=' name=&quot;' />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='2u rimpiazzamentu nurmale di e catene [  name="] da [ name="]' />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='  name=&quot;' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1602" wParam="0" lParam="0" sParam=' name=&quot;' />
-            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
-            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='3u rimpiazzamentu nurmale di e catene [  name="] da [ name="]' />
-            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='  name=&quot;' />
-            <Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='\s+name=&quot;' />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam=' name=&quot;' />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
@@ -97,84 +83,84 @@ Ci hè una seconda prucedura macro, simile, - `Cunversione Notepad_wingup(.xml)-
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_menuId' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_menuId" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item menuId=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_idName' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_idName" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item idName=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_subMenuId' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_subMenuId" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item subMenuId=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_id' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_id" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item id=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_CMDID' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_CMDID" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item CMDID=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="CMDID$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu Item_CMID' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu Item_CMID" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='(&lt;Item CMID=&quot;)(.*)(&quot; name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="CMID$2=$4" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu name' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu name" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='^&lt;(.*)( name=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$1=$3" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu value' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu value" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='^&lt;(.*)( value=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$1=$3" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu title' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu title" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='^&lt;(.*)( title=&quot;)(.*)(&quot;&gt;)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$1=$3" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per mudificà e catene chì cuntenenu title è message per fane duie linee' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu title è message per fane duie linee" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam='^&lt;(.*)( title=&quot;)(.*)(&quot; message=&quot;)(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$1=$3\n$1_MSG=$5" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Espressione regulare per squassà e linee chì principianu da [<]' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà e linee chì principianu da [&lt;]" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^&lt;(.*)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam='Cumanda per caccià e linee viote' />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
             <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam='1a espressione regulare per mudificà e catene chì cuntenenu sempre un segnu ["]' />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -248,27 +234,27 @@ Ci hè una seconda prucedura macro, simile, - `Cunversione Notepad_wingup(.xml)-
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="1792" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià i spazii chì si trovanu à u principiu è à a fine di tutte e linee" />
             <Action type="2" message="0" wParam="42043" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per mudificà e catene chì cuntenenu content=" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
-            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(.*)<(.*) content="(.*)"(.*)' />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam='(.*)&lt;(.*) content=&quot;(.*)&quot;(.*)' />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="$2=$3" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà e linee chì principianu da <" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà e linee chì principianu da &lt;" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^&lt;(.*)" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda per caccià e linee viote" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
             <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
-       </Macro>
+        </Macro>
 ```
-- Tandu ste nove prucedure sò dispunibule in Notepad++
+- Tandu ste prucedure nove sò dispunibule in Notepad++
 - Di sicuru, si pò sceglie __un altru nome di prucedura__
   
 Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
