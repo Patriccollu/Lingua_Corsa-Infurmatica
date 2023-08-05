@@ -27,7 +27,7 @@ Text Size: %d Add a translation... • see on Google Translate
 Add Favorite => Aghjunghje à i favuriti Edit • see on Google Translate 
 ```
 
-- Una prima prucedura macro - `Cunversione SumatraPDF.APP-OmegaT` - ghjova à cunservà tutte e linee in inglese, quelle chì sò dighjà tradutte è quelle chì sò à traduce. Eccu u detagliu di quella trasfurmazione :
+- Una prima prucedura macro - `Cunversione SumatraPDF.APP-OmegaT(.txt)` - ghjova à cunservà tutte e linee in inglese, quelle chì sò dighjà tradutte è quelle chì sò à traduce. Eccu u detagliu di quella trasfurmazione :
   - identificà solu e linee chì cuntenenu `see on Google Translate`
   - squassà tutte l’altre linee
   - caccià e linee viote
@@ -42,7 +42,7 @@ Text Size: %d
 &Actual Size\tCtrl+1
 Add Favorite
 ```
-- Una seconda prucedura macro - `Cunversione SumatraPDF.APPn-OmegaT` - ghjova à cunservà solu e linee in inglese chì sò nove, è dunque à traduce. Eccu u detagliu di quella trasfurmazione :
+- Una seconda prucedura macro - `Cunversione SumatraPDF.APPn-OmegaT(.txt)` - ghjova à cunservà solu e linee in inglese chì sò nove, è dunque à traduce. Eccu u detagliu di quella trasfurmazione :
   - identificà solu e linee chì cuntenenu `Add a translation...`
   - squassà tutte l’altre linee
   - caccià e linee viote
@@ -79,7 +79,7 @@ az:&Faktiki ölçü\tCtrl+1
 … … …
 ```
 
-- Una terza prucedura macro - `Cunversione SumatraPDF.TXT-OmegaT` - ghjova à cunservà tutte e linee in inglese, quelle chì sò dighjà tradutte è quelle chì sò à traduce. Eccu u detagliu di quella trasfurmazione :
+- Una terza prucedura macro - `Cunversione SumatraPDF(.txt)-OmegaT(.txt)` - ghjova à cunservà tutte e linee in inglese, quelle chì sò dighjà tradutte è quelle chì sò à traduce. Eccu u detagliu di quella trasfurmazione :
   - identificà solu e linee cù e catene in inglese, quelle chì principianu cù u segnu `:`
   - squassà tutte l’altre linee (Fate casu chì sta parte di a trasfurmazione hè appena longa)
   - caccià e linee viote
@@ -110,18 +110,18 @@ Eccu e listesse linee dopu à trasfurmazione :
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione SumatraPDF.APP-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione SumatraPDF.APP-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni SumatraPDF">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Indettà solu e linee chì cuntenenu |see on Google Translate|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="see on Google Translate" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà tutte l’altre linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Caccià e linee viote" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
             <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà l’identificazione nant’à e linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
             <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu nurmale di |Add a translation...| da |=>|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -138,18 +138,18 @@ Eccu e listesse linee dopu à trasfurmazione :
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
-        <Macro name="Cunversione SumatraPDF.APPn-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione SumatraPDF.APPn-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni SumatraPDF">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Indettà solu e linee chì cuntenenu |Add a translation...|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="Add a translation..." />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà tutte l’altre linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Caccià e linee viote" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
             <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà l’identificazione nant’à e linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
             <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per cunservà solu a parte à manca di u segnu |Add a translation...| è caccià u restu" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -159,18 +159,18 @@ Eccu e listesse linee dopu à trasfurmazione :
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
-        <Macro name="Cunversione SumatraPDF.TXT-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione SumatraPDF(.txt)-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni SumatraPDF">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per indettà solu e linee chì principianu cù u segnu |:|" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^:" />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà tutte l’altre linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Caccià e linee viote" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
             <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Squassà l’identificazione nant’à e linee" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
             <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per squassà u prefissu |:| nant’à e linee identificate" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -181,7 +181,7 @@ Eccu e listesse linee dopu à trasfurmazione :
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
 ```
-- Tandu e nove prucedure - `Cunversione SumatraPDF.APP-OmegaT` è `Cunversione SumatraPDF.TXT-OmegaT` - sò dispunibule in _Notepad++_.
+- Tandu ste prucedure nove sò dispunibule in _Notepad++_.
 - Di sicuru, si pò sceglie __d’altri nomi di prucedura__.  
 
 Per a vostra infurmazione, si pò truvà in una prucedura, istruzzioni `message="2172"` chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
