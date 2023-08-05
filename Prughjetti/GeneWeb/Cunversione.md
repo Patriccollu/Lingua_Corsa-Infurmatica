@@ -23,7 +23,7 @@ fr: un neveu/une nièce/neveux/nièces/neveux et nièces
 ```
 - Dunque ùn pò micca esse traduttu direttamente da OmegaT è ci vole à trasfurmà u furmatu di u so cuntenutu.
 
-- Eccu una prucedura macro - `Cunversione GeneWeb-OmegaT` - chì si pò caricà è impiegà in _Notepad++_ per fà quella trasfurmazione :
+- Eccu una prucedura macro - `Cunversione GeneWeb(.txt)-OmegaT(.txt)` - chì si pò caricà è impiegà in _Notepad++_ per fà quella trasfurmazione :
   - squassà tutti i tituli
   - cunservà e linee cù e catene in inglese, quelle chì principianu cù `en: ` 
   - squassà e traduzzioni di tutte l’altre linee 
@@ -53,14 +53,14 @@ a nephew/a niece/nephews/nieces/nephews and nieces
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione GeneWeb-OmegaT" Ctrl="no" Alt="no" Shift="no" Key="0">
+        <Macro name="Cunversione GeneWeb(.txt)-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0">
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marcà tutte e linee chì principianu cù |^en: |" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^en: " />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Caccià tutte e linee senza marca" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
             <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu allungatu di |^en: | da nunda" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
@@ -69,11 +69,11 @@ a nephew/a niece/nephews/nieces/nephews and nieces
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Viutà tutte e marche di e linee indettate" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
             <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
         </Macro>
 ```
-- Tandu a nova prucedura - `Cunversione GeneWeb-OmegaT` - hè dispunibule in Notepad++.
+- Tandu a nova prucedura - `Cunversione GeneWeb(.txt)-OmegaT(.txt)` - hè dispunibule in Notepad++.
 - Di sicuru, si pò sceglie __un altru nome di prucedura__.  
 
 Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
@@ -86,20 +86,13 @@ Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste p
     - Arregistrà u schedariu cù u listessu nome
 	
 - Lancià Notepad++
-
 - Apre u schedariu `lexicon.txt` scaricatu pocu fà
-
 - Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-
-- Selezziunà `Cunversione GeneWeb-OmegaT`
-
+- Selezziunà `Cunversione GeneWeb(.txt)-OmegaT(.txt)`
 - Cliccu nant’à `Eseguisce 1 volta`
-
 - Appughjà nant’à u buttone `Eseguisce`
-
 - Arregistrà u schedariu cù u nome `omegat_lexicon.txt`
- 
-- Cupià stu schedariu in u cartulare `/source/` di u prughjettu __GeneWeb__ in _OmegaT_.
+ - Cupià stu schedariu in u cartulare `/source/` di u prughjettu __GeneWeb__ in _OmegaT_.
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
