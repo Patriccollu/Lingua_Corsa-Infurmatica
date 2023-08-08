@@ -1,8 +1,8 @@
-# Prucedura di cunversione di schedariu di traduzzione GeneWeb
+# Prucedure di cunversione di schedariu di traduzzione GeneWeb
 
-Eccu una prucedura di cunversione di u schedariu di traduzzione GeneWeb per ch’ellu sia accettatu da  __OmegaT__, attrezzu di traduzzione assistita da l’urdinatore.
+Eccu duie prucedure di cunversione di u schedariu di traduzzione GeneWeb per ch’ellu sia accettatu da  __OmegaT__, attrezzu di traduzzione assistita da l’urdinatore.
 
-## Scopu di a prucedura
+## Scopu di e prucedure
 
 - Per disgrazia, u schedariu di traduzzione di GeneWeb hè unicu è cuntene tutte e lingue !
   
@@ -16,22 +16,29 @@ ca: un nebot/una neboda/nebots/nebodes/nebots i nebodes
 co: un nipote/una nipote/nipoti/nipoti/nipoti
 de: ein:d:+em Neffe:d:+n/eine:d:+r Nichte/Neffen/Nichten/Neffen und Nichten
 en: a nephew/a niece/nephews/nieces/nephews and nieces
-es: un sobrino/a sobrina/sobrinos/sobrinas/sobrinos y sobrinas
-et: venna- või õepoeg:g:--ja/venna- või õetütar:g:--re///venna- ja õelapsed
-fi: veljen- tai sisarenpoika:g:---jan/veljen- tai sisarentytär:g:---tären///sisarusten lapset
-fr: un neveu/une nièce/neveux/nièces/neveux et nièces
+...
+    all the places
+en: all the places
+fr: tous les lieux
+
+    path/paths
+en: path/paths
+fr: chemin/chemins
+
 ```
 - Dunque ùn pò micca esse traduttu direttamente da OmegaT è ci vole à trasfurmà u furmatu di u so cuntenutu.
 
-- Eccu una prucedura macro - `Cunversione GeneWeb(.txt)-OmegaT(.txt)` - chì si pò caricà è impiegà in _Notepad++_ per fà quella trasfurmazione :
+- Eccu una prima prucedura - `Cunversione GeneWeb(.txt)-OmegaT(.txt)` - chì si pò caricà è impiegà in _Notepad++_ per fà quella trasfurmazione :
   - squassà tutti i tituli
   - cunservà e linee cù e catene in inglese, quelle chì principianu cù `en: ` 
-  - squassà e traduzzioni di tutte l’altre linee 
+  - squassà e traduzzioni di tutte l’altre lingue 
   - squassà u prefissu `en: `
   
-Eccu e listesse linee dopu à trasfurmazione :
+Eccu e listesse linee dopu à a trasfurmazione :
 ```
 a nephew/a niece/nephews/nieces/nephews and nieces
+all the places
+path/paths
 ```
 - Ste linee devenu esse arregistrate in un schedariu cù l’estensione `.txt` chì hè un furmatu cunnisciutu da OmegaT.
 
@@ -53,27 +60,38 @@ a nephew/a niece/nephews/nieces/nephews and nieces
 ```
 - Basta à aghjunghje tutte st’istruzzioni __nanzu__ a linea `</Macros>` chì indicheghja a fine di tutte e prucedure macro.
 ```
-        <Macro name="Cunversione GeneWeb(.txt)-OmegaT(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0">
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Marcà tutte e linee chì principianu cù |^en: |" />
+        <Macro name="Cunversione GeneWeb(.txt)-OmegaT_en(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni GeneWeb">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per indettà tutte e linee chì principianu cù |en: |" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^en: " />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="784" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1615" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza marca" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee senza indetta" />
             <Action type="2" message="0" wParam="43051" lParam="0" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Rimpiazzamentu allungatu di |^en: | da nunda" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
+            <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per caccià |^en: | à u principiu di e linee" />
             <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1601" wParam="0" lParam="0" sParam="^en: " />
             <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
             <Action type="3" message="1602" wParam="0" lParam="0" sParam="" />
             <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
             <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
-            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per viutà e marche di tutte e linee indettate" />
-            <Action type="2" message="0" wParam="43008" lParam="0" sParam="" />
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Cumanda nurmale per caccià tutte e linee viote" />
+            <Action type="2" message="0" wParam="42055" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="Cunversione OmegaT_en(.txt)-GeneWeb_co(.txt)" Ctrl="no" Alt="no" Shift="no" Key="0" FolderName="Cunversioni GeneWeb">
+            <Action type="0" message="2172" wParam="0" lParam="0" sParam="Espressione regulare per aghjunghje caratteri |co: | davanti à tutte e linee" />
+            <Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+            <Action type="3" message="1601" wParam="0" lParam="0" sParam="^" />
+            <Action type="3" message="1625" wParam="0" lParam="2" sParam="" />
+            <Action type="3" message="1602" wParam="0" lParam="0" sParam="co: " />
+            <Action type="3" message="1702" wParam="0" lParam="768" sParam="" />
+            <Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
         </Macro>
 ```
-- Tandu a nova prucedura - `Cunversione GeneWeb(.txt)-OmegaT(.txt)` - hè dispunibule in Notepad++.
+- Tandu e prucedure nove sò hè dispunibule in Notepad++.
 - Di sicuru, si pò sceglie __un altru nome di prucedura__.  
 
 Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste prucedure chì cuntenenu un cummentu per spiegà ciò chì si face dentru. Ùn si pò micca impiegà i cummenti classichi di u XML perchè quelli cummenti sò autumaticamente squassati quandu ci hè una mudificazione di u schedariu `shortcuts.xml` da _Notepad++_, per indettu per arregistrà una nova prucedura macro arricurdata.
