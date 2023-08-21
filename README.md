@@ -23,7 +23,9 @@ _Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’u
 https://www.ccleaner.com/ccleaner  
 _Per nettà ciò chì ùn serve à nunda nant’à u vostru urdinatore è ottene un PC più nettu, più sicuru è più rapidu. Stu prugramma pò dinù analizà a versione di i prugrammi è di i piloti installati._  
   
-> ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _CCleaner Free_ chì hè di rigalu, o _CCleaner Professional_ ch’ellu ci vole à pagà.
+> ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _CCleaner Free_ chì hè di rigalu, o _CCleaner Professional_ ch’ellu ci vole à pagà.  
+  
+> 🔇 __Per disgrazia__, à u principiu d’aprile di u 2023, a squadra di _CCleaner_ hà decisu chì a lingua corsa ùn seria più mantinuta.
 
 ## ✨ CDex <a href="#"><img src="./Icone/CDex.png" width="30" height="30"></img></a>
 https://cdex.mu/  
