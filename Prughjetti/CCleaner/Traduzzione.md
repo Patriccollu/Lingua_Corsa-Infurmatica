@@ -1,9 +1,12 @@
 # A traduzzione in lingua corsa di _CCleaner_
 
 ## Distribuzione
-- A prima traduzzione in corsu hè stata distribuita cù a versione 5.10 di sittembre di u 2015
-- L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa
-
+- A prima traduzzione in corsu hè stata distribuita cù a versione v5.10 di sittembre di u 2015
+- L’installazione di u prugramma, chì impiega _NSIS_, si pò fà in lingua corsa  
+  
+⛔ Per disgrazia, à u principiu d’aprile di u 2023, a squadra di _CCleaner_ mi face sapè chì a cumpagnia _Avast_, chì distribuisce _CCleaner_, s’hè unita cù _Norton_ per creà _Gen_ è chì sta nova cumpagnia ùn permette più di distribuisce a traduzzione in lingua corsa.  
+  
+🔇 E versioni nove di _CCleaner_, cum’è a v6.14 distribuita di lugliu di u 2023, cuntenenu quantunque a lingua corsa ma, di sicuru, e funzioni nove ùn sò micca tradutte.
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
 
