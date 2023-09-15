@@ -43,6 +43,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.14/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.15/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.16/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.17/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.10/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.11/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.12/strings.xliff  
@@ -50,6 +51,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.14/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.15/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.16/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.17/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started_recommended_locations/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
@@ -80,6 +82,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   addons-message_update_v2.14-strings.xliff
   addons-message_update_v2.15-strings.xliff
   addons-message_update_v2.16-strings.xliff
+  addons-message_update_v2.17-strings.xliff
   addons-message_whats_new_v2.10-strings.xliff
   addons-message_whats_new_v2.11-strings.xliff
   addons-message_whats_new_v2.12-strings.xliff
@@ -87,6 +90,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   addons-message_whats_new_v2.14-strings.xliff
   addons-message_whats_new_v2.15-strings.xliff
   addons-message_whats_new_v2.16-strings.xliff
+  addons-message_whats_new_v2.17-strings.xliff
   addons-tutorial_01_get_started_recommended_locations-strings.xliff
   addons-tutorial_01_get_started-strings.xliff
   addons-tutorial_02_connect_on_startup-strings.xliff
@@ -124,7 +128,8 @@ S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si c
 
 - Lancià l’appiecazione _OmegaT_
 - Sceglie `Ozzioni` eppò `Filtri di schedariu…`
-  - Attivà u furmatu `XLIFF`
+  - Attivà u furmatu `FTL Mozilla`
+  - Attivà u furmatu `XLIFF (filtru anzianu)`
   - Attivà u furmatu `XLIFF files (Okapi)`
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
     ⚫ `Use the default filter settings (okf_xliff)`  
