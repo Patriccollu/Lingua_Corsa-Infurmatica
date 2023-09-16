@@ -22,8 +22,8 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
 - Lancià l’appiecazione _OmegaT_
-- Sceglie `Ozzioni` è `Filtri di schedariu…`
-  - Disattivà u furmatu `XLIFF`
+- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+  - Disattivà u furmatu `XLIFF (filtru anzianu)`
   - Attivà u furmatu `XLIFF files (Okapi)`
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
     ⚫ `Use the default filter settings (okf_xliff)`  
@@ -43,7 +43,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Incaricamentu di i schedarii di lingua corsa
 
 Ci vole à impiegà _Pontoon_ per impurtacci i schedarii tradutti in lingua corsa.
-- Fà un cliccu nant’à a vostra icona d’utilizatore chì si trova insù è à dirittu, accant’à l’icona di campana 🔔
+- Fà un cliccu nant’à a vostra icona d’utilizatore chì si trova insù è à dirittu, accant’à l’icona di a campana 🔔
 - Sceglie a funzione _`Upload Translations`_ (ghjè una funzione riservata à u respunsevule di prughjettu)
 - Selezziunà u schedariu di lingua corsa chì si trova in u cartulare `target` di u prughjettu _Firefox for iOS_ in _OmegaT_
 - À a fine di stu trattamentu, _Pontoon_ hè statu rinfrescatu cù a nova traduzzione.
