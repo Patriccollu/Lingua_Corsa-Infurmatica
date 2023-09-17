@@ -43,6 +43,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/customtabs/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/findinpage/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/fxsuggest/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/media/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/privatemode/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml  
@@ -81,6 +82,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   components-feature-customtabs-strings.xml
   components-feature-downloads-strings.xml
   components-feature-findinpage-strings.xml
+  components-feature-fxsuggest-strings.xml
   components-feature-media-strings.xml
   components-feature-privatemode-strings.xml
   components-feature-prompts-strings.xml
