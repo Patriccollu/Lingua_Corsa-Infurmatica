@@ -1,8 +1,8 @@
 # A traduzzione in lingua corsa di _VeraCrypt_
 
 ## Distribuzione
-- A prima traduzzione in corsu hè stata resa dispunibule di marzu di u 2022 per a versione 1.25.9 ma ci vulia à [installà manualemente u schedariu di lingua corsa](Installazione.md) in u cartulare di e lingue tradutte di _VeraCrypt_
-- A prima traduzzione officiale in corsu duveria esse distribuita per a versione 1.26.2 di lugliu di u 2023
+- A prima traduzzione in corsu hè stata resa dispunibule di marzu di u 2022 per a versione 1.25.9 ma ci vulia à [installà manualemente u schedariu di lingua corsa](Installazione.md) in u cartulare di e lingue tradutte
+- A prima traduzzione officiale in corsu hè stata distribuita cù a [versione 1.26.7](https://github.com/veracrypt/VeraCrypt/releases/tag/VeraCrypt_1.26.7) d’uttobre di u 2023
 - Una [cronolugia di tutte e mudificazioni](https://github.com/veracrypt/VeraCrypt/commits/master/Translations/Language.co.xml) si trova nant’à GitHub
 
 ## Traduttore
@@ -10,7 +10,7 @@
 
 ## Pagina officiale di u situ web nant’à a traduzzione
 
-À st’ora, ùn ci hè micca pagina ufficiale per spiegà cumu fà a traduzzione.
+À st’ora, ùn ci hè alcuna pagina ufficiale per spiegà cumu fà a traduzzione.
 
 ## Ciò ch’ella ci vole per traduce
 - Richiestu
@@ -27,9 +27,7 @@
 
 ### Situ officiale di traduzzione
 
-À st’ora, ùn ci hè micca situ officiale di traduzzione. In veru, ci hè dui siti chì ùn sò più impiegati o ùn sò micca officiale :
-- nant’à [_Crowdin_](https://crowdin.com/project/veracrypt)
-- nant’à [_Transifex_](https://explore.transifex.com/otf/veracrypt/)
+À st’ora, ùn ci hè micca situ officiale di traduzzione. Ci ne hè unu, quantunque, nant’à [_Transifex_](https://explore.transifex.com/otf/veracrypt/) per quelli chì ci volenu piazzà e so traduzzioni.
 
 ### Siti di sviluppu
 
@@ -74,9 +72,9 @@ Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_
 
 Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impiegà _GitHub_ per pigliallu in contu, vole si dì dumandà a mudificazione di a versione attuale di u schedariu di destinazione per ch’ella sia rimpiazzata da a vostra versione lucale.
 
-- Andà nant’à un [situ officiale di sviluppu di VeraCrypt](https://github.com/veracrypt/VeraCrypt)
+- Andà nant’à u situ officiale di sviluppu di VeraCrypt è [affissà a versione attuale di u schedariu di lingua corsa](https://github.com/veracrypt/VeraCrypt/blob/master/Translations/Language.co.xml)
 
-Per cunnosce a seguita di a prucedura, si pò seguità l'[istruzzioni simile chì si trovanu in _Notepad++_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Notepad%2B%2B/Traduzzione.md#istruzzioni-per-pigli%C3%A0-in-contu-u-novu-schedariu-di-lingua-corsa).
+Per cunnosce a seguita di a prucedura, si pò fighjà l'[istruzzioni simile chì si trovanu in _Notepad++_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Notepad%2B%2B/Traduzzione.md#istruzzioni-per-pigli%C3%A0-in-contu-u-novu-schedariu-di-lingua-corsa).
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
