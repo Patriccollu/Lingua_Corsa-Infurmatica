@@ -96,7 +96,7 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 
 ## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
 https://www.lazarus-ide.org/  
-_Lazarus hè un « IDE » multipiattaforma cumpatibile cù Delphi per Free Pascal. Free Pascal hè un compilatore GPL chì funzioneghja nant’à Linux, Windows, macOS, FreeBSD è d’altri. LCL (Lazarus Component Library) hè unu di i so cumpunenti chì hè più o menu cumpatibile cù u VCL di Delphi._
+_Lazarus hè un « IDE » multipiattaforma cumpatibile cù Delphi per Free Pascal. Free Pascal hè un compilatore GPL chì funziuneghja nant’à Linux, Windows, macOS, FreeBSD è d’altri. LCL (Lazarus Component Library) hè unu di i so cumpunenti chì hè più o menu cumpatibile cù u VCL di Delphi._
 
 ## ✨ Lufi	<a href="#"><img src="./Icone/Lufi.png" width="30" height="30"></img></a>
 https://alt.framasoft.org/fr/framadrop  
@@ -135,8 +135,6 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
 ## ✨ paint.net	<a href="./Prughjetti/paint.net/Traduzzione.md"><img src="./Icone/paint.net.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.getpaint.net/  
 _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 4.3.3 è quelle più recente.
 
 ## ✨ PDFCreator <a href="./Prughjetti/PDFCreator/Traduzzione.md"><img src="./Icone/PDFCreator.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>, HotFolder <a href="#"><img src="./Icone/HotFolder.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a> è Images2PDF <a href="#"><img src="./Icone/Images2PDF.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.pdfforge.org/pdfcreator  
@@ -170,9 +168,7 @@ _Ingeneratore di parolle d’intesa à l’azardu impieghendu simbulli o parolle
 
 ## ✨ ReNamer <a href="#"><img src="./Icone/ReNamer.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/renamer  
-_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione timpuraria _7.3.0.2 Beta_ è quelle più recente.
+_Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di prucedure cù prefissi, suffissi, rimpiazzamenti, cambiamentu di caratteri, aghjuntu di numeri di sequenza, ecc... In più di què, si pò dinù rinuminà cartulari, impiegà spressioni regulare è accettà una mansa di meta etichette, cum’è : ID3v1, ID3v2, EXIF, OLE, AVI, MD5, CRC32, è SHA1._
 
 ## ✨ Resizer <a href="#"><img src="./Icone/Resizer.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/resizer  
@@ -180,13 +176,17 @@ _Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguill
 
 ## ✨ Shutter <a href="#"><img src="./Icone/Shutter.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/shutter  
-_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta evenimenti è azzioni numerosi. L’evenimenti sò : u contu à l’arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione timpuraria _4.4.0.8 Beta_ è quelle più recente cum’è a versione 4.5.
+_Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à impiegà è chì accetta evenimenti è azzioni numerosi. L’evenimenti sò : u contu à l’arritrosa, l’aghjovu di a CPU, di a reta o di u discu duru, u livellu di batteria, un prucessu o una dimensione di schedariu. L’azzioni sò : spenghje l’urdinatore, mettelu in veghja o in invernazione, o d’altre azzioni nant’à u screnu, u vulume, un’alarme, un sonu o ancu un schedariu, una finestra o un prucessu._
 
 ## ✨ SumatraPDF <a href="./Prughjetti/SumatraPDF/Traduzzione.md"><img src="./Icone/SumatraPDF.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
 _Lettore di ducumenti per Windows, capace di leghje i formati PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
+
+## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
+https://veracrypt.fr/en/Home.html  
+_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._  
+  
+> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.26.7. Ma si pò quantunque impiegalla cù una  versione più vechja. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
 
 ## ✨ Video DownloadHelper <a href="./Prughjetti/Video%20DownloadHelper/Traduzzione.md"><img src="./Icone/VDH.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.downloadhelper.net/  
@@ -198,9 +198,7 @@ _L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piatt
 
 ## ✨ VirtualMIDISynth <a href="./Prughjetti/VirtualMIDISynth/Traduzzione.md"><img src="./Icone/VirtualMIDISynth.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://coolsoft.altervista.org/en/virtualmidisynth  
-_Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedià Windows è chì pò esse impiegatu cum’è un apparechju classicu d’esciuta MIDI. Appughjatu nant’à a bibliuteca BASS sviluppata da un4seen, VirtualMIDISynth pò funziunà nant’à Windows XP (SP3) / Vista (SP1) / 7 (SP1) / 8.x / 10 (x86 o x64)._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.11.1 è quelle più recente.
+_Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedià Windows è chì pò esse impiegatu cum’è un apparechju classicu d’esciuta MIDI. Appughjatu nant’à a bibliuteca BASS sviluppata da un4seen, VirtualMIDISynth pò funziunà nant’à Windows XP (SP3) / Vista (SP1) / 7 (SP1) / 8.x / 10 (x86 o x64)._
 
 ## ✨ VLC for Android <a href="./Prughjetti/VLC/Traduzzione.md#vlc-for-android"><img src="./Icone/VLC%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.videolan.vlc  
@@ -216,7 +214,6 @@ _Purtera di u lettore medià liberu VLC nant’à iPad, iPhone è iPod touch ch�
 https://winmerge.org/?lang=co  
 _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows chì vi permette di paragunà cartulari è schedarii è affissà e sfarenze in un furmatu di testu visuale chì hè capicitoghju è faciule à manighjà. WinMerge pò esse impiegatu, sia cum’è un attrezzu esternu di paragone o di fusione, sia cum’è un’appiecazione autonoma, per determinà ciò chì hà cambiatu trà parechje versioni di prughjettu è per fà una fusione di sti cambiamenti. In più di què, WinMerge cuntene tante funzioni ghjuvevule per rende più faciule u paragone, a sincrunizazione è a fusione. Per indettu, parechji linguaghji di prugrammazione è altri furmati di schedariu anu a so sintassa sopralineata._  
   
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 2.16.18 è quelle più recente.  
 > ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://winmerge.org/?lang=co).
 
 ## ✨ Worldle <a href="#"><img src="./Icone/Worldle.png" width="30" height="30"></img></a>
@@ -227,25 +224,22 @@ _Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in
 
 ## ✨ wxWidgets <a href="#"><img src="./Icone/wxWidgets.png" width="30" height="30"></img></a>
 https://www.wxwidgets.org/  
-_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 3.1.7 è quelle più recente.  
+_Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
 
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
+
+## ⏳ FreeOTP <a href="#"><img src="./Icone/FreeOTP.png" width="30" height="30"></img></a>
+https://freeotp.github.io/  
+_Appiecazione d’autenticazione à dui fattori per i sistemi _Android_ è _iOS_ impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu esse aghjunti d’una manera faciule via l’analisa d’un codice QR. S’ella hè bisognu à ingenerà un codice QR, pruvate puru u [generatore di codice QR](https://freeotp.github.io/qrcode.html) in linea. FreeOTP impiegheghja e norme HOTP è TOTP. Vole si dì ch’ellu ùn hà bisognu d’alcunu cumpunente prupietariu nant’à u servitore ; basta à impiegà qualsiasi cumpunente di u latu di u servitore chì adopra ste norme._
+  
+> 📗 __Nota__ : Per i sistemi _Android_, a lingua corsa duveria esse distribuita cù a versione 2.0.3 è quelle più recente. Per disgrazia, à st’ora, stu sistema ùn cunnosce micca a lingua corsa è l’appiecazione _FreeOTP for Android_ ùn pò micca impiegà un’altra lingua chè quella di u sistema. Dunque per impiegà FreeOTP in lingua corsa nant’à un sistema _Android_, ci vulerà à aspettà una cria chì stu sistema accetti a nostra bella lingua.
 
 ## ⏳ MozBackup <a href="./Prughjetti/MozBackup/ReadMe.md"><img src="./Icone/MozBackup.png" width="30" height="30"></img></a>
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._  
   
 > 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
-
-## ⏳ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
-https://veracrypt.fr/en/Home.html  
-_Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._  
-  
-> 📗 __Nota__ : A lingua corsa serà distribuita cù a versione 1.26. Una [versione di prova per _Windows_ hè dispunibule nant’à u situ di SourceForge](https://sourceforge.net/p/veracrypt/discussion/general/thread/0cc5a5acc6/).  
-> 💡 __Astuzia__ : Si pò dinù scaricà u schedariu di lingua corsa è installallu nant’à a vostra versione attuale. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
