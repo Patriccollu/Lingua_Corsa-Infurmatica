@@ -12,8 +12,8 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 ### Da u prugramma d’installazione in versione beta
 - Si pò scaricà l’ultima versione di u prugramma d’installazione in versione beta da quì : https://www.downloadhelper.net/firefox/betas
-- Cliccà nant’à u buttone `Install beta version vv.rr.mmm` induve `vv.rr.mmm` riprisente u numeru di versione, per indettu : `7.6.1a1`
-- U prugramma scaricatu hè un schedariu cumpressu chì si chjama `video_downloadhelper-vv.rr.mmm-an+fx.xpi`
+- Cliccà nant’à u buttone `Install beta version vv.r.m.nnn` induve `vv.r.m.nnn` riprisente u numeru di versione, per indettu : `8.1.0.0a4`
+- U prugramma scaricatu hè un schedariu cumpressu chì si chjama `video_downloadhelper-v.r.mmmm-an+fx.xpi` o `vdh-mozilla-vv.r.m.nnn.xpi`
 - Si pò impiegà u prugramma _7-Zip_ per apre stu schedariu cumpressu è estrae i schedarii chì si trovanu dentru
 - U schedariu __in lingua inglese__ si chjama `messages.json` è si trova in u cartulare `\_locales\en_US\`
 - Lancià _Notepad++_
@@ -43,6 +43,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
     ⚫ `Use the default filter settings (okf_json)`  
     ⚪ `Use the following filter parameter file:`
     - [x] `Include the name of the translation unit in comments`
+    - [x] `Use 'name' attribute as segment identifier`
 
 ## Traduzzione in lingua corsa
 
