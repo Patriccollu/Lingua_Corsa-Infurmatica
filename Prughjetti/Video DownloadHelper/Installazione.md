@@ -22,7 +22,7 @@ https://groups.google.com/g/video-downloadhelper-internationalization/search?q=c
 
 #### Da u prugramma d’installazione
 
-Bench’è a lingua corsa ùn sia micca installata autumaticamente, hè distribuita quantunque cù _Video DownloadHelper_ in u schedariu d’installazione di u prugramma chì si chjama `video_downloadhelper-vv.rr.mmm-an+fx.xpi`.
+Bench’è a lingua corsa ùn sia micca installata autumaticamente, hè distribuita quantunque cù _Video DownloadHelper_ in u schedariu d’installazione di u prugramma chì si chjama `video_downloadhelper-vv.rr.mmm-an+fx.xpi` o `vdh-mozilla-vv.rr.mmm.xpi`.
   
 - Stu prugramma d’installazione `.xpi` hè un schedariu cumpressu è si pò impiegà u prugramma _7-Zip_ per aprelu è estrae i schedarii chì si trovanu dentru
 - U schedariu __in lingua corsa__ si trova in u cartulare `\_locales\co\` è si chjama `messages.json`
@@ -32,7 +32,7 @@ Bench’è a lingua corsa ùn sia micca installata autumaticamente, hè distribu
 - Eseguisce a prucedura installata appostu per fà sta cunversione
 - Arregistrà u schedariu `.json` trasfurmatu in un cartulare timpurariu
   
-Per u navigatore _Firefox_, si pò dinù scaricà l’ultima versione (beta) di u prugramma d’installazione [nant’à u situ di sviluppu](https://www.downloadhelper.net/firefox/betas) via un cliccu nant’à u buttone `Install beta version vv.rr.mmm` induve `vv.rr.mmm` riprisente u numeru di versione, per indettu : `7.6.1a1`.
+Per u navigatore _Firefox_, si pò dinù scaricà l’ultima versione (beta) di u prugramma d’installazione [nant’à u situ di sviluppu](https://www.downloadhelper.net/firefox/betas) via un cliccu nant’à u buttone `Install beta version vv.r.m.nnn` induve `vv.r.m.nnn` riprisente u numeru di versione, per indettu : `8.1.0.0a4`.
 
 ### Persunalizazione
 
