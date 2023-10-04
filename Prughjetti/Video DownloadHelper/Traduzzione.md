@@ -3,7 +3,7 @@
 ## Distribuzione
 - A prima traduzzione in corsu hè stata dispunibule nant’à stu situ di dicembre di u 2020
 - Tandu hè stata distribuita cù a versione 7.6.1a1 di lugliu di u 2021
-- Ma per ch’ella sia impiegata autumaticamente da u navigatore, ci vulerà à aspettà chì i navigatori internet, tale _Mozilla Firefox_, _Google Chrome_ è _Microsoft Edge_, accettanu a lingua corsa !
+- Ma per ch’ella sia impiegata autumaticamente da u navigatore, ci vulerà à aspettà chì i navigatori internet, tale _Mozilla Firefox_, _Google Chrome_ è _Microsoft Edge_, accetteghjinu a lingua corsa !
 - In st’attesa, ci vole à seguità l’[istruzzioni per installà l’interfaccia in lingua corsa](Installazione.md)
 
 ## Traduttore
