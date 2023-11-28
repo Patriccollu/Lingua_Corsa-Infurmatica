@@ -12,9 +12,14 @@ Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/r
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_survey/strings.xliff -OutFile D:\Temp\addons-message_survey-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_update_v2.15/strings.xliff -OutFile D:\Temp\addons-message_update_v2.15-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_update_v2.17/strings.xliff -OutFile D:\Temp\addons-message_update_v2.17-strings.xliff
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_update_v2.18/strings.xliff -OutFile D:\Temp\addons-message_update_v2.18-strings.xliff
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_update_v2.19/strings.xliff -OutFile D:\Temp\addons-message_update_v2.19-strings.xliff
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_upgrade_to_annual_plan/strings.xliff -OutFile D:\Temp\addons-message_upgrade_to_annual_plan-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_whats_new_v2.15/strings.xliff -OutFile D:\Temp\addons-message_whats_new_v2.15-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_whats_new_v2.16/strings.xliff -OutFile D:\Temp\addons-message_whats_new_v2.16-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_whats_new_v2.17/strings.xliff -OutFile D:\Temp\addons-message_whats_new_v2.17-strings.xliff
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_whats_new_v2.18/strings.xliff -OutFile D:\Temp\addons-message_whats_new_v2.18-strings.xliff
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/message_whats_new_v2.19/strings.xliff -OutFile D:\Temp\addons-message_whats_new_v2.19-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/tutorial_01_get_started_recommended_locations/strings.xliff -OutFile D:\Temp\addons-tutorial_01_get_started_recommended_locations-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/tutorial_01_get_started/strings.xliff -OutFile D:\Temp\addons-tutorial_01_get_started-strings.xliff
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/raw/main/co/addons/tutorial_02_connect_on_startup/strings.xliff -OutFile D:\Temp\addons-tutorial_02_connect_on_startup-strings.xliff
