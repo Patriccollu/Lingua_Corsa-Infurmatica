@@ -15,13 +15,15 @@ https://github.com/:user.atom
 https://github.com/:user/:repo/releases.atom
 https://github.com/:user/:repo/tags.atom
 https://github.com/:user/:repo/commits.atom
-https://github.com/:user/:repo/commits/master/:path1/:path2/:directory.atom
+https://github.com/:user/:repo/commits/master/:path/:directory.atom
 https://github.com/:user/:repo/commits/master/:path1/:path2/:file.atom
 ```
   
-Ci vole à rimpiazzà `:user` da u nome d’utilizatore _GitHub_ è `:repo` da u nome di u dipositu. `:path1` è `path2` sò un esempiu di dui chjassi, `directory` hè un nome di sottucartulare è `:file` un nome di schedariu.
+Ci vole à rimpiazzà `:user` da u nome d’utilizatore _GitHub_ è `:repo` da u nome di u dipositu. `:path1` è `:path2` sò un esempiu di dui chjassi, `:directory` hè un nome di sottucartulare è `:file` un nome di schedariu.
 
-Per u nostru bisognu, avemu da impiegà l’utimu indirizu chì permette di sapè quand’un schedariu hè mudificatu.
+Per u nostru bisognu, avemu da impiegà l’utimu tipu d’indirizu chì permette di sapè quand’un schedariu hè mudificatu.
+
+Eccu un esempiu reale : `https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/commits/ceppu/README.md.atom`
 
 ## Thunderbird
 
