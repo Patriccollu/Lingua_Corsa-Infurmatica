@@ -1,8 +1,8 @@
 # È a lingua corsa in l’infurmatica ?
 
-Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn ci hè nunda à fà di particulare per impiegalli in lingua corsa, fora di installalli è dopu di sceglie a lingua « corsu » o « corsican ». Per certi, per indettu quelli ch’impieganu i prugrammi d’installazione Inno Setup o NSIS, ghjè ancu pussibule d’installalli in lingua corsa !  
+Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn ci hè nunda à fà di particulare per impiegalli in lingua corsa, fora d’installalli è dopu di sceglie a lingua « corsu » o « corsican ». Per certi, per indettu quelli ch’impieganu i prugrammi d’installazione _Inno Setup_ o _NSIS_, ghjè ancu pussibule d’installalli in lingua corsa !  
 
-A maiò parte di sti prugrammi hè di tipu « Fonte Aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.  
+A maiò parte di sti prugrammi hè di tipu « Fonte aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.  
 
 Eccu una lista, ordinata in trè parti : i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu, quelli in attesa di distribuzione è l’ultimi in corsu di traduzzione.  
 
@@ -117,7 +117,7 @@ _Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WM
 
 ## ✨ Notepad++	<a href="./Prughjetti/Notepad%2B%2B/Traduzzione.md"><img src="./Icone/Notepad%2B%2B.png" width=30 height=30 title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://notepad-plus-plus.org/  
-_Mudificatore di testu è di codice chì piglia in contu parechji linguaghji di prugrammazione. Stu prugramma, scrittu in C++ cù STL è l’API win32, hè statu fattu per pruvede un mezu, di chjuca dimensione ma assai putente, per mudificà u codice di fonte. Uptimizeghja parechje funzioni da una manera piacevule ciò chì face ch’ellu cuntribuisce à a limitazione di u CO2 in u mondu sanu ! In fatti, cum’ellu riduce l’impiegu di a CPU, a cunsumazione di l’urdinatori si ne trova ridutta è in fine di contu... a pianeta hè più bella è più verde ;-)_  
+_Prugramma di mudificazione di testu genericu, funziunendu nant’à Windows, chì permette a messa in evidenza di a sintassa di u codice di fonte per parechji tipi di schedariu cum’è i linguaghji di prugrammazione. Stu prugramma, scrittu in C++ cù STL è l’interfaccie di prugrammazione Win32, hè cuncepitu per pruvede un mezu, di chjuca dimensione ma assai putente, per mudificà un schedariu di testu. Ci sò parechje funzioni cum’è una ricerca avanzata di caratteri o u paragone trà dui schedarii chì ne facenu un rimpiazzamentu perfettu di u prugramma Notepad distribuitu cù Windows. È quandu s’apre un schedariu cù Notepad++, u schedariu ùn hè micca ammarchjunatu è s’ellu hè mudificatu da un altru prugramma, ci hè una nutificazione è a pussibilità di ricaricallu._  
   
 > 💡 __Astuzia__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Notepad%2B%2B/Installazione.md).
 
@@ -252,7 +252,7 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
 
 ## 🎯 Common Voice <a href="./Prughjetti/Mozilla/Common%20Voice/Traduzzione.md"><img src="./Icone/Common%20Voice.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://commonvoice.mozilla.org/co  
-_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à fonte aperta chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_  
+_Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a ghjente. Pudete dà a vostra voce per aiutacci à custruisce una basa di dati vucale à « fonte aperta » chì tuttu mondu pò aduprà per creà appiecazioni innuvative per l’apparechji è u web. Lighjite una frasa per arregistralla (**parlà**) è/o verificate u travagliu d’altri cuntributori per megliurà à qualità (**stà à sente**). Hè cusì simplice !_  
 
 > ❤️ __Nota__ : Ancu u [situ web hè traduttu in lingua corsa](https://commonvoice.mozilla.org/co).
 
@@ -269,4 +269,4 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 ### ✔️ [_Si pò dinù fighjà sta lista nant’à u situ Sourceforge._](https://sourceforge.net/u/patriccollu/wiki/Home/)
 
 ##
-_© Patriccollu di Santa Maria è Sichè, 2023_
+_© Patriccollu di Santa Maria è Sichè, 2024_
