@@ -79,14 +79,14 @@ U schedariu `.xlf` scaricatu si chjama `for_translation_mac-ui_enxliff_en.xlf`. 
 
 - Lancià l’appiecazione _OmegaT_
 - Sceglie `Ozzioni` eppò `Filtri di schedariu…`
-  - Verificà chì u furmatu `XLIFF` hè disattivatu. 
+  - Verificà chì u furmatu `XLIFF (filtru anzianu)` hè disattivatu. 
   - Verificà chì u furmatu `ResX` hè attivatu. 
   - Verificà chì u furmatu `PO` hè attivatu.  
   - Verificà l’ozzioni di u furmatu `PO` :  
-    - [x] `Permette e traduzzioni viote in i schedarii tradutti`
-    - [ ] `Permette a traduzzione di i segmenti d’origine vioti`
-    - [x] `Ignurà l’intestatura di i schedarii PO`
-    - [ ] `Rimpiazzà autumaticamente « {nplurals=INTEGER; &plural=EXPRESSION;} » in l’intestatura`  
+    - [x] `Permette i segmenti di destinazione vioti`
+    - [ ] `Traduce i segmenti d’origine vioti`
+    - [x] `Ignurà l’intestatura di schedariu PO`
+    - [ ] `Rimpiazzà autumaticamente a specificazione di plurale`  
 	      `Furmatu :` ⚫ `Classicu`   ⚪ `Monolinguale`
   - Verificà chì u furmatu `XLIFF files (Okapi)` hè attivatu.  
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
