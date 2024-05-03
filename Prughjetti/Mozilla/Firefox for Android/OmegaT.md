@@ -30,6 +30,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/errorpages/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/menu2/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/menu/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/toolbar2/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/browser/toolbar/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/compose/awesomebar/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/compose/browser-toolbar/src/main/res/values/strings.xml  
@@ -69,6 +70,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   components-browser-errorpages-strings.xml
   components-browser-menu2-strings.xml
   components-browser-menu-strings.xml
+  components-browser-toolbar2-strings.xml
   components-browser-toolbar-strings.xml
   components-compose-awesomebar-strings.xml
   components-compose-browser-toolbar-strings.xml
