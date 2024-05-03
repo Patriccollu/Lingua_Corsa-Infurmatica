@@ -23,7 +23,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 - Lancià l’appiecazione _OmegaT_
 - Sceglie `Ozzioni` eppò `Filtri di schedariu…`
-  - Disattivà u furmatu `XLIFF`
+  - Disattivà u furmatu `XLIFF (filtru anzianu)`
   - Attivà u furmatu `XLIFF files (Okapi)`
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
     ⚫ `Use the default filter settings (okf_xliff)`  
