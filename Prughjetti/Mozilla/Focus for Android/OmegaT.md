@@ -23,7 +23,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
-✔️ Nisuna.
+- Lancià l’appiecazione _OmegaT_
+- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+  - Attivà u furmatu `Risorse Android`
 
 ## Traduzzione in lingua corsa
 
