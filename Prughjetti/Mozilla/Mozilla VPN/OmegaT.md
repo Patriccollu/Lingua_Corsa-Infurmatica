@@ -26,7 +26,6 @@ Per a vostra infurmazione, ci hè una prucedura simile per scaricà i schedarii 
 Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
 
 - Nant’à un navigatore Internet, andà à st’indirizzi :  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_01_how_to_vpn/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_02_is_my_vpn_working_correctly/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_03_adding_and_removing_devices/strings.xliff  
@@ -39,7 +38,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_subscription_expiring/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.20/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.21/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.22/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_upgrade_to_annual_plan/strings.xliff/  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.15/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.16/strings.xliff  
@@ -47,19 +46,21 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.18/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.19/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.20/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.21/strings.xliff    
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.21/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.22/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started_recommended_locations/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_01_get_started/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_02_connect_on_startup/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_03_multi_hop/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/tutorial_04_split_tunneling3/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/extras.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
 
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
-  mozillavpn.xliff
   addons-guide_01_how_to_vpn-strings.xliff
   addons-guide_02_is_my_vpn_working_correctly.xliff
   addons-guide_03_adding_and_removing_devices-strings.xliff
@@ -72,7 +73,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   addons-message_subscription_expiring-strings.xliff
   addons-message_survey-strings.xliff
   addons-message_update_v2.20-strings.xliff
-  addons-message_update_v2.21-strings.xliff
+  addons-message_update_v2.22-strings.xliff
   addons-message_upgrade_to_annual_plan-strings.xliff
   addons-message_whats_new_v2.15-strings.xliff
   addons-message_whats_new_v2.16-strings.xliff
@@ -81,11 +82,14 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   addons-message_whats_new_v2.19-strings.xliff
   addons-message_whats_new_v2.20-strings.xliff
   addons-message_whats_new_v2.21-strings.xliff
+  addons-message_whats_new_v2.22-strings.xliff
   addons-tutorial_01_get_started_recommended_locations-strings.xliff
   addons-tutorial_01_get_started-strings.xliff
   addons-tutorial_02_connect_on_startup-strings.xliff
   addons-tutorial_03_multi_hop-strings.xliff
   addons-tutorial_04_split_tunneling3-strings.xliff
+  extras.xliff
+  mozillavpn.xliff
   vpn.ftl
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
