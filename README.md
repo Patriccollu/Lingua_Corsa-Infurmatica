@@ -229,17 +229,17 @@ _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Window
 -----
 # 2) I prugrammi in attesa di _distribuzione_ :
 
-## ⏳ K-9 Mail <a href="#"><img src="./Icone/K-9%20Mail.png" width="30" height="30"></img></a>
-https://github.com/thunderbird/thunderbird-android#  
-_Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura _OpenPGP_ di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione _OpenKeychain_ Easy PGP._
-  
-> 📗 __Nota__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più](https://blog.thunderbird.net/category/thunderbird-mobile/).
-
 ## ⏳ FreeOTP <a href="#"><img src="./Icone/FreeOTP.png" width="30" height="30"></img></a>
 https://freeotp.github.io/  
 _Appiecazione d’autenticazione à dui fattori per i sistemi _Android_ è _iOS_ impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu esse aghjunti d’una manera faciule via l’analisa d’un codice QR. S’ella hè bisognu à ingenerà un codice QR, pruvate puru u [generatore di codice QR](https://freeotp.github.io/qrcode.html) in linea. FreeOTP impiegheghja e norme HOTP è TOTP. Vole si dì ch’ellu ùn hà bisognu d’alcunu cumpunente prupietariu nant’à u servitore ; basta à impiegà qualsiasi cumpunente di u latu di u servitore chì adopra ste norme._
   
 > 📗 __Nota__ : Per i sistemi _Android_, a lingua corsa duveria esse distribuita cù a versione 2.0.3 è quelle più recente. Per disgrazia, à st’ora, stu sistema ùn cunnosce micca a lingua corsa è l’appiecazione _FreeOTP for Android_ ùn pò micca impiegà un’altra lingua chè quella di u sistema. Dunque per impiegà FreeOTP in lingua corsa nant’à un sistema _Android_, ci vulerà à aspettà una cria chì stu sistema accetti a nostra bella lingua.
+
+## ⏳ K-9 Mail <a href="#"><img src="./Icone/K-9%20Mail.png" width="30" height="30"></img></a>
+https://github.com/thunderbird/thunderbird-android#  
+_Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja nant’à i sistemi _Android_ cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura _OpenPGP_ di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione _OpenKeychain_ Easy PGP._
+  
+> 📗 __Nota__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più](https://blog.thunderbird.net/category/thunderbird-mobile/).
 
 ## ⏳ MozBackup <a href="./Prughjetti/MozBackup/ReadMe.md"><img src="./Icone/MozBackup.png" width="30" height="30"></img></a>
 http://mozbackup.jasnapaka.com/  
