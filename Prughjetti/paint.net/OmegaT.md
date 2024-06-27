@@ -45,9 +45,12 @@ Secondu u schedariu scaricatu, l’approntu hè più o menu faciule :
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
 - Lancià l’appiecazione _OmegaT_
-- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+- Apre u prughjettu `paint.net`
+- Sceglie `Prughjettu` eppò `Pruprietà…`
+- Fà un cliccu nant’à u buttone `Filtri lucali di schedariu…`
+- Attivà l’ozzione `Impiegà i parametri di i filtri lucali di schedariu`
   - Verificà chì u furmatu `ResX` hè attivatu. 
-  - Verificà chì u furmatu `XLIFF` hè disattivatu. 
+  - Verificà chì u furmatu `XLIFF (filtru anzianu)` hè disattivatu. 
   - Verificà chì u furmatu `XLIFF files (Okapi)` hè attivatu.  
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
     ⚫ `Use the default filter settings (okf_xliff)`  
