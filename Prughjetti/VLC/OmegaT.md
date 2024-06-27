@@ -86,7 +86,10 @@ U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
 - Lancià l’appiecazione _OmegaT_
-- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+- Apre u prughjettu `VLC`
+- Sceglie `Prughjettu` eppò `Pruprietà…`
+- Fà un cliccu nant’à u buttone `Filtri lucali di schedariu…`
+- Attivà l’ozzione `Impiegà i parametri di i filtri lucali di schedariu`
   - Verificà chì u furmatu `XLIFF` hè disattivatu. 
   - Verificà chì u furmatu `Testu` hè attivatu.  
   - Verificà l’ozzione di u furmatu `Testu` : 
