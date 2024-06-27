@@ -22,7 +22,10 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
 - Lancià l’appiecazione _OmegaT_
-- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+- Apre u prughjettu `Firefox for iOS`
+- Sceglie `Prughjettu` eppò `Pruprietà…`
+- Fà un cliccu nant’à u buttone `Filtri lucali di schedariu…`
+- Attivà l’ozzione `Impiegà i parametri di i filtri lucali di schedariu`
   - Disattivà u furmatu `XLIFF (filtru anzianu)`
   - Attivà u furmatu `XLIFF files (Okapi)`
   - Verificà l’ozzioni di u furmatu `XLIFF files (Okapi)` :  
