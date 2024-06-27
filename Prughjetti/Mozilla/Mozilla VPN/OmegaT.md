@@ -111,7 +111,10 @@ S’ella hè bisognu, ci hè dinù un’altra prucedura di cunversione chì si c
 ## Ozzione o preferenze particulare à definisce in OmegaT
 
 - Lancià l’appiecazione _OmegaT_
-- Sceglie `Ozzioni` eppò `Filtri di schedariu…`
+- Apre u prughjettu `Mozilla VPN`
+- Sceglie `Prughjettu` eppò `Pruprietà…`
+- Fà un cliccu nant’à u buttone `Filtri lucali di schedariu…`
+- Attivà l’ozzione `Impiegà i parametri di i filtri lucali di schedariu`
   - Attivà u furmatu `FTL Mozilla`
   - Attivà u furmatu `XLIFF (filtru anzianu)`
   - Verificà l’ozzioni di u furmatu `FTL Mozilla` :  
