@@ -7,7 +7,7 @@ Per impiegalli, **ci vole à iscrivesi** - cù un nome d’utilizatore è una pa
   
 Sti siti sò capace, grazia à una **memoria di traduzzione (MdT)** - chì s’assumiglia un pocu à un glossariu - di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce in lingua corsa. È pocu à pocu, grazia à e vostre traduzzioni, sta memoria cuntene di più in più di parolle.
   
-Di regula, pruponenu dinù funzioni d’**impurtazione** è d’**espurtazione** chì sò assai ghjuvevule quand’ellu s’impiega un prugramma di traduzzione assistata da urdinatore (TAO) installatu nant’à u vostru urdinatore, cum’è _OmegaT_ o _Poedit_.
+Di regula, i siti di lucalizazione pruponenu dinù funzioni d’**impurtazione** è d’**espurtazione** chì sò assai ghjuvevule quand’ellu s’impiega un prugramma di traduzzione assistata da urdinatore (TAO) installatu nant’à u vostru urdinatore, cum’è _OmegaT_ o _Poedit_.
 
 ## Parechji siti cunnisciuti
 
@@ -23,26 +23,36 @@ _Crowdin_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.  
   
-(*) U situ richiede d’esse cunnessu cù u so nome d’utilizatore per vede a lista di i schedarii.
+(*) U situ richiede d’esse cunnessu cù u so nome d’utilizatore per affissà a lista di i schedarii.
+
+## Pontoon
+
+_Pontoon_ hè impiegatu per amministrà e traduzzioni di i prudutti di a fundazione _Mozilla_.  
+
+Ci hè una pagina per ogni lingua tradutta. Eccu quella di a lingua corsa :  
+	https://pontoon.mozilla.org/co/
+  
+[Lighjite st’infurmazione per sapene di più nant’à _Pontoon_](../../tree/ceppu/Prughjetti/Mozilla/Pontoon.md).
 
 ## Transifex
 
 _Transifex_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
   
-- [Audacity](https://www.transifex.com/klyok/audacity/language/co/) (*)
-- [HandBrake](https://www.transifex.com/HandBrakeProject/dashboard/all_projects/co/) (*)
-- [VLC Media Player](https://www.transifex.com/yaron/vlc-trans/language/co/) (*)
+- [Audacity](https://app.transifex.com/klyok/audacity/language/co/) (*)
+- [HandBrake](https://app.transifex.com/HandBrakeProject/dashboard/all_projects/co/) (*)
+- [VLC Media Player](https://app.transifex.com/yaron/vlc-trans/language/co/) (*)
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.  
   
-(*) Tutti i siti _Transifex_ richiedenu d’esse cunnessu cù u so nome d’utilizatore per vede a lista di i schedarii.
+(*) Tutti i siti _Transifex_ richiedenu d’esse cunnessu cù u so nome d’utilizatore per affissà a lista di i schedarii.
 
 ## Weblate
 
 _Weblate_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
   
-- [Lufi](https://weblate.framasoft.org/languages/co/lufi/)
+- [Lufi](https://weblate.framasoft.org/projects/lufi/-/co/)
 - [PDFCreator](https://translate.pdfforge.org/languages/co_FR/)
+- [K-9 Mail/Thunderbird](https://hosted.weblate.org/projects/tb-android/-/co/)
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.
 
