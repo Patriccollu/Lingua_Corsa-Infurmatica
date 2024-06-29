@@ -34,7 +34,8 @@ In corte parolle, ci vole à :
 - Abbunassi à unu o parechji flussi (📗)
 - Leghje i vostri flussi
   
-Per sapene di più, seguitate l’[istruzzioni - in francese - per abbunassi à i flussi di nutizie](https://support.mozilla.org/fr/kb/comment-s-abonner-aux-flux-de-nouvelles-et-blogs) nant’à u situ web di l’assistenza di _Thunderbird_.
+Per sapene di più, seguitate l’[istruzzioni - in francese - per abbunassi à i flussi di nutizie](https://support.mozilla.org/fr/kb/comment-s-abonner-aux-flux-de-nouvelles-et-blogs) nant’à u situ web di l’assistenza di _Thunderbird_.  
+Ci hè dinù a listessa infurmazione in lingua inglese : [_How to Subscribe to News Feeds and Blogs_](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs).
   
 (📗) L’indirizzi di i liami à impiegà sò indicati in u paragrafu `I flussi Atom` di u schedariu `Traduzzione.md` di u prugramma currispundente.
 
