@@ -138,13 +138,13 @@ _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Win
 
 ## ✨ PDFCreator <a href="./Prughjetti/PDFCreator/Traduzzione.md"><img src="./Icone/PDFCreator.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>, HotFolder <a href="#"><img src="./Icone/HotFolder.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a> è Images2PDF <a href="#"><img src="./Icone/Images2PDF.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.pdfforge.org/pdfcreator  
-_**PDFCreator** permette di trasfurmà in un schedariu PDF ogni ducumentu da tutta appiecazione capace di stampà. **HotFolder** pò trasfurmà u cuntenutu di tuttu un cartulare in schedarii PDF o fiure. **Images2PDF** pò cunvertisce e fiure in schedarii PDF. I dui prugrammi HotFolder è Images2PDF sò distribuiti solu cù PDFCreator Professional._
+_**PDFCreator** permette di trasfurmà in un schedariu PDF tuttu ducumentu creatu da OGNI APPIECAZIONE capace di stampà, vole si dì guasi tutte l’appiecazioni ! **HotFolder** pò trasfurmà u cuntenutu d’un cartulare sanu in schedarii PDF o fiure. **Images2PDF** pò cunvertisce e fiure in schedarii PDF. I dui prugrammi HotFolder è Images2PDF sò distribuiti solu cù PDFCreator Professional._
   
 > ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFCreator_ chì hè di rigalu, o _PDFCreator Professional_ ch’ellu ci vole à pagà.
 
 ## ✨ PDFCreator Online	<a href="./Prughjetti/PDFCreator/Traduzzione.md"><img src="./Icone/PDFCreator.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
-https://tools.pdfforge.org/co-FR  
-_Un situ web induve si trovanu un inseme d’attrezzi **in linea** per manighjà i vostri schedarii PDF : unione, divizione, cumpressione, paragone, aghjuntu d’una parolla d’intesa, d’un stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
+https://www.pdfforge.org/online/co-FR  
+_Un situ web induve si pò truvà un inseme d’attrezzi **in linea** per manighjà i vostri schedarii PDF : unione, divizione, cumpressione, paragone di dui schedarii, aghjuntu d’una parolla d’intesa, d’un stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
 
 ## ✨ PDF Split and Merge	<a href="./Prughjetti/PDFsam/Traduzzione.md"><img src="./Icone/PDFsam.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://pdfsam.org/  
