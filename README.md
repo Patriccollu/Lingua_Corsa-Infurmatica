@@ -239,7 +239,10 @@ _Appiecazione d’autenticazione à dui fattori per i sistemi _Android_ è _iOS_
 https://github.com/thunderbird/thunderbird-android#  
 _Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja nant’à i sistemi _Android_ cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura _OpenPGP_ di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione _OpenKeychain_ Easy PGP._
   
-> 📗 __Nota__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più](https://blog.thunderbird.net/category/thunderbird-mobile/).
+> 📗 __Nota__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
+  
+> 💡 __Astuzia__ : Si pò dighjà impiegà a lingua corsa cù una _versione di sviluppu_ - sciglite a 6.902 o una versione più recente - chì si pò **scaricà** da quì :
+    https://github.com/thunderbird/thunderbird-android/releases
 
 ## ⏳ MozBackup <a href="./Prughjetti/MozBackup/ReadMe.md"><img src="./Icone/MozBackup.png" width="30" height="30"></img></a>
 http://mozbackup.jasnapaka.com/  
