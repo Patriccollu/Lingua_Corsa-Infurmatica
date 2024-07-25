@@ -66,42 +66,42 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
-  components-browser-engine-system-strings.xml
-  components-browser-errorpages-strings.xml
-  components-browser-menu2-strings.xml
-  components-browser-menu-strings.xml
-  components-browser-toolbar2-strings.xml
-  components-browser-toolbar-strings.xml
-  components-compose-awesomebar-strings.xml
-  components-compose-browser-toolbar-strings.xml
-  components-compose-cfr-strings.xml
-  components-compose-tabstray-strings.xml
-  components-feature-addons-strings.xml
-  components-feature-app-links-strings.xml
-  components-feature-autofill-strings.xml
-  components-feature-awesomebar-strings.xml
-  components-feature-contextmenu-strings.xml
-  components-feature-customtabs-strings.xml
-  components-feature-downloads-strings.xml
-  components-feature-findinpage-strings.xml
-  components-feature-fxsuggest-strings.xml
-  components-feature-media-strings.xml
-  components-feature-privatemode-strings.xml
-  components-feature-prompts-strings.xml
-  components-feature-pwa-strings.xml
-  components-feature-qr-strings.xml
-  components-feature-readerview-strings.xml
-  components-feature-search-strings.xml
-  components-feature-sitepermissions-strings.xml
-  components-feature-tabs-strings.xml
-  components-feature-webnotifications-strings.xml
-  components-lib-crash-strings.xml
-  components-service-nimbus-strings.xml
-  components-support-base-strings.xml
-  components-support-ktx-strings.xml
-  components-ui-tabcounter-strings.xml
-  components-ui-widgets-strings.xml
-  fenix-app-strings.xml
+components-browser-engine-system-strings.xml
+components-browser-errorpages-strings.xml
+components-browser-menu2-strings.xml
+components-browser-menu-strings.xml
+components-browser-toolbar2-strings.xml
+components-browser-toolbar-strings.xml
+components-compose-awesomebar-strings.xml
+components-compose-browser-toolbar-strings.xml
+components-compose-cfr-strings.xml
+components-compose-tabstray-strings.xml
+components-feature-addons-strings.xml
+components-feature-app-links-strings.xml
+components-feature-autofill-strings.xml
+components-feature-awesomebar-strings.xml
+components-feature-contextmenu-strings.xml
+components-feature-customtabs-strings.xml
+components-feature-downloads-strings.xml
+components-feature-findinpage-strings.xml
+components-feature-fxsuggest-strings.xml
+components-feature-media-strings.xml
+components-feature-privatemode-strings.xml
+components-feature-prompts-strings.xml
+components-feature-pwa-strings.xml
+components-feature-qr-strings.xml
+components-feature-readerview-strings.xml
+components-feature-search-strings.xml
+components-feature-sitepermissions-strings.xml
+components-feature-tabs-strings.xml
+components-feature-webnotifications-strings.xml
+components-lib-crash-strings.xml
+components-service-nimbus-strings.xml
+components-support-base-strings.xml
+components-support-ktx-strings.xml
+components-ui-tabcounter-strings.xml
+components-ui-widgets-strings.xml
+fenix-app-strings.xml
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
