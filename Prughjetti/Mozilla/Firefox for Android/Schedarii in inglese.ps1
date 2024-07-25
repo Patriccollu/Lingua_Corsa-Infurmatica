@@ -66,4 +66,4 @@ Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/raw/master/m
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml -OutFile D:\Temp\components-support-ktx-strings.xml
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml -OutFile D:\Temp\components-ui-tabcounter-strings.xml
 Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/ui/widgets/src/main/res/values/strings.xml -OutFile D:\Temp\components-ui-widgets-strings.xml
-Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml -OutFile D:\Temp\fenix-strings.xml
+Invoke-WebRequest -Uri https://github.com/mozilla-l10n/android-l10n/raw/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml -OutFile D:\Temp\fenix-app-strings.xml
