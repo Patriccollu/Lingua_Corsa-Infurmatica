@@ -38,7 +38,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_subscription_expiring/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.22/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.23/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.24/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_upgrade_to_annual_plan/strings.xliff/  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.15/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.16/strings.xliff  
@@ -49,6 +49,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.21/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.22/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.23/strings.xliff  
+  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.24/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/extras.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/mozillavpn.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-website-l10n/blob/main/en-US/vpn.ftl
@@ -57,32 +58,33 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
 
 - Arregistrateli, unu dopu à l’altru, cù quelli nomi :
 ```
-  addons-guide_01_how_to_vpn-strings.xliff
-  addons-guide_02_is_my_vpn_working_correctly.xliff
-  addons-guide_03_adding_and_removing_devices-strings.xliff
-  addons-guide_05_what_is_multi_hop-strings.xliff
-  addons-guide_08_privacy_features-strings.xliff
-  addons-guide_09_custom_dns-strings.xliff
-  addons-guide_10_app_exclusions-strings.xliff
-  addons-guide_11_recommended_servers-strings.xliff
-  addons-guide_12_multi_account_containers-strings.xliff
-  addons-message_subscription_expiring-strings.xliff
-  addons-message_survey-strings.xliff
-  addons-message_update_v2.22-strings.xliff
-  addons-message_update_v2.23-strings.xliff
-  addons-message_upgrade_to_annual_plan-strings.xliff
-  addons-message_whats_new_v2.15-strings.xliff
-  addons-message_whats_new_v2.16-strings.xliff
-  addons-message_whats_new_v2.17-strings.xliff
-  addons-message_whats_new_v2.18-strings.xliff
-  addons-message_whats_new_v2.19-strings.xliff
-  addons-message_whats_new_v2.20-strings.xliff
-  addons-message_whats_new_v2.21-strings.xliff
-  addons-message_whats_new_v2.22-strings.xliff
-  addons-message_whats_new_v2.23-strings.xliff
- extras.xliff
-  mozillavpn.xliff
-  vpn.ftl
+addons-guide_01_how_to_vpn-strings.xliff
+addons-guide_02_is_my_vpn_working_correctly.xliff
+addons-guide_03_adding_and_removing_devices-strings.xliff
+addons-guide_05_what_is_multi_hop-strings.xliff
+addons-guide_08_privacy_features-strings.xliff
+addons-guide_09_custom_dns-strings.xliff
+addons-guide_10_app_exclusions-strings.xliff
+addons-guide_11_recommended_servers-strings.xliff
+addons-guide_12_multi_account_containers-strings.xliff
+addons-message_subscription_expiring-strings.xliff
+addons-message_survey-strings.xliff
+addons-message_update_v2.22-strings.xliff
+addons-message_update_v2.24-strings.xliff
+addons-message_upgrade_to_annual_plan-strings.xliff
+addons-message_whats_new_v2.15-strings.xliff
+addons-message_whats_new_v2.16-strings.xliff
+addons-message_whats_new_v2.17-strings.xliff
+addons-message_whats_new_v2.18-strings.xliff
+addons-message_whats_new_v2.19-strings.xliff
+addons-message_whats_new_v2.20-strings.xliff
+addons-message_whats_new_v2.21-strings.xliff
+addons-message_whats_new_v2.22-strings.xliff
+addons-message_whats_new_v2.23-strings.xliff
+addons-message_whats_new_v2.24-strings.xliff
+extras.xliff
+mozillavpn.xliff
+vpn.ftl
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
 
