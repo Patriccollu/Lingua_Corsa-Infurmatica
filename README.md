@@ -45,7 +45,7 @@ https://filezilla-project.org/download.php?show_all=1
 
 ## ✨ Firefox for Android <a href="./Prughjetti/Mozilla/Firefox%20for%20Android/Traduzzione.md"><img src="./Icone/Firefox%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
-_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à gardà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
+_L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à cunservà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
   
 > 📗 __Nota__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr).
 
@@ -58,7 +58,7 @@ _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’
 
 ## ✨ Focus for Android <a href="./Prughjetti/Mozilla/Focus%20for%20Android/Traduzzione.md"><img src="./Icone/Focus%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
-_Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à gardà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
+_Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à cunservà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
   
 > 📗 __Nota__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr).
 
