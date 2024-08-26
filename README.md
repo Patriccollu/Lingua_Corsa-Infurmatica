@@ -254,7 +254,7 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
 https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
 _Appiecazione di tracciatu spurtivu nant’à i sistemi _Android_ chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di MyTracks chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione OSM Dashboard._
 
-## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashbord.png" width="30" height="30"></img></a>
+## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
 _Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja nant’à i sistemi _Android_ - permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da _OpenStreetMap.org_. Sapiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
 
