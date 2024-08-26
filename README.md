@@ -250,6 +250,14 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
   
 > 💡 __Astuzia__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
+## ⏳ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
+https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
+_Appiecazione di tracciatu spurtivu chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di MyTracks chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione OSM Dashboard._
+
+## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
+https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
+_Vera tavula di cundutta d’OpenTracks, st’appiecazione permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da OpenStreetMap.org. Sapiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
+
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._  
