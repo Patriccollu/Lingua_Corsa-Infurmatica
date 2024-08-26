@@ -96,9 +96,14 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 
 ## ✨ K-9 Mail <a href="#"><img src="./Icone/K-9%20Mail.png" width="30" height="30"></img></a>
 https://github.com/thunderbird/thunderbird-android#readme  
-_Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja nant’à i sistemi _Android_ cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura _OpenPGP_ di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione _OpenKeychain_ Easy PGP._
+_Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja nant’à i sistemi_
+Android
+_cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura_
+OpenPGP
+_di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione_
+OpenKeychain: Easy PGP.
   
-> 💡 __Astuzia__ : Si pò dighjà impiegà a lingua corsa cù una _versione di sviluppu_ - sciglite a 6.902 o una versione più recente - chì si pò **scaricà** da quì :
+> 💡 __Astuzia__ : Si pò dighjà impiegà a lingua corsa cù una _versione di sviluppu_ - sciglite a 6.902 o una versione più recente - chì si pò scaricà da quì :
     https://github.com/thunderbird/thunderbird-android/releases
   
 > 📗 __Nota__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
@@ -252,11 +257,20 @@ _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox
 
 ## ⏳ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
 https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
-_Appiecazione di tracciatu spurtivu nant’à i sistemi _Android_ chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di MyTracks chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione OSM Dashboard._
+_Appiecazione di tracciatu spurtivu nant’à i sistemi_
+Android
+_chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di_
+MyTracks
+_chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione_
+OSM Dashboard.
 
 ## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
-_Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja nant’à i sistemi _Android_ - permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da _OpenStreetMap.org_. Sapiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
+_Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja nant’à i sistemi_
+Android
+_- permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da_
+OpenStreetMap.org.
+_Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
