@@ -70,7 +70,7 @@ _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principal
 
 ## ✨ fre:ac <a href="./Prughjetti/freac/Traduzzione.md"><img src="./Icone/freac.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.freac.org/  
-_Cunvertidore audio liberu è estratore di CD chì accetta parechji formati è cudificatori cunnisciuti cum’è MP3, M4A/AAC, FLAC, WMA, Opus, Ogg Vorbis, Speex, Monkey's Audio (APE), WavPack, WAV è d’altri. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
+_Cunvertidore audio liberu è estratore di CD chì accetta parechji furmati è cudificatori cunnisciuti cum’è MP3, M4A/AAC, FLAC, WMA, Opus, Ogg Vorbis, Speex, Monkey's Audio (APE), WavPack, WAV è d’altri. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
 
 ## ✨ GeneWeb	<a href="./Prughjetti/GeneWeb/Traduzzione.md"><img src="./Icone/GeneWeb.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://geneweb.tuxfamily.org/wiki/GeneWeb/fr  
@@ -192,7 +192,7 @@ _Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à
 
 ## ✨ SumatraPDF <a href="./Prughjetti/SumatraPDF/Traduzzione.md"><img src="./Icone/SumatraPDF.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
-_Lettore di ducumenti per Windows, capace di leghje i formati PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
+_Lettore di ducumenti per Windows, capace di leghje i furmati PDF, i libri elettronichi (ePub, Mobi), XPS, DjVu, CHM, i libri comichi (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
 
 ## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://veracrypt.fr/en/Home.html  
