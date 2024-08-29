@@ -83,9 +83,7 @@ https://demo.geneweb.tuxfamily.org/gw7/gwd?b=grimaldi&lang=co;
 ## ✨ HandBrake	<a href="./Prughjetti/HandBrake/Traduzzione.md"><img src="./Icone/HandBrake.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://handbrake.fr/  
 _Trascudificatore video liberu, di tipu « fonte aperta » è multipiattaforma (Windows, Mac è Linux) chì permette di cunvertisce guasi tutti i furmati di video ver di una selezzione di cudechi muderni._
-  
-> 📗 __Nota__ : A lingua corsa hè stata distribuita cù a versione 1.4.0 per u sistema _Windows_ è cù a versione 1.5.0 per i sistemi _Linux_ è _Mac_. Di sicuru, e versioni più recente distribuiscenu a lingua corsa per sti trè sistemi.  
-  
+
 ## ✨ Hasher <a href="#"><img src="./Icone/Hasher.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/hasher  
 _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di cudificatori : CRC32, MD2, MD4, MD5, SHA1, SHA256, SHA512, RipeMD128, RipeMD160 è ED2K. Tutti i schedarii trattati sò ricunnisciuti è i tazzechji sò pronti à esse espurtati ver di parechji furmati di verificazione di schedariu cum’è SFV, MD5SUM è SHA1SUM. Sì pò dinù paragunà dui schedarii._
@@ -113,10 +111,8 @@ https://www.lazarus-ide.org/
 _Lazarus hè un « IDE » multipiattaforma cumpatibile cù Delphi per Free Pascal. Free Pascal hè un compilatore GPL chì funziuneghja nant’à Linux, Windows, macOS, FreeBSD è d’altri. LCL (Lazarus Component Library) hè unu di i so cumpunenti chì hè più o menu cumpatibile cù u VCL di Delphi._
 
 ## ✨ Lufi	<a href="#"><img src="./Icone/Lufi.png" width="30" height="30"></img></a>
-https://alt.framasoft.org/fr/framadrop  
-_Serviziu web **in linea** chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 0.05.17 è quelle più recente.  
+https://drop.infini.fr/  
+_Serviziu web **in linea** chì permette à l’utilizatori di mandà i so schedarii maiò à un servitore è di riceve un liame ingeneratu da l’appiecazione. Stu liame pò esse mandatu à d’altre persone chì puderanu scaricà i schedarii. U servitore riceve solu i dati cifrati è ùn vede mai a chjave di cifratura. A cifratura è a dicifratura di i schedarii si facenu in u navigatore di l’utilizatore._
 
 ## ✨ Mozilla VPN	<a href="./Prughjetti/Mozilla/Mozilla%20VPN/Traduzzione.md"><img src="./Icone/Mozilla%20VPN.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://vpn.mozilla.org/  
@@ -166,15 +162,15 @@ _Indipendente di u sistema (Windows, Mac è Linux) è fattu per sparte et adunis
   
 > ⚠️ __Fate casu__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ellu ci vole à pagà.
 
-## ✨ Poedit è WinSparkle	<a href="./Prughjetti/Poedit/Traduzzione.md"><img src="./Icone/Poedit.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
+## ✨ Poedit	<a href="./Prughjetti/Poedit/Traduzzione.md"><img src="./Icone/Poedit.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://poedit.net/  
 _**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. Stu prugramma funziuneghja nant’à Windows, Mac è Linux. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
 
 ## ✨ PrivateBin	<a href="#"><img src="./Icone/PrivateBin.png" width="30" height="30"></img></a>
 https://privatebin.info/  
-_Serviziu web **in linea** di tipu « pastebin » minimalistu è à fonte aperta induve u servitore ùn hà micca cunnuscenza di i dati mandati. Sti dati sò cifrati è dicifrati _in u navigatore_ cù una cifratura AES di 256 bit. Stu ghjestiunariu d’appiccicu di testu permette à l’utilizatori di scumparte pezzi di testi è di codice di fonte grazia à un liame ingeneratu da l’appiecazione._  
-  
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.4.0 è quelle più recente.  
+_Serviziu web **in linea** di tipu « pastebin » minimalistu è à fonte aperta induve u servitore ùn hà micca cunnuscenza di i dati mandati. Sti dati sò cifrati è dicifrati_
+in u navigatore
+_cù una cifratura AES di 256 bit. Stu ghjestiunariu d’appiccicu di testu permette à l’utilizatori di scumparte pezzi di testi è di codice di fonte grazia à un liame ingeneratu da l’appiecazione._
 
 ## ✨ RandPass <a href="#"><img src="./Icone/RandPass.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/randpass  
@@ -186,7 +182,9 @@ _Attrezzu assai putente per rinuminà i schedarii chì permette l’adopru di pr
 
 ## ✨ Resizer <a href="#"><img src="./Icone/Resizer.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/resizer  
-_Per cambià a dimensione d’una fiura cù un’interfaccia di tipu « _sguillà è depone_ » assai faciule à impiegà. Ci sò parechje ozzioni, cum’è un metoda d’addattazione d’aspettu da percentuale, un furmatu persunnalizatu di destinazione di fiura, è un mudellu di nome di schedariu d’esciuta. I furmati di fiura permessi sò : BMP, GIF, PNG, JPEG è TIFF._
+_Per cambià a dimensione d’una fiura cù un’interfaccia di tipu_
+« sguillà è depone »
+_assai faciule à impiegà. Ci sò parechje ozzioni, cum’è un metoda d’addattazione d’aspettu da percentuale, un furmatu persunnalizatu di destinazione di fiura, è un mudellu di nome di schedariu d’esciuta. I furmati di fiura permessi sò : BMP, GIF, PNG, JPEG è TIFF._
 
 ## ✨ Shutter <a href="#"><img src="./Icone/Shutter.png" width="30" height="30"></img></a>
 https://www.den4b.com/products/shutter  
@@ -200,13 +198,16 @@ _Lettore di ducumenti per Windows, capace di leghje i formati PDF, eBook (ePub, 
 https://veracrypt.fr/en/Home.html  
 _Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._  
   
-> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.26.7. Ma si pò quantunque impiegalla cù una  versione più vechja. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md).
+> 📗 __Nota__ : A lingua corsa hè distribuita cù a versione 1.26.7. Ma s’ella ci hè bisognu d’impiegalla cù una versione più vechja, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md) per sapene di più.
 
 ## ✨ Video DownloadHelper <a href="./Prughjetti/Video%20DownloadHelper/Traduzzione.md"><img src="./Icone/VDH.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.downloadhelper.net/  
 _Estensione di u navigatore per scaricà schedarii audio o video da u Web. Quandu l’estensione scopre quelli schedarii, l’icona di a barra d’attrezzi s’attiveghja per vi permette di fighjà ciò chì sò dispunibule è un cliccu simplice principierà u so scaricamentu. St’estensione funziuneghja nant’à Firefox, Chrome è Microsoft Edge._  
 
-_L’appiecazione cumpagnu - _vdhcoapp_ - hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video _ffmpeg_._  
+_L’appiecazione cumpagnu -_
+vdhcoapp
+_- hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video_
+ffmpeg.  
   
 > 💡 __Astuzia__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md).
 
@@ -232,9 +233,7 @@ _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows ch
 
 ## ✨ Worldle <a href="#"><img src="./Icone/Worldle.png" width="30" height="30"></img></a>
 https://worldle.teuteuf.fr/  
-_Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu. Per aiutavvi, si vede a forma di stu locu ma ci hè ozzioni per falla girà o ancu piattalla per aumentà a difficultà._  
-  
-> 💡 __Nota__ : A lingua corsa hè dispunibule dapoi u 19 di lugliu di u 2022.
+_Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu. Per aiutavvi, si vede a forma di stu locu ma ci hè ozzioni per falla girà o ancu piattalla per aumentà a difficultà._
 
 ## ✨ wxWidgets <a href="#"><img src="./Icone/wxWidgets.png" width="30" height="30"></img></a>
 https://www.wxwidgets.org/  
@@ -245,7 +244,11 @@ _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Window
 
 ## ⏳ FreeOTP <a href="#"><img src="./Icone/FreeOTP.png" width="30" height="30"></img></a>
 https://freeotp.github.io/  
-_Appiecazione d’autenticazione à dui fattori per i sistemi _Android_ è _iOS_ impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu esse aghjunti d’una manera faciule via l’analisa d’un codice QR. S’ella hè bisognu à ingenerà un codice QR, pruvate puru u [generatore di codice QR](https://freeotp.github.io/qrcode.html) in linea. FreeOTP impiegheghja e norme HOTP è TOTP. Vole si dì ch’ellu ùn hà bisognu d’alcunu cumpunente prupietariu nant’à u servitore ; basta à impiegà qualsiasi cumpunente di u latu di u servitore chì adopra ste norme._
+_Appiecazione d’autenticazione à dui fattori per i sistemi_
+Android
+_è_
+iOS
+_impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu esse aghjunti d’una manera faciule via l’analisa d’un codice QR. S’ella hè bisognu à ingenerà un codice QR, pruvate puru u [generatore di codice QR](https://freeotp.github.io/qrcode.html) in linea. FreeOTP impiegheghja e norme HOTP è TOTP. Vole si dì ch’ellu ùn hà bisognu d’alcunu cumpunente prupietariu nant’à u servitore ; basta à impiegà qualsiasi cumpunente di u latu di u servitore chì adopra ste norme._
   
 > 📗 __Nota__ : Per i sistemi _Android_, a lingua corsa duveria esse distribuita cù a versione 2.0.3 è quelle più recente. Per disgrazia, à st’ora, stu sistema ùn cunnosce micca a lingua corsa è l’appiecazione _FreeOTP for Android_ ùn pò micca impiegà un’altra lingua chè quella di u sistema. Dunque per impiegà FreeOTP in lingua corsa nant’à un sistema _Android_, ci vulerà à aspettà una cria chì stu sistema accetti a nostra bella lingua.
 
@@ -262,7 +265,9 @@ Android
 _chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di_
 MyTracks
 _chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione_
-OSM Dashboard.
+OSM Dashboard.  
+  
+> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a prossima versione 4.13.n.
 
 ## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
@@ -270,7 +275,9 @@ _Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja n
 Android
 _- permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da_
 OpenStreetMap.org.
-_Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
+_Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._  
+  
+> 📗 __Nota__ : A lingua corsa duveria esse distribuita cù a prossima versione 4.3.0.
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
