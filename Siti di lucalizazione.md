@@ -3,7 +3,7 @@
 ## Discrizzione
 Sti siti di lucalizazione sò piattaforme chì permettenu di traduce **in linea** i schedarii di lingua inglese chì sò stati creati è mudificati da i sviluppatori di e prugrammi.
   
-Per impiegalli, **ci vole à iscrivesi** - cù un nome d’utilizatore è una parolla d’intesa - è fà una dumanda per participà à a traduzzione di u prugramma sceltu.
+Per impiegalli, **ci vole à iscrivesi** - cù un nome d’utilizatore è una parolla d’intesa - è sottumette una dumanda di participazione à a traduzzione di u prugramma sceltu.
   
 Sti siti sò capace, grazia à una **memoria di traduzzione (MdT)** - chì s’assumiglia un pocu à un glossariu - di truvà e catene uguale o simile è vi e prupone per aiutavvi à traduce in lingua corsa. È pocu à pocu, grazia à e vostre traduzzioni, sta memoria cuntene di più in più di parolle.
   
@@ -13,9 +13,8 @@ Di regula, i siti di lucalizazione pruponenu dinù funzioni d’**impurtazione**
 
 ## Crowdin
 
-_Crowdin_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
+_Crowdin_ hè impiegatu per amministrà omancu e traduzzioni di sti prugrammi :
   
-- [CCleaner](https://crowdin.com/project/avast-ccleaner/co) (*)
 - [fre:ac](https://crowdin.com/project/freac/co)
 - [paint.net](https://crowdin.com/project/paintdotnet/co) (*)
 - [Poedit](https://crowdin.com/project/poedit/co)
@@ -24,6 +23,14 @@ _Crowdin_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.  
   
 (*) U situ richiede d’esse cunnessu cù u so nome d’utilizatore per affissà a lista di i schedarii.
+
+## Launchpad
+
+_Launchpad_ hè impiegatu per amministrà omancu e traduzzioni di stu prugramma :
+  
+- [PDF Split and Merge](https://translations.launchpad.net/pdfsam/pdfsam-v3)
+
+Basta un cliccu nant’à u nome di u prugramma per affissà u statu di e lingue tradutte.
 
 ## Pontoon
 
@@ -36,7 +43,7 @@ Ci hè una pagina per ogni lingua tradutta. Eccu quella di a lingua corsa :
 
 ## Transifex
 
-_Transifex_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
+_Transifex_ hè impiegatu per amministrà omancu e traduzzioni di sti prugrammi :
   
 - [Audacity](https://app.transifex.com/klyok/audacity/language/co/) (*)
 - [HandBrake](https://app.transifex.com/HandBrakeProject/dashboard/all_projects/co/) (*)
@@ -48,11 +55,13 @@ Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutt
 
 ## Weblate
 
-_Weblate_ hè omancu impiegatu per amministrà e traduzzioni di sti prugrammi :
+_Weblate_ hè impiegatu per amministrà omancu e traduzzioni di sti prugrammi :
   
-- [Lufi](https://weblate.framasoft.org/projects/lufi/-/co/)
-- [PDFCreator](https://translate.pdfforge.org/languages/co_FR/)
 - [K-9 Mail/Thunderbird](https://hosted.weblate.org/projects/tb-android/-/co/)
+- [Lufi](https://weblate.framasoft.org/projects/lufi/-/co/)
+- [OpenTracks](https://hosted.weblate.org/projects/opentracks/-/co/)
+- [OSM Dashboard](https://translate.codeberg.org/projects/open-tracks-osm-dashboard/-/co/)
+- [PDFCreator](https://translate.pdfforge.org/languages/co_FR/)
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.
 
