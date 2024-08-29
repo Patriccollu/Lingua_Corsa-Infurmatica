@@ -1,6 +1,6 @@
 # Eccu tutte l’icone di i prugrammi tradutti in lingua corsa
 
-## Diritti di copia © Copyright
+## Diritti d’autore © Copyright
 
 L’icone chì si trovanu in stu cartulare sò a prupietà di l’impresa o di a squadra di sviluppu chì distribuisce u prugramma.  
 
@@ -13,6 +13,7 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | Audacity | https://www.audacityteam.org/_astro/Audacity_Logo.63b57726.svg |
 | CCleaner | https://s1.pir.fm/pf/favicons--AwgCBwYOBQc/apple-touch-icon.png |
 | CDex | https://cdex.mu/images/cdex.png |
+| Colors | https://images.dwncdn.net/images/t_app-icon-s/p/04f021eb-54c3-4e22-b0e2-95b534032fa8/4130529214/2383_4-75894246-iconimg279284.png |
 | Common Voice | https://commonvoice.mozilla.org/dist/cv-logo-black.270d5891c1700962.svg |
 | FileZilla | https://lib.filezilla-project.org/doc/libfilezilla.png |
 | Firefox for Android | https://play-lh.googleusercontent.com/l6ftn6BTu7Kfe8OdE4Itrdw5bTRVO3F_mTZH8xDa-FHO4m-lZAXmz5GxkXTMhqcF_y0=w240-h480 |
@@ -23,7 +24,9 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | FreeOTP | https://freeotp.github.io/img/freeotp.svg |
 | GeneWeb | https://download.tuxfamily.org/geneweb/wiki/images/geneweb.png |
 | HandBrake | https://handbrake.fr/img/logo.png |
+| Hasher | https://images.dwncdn.net/images/t_app-icon-s/p/436a8acd-40d6-4ea8-9620-d73d53a9bf7d/252930286/2248_4-200315-iconimg287505.png |
 | Inno Setup | https://raw.githubusercontent.com/jrsoftware/issrc/main/Files/SetupClassicIcon.ico |
+| K-9 Mail | https://forum.k9mail.app/uploads/default/original/1X/b0d787035c1bf8e032797c54f6c861371a9b1a12.png |
 | Lazarus/LCL | https://gitlab.com/uploads/-/system/project/avatar/28419588/mainicon.ico |
 | Lufi | https://framagit.org/uploads/-/system/project/avatar/1998/lufi.png |
 | MozBackup | https://mozbackup.jasnapaka.com/images/mozbackup-logo.png |
@@ -32,11 +35,16 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | Notepad++ | https://notepad-plus-plus.org/images/logo.svg |
 | NSIS: Nullsoft Scriptable Install System | https://nsis.sourceforge.io/mediawiki/skins/nsis/logo.gif |
 | OmegaT | https://omegat.org/img/omegat.svg |
+| OpenTracks | https://play-lh.googleusercontent.com/rRmzj_j7hHnvq9Nd-oWIMFHlkwZ1C0Ydt79e6spsa_nyMfCpsyxywRrPNO1CMXM6Vh8=w240-h480 |
+| OSM Dashboard | https://play-lh.googleusercontent.com/UtxjlmzIsxwx7dwpKfZuIGJlA7f5M_BRdp7BCi4WKrrJ_5p1eAx8EDU07O2ewB9_LnI=w240-h480 |
 | paint.net | https://www.getpaint.net/images/Logo4.png |
-| PDF Split and Merge | https://pdfsam.org/imgs/basic.svg |
 | PDFCreator | https://tools.pdfforge.org/icons/icon-192x192.png |
+| PDF Split and Merge | https://pdfsam.org/imgs/basic.svg |
 | Poedit | https://d33wubrfki0l68.cloudfront.net/87439bf410f4210f3a71d3b7c401db8700a48732/2d233/images/icons/poedit/icon_96x96.png |
 | PrivateBin | https://privatebin.info/theme/img/icon.svg |
+| RandPass |            |https://images.sftcdn.net/images/t_app-icon-s/p/c879d419-95d4-4b63-91f9-d801e7b66b06/3444021752/randpass-bf15fc41-055a-414d-8091-2c2161e54583.png 
+| ReNamer | https://cdn2.portableapps.com/ReNamerPortable_128.png |
+| Shutter | https://images.sftcdn.net/images/t_app-icon-s/p/2f0f741e-9b24-11e6-8808-00163ec9f5fa/1240843887/shutter-logo.png |
 | SumatraPDF | https://www.sumatrapdfreader.org/favicon.ico |
 | Unicode CLDR (Common Locale Data Repository) | https://www.unicode.org/webscripts/logo60s2.gif |
 | VeraCrypt | https://veracrypt.fr/en/VeraCrypt128x128.png |
