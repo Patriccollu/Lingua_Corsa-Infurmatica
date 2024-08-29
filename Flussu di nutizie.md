@@ -1,10 +1,12 @@
-# Impiegà _Thunderbird_ per riceve un flussu di nutizie _GitHub_
+# Impiegà _Thunderbird_ per riceve un flussu di nutizie _Atom_ o _RSS_
 
 ## Cuncettu
-- _GitHub_ ingenereghja un flussu di nutizie `Atom` secondu a so attività
+- Parechji siti web - cum’è _GitHub_ o _GitLab_ - ingenereghjanu un flussu di nutizie `Atom` o `RSS` secondu a so attività
 - _Thunderbird_ pò riceve un’infurmazione quand’un tale flussu hè creatu
 
-## GitHub
+## I siti web
+
+### GitHub
 
 Ci hè una funzione in _GitHub_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu certe attività di _GitHub_.  
 
@@ -25,9 +27,37 @@ Per u nostru bisognu, avemu da impiegà l’utimu tipu d’indirizu chì permett
 
 Eccu un esempiu reale : `https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/commits/ceppu/README.md.atom`
 
+### GitLab
+
+Ci hè una funzione simile in _GitLab_ chì permette d’ingenerà un flussu di nutizie `Atom` secondu certe attività di _GitLab_.  
+
+Per indettu, eccu i liami di certi flussi _Atom_ :  
+
+```
+https://gitlab.com/freepascal.org/lazarus/lazarus/-/commits/main/lcl/languages/lclstrconsts.pot?format=atom
+https://framagit.org/fiat-tux/hat-softwares/lufi/-/commits/master/themes/default/lib/Lufi/I18N/lufi.pot?format=atom
+https://code.videolan.org/videolan/vlc/-/commits/master/po/vlc.pot?format=atom
+https://code.videolan.org/videolan/vlc/-/tags?format=atom
+```
+L’ultima linea insù permette di sapè quandu ci hè una versione nova.
+
+### D’altri siti
+
+Ma ci n’hè d’altri chì permettenu d’ingenerà un flussu di nutizie simile secondu certe attività.  
+
+Per indettu, eccu i liami reale di certi flussi :  
+
+```
+https://filezilla-project.org/newsfeed.php
+https://hg.mozilla.org/mozilla-central/rss-log
+https://community.mp3tag.de/c/announcements.rss
+https://sourceforge.net/projects/veracrypt/rss?path=/VeraCrypt%20Nightly%20Builds/Windows
+https://www.apptranslator.org/rss?app=SumatraPDF&lang=co
+```
+
 ## Thunderbird
 
-Ci hè una funzione in _Thunderbird_ chì permette d’abbunassi à i flussi d’attualità `RSS` o `Atom` è dunque di riceve un avvertimentu in _Thunderbird_ quandu quellu flussu hè ingeneratu.
+Ci hè una funzione in _Thunderbird_ chì permette d’**abbunassi** à i flussi d’attualità `Atom` o `RSS` è dunque di riceve un avvertimentu in _Thunderbird_ quandu quellu flussu hè ingeneratu.
 
 In corte parolle, ci vole à :
 - Creà un contu di flussu
@@ -37,9 +67,9 @@ In corte parolle, ci vole à :
 Per sapene di più, seguitate l’[istruzzioni - in francese - per abbunassi à i flussi di nutizie](https://support.mozilla.org/fr/kb/comment-s-abonner-aux-flux-de-nouvelles-et-blogs) nant’à u situ web di l’assistenza di _Thunderbird_.  
 Ci hè dinù a listessa infurmazione in lingua inglese : [_How to Subscribe to News Feeds and Blogs_](https://support.mozilla.org/en-US/kb/how-subscribe-news-feeds-and-blogs).
   
-(📗) L’indirizzi di i liami à impiegà sò indicati in u paragrafu `I flussi Atom` di u schedariu `Traduzzione.md` di u prugramma currispundente.
+(📗) L’indirizzi di i liami à impiegà sò indicati in u paragrafu `I flussi di nutizie` di u schedariu `Traduzzione.md` di u prugramma currispundente.
 
-Si pò rimpiazzà _Thunderbird_ da un altru prugramma di messaghjeria s’ella si pò abbunassi à i flussi d’attualità `Atom`.
+Si pò rimpiazzà _Thunderbird_ da un altru prugramma di messaghjeria s’ella si pò abbunassi à i flussi d’attualità `Atom` o `RSS`.
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di tutti i sottucartulari di prughjettu](../../tree/ceppu/Prughjetti)
