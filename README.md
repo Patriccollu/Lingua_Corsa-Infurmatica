@@ -4,9 +4,14 @@ Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn
 
 A maiò parte di sti prugrammi hè di tipu « Fonte aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.  
 
-Eccu una lista, ordinata in trè parti : i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu, quelli in attesa di distribuzione è l’ultimi in corsu di traduzzione.  
+Eccu una lista, ordinata in trè parti :
+1. i prugrammi tradutti in lingua corsa ch’ellu si pò impiegà subitu ;
+2. i prugrammi in attesa di distribuzione ;
+3. i prugrammi in corsu di traduzzione.  
 
-In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.</p>
+In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.  
+
+È dopu à sta lista ci serà parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà screni è infurmazioni cumplementarii nant’à i prugrammi infurmatichi tradutti in lingua corsa.</p>
 
 -----
 # 1) I prugrammi _tradutti_ in lingua corsa :
