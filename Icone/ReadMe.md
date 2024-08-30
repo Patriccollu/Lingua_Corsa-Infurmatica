@@ -35,8 +35,8 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | Notepad++ | https://notepad-plus-plus.org/images/logo.svg |
 | NSIS: Nullsoft Scriptable Install System | https://nsis.sourceforge.io/mediawiki/skins/nsis/logo.gif |
 | OmegaT | https://omegat.org/img/omegat.svg |
-| OpenTracks | https://play-lh.googleusercontent.com/rRmzj_j7hHnvq9Nd-oWIMFHlkwZ1C0Ydt79e6spsa_nyMfCpsyxywRrPNO1CMXM6Vh8=w240-h480 |
-| OSM Dashboard | https://play-lh.googleusercontent.com/UtxjlmzIsxwx7dwpKfZuIGJlA7f5M_BRdp7BCi4WKrrJ_5p1eAx8EDU07O2ewB9_LnI=w240-h480 |
+| OpenTracks | https://raw.githubusercontent.com/OpenTracksApp/OpenTracks/main/drawable-svg/LOGO.svg |
+| OSM Dashboard | https://raw.githubusercontent.com/OpenTracksApp/OSMDashboard/main/assets/LOGO2.svg |
 | paint.net | https://www.getpaint.net/images/Logo4.png |
 | PDFCreator | https://tools.pdfforge.org/icons/icon-192x192.png |
 | PDF Split and Merge | https://pdfsam.org/imgs/basic.svg |
