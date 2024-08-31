@@ -288,17 +288,17 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 > 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu __una metà__ - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
 
 -----
-# $\color{purple}{\large{\textsf{Screni è infurmazioni cumplementarii}}}$
+# Screni è infurmazioni cumplementarii
 
 Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà infurmazioni cumplementarie è screni d’interfaccia di i prugrammi infurmatichi tradutti in lingua corsa.
 <br>
 
-### $\color{orange}{\large{\textsf{Infurmazioni è screni d’interfaccia}}}$
+## Infurmazioni è screni d’interfaccia
 <br>
 <table>
 	<tr>
-		<th>Pagina Facebook</th>
-		<th>Contu Instagram</th>
+		<th>$\color{blue}{\Huge{\textsf{Pagina Facebook}}}$</th>
+		<th>$\color{purple}{\Huge{\textsf{Contu Instagram}}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
@@ -318,12 +318,12 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 💡 __Astuzia__ : Si pò dinù fà un _cliccu nant’à a fiura di u codice QR_ per **andà nant’à u situ web**.
 <br>
 
-### $\color{orange}{\large{\textsf{Lista di i prugrammi infurmatichi}}}$
+## Lista di i prugrammi infurmatichi
 <br>
 <table>
 	<tr>
-		<th>Wiki SourceForge</th>
-		<th>Prughjettu GitHub</th>
+		<th>$\color{orange}{\Huge{\textsf{Wiki SourceForge}}}$</th>
+		<th>$\Huge{\textsf{Prughjettu GitHub}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
