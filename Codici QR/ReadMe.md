@@ -1,10 +1,11 @@
 # I codici QR di Patriccollu
-Eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà screni è infurmazioni nant’à i prugrammi infurmatichi tradutti in lingua corsa.  
+Eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà infurmazioni è screni nant’à i prugrammi infurmatichi tradutti in lingua corsa.  
 <br>
 <table>
 	<tr>
 		<th>Pagina Facebook</th>
 		<th>Contu Instagram</th>
+		<th>Wiki SourceForge</th>
 		<th>Prughjettu GitHub</th>
 	</tr>
 	<tr>
@@ -19,6 +20,13 @@ Eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patr
 				<img alt="U contu Patriccollu nant’à Instagram"
 				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20contu%20Instagram.png" height="200" align="middle">
 			</a>
+		</td>
+		<td align="center">
+			<a href="https://sourceforge.net/u/patriccollu/wiki/Home/#669b">
+				<img alt="U Wiki Patriccollu nant’à SourceForge"
+				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20wiki%20SourceForge.png" height="200" align="middle">
+			</a>
+		</td>
 		</td>
 		<td align="center">
 			<a href="https://github.com/Patriccollu/Lingua_Corsa-Infurmatica#readme">
