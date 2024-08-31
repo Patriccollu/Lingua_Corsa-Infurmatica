@@ -5,16 +5,16 @@ Parechji prugrammi infurmatichi sò stati tradutti in corsu. Di bona regula, ùn
 A maiò parte di sti prugrammi hè di tipu « Fonte aperta », o 'Open Source' in inglese, o GNU, vole si dì chì _ùn ci hè nunda à pagà per impiegalli._ Certi ponu esse venduti da una sucetà ma, in stu casu, ghjè una versione, forse senza tutte e so funzioni, chì si pò impiegà di rigalu.  
 
 Eccu una lista, ordinata in trè parti :
-1. i prugrammi $\textsf{{\color[rgb]{0.0, 1.0, 0.0}tradutti in lingua corsa}}$ ch’ellu si pò impiegà subitu ;
-2. i prugrammi $\textsf{{\color[rgb]{0.0, 0.0, 1.0}in attesa di distribuzione}}$ ;
-3. i prugrammi $\textsf{{\color[rgb]{1.0, 0.0, 0.0}in corsu di traduzzione}}$.
+1. i prugrammi $\color{green}{\large{\textsf{tradutti in lingua corsa}}}$ ch’ellu si pò impiegà subitu ;
+2. i prugrammi $\color{blue}{\large{\textsf{in attesa di distribuzione}}}$ ;
+3. i prugrammi $\color{red}{\large{\textsf{in corsu di traduzzione}}}$.
 
 In ogni parte di sta lista, classificatu da u so nome, ci hè l’icona di u prugramma, u so situ web ufficiale, è una corta discrizzione per sapè ciò ch’ellu face. Nant’à certe icone, si pò fà un cliccu per sapene di più annnant’à a traduzzione in lingua corsa di u prugramma.  
 
 È dopu à sta lista ci serà parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà infurmazioni è screni cumplementarii nant’à i prugrammi infurmatichi tradutti in lingua corsa.</p>
 
 -----
-# 1) I prugrammi $\textsf{{\color[rgb]{0.0, 1.0, 0.0}tradutti}}$ in lingua corsa :
+# 1) I prugrammi $\color{green}{\large{\textsf{tradutti}}}$ in lingua corsa :
 
 ## ✨ 7-zip <a href="#"><img src="./Icone/7-Zip.png" width="30" height="30"></img></a>
 https://www.7-zip.org/  
@@ -230,7 +230,7 @@ https://www.wxwidgets.org/
 _Bibliuteca C++ chì permette à i sviluppatori di creà appiecazioni per Windows, macOS, Linux è d’altre piattaforme cù una basa unica di codice._
 
 -----
-# 2) I prugrammi in attesa di $\textsf{{\color[rgb]{0.0, 0.0, 1.0}distribuzione}}$ :
+# 2) I prugrammi in attesa di $\color{blue}{\Large{\textsf{distribuzione}}}$ :
 
 ## ⏳ FreeOTP <a href="#"><img src="./Icone/FreeOTP.png" width="30" height="30"></img></a>
 https://freeotp.github.io/  
@@ -271,7 +271,7 @@ _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì p
 > 💡 __Astuzia__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
 
 -----
-# 3) I prugrammi in corsu di $\textsf{{\color[rgb]{1.0, 0.0, 0.0}traduzzione}}$ :
+# 3) I prugrammi in corsu di $\color{red}{\large{\textsf{traduzzione}}}$ :
 
 ## 🎯 Common Voice <a href="./Prughjetti/Mozilla/Common%20Voice/Traduzzione.md"><img src="./Icone/Common%20Voice.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://commonvoice.mozilla.org/co  
@@ -288,7 +288,7 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 > 💡 __Astuzia__ : VLC media player distribuisce dighjà cù a versione attuale una parte - più o menu __una metà__ - di a traduzzione in lingua corsa. Ma ùn si pò ancu sceglie a lingua corsa in e preferenze di VLC. Per impiegalla, hè faciule : basta à sceglie *Auto* in e preferenze di l’interfaccia di VLC è à definisce a lingua *Corse*, cù una tastera *Français*, in e preferenze di lingua di Windows.
 
 -----
-# $\textsf{{\color[rgb]{1.0, 1.0, 0.0}Screni è infurmazioni cumplementarii}}$
+# $\color{yellow}{\large{\textsf{Screni è infurmazioni cumplementarii}}}$
 
 Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà infurmazioni cumplementarie è screni d’interfaccia di i prugrammi infurmatichi tradutti in lingua corsa.
 <br>
