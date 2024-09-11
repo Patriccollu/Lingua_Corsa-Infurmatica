@@ -115,7 +115,7 @@ _Serviziu web **in linea** chì permette à l’utilizatori di mandà i so sched
 
 ## ✨ Mozilla VPN	<a href="./Prughjetti/Mozilla/Mozilla%20VPN/Traduzzione.md"><img src="./Icone/Mozilla%20VPN.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://vpn.mozilla.org/  
-_Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncipita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (oghje ci n’hè più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._
+_Una reta privata virtuale (VPN) rapida, assicurizata, faciule à impiegà è cuncepita da l’autori di Firefox. A selezzione d’un servitore in un paese di a vostra scelta (oghje ci n’hè più d’una trentina) vi permette di piattà a vostra pusizione à quelli chì volenu seguità e vostre traccie._
 > ⚠️ __$\color{red}{\large{\textsf{Fate casu}}}$__ : Per disgrazia, stu prugramma ùn hè micca pruvistu di rigalu è __ci vole à pagà__ per impiegallu :-(
 
 ## ✨ Mp3tag	<a href="./Prughjetti/Mp3tag/Traduzzione.md"><img src="./Icone/Mp3tag.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
@@ -152,8 +152,8 @@ https://www.pdfforge.org/online/co-FR
 _Un situ web induve si pò truvà un inseme d’attrezzi **in linea** per manighjà i vostri schedarii PDF : unione, divizione, cumpressione, paragone di dui schedarii, aghjuntu d’una parolla d’intesa, d’un stampaghjolu o di numeri di pagina, validazione, estrazzione di testu o di fiure, cunversione in parechji furmati._
 
 ## ✨ PDF Split and Merge	<a href="./Prughjetti/PDFsam/Traduzzione.md"><img src="./Icone/PDFsam.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
-https://pdfsam.org/  
-_Indipendente di u sistema (Windows, Mac è Linux) è fattu per sparte et adunisce i ducumenti PDF, stu prugramma hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._
+https://pdfsam.org/pdfsam-basic/  
+_Indipendente di u sistema (Windows, Mac è Linux) è cuncepitu per estrae o framette pagine, girà, sparte o adunisce i ducumenti PDF, u prugramma PDFsam Basic hè simplice, stabule, bellu liberu è duveria risponde à a maiò parte di i vostri bisogni._
 > ⚠️ __$\color{red}{\large{\textsf{Fate casu}}}$__ : selezziunate a versione di a vostra scelta : _PDFsam basic_ chì hè di rigalu, o _PDFsam Enhanced_ ch’ellu ci vole à pagà.
 
 ## ✨ Poedit	<a href="./Prughjetti/Poedit/Traduzzione.md"><img src="./Icone/Poedit.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
@@ -209,7 +209,7 @@ _Sintetizatore MIDI chì funziuneghja cum’è un pilotu multimedià Windows è 
 
 ## ✨ VLC for Android <a href="./Prughjetti/VLC/Traduzzione.md#vlc-for-android"><img src="./Icone/VLC%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.videolan.vlc  
-_Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qualsisia schedariu video è audio, ma dinù i flussi è i lettori di reta, e fiure ISO di DVD, cum’è a versione di scagnu di VLC. Ghjè un lettore audio cumpletu, cù una banca di dati sana, un ugualizatore è filtri, capace di sunà tutti i furmati audio bizari. Hè cuncipitu per tutti, cumpletamente di rigalu, senza publicità, ne appiecazione à cumprà, ne spiunagiu, è hè sviluppatu da vuluntarii appassiunati. Tuttu u codice di fonte hè dispunibule di rigalu._
+_Purtera di VLC media player nant’à a piattaforma Android chì pò sunà qualsisia schedariu video è audio, ma dinù i flussi è i lettori di reta, e fiure ISO di DVD, cum’è a versione di scagnu di VLC. Ghjè un lettore audio cumpletu, cù una banca di dati sana, un ugualizatore è filtri, capace di sunà tutti i furmati audio bizari. Hè cuncepitu per tutti, cumpletamente di rigalu, senza publicità, ne appiecazione à cumprà, ne spiunagiu, è hè sviluppatu da vuluntarii appassiunati. Tuttu u codice di fonte hè dispunibule di rigalu._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Bench’è Android ùn ricunnosci unancu a lingua corsa in a lista di e lingue pruposte da u sistema, l’appiecazione VLC vi permette di sceglie sta lingua.
 
 ## ✨ VLC for iOS <a href="./Prughjetti/VLC/Traduzzione.md#vlc-for-ios"><img src="./Icone/VLC%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
