@@ -94,16 +94,15 @@ https://jrsoftware.org/isinfo.php
 _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
 
 ## ✨ K-9 Mail <a href="#"><img src="./Icone/K-9%20Mail.png" width="30" height="30"></img></a>
-https://github.com/thunderbird/thunderbird-android#readme  
+https://play.google.com/store/apps/details?id=com.fsck.k9  
 _Appiecazione di messaghjeria à codice di fonte aperta chì funziuneghja nant’à i sistemi_
 Android
 _cù guasi tutti i furnidori di messaghjeria elettronica. E so caratteristiche principale sò : d’accettà parechji conti di messaghjeria nant’à una interfaccia grafica unica, di prupone una scatula di ricezzione unificata per tutti sti conti, d’esse rispettosu di a vostra vita privata (senza spiunagiu, di cunnettesi solu à u vostru furnidore di messaghjeria elettronica) è d’offre una sincrunizazione autumatica, una ricerca lucale è nant’à u servitore eppò una cifratura_
 OpenPGP
 _di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione_
 OpenKeychain: Easy PGP.
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Si pò dighjà impiegà a lingua corsa cù una _versione di sviluppu_ - sciglite a 6.902 o una versione più recente - chì si pò scaricà da quì :
-    https://github.com/thunderbird/thunderbird-android/releases  
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione face parte di a famiglia _Thunderbird_ dapoi u 2022 è diventerà, da quì à pocu, _Thunderbird for Android_. Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 6.902 è quelle più recente.  
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata _Thunderbird for Android_. Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
 
 ## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
 https://www.lazarus-ide.org/  
@@ -138,7 +137,7 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
 > 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.  
 > ❤️ __$\color{orange}{\large{\textsf{Nota}}}$__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
 
-## ✨ paint.net	<a href="./Prughjetti/paint.net/Traduzzione.md"><img src="./Icone/paint.net.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
+## ✨ Paint.NET	<a href="./Prughjetti/paint.net/Traduzzione.md"><img src="./Icone/paint.net.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.getpaint.net/  
 _Prugramma di mudificazione di fiura è di fotò chì funziuneghja nant’à Windows. Cù a so interfaccia intuitiva si pò impiegà calchi, disfà tutte l’azzioni fatte fin’avà, impiegà effetti speciali numerosi è attrezzi putente. Grazia à una cummunità in linea attiva, si pò ottene assistenza, furmazioni autonome, è moduli d’estensione._  
 
@@ -187,6 +186,15 @@ _Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à
 ## ✨ SumatraPDF <a href="./Prughjetti/SumatraPDF/Traduzzione.md"><img src="./Icone/SumatraPDF.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
 _Lettore di ducumenti per Windows, capace di leghje i furmati PDF, i libri elettronichi (ePub, Mobi), XPS, DjVu, CHM, i libri comichi (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
+
+## ✨ Thunderbird for Android <a href="#"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30"></img></a>
+https://play.google.com/store/apps/details?id=net.thunderbird.android  
+_Appiecazione di messaghjeria elettronica putente è rispettosa di a vita privata chì funziuneghja nant’à i sistemi_
+Android
+_cù guasi tutti i furnidori di messaghjeria elettronica. Per indettu :_
+free, gmail, hotmail, laposte, orange, outlook, wanadoo, yahoo
+_è d’altri. Amministrate senza straziu parechji conti di messaghjeria via un’interfaccia grafica unica cù una scatula di ricezzione unificata chì permette una pruduttività massima. Custruita nant’à una tecnolugia à fonte aperta è sustenuta da una squadra dedicata di sviluppatori accant’à una cumunità glubale di vuluntarii, Thunderbird ùn tratta mai i vostri dati privati cum’è un pruduttu. Sustenutu solu da e cuntribuzioni finanziarie di i nostri utilizatori, ùn viderete mai più publicità mischiate à i vostri messaghji elettronichi._
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione hè l’evoluzione di _K-9 Mail_ chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
 
 ## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://veracrypt.fr/en/Home.html  
