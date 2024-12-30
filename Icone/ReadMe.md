@@ -4,7 +4,7 @@
 
 L’icone chì si trovanu in stu cartulare sò a prupietà di l’impresa o di a squadra di sviluppu chì distribuisce u prugramma.  
 
-St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qualchì casu, direttamente da u prugramma.
+St’icone venenu, sia da u situ web di u prugramma, sia da u situ d’un distributore, per indettu quellu di e butteghe Apple o Google, sia - in qualchì casu - direttamente da u prugramma.
 
 #### Per ogni prugramma, eccu l’indirizzu web di a fiura :
 | _Prugramma_ | _Indirizzu web di a fiura_ |
@@ -26,7 +26,7 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | HandBrake | https://handbrake.fr/img/logo.png |
 | Hasher | https://images.dwncdn.net/images/t_app-icon-s/p/436a8acd-40d6-4ea8-9620-d73d53a9bf7d/252930286/2248_4-200315-iconimg287505.png |
 | Inno Setup | https://raw.githubusercontent.com/jrsoftware/issrc/main/Files/SetupClassicIcon.ico |
-| K-9 Mail | https://forum.k9mail.app/uploads/default/original/1X/b0d787035c1bf8e032797c54f6c861371a9b1a12.png |
+| K-9 Mail | https://k9mail.app/assets/img/k9-logo.svg |
 | Lazarus/LCL | https://gitlab.com/uploads/-/system/project/avatar/28419588/mainicon.ico |
 | Lufi | https://framagit.org/uploads/-/system/project/avatar/1998/lufi.png |
 | MozBackup | https://mozbackup.jasnapaka.com/images/mozbackup-logo.png |
@@ -46,6 +46,7 @@ St’icone venenu da u situ web di u prugramma (vede a lista inghjò) o, in qual
 | ReNamer | https://cdn2.portableapps.com/ReNamerPortable_128.png |
 | Shutter | https://images.sftcdn.net/images/t_app-icon-s/p/2f0f741e-9b24-11e6-8808-00163ec9f5fa/1240843887/shutter-logo.png |
 | SumatraPDF | https://www.sumatrapdfreader.org/favicon.ico |
+| Thunderbird for Android | https://play-lh.googleusercontent.com/1KXrx11Eau8eZrNQz1irg2XHJZPqxDt2xhj6lGBjS9Kj-2aoGMp-NQw0ejNC3ePBwlQ=w240-h480 |
 | Unicode CLDR (Common Locale Data Repository) | https://www.unicode.org/webscripts/logo60s2.gif |
 | VeraCrypt | https://veracrypt.fr/en/VeraCrypt128x128.png |
 | Video DownloadHelper | https://www.downloadhelper.net/images/logo-64.png |
