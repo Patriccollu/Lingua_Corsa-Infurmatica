@@ -52,23 +52,23 @@ https://filezilla-project.org/download.php?show_all=1
 ## ✨ Firefox for Android <a href="./Prughjetti/Mozilla/Firefox%20for%20Android/Traduzzione.md"><img src="./Icone/Firefox%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
 _L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à cunservà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-focus-for-android-).
 
 ## ✨ Firefox for iOS <a href="./Prughjetti/Mozilla/Firefox%20for%20iOS/Traduzzione.md"><img src="./Icone/Firefox%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’intesa, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.  
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://apps.apple.com/fr/app/firefox-focus/id1055677337).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-focus-for-ios-).
 
 ## ✨ Focus for Android <a href="./Prughjetti/Mozilla/Focus%20for%20Android/Traduzzione.md"><img src="./Icone/Focus%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
 _Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à cunservà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-firefox-for-android-).
 
 ## ✨ Focus for iOS <a href="./Prughjetti/Mozilla/Focus%20for%20iOS/Traduzzione.md"><img src="./Icone/Focus%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-focus/id1055677337  
 _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principale di Firefox Focus hè di rende a navigazione privata più faciule è simplice. St’appiecazione blucca autumaticamente una parte maiò di i perseguitatori, da quandu vi a lanciate fine à quandu vi a chjudite. Squassate di manera faciule a vostra cronolugia di navigazione, e vostre parolle d’intesa è i vostri canistrelli per liberavvi di certi elementi cum’è e publicità indesiderevule._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](https://apps.apple.com/fr/app/firefox-web-browser/id989804926).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-firefox-for-ios-).
 
 ## ✨ fre:ac <a href="./Prughjetti/freac/Traduzzione.md"><img src="./Icone/freac.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.freac.org/  
@@ -102,7 +102,7 @@ OpenPGP
 _di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione_
 OpenKeychain: Easy PGP.
 > 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 6.902 è quelle più recente.  
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata _Thunderbird for Android_. Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata [_Thunderbird for Android_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-thunderbird-for-android-). Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
 
 ## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
 https://www.lazarus-ide.org/  
@@ -134,8 +134,17 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 ## ✨ OmegaT	<a href="./Prughjetti/OmegaT/Traduzzione.md"><img src="./Icone/OmegaT.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://omegat.org/co/  
 _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 5.3.0 è quelle più recente.  
 > ❤️ __$\color{orange}{\large{\textsf{Nota}}}$__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
+
+## ✨ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
+https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
+_Appiecazione di tracciatu spurtivu nant’à i sistemi_
+Android
+_chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di_
+MyTracks
+_chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione_
+OSM Dashboard.
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè dispunibule cù a versione 4.16.1 - è quelle più recente - grazia à un’ozzione nova chì permette di sceglie a lingua di l’interfaccia.
 
 ## ✨ Paint.NET	<a href="./Prughjetti/paint.net/Traduzzione.md"><img src="./Icone/paint.net.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.getpaint.net/  
@@ -194,7 +203,7 @@ Android
 _cù guasi tutti i furnidori di messaghjeria elettronica. Per indettu :_
 free, gmail, hotmail, laposte, orange, outlook, wanadoo, yahoo
 _è d’altri. Amministrate senza straziu parechji conti di messaghjeria via un’interfaccia grafica unica cù una scatula di ricezzione unificata chì permette una pruduttività massima. Custruita nant’à una tecnolugia à fonte aperta è sustenuta da una squadra dedicata di sviluppatori accant’à una cumunità glubale di vuluntarii, Thunderbird ùn tratta mai i vostri dati privati cum’è un pruduttu. Sustenutu solu da e cuntribuzioni finanziarie di i nostri utilizatori, ùn viderete mai più publicità mischiate à i vostri messaghji elettronichi._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione hè l’evoluzione di _K-9 Mail_ chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione hè l’evoluzione di [_K-9 Mail_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-k-9-mail-) chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
 
 ## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://veracrypt.fr/en/Home.html  
@@ -209,7 +218,8 @@ _L’appiecazione cumpagnu -_
 vdhcoapp
 _- hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video_
 ffmpeg.
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md).
+> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md).  
+> ⚠️ __$\color{red}{\large{\textsf{Fate casu}}}$__ : per disgrazia, l’interfaccia grafica nova chì hè distribuita cù a versione v9 ùn ricunnosce più a lingua corsa. Dunque, per impiegà _Video DownloadHelper_ in lingua corsa, ci vole à sceglie sia l’interfaccia anziana cù a versione v9, sia stà cù a versione v8.
 
 ## ✨ VirtualMIDISynth <a href="./Prughjetti/VirtualMIDISynth/Traduzzione.md"><img src="./Icone/VirtualMIDISynth.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://coolsoft.altervista.org/en/virtualmidisynth  
@@ -254,24 +264,14 @@ http://mozbackup.jasnapaka.com/
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
-## ⏳ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
-https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
-_Appiecazione di tracciatu spurtivu nant’à i sistemi_
-Android
-_chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di_
-MyTracks
-_chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione_
-OSM Dashboard.
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa duveria esse distribuita cù a prossima versione 4.13.n.
-
-## ⏳ OSM Dashboard per OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
+## ⏳ OSM Dashboard for OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
 _Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja nant’à i sistemi_
 Android
 _- permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da_
 OpenStreetMap.org.
 _Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa duveria esse distribuita cù a prossima versione 4.3.0.
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa duveria esse distribuita cù a prossima versione 5.1.1.
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
@@ -353,4 +353,4 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 <br>
 
 ##
-_© Patriccollu di Santa Maria è Sichè, 2024_
+_© Patriccollu di Santa Maria è Sichè, 2025_
