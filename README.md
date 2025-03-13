@@ -138,13 +138,29 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
 
 ## ✨ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
 https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
-_Appiecazione di tracciatu spurtivu nant’à i sistemi_
+_Appiecazione di seguitatu d’attività spurtive nant’à i sistemi_
 Android
-_chì rispetta cumpletamente a vostra vita privata. Ghjè una scansa di_
-MyTracks
-_chì Google hà abbandunatu in u 2016. St’appiecazione funziuneghja cumpletamente fora di linea è permette a creazione di tracciatu GPS, l’impiegu d’un cattore di frequenza cardiaca (solu Bluetooth LE), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di e tracciati nant’à una carta cù l’appiecazione_
+_chì rispetta veramente a vostra vita privata. St’appiecazione funziuneghja cumpletamente fora di linea (senza cunnessione internet) è permette a creazione di tracciati GPS, l’impiegu di cattori Bluetooth LE di frequenza cardiaca o di vitezza (bicicletta), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di i tracciati nant’à una carta via l’appiecazione_
 OSM Dashboard.
+_Si pò espurtà à u furmatu KMZ, KML o GPX i dati di i tracciati arregistrati._
+OpenTracks
+_hè una scansa di_
+MyTracks
+_chì Google hà abbandunatu in u 2016._
 > 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè dispunibule cù a versione 4.16.1 - è quelle più recente - grazia à un’ozzione nova chì permette di sceglie a lingua di l’interfaccia.
+
+## ✨ OSM Dashboard for OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
+https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
+_Vera tavula di cundutta d’_
+OpenTracks,
+_st’appiecazione - chì funziuneghja nant’à i sistemi_
+Android
+_- permette d’affissà nant’à una carta un tracciatu d’attività spurtiva arregistratu da_
+OpenTracks.
+_A carta predefinita hè pruvista da_
+OpenStreetMap.org.
+_Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè dispunibule cù a versione 6.1.0 - è quelle più recente - grazia à un’ozzione nova chì permette di sceglie a lingua di l’interfaccia.
 
 ## ✨ Paint.NET	<a href="./Prughjetti/paint.net/Traduzzione.md"><img src="./Icone/paint.net.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.getpaint.net/  
@@ -263,15 +279,6 @@ _impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu ess
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
-
-## ⏳ OSM Dashboard for OpenTracks <a href="#"><img src="./Icone/OSM%20Dashboard.png" width="30" height="30"></img></a>
-https://play.google.com/store/apps/details?id=de.storchp.opentracks.osmplugin  
-_Vera tavula di cundutta d’OpenTracks, st’appiecazione - chì funziuneghja nant’à i sistemi_
-Android
-_- permette di selezziunà un tracciatu d’OpenTracks è d’affissallu nant’à una carta. A carta predefinita hè pruvista da_
-OpenStreetMap.org.
-_Sappiate ch’ella hè pussibule di scaricà una carta fora di linea per riduce a carica di u servitore è risparmià i dati muvibule di u vostru cuntrattu di telefuninu._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa duveria esse distribuita cù a prossima versione 5.1.1.
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
