@@ -37,8 +37,6 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/guide_12_multi_account_containers/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_subscription_expiring/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_survey/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.22/strings.xliff  
-  https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_update_v2.24/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_upgrade_to_annual_plan/strings.xliff/  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.15/strings.xliff  
   https://github.com/mozilla-l10n/mozilla-vpn-client-l10n/blob/main/en/addons/message_whats_new_v2.16/strings.xliff  
@@ -70,8 +68,6 @@ addons-guide_11_recommended_servers-strings.xliff
 addons-guide_12_multi_account_containers-strings.xliff
 addons-message_subscription_expiring-strings.xliff
 addons-message_survey-strings.xliff
-addons-message_update_v2.22-strings.xliff
-addons-message_update_v2.24-strings.xliff
 addons-message_upgrade_to_annual_plan-strings.xliff
 addons-message_whats_new_v2.15-strings.xliff
 addons-message_whats_new_v2.16-strings.xliff
