@@ -91,7 +91,7 @@ _Verificazione d’integrità d’un schedariu grazia à un numeru impurtante di
 
 ## ✨ Inno Setup <a href="#"><img src="./Icone/Inno%20Setup.png" width="30" height="30"></img></a>
 https://jrsoftware.org/isinfo.php  
-_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, OmegaT, PDFCreator, Poedit, Resizer, Skype è Video DownloadHelper._
+_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, quelli prugrammi l’impieganu : Audacity, Colors, Cunghjucazione Corsa, GeneWeb, Hasher, OmegaT, PDFCreator, Poedit, RandPass, ReNamer, Resizer, Shutter, Skype, Video DownloadHelper è WinMerge._
 
 ## ✨ K-9 Mail <a href="#"><img src="./Icone/K-9%20Mail.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=com.fsck.k9  
@@ -129,7 +129,7 @@ _Prugramma di mudificazione di testu genericu, funziunendu nant’à Windows, ch
 
 ## ✨ NSIS: Nullsoft Scriptable Install System	<a href="#"><img src="./Icone/NSIS.png" width="30" height="30"></img></a>
 https://nsis.sourceforge.io/MainPage  
-_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, sti prugrammi l’impieganu : 7-zip, CCleaner, CDex, FileZilla, Mp3tag, Notepad++, OpenOffice, Paint.NET, VirtualMIDISynth è VLC Media Player._
+_Prugramma per creà un assistente d’installazione (o stalladore) nant’à Windows per d’altri prugrammi. Per indettu, sti prugrammi l’impieganu : CCleaner, CDex, FileZilla, MozBackup, Mp3tag, Notepad++, OpenOffice, Paint.NET, VirtualMIDISynth è VLC Media Player._
 
 ## ✨ OmegaT	<a href="./Prughjetti/OmegaT/Traduzzione.md"><img src="./Icone/OmegaT.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://omegat.org/co/  
@@ -140,7 +140,9 @@ _Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in 
 https://github.com/OpenTracksApp/OpenTracks/blob/main/README.md  
 _Appiecazione di seguitatu d’attività spurtive nant’à i sistemi_
 Android
-_chì rispetta veramente a vostra vita privata. St’appiecazione funziuneghja cumpletamente fora di linea (senza cunnessione internet) è permette a creazione di tracciati GPS, l’impiegu di cattori Bluetooth LE di frequenza cardiaca o di vitezza (bicicletta), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di i tracciati nant’à una carta via l’appiecazione_
+_chì rispetta veramente a vostra vita privata. St’appiecazione funziuneghja cumpletamente fora di linea (senza cunnessione internet) è permette a creazione di tracciati GPS, l’impiegu di cattori_
+Bluetooth LE
+_di frequenza cardiaca o di vitezza (bicicletta), l’annunziamenti vucali (per tempu o per distanza), a creazione di stantelle (cù fiure) è l’affissera di i tracciati nant’à una carta via l’appiecazione_
 OSM Dashboard.
 _Si pò espurtà à u furmatu KMZ, KML o GPX i dati di i tracciati arregistrati._
 OpenTracks
@@ -361,3 +363,4 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 
 ##
 _© Patriccollu di Santa Maria è Sichè, 2025_
+
