@@ -7,9 +7,9 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ## Scaricamentu di i schedarii à traduce
 
 - Eccu i liami per scaricà i schedarii in lingua inglese da _Transifex_ :
-  - [Windows](https://www.transifex.com/HandBrakeProject/WinUI/language/en/)
-  - [Mac](https://www.transifex.com/HandBrakeProject/mac-ui/language/en/)
-  - [Linux](https://www.transifex.com/HandBrakeProject/linux-ui/language/en/)
+  - [Windows](https://app.transifex.com/HandBrakeProject/WinUI/language/en/)
+  - [Mac](https://app.transifex.com/HandBrakeProject/mac-ui/language/en/)
+  - [Linux](https://app.transifex.com/HandBrakeProject/linux-ui/language/en/)
 - Per ogni risorsa :
   - Fà un cliccu nant’à u so nome per affissà tutte l’ozzioni
   - Sceglie l’ozzione `Télecharger le fichier pour le traduire`
