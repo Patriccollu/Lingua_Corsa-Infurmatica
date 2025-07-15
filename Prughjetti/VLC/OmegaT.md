@@ -7,31 +7,31 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ## Scaricamentu di i schedarii à traduce
 
 - Si pò scaricà i schedarii __in lingua inglese__ da quì :  
-  https://www.transifex.com/yaron/vlc-trans/language/en/
+  https://app.transifex.com/yaron/vlc-trans/language/en/
 
 - Eccu l'indirizzi per scaricà tutti i schedarii di lingua :  
 
-	https://www.transifex.com/yaron/vlc-trans/android/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/android-store-fulldescription/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/android-store-shortdescription/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/ios/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/ios-fastlane-keyword/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/ios-fastlane-title/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/ios-infoplist/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/ios-settings/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc_website/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc-22/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc-30/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc-30-extra-strings-for-macos/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc-desktop/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlc-installer/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlmc/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/vlsub/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/winrt-store-description/en/download/for_translation/  
-	https://www.transifex.com/yaron/vlc-trans/winrt-xlf/en/download/for_translation/  
+	https://app.transifex.com/yaron/vlc-trans/android/  
+	https://app.transifex.com/yaron/vlc-trans/android-store/  
+	https://app.transifex.com/yaron/vlc-trans/android-store-fulldescription/  
+	https://app.transifex.com/yaron/vlc-trans/android-store-shortdescription/  
+	https://app.transifex.com/yaron/vlc-trans/ios/  
+	https://app.transifex.com/yaron/vlc-trans/ios-appintentvocabulary/  
+	https://app.transifex.com/yaron/vlc-trans/ios-infoplist/  
+	https://app.transifex.com/yaron/vlc-trans/ios-settings/  
+	https://app.transifex.com/yaron/vlc-trans/vlc_website/  
+	https://app.transifex.com/yaron/vlc-trans/vlc-22/  
+	https://app.transifex.com/yaron/vlc-trans/vlc-30/  
+	https://app.transifex.com/yaron/vlc-trans/vlc-30-extra-strings-for-macos/  
+	https://app.transifex.com/yaron/vlc-trans/vlc-desktop/  
+	https://app.transifex.com/yaron/vlc-trans/vlc-installer/  
+	https://app.transifex.com/yaron/vlc-trans/vlmc/  
+	https://app.transifex.com/yaron/vlc-trans/vlsub/  
+	https://app.transifex.com/yaron/vlc-trans/winrt-store-description/  
+	https://app.transifex.com/yaron/vlc-trans/winrt-xlf/  
 
 - S’ella hè bisognu, si pò scaricà i schedarii in __lingua corsa__ da quì :  
-  https://www.transifex.com/yaron/vlc-trans/language/co/
+  https://app.transifex.com/yaron/vlc-trans/language/co/
 
 - Tutti i schedarii scaricati anu un nome chì principià cù `for_translation_vlc-trans_xxxxx-yyyyy_en.`
 
@@ -90,7 +90,7 @@ U schedariu `.po` scaricatu hè una versione in lingua inglese, vole si dì chì
 - Sceglie `Prughjettu` eppò `Pruprietà…`
 - Fà un cliccu nant’à u buttone `Filtri lucali di schedariu…`
 - Attivà l’ozzione `Impiegà i parametri di i filtri lucali di schedariu`
-  - Verificà chì u furmatu `XLIFF` hè disattivatu. 
+  - Verificà chì u furmatu `XLIFF (filtru anzianu)` hè disattivatu. 
   - Verificà chì u furmatu `Testu` hè attivatu.  
   - Verificà l’ozzione di u furmatu `Testu` : 
           `Taglià u testu d’origine per fà paragrafi :`  
