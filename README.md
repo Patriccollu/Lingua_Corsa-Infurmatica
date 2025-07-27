@@ -282,6 +282,13 @@ http://mozbackup.jasnapaka.com/
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
 
+## ⏳ NoNonsense Notes	<a href="#"><img src="./Icone/NoNonsense%20Notes.png" width="30" height="30"></img></a>
+https://play.google.com/store/apps/details?id=com.nononsenseapps.notepad.play  
+_Un’appiecazione libera è simplice di fuglittaghju è di lista di cose à fà cù una navigazione perfetta impieghendu l’ultime tecnolugie_
+Android
+_. E so funzioni principale sò : definizione di ramenti à un’ora particulare, cù una ripetizione ozzionale per certi ghjorni di a settimana ; prutezzione di e note impurtante cù una parolla d’intesa ; pussibilità di fà trascinà e tacche per urganizalle ; ozzione di ricerca ; salvaguardia di e note (impurtazione è espurtazione) in un schedariu JSON ; sincrunizazione cù un schedariu ORG in a memoria lucale ; cronolugia di a nota cù tutte e so versioni precedente, è parecghje altre funzioni ghjuvevule._
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa duveria esse distribuita cù a versione 7.2.1.
+
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._
@@ -363,4 +370,3 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 
 ##
 _© Patriccollu di Santa Maria è Sichè, 2025_
-
