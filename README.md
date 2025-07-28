@@ -52,23 +52,23 @@ https://filezilla-project.org/download.php?show_all=1
 ## ✨ Firefox for Android <a href="./Prughjetti/Mozilla/Firefox%20for%20Android/Traduzzione.md"><img src="./Icone/Firefox%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
 _L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à cunservà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-focus-for-android-).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](./#-focus-for-android-).
 
 ## ✨ Firefox for iOS <a href="./Prughjetti/Mozilla/Firefox%20for%20iOS/Traduzzione.md"><img src="./Icone/Firefox%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’intesa, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
 > 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.  
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-focus-for-ios-).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](./#-focus-for-ios-).
 
 ## ✨ Focus for Android <a href="./Prughjetti/Mozilla/Focus%20for%20Android/Traduzzione.md"><img src="./Icone/Focus%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
 _Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à cunservà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-firefox-for-android-).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](./#-firefox-for-android-).
 
 ## ✨ Focus for iOS <a href="./Prughjetti/Mozilla/Focus%20for%20iOS/Traduzzione.md"><img src="./Icone/Focus%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-focus/id1055677337  
 _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principale di Firefox Focus hè di rende a navigazione privata più faciule è simplice. St’appiecazione blucca autumaticamente una parte maiò di i perseguitatori, da quandu vi a lanciate fine à quandu vi a chjudite. Squassate di manera faciule a vostra cronolugia di navigazione, e vostre parolle d’intesa è i vostri canistrelli per liberavvi di certi elementi cum’è e publicità indesiderevule._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-firefox-for-ios-).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](./#-firefox-for-ios-).
 
 ## ✨ fre:ac <a href="./Prughjetti/freac/Traduzzione.md"><img src="./Icone/freac.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.freac.org/  
@@ -102,7 +102,7 @@ OpenPGP
 _di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione_
 OpenKeychain: Easy PGP.
 > 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 6.902 è quelle più recente.  
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata [_Thunderbird for Android_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-thunderbird-for-android-). Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata [_Thunderbird for Android_](./#-thunderbird-for-android-). Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
 
 ## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
 https://www.lazarus-ide.org/  
@@ -125,7 +125,7 @@ _Per aghjungje o mudificà l’etichette ID3v1, ID3v2.3, ID3v2.4, iTunes MP4, WM
 ## ✨ Notepad++	<a href="./Prughjetti/Notepad%2B%2B/Traduzzione.md"><img src="./Icone/Notepad%2B%2B.png" width=30 height=30 title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://notepad-plus-plus.org/  
 _Prugramma di mudificazione di testu genericu, funziunendu nant’à Windows, chì permette a messa in evidenza di a sintassa di u codice di fonte per parechji tipi di schedariu cum’è i linguaghji di prugrammazione. Stu prugramma, scrittu in C++ cù STL è l’interfaccie di prugrammazione Win32, hè cuncepitu per pruvede un mezu, di chjuca dimensione ma assai putente, per mudificà un schedariu di testu. Ci sò parechje funzioni cum’è una ricerca avanzata di caratteri o u paragone trà dui schedarii chì ne facenu un rimpiazzamentu perfettu di u prugramma Notepad distribuitu cù Windows. È quandu s’apre un schedariu cù Notepad++, u schedariu ùn hè micca ammarchjunatu è s’ellu hè mudificatu da un altru prugramma, ci hè una nutificazione è a pussibilità di ricaricallu._
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Notepad%2B%2B/Installazione.md).
+> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Durante l’installazione, ci vole à sceglie a lingua _Corsican_ in a lista di e lingue pruposte è dopu ci vole à indicà _Corsu_ in e preferenze di u prugramma. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](./Prughjetti/Notepad%2B%2B/Installazione.md).
 
 ## ✨ NSIS: Nullsoft Scriptable Install System	<a href="#"><img src="./Icone/NSIS.png" width="30" height="30"></img></a>
 https://nsis.sourceforge.io/MainPage  
@@ -221,12 +221,12 @@ Android
 _cù guasi tutti i furnidori di messaghjeria elettronica. Per indettu :_
 free, gmail, hotmail, laposte, orange, outlook, wanadoo, yahoo
 _è d’altri. Amministrate senza straziu parechji conti di messaghjeria via un’interfaccia grafica unica cù una scatula di ricezzione unificata chì permette una pruduttività massima. Custruita nant’à una tecnolugia à fonte aperta è sustenuta da una squadra dedicata di sviluppatori accant’à una cumunità glubale di vuluntarii, Thunderbird ùn tratta mai i vostri dati privati cum’è un pruduttu. Sustenutu solu da e cuntribuzioni finanziarie di i nostri utilizatori, ùn viderete mai più publicità mischiate à i vostri messaghji elettronichi._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione hè l’evoluzione di [_K-9 Mail_](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/#-k-9-mail-) chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : St’appiecazione hè l’evoluzione di [_K-9 Mail_](./#-k-9-mail-) chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
 
 ## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://veracrypt.fr/en/Home.html  
 _Appiecazione libera à fonte aperta per cifrà un discu. Stu prugramma pò creà un discu cifratu virtuale dentru un schedariu è muntallu tale un discu reale. Dunque, vistu da fora, ghjè un schedariu unicu è classicu. Ma quand’ellu hè apertu cù VeraCrypt, ghjè un discu chì pò cuntene cartulari, sottucartulari è schedarii. VeraCrypt pò dinù cifrà una partizione sana o un apparechju di memoria cum’è una chjave USB o un discu duru, ancu s’ellu hè quellu induve Windows hè installatu. Invece di a cifratura di schedariu, a cifratura di dati effettuata da VeraCrypt si face in tempu reale (di volu), di manera autumatica è trasparente, hà bisognu di poca memoria è ùn richiede micca schedarii timpurarii non cifrati. L’appiecazione funziuneghja nant’à Windows, Mac OSX è Linux._
-> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 1.26.7. Ma s’ella ci hè bisognu d’impiegalla cù una versione più vechja, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/VeraCrypt/Installazione.md) per sapene di più.
+> 📗 __$\color{orange}{\large{\textsf{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 1.26.7. Ma s’ella ci hè bisognu d’impiegalla cù una versione più vechja, seguitate l’[istruzzioni per installà u schedariu di lingua](./Prughjetti/VeraCrypt/Installazione.md) per sapene di più.
 
 ## ✨ Video DownloadHelper <a href="./Prughjetti/Video%20DownloadHelper/Traduzzione.md"><img src="./Icone/VDH.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.downloadhelper.net/  
@@ -236,7 +236,7 @@ _L’appiecazione cumpagnu -_
 vdhcoapp
 _- hè un mudullu addiziunale multi-piattaforma (Windows, Mac, Linux) chì aghjunghe ste funzioni à u navigatore : funzioni API di scrittura di schedariu chì ùn sò micca native, generazione di nome di schedarii timpurarii, lanciu d’una appiecazione predefinita nant’à un schedariu di dati, è un’interfaccia à u cunvertidore video_
 ffmpeg.
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/Video%20DownloadHelper/Installazione.md).  
+> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Ùn ci hè alcuna ozzione in Video DownloadHelper per sceglie a lingua di a so interfaccia perchè l’estensione impiega quella di u navigatore. À st’ora, i trè navigatori - Chrome, Firefox è Microsoft Edge - ùn cunnoscenu micca a lingua corsa. Ma, ancu di grazia, ci hè una soluzione, quantunque, per impiegà Video DownloadHelper in corsu. Per sapene di più, seguitate l’[istruzzioni per installà un schedariu di lingua](./Prughjetti/Video%20DownloadHelper/Installazione.md).  
 > ⚠️ __$\color{red}{\large{\textsf{Fate casu}}}$__ : per disgrazia, l’interfaccia grafica nova chì hè distribuita cù a versione v9 ùn ricunnosce più a lingua corsa. Dunque, per impiegà _Video DownloadHelper_ in lingua corsa, ci vole à sceglie sia l’interfaccia anziana cù a versione v9, sia stà cù a versione v8.
 
 ## ✨ VirtualMIDISynth <a href="./Prughjetti/VirtualMIDISynth/Traduzzione.md"><img src="./Icone/VirtualMIDISynth.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
@@ -280,7 +280,7 @@ _impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu ess
 ## ⏳ MozBackup <a href="./Prughjetti/MozBackup/ReadMe.md"><img src="./Icone/MozBackup.png" width="30" height="30"></img></a>
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/MozBackup/Installazione.md).
+> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](./Prughjetti/MozBackup/Installazione.md).
 
 ## ⏳ NoNonsense Notes	<a href="#"><img src="./Icone/NoNonsense%20Notes.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=com.nononsenseapps.notepad.play  
@@ -292,7 +292,7 @@ _. E so funzioni principale sò : definizione di ramenti à un’ora particular
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
 _Emulatore CD/DVD/BD di tipu « fonte aperta », vole si dì un attrezu chì permette di muntà fiure di discu otticu d’un solu cliccu in l’espluratore Windows. S’è vo avete scaricatu una fiura ISO è chì vo vulete impiegalla senza impruntalla ver di un discu novu, WinCDEmu hè a manera a più faciule per fà què._
-> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](https://github.com/Patriccollu/Lingua_Corsa-Infurmatica/blob/ceppu/Prughjetti/WinCDEmu/Installazione.md).
+> 💡 __$\color{orange}{\large{\textsf{Astuzia}}}$__ : A versione attuale 4.1 ùn cuntene micca u schedariu di lingua corsa. In attesa di distribuzione cù una prossima versione, ci vole à scaricà stu schedariu è installallu. Per sapene di più, seguitate l’[istruzzioni per installà u schedariu di lingua](./Prughjetti/WinCDEmu/Installazione.md).
 
 -----
 # 3) I prugrammi in corsu di $\color{red}{\large{\textsf{traduzzione}}}$ :
@@ -304,7 +304,7 @@ _Iniziativa di Mozilla per aiutà à insegnà à e macchine cumu parla in veru a
 
 ## 🎯 Unicode CLDR (Common Locale Data Repository) <a href="#"><img src="./Icone/Unicode%20CLDR.png" width="30" height="30"></img></a>
 http://cldr.unicode.org/index  
-_Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](https://cldr.unicode.org/index#h.ezpykkomyltl) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
+_Prughjettu chì pruvede elementi impurtantissimi à i prugrammi terzi per accettà e lingue di u mondu sanu, cù u depositu u più maiò di dati lucali (i.e. tradutti) dispunibule. Sti dati sò impiegati da [parechje imprese](https://cldr.unicode.org/#who-uses-cldr) per l’internaziunalizazione è a lucalizazione di i so prugrammi._
 
 ## 🎯 VLC media player <a href="./Prughjetti/VLC/Traduzzione.md"><img src="./Icone/VLC.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.videolan.org/vlc/  
@@ -328,13 +328,13 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 		<td align="center">
 			<a href="https://www.facebook.com/people/Patriccollu/100084538741324/">
 				<img alt="A pagina Patriccollu nant’à Facebook"
-				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20a%20pagina%20Facebook.png" height="340" align="middle">
+				src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20a%20pagina%20Facebook.png" height="340" align="middle">
 			</a>
 		</td>
 		<td align="center">
 			<a href="https://www.instagram.com/patriccollu/">
 				<img alt="U contu Patriccollu nant’à Instagram"
-				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20contu%20Instagram.png" height="340" align="middle">
+				src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20contu%20Instagram.png" height="340" align="middle">
 			</a>
 	</tr>
 </table>
@@ -353,13 +353,13 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 		<td align="center">
 			<a href="https://sourceforge.net/u/patriccollu/wiki/Home/#669b">
 				<img alt="U Wiki Patriccollu nant’à SourceForge"
-				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20wiki%20SourceForge.png" height="340" align="middle">
+				src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20wiki%20SourceForge.png" height="340" align="middle">
 			</a>
 		</td>
 		<td align="center">
-			<a href="https://github.com/Patriccollu/Lingua_Corsa-Infurmatica#readme">
+			<a href=".#readme">
 				<img alt="U prughjettu Lingua corsa è Infurmatica nant’à GitHub"
-				src="/Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20prughjettu%20GitHub.png" height="340" align="middle">
+				src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20prughjettu%20GitHub.png" height="340" align="middle">
 			</a>
 		</td>
 	</tr>
