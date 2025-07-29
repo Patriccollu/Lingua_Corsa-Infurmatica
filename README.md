@@ -317,7 +317,7 @@ _Lettore capace d’apre è di leghje (stà à sente) guasi tutti i schedarii au
 Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patriccollu_ per fighjà infurmazioni cumplementarie è screni d’interfaccia di i prugrammi infurmatichi tradutti in lingua corsa.
 <br>
 
-## Infurmazioni è screni d’interfaccia
+## I siti per fighjà infurmazioni è screni d’interfaccia di certi prugrammi
 <br>
 <table>
 	<tr>
@@ -342,12 +342,12 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 > 💡 __$\textcolor{orange}{\large{\text{Astuzia}}}$__ : Si pò dinù fà un _cliccu nant’à a fiura di u codice QR_ per **andà nant’à u situ web**.
 <br>
 
-## Lista di i prugrammi infurmatichi
+## I siti per fighjà a lista di i prugrammi infurmatichi
 <br>
 <table>
 	<tr>
 		<th>$\textcolor{orange}{\huge{\text{Wiki SourceForge}}}$</th>
-		<th>$\huge{\text{Prughjettu Codeberg}}$</th>
+		<th>$\textcolor{green}{\huge{\text{Prughjettu Codeberg}}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
@@ -367,8 +367,8 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 <br>
 <table>
 	<tr>
-		<th>$\huge{\text{Prughjettu GitHub}}$</th>
-		<th>$\huge{\text{Prughjettu GitLab}}$</th>
+		<th>$\textcolor{yellow}{\huge{\text{Prughjettu GitHub}}}$</th>
+		<th>$\textcolor{red}{\huge{\text{Prughjettu GitLab}}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
