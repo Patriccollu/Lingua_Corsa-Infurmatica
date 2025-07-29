@@ -4,8 +4,8 @@ Eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patr
 ## I siti per fighjà infurmazioni è screni d’interfaccia di certi prugrammi
 <table>
 	<tr>
-		<th> <span style='color: blue;'>Pagina Facebook</span></th>
-		<th> <span style='color: purple;'>Contu Instagram</span></th>
+		<th>$\textcolor{blue}{\huge{\text{Pagina Facebook}}}$</th>
+		<th>$\textcolor{purple}{\huge{\text{Contu Instagram}}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
@@ -26,10 +26,10 @@ Eccu parechji codici QR chì permettenu di navigà versu d’altri siti di _Patr
 ## I siti per fighjà a lista di i prugrammi infurmatichi
 <table>
 	<tr>
-		<th> <span style="color: red;">Wiki SourceForge</span></th>
-		<th>Prughjettu Codeberg</th>
-		<th>Prughjettu GitHub</th>
-		<th>Prughjettu GitLab</th>
+		<th>$\textcolor{orange}{\huge{\text{Wiki SourceForge}}}$</th>
+		<th>$\textcolor{green}{\huge{\text{Prughjettu Codeberg}}}$</th>
+		<th>$\textcolor{yellow}{\huge{\text{Prughjettu GitHub}}}$</th>
+		<th>$\textcolor{red}{\huge{\text{Prughjettu GitLab}}}$</th>
 	</tr>
 	<tr>
 		<td align="center">
