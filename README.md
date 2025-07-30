@@ -324,7 +324,6 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 | ----------- | ------------ |
 | <a href="https://www.facebook.com/people/Patriccollu/100084538741324/"> <img alt="A pagina Patriccollu nant’à Facebook" src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20a%20pagina%20Facebook.png" height="240" align="middle"> </a> | <a href="https://www.instagram.com/patriccollu/"> <img alt="U contu Patriccollu nant’à Instagram" src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20contu%20Instagram.png" height="240" align="middle"> </a> |
 
-
 > 💡 __$\textcolor{orange}{\large{\text{Astuzia}}}$__ : Si pò dinù fà un _cliccu nant’à a fiura di u codice QR_ per **andà nant’à u situ web**.
 <br>
 
@@ -337,7 +336,7 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 
 <br>
 
-| $\textcolor{yellow}{\huge{\text{Prughjettu GitHub}}}$ | $\textcolor{red}{\huge{\text{Prughjettu GitLab}}}$ |
+| $\textcolor{gold}{\huge{\text{Prughjettu GitHub}}}$ | $\textcolor{red}{\huge{\text{Prughjettu GitLab}}}$ |
 | ----------- | ------------ |
 | <a href="https://github.com/Patriccollu/Lingua_Corsa-Infurmatica#readme"> <img alt="U prughjettu Lingua corsa è Infurmatica nant’à GitHub" src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20prughjettu%20GitHub.png" height="240" align="middle"> </a> | <a href="https://gitlab.com/Patriccollu/Lingua_Corsa-Infurmatica/-/blob/ceppu/README.md"> <img alt="U prughjettu Lingua corsa è Infurmatica nant’à GitLab" src="./Codici%20QR/Patriccollu%20-%20Codice%20QR%20per%20u%20prughjettu%20GitLab.png" height="240" align="middle"> </a> |
 
