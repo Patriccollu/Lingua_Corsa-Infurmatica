@@ -221,6 +221,17 @@ _Attrezzu di pianificazione multifunziunale chì hà un’interfaccia faciule à
 https://www.sumatrapdfreader.org/free-pdf-reader.html  
 _Lettore di ducumenti per Windows, capace di leghje i furmati PDF, i libri elettronichi (ePub, Mobi), XPS, DjVu, CHM, i libri comichi (CBZ è CBR). Stu prugramma hè liberu, putente, chjucu, purtevule è si lancia in furia in furia. A priurità di u sviluppu di a so interfaccia hè d’esse simplice à impiegà._
 
+## ✨ Tenacity <a href="#"><img src="./Icone/Tenacity.png" width="30" height="30"></img></a>
+https://tenacityaudio.org/  
+_Hè un prugramma liberu, di tipu fonte aperta, multipiattaforme, per l’arregistramentu è a mudificazione audio, ma soprattuttu un’alternativa à_
+Audacity,
+_dapoi a so cumprera da l’impresa MuseGroup in u 2021._
+Tenacity
+_hè cuncepitu nant’à una basa d’_
+Audacity
+_per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux ma ci sò parechje sfarenze s’ellu si paraguneghja à_
+Audacity.
+
 ## ✨ Thunderbird for Android <a href="#"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=net.thunderbird.android  
 _Appiecazione di messaghjeria elettronica putente è rispettosa di a vita privata chì funziuneghja nant’à i sistemi_
