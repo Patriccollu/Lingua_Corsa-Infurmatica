@@ -276,6 +276,7 @@ _Attrezzu di paragone è di fusione à « fonte aperta » nant’à Windows ch
 ## ✨ Worldle <a href="#"><img src="./Icone/Worldle.png" width="30" height="30"></img></a>
 https://worldle.teuteuf.fr/  
 _Un situ web chì prupone un ghjocu **in linea** induve ci vole à induvinà, in 6 colpi à u massimu, u nome d’un paese o d’un territoriu di u mondu. Per aiutavvi, si vede a forma di stu locu ma ci hè ozzioni per falla girà o ancu piattalla per aumentà a difficultà._
+> 🔇 __$\textcolor{red}{\large{\text{Per disgrazia}}}$__, à a fine di nuvembre di u 2022, a squadra di _Worldle_ hà decisu chì $\textcolor{red}{\large{\text{a lingua corsa seria mantinuta d’un’altra manera in un altru locu}}}$.
 
 ## ✨ wxWidgets <a href="#"><img src="./Icone/wxWidgets.png" width="30" height="30"></img></a>
 https://www.wxwidgets.org/  
