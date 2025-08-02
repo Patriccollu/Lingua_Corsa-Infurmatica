@@ -23,6 +23,7 @@ _Per cumpresse o stringhje unu o parechji schedarii, o cartulari, in un solu sch
 ## ✨ Audacity <a href="./Prughjetti/Audacity/Traduzzione.md"><img src="./Icone/Audacity.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.audacityteam.org/  
 _Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Per quelle è quelli ch’ùn volenu più impiegà _Audacity_ dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021, ci hè un’alternativa chì si chjama [_Tenacity_](./#-tenacity-).
 
 ## ✨ CCleaner <a href="./Prughjetti/CCleaner/Traduzzione.md"><img src="./Icone/CCleaner.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.ccleaner.com/ccleaner  
@@ -223,14 +224,11 @@ _Lettore di ducumenti per Windows, capace di leghje i furmati PDF, i libri elett
 
 ## ✨ Tenacity <a href="#"><img src="./Icone/Tenacity.png" width="30" height="30"></img></a>
 https://tenacityaudio.org/  
-_Hè un prugramma liberu, di tipu fonte aperta, multipiattaforme, per l’arregistramentu è a mudificazione audio, ma soprattuttu un’alternativa à_
-Audacity,
-_dapoi a so cumprera da l’impresa MuseGroup in u 2021._
-Tenacity
-_hè cuncepitu nant’à una basa d’_
+_Ghjè un prugramma liberu, di tipu fonte aperta, multipiattaforme, cuncepitu nant’à una basa d’_
 Audacity
 _per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux ma ci sò parechje sfarenze s’ellu si paraguneghja à_
 Audacity.
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Stu prugramma hè soprattuttu un’alternativa à [_Audacity_](./#-audacity-) dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021.
 
 ## ✨ Thunderbird for Android <a href="#"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30"></img></a>
 https://play.google.com/store/apps/details?id=net.thunderbird.android  
