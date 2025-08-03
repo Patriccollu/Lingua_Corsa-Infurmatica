@@ -36,7 +36,15 @@ Basta un cliccu nant’à u nome di u prugramma per affissà u statu di e lingue
 
 _Pontoon_ hè impiegatu per amministrà e traduzzioni di i prudutti di a fundazione _Mozilla_.  
 
-Ci hè una pagina per ogni lingua tradutta. Eccu quella di a lingua corsa :  
+- [Common Voice](https://pontoon.mozilla.org/co/common-voice/)
+- [Firefox for Android](https://pontoon.mozilla.org/co/firefox-for-android/)
+- [Firefox for iOS](https://pontoon.mozilla.org/co/firefox-for-ios/)
+- [Focus for Android](https://pontoon.mozilla.org/co/focus-for-android/)
+- [Focus for iOS](https://pontoon.mozilla.org/co/focus-for-ios/)
+- [Mozilla VPN Client](https://pontoon.mozilla.org/co/mozilla-vpn-client/)
+- [Mozilla VPN Website](https://pontoon.mozilla.org/co/mozilla-vpn-website/)
+
+Ci hè dinù una pagina generale per a lingua corsa :  
 	https://pontoon.mozilla.org/co/
   
 [Lighjite st’infurmazione per sapene di più nant’à _Pontoon_](../../tree/ceppu/Prughjetti/Mozilla/Pontoon.md).
@@ -57,11 +65,13 @@ Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutt
 
 _Weblate_ hè impiegatu per amministrà omancu e traduzzioni di sti prugrammi :
   
-- [K-9 Mail/Thunderbird](https://hosted.weblate.org/projects/tb-android/-/co/)
-- [Lufi](https://weblate.framasoft.org/projects/lufi/-/co/)
-- [OpenTracks](https://hosted.weblate.org/projects/opentracks/-/co/)
-- [OSM Dashboard](https://translate.codeberg.org/projects/open-tracks-osm-dashboard/-/co/)
+- [K-9 Mail/Thunderbird for Android](https://hosted.weblate.org/projects/tb-android/-/co/#components)
+- [Lufi](https://weblate.framasoft.org/projects/lufi/-/co/#components)
+- [No Nonsense Notes](https://hosted.weblate.org/projects/no-nonsense-notes/-/co/#components)
+- [OpenTracks](https://hosted.weblate.org/projects/opentracks/-/co/#components)
+- [OSM Dashboard](https://translate.codeberg.org/projects/open-tracks-osm-dashboard/-/co/#components)
 - [PDFCreator](https://translate.pdfforge.org/languages/co_FR/)
+- [Tenacity](https://hosted.weblate.org/projects/tenacity/-/co/#components)
 
 Basta un cliccu nant’à u nome di u prugramma per affissà i schedarii tradutti in lingua corsa.
 
