@@ -230,7 +230,7 @@ _per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’u
 Audacity.
 > 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Stu prugramma hè soprattuttu un’alternativa à [_Audacity_](./#-audacity-) dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021.
 
-## ✨ Thunderbird for Android <a href="#"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30"></img></a>
+## ✨ Thunderbird for Android <a href="./Prughjetti/Thunderbird%20for%20Android/Traduzzione.md"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=net.thunderbird.android  
 _Appiecazione di messaghjeria elettronica putente è rispettosa di a vita privata chì funziuneghja nant’à i sistemi_
 Android
