@@ -83,7 +83,7 @@ Per a vostra infurmazione, ci hè parechje istruzzioni `message="2172"` in ste p
 
 Fighjate l’istruzzioni detagliate per sapè quand’ellu ci vole à impiegà ste duie prucedure :
 1. [A prima prucedura](OmegaT.md#estensione-strings) `Cunversione VLC(.strings)-OmegaT(.strings)` per trasfurmà u cuntenutu di i schedarii `.strings` da u so furmatu d’origine ver di un furmatu cunnisciutu da _OmegaT_
-2. [A seconda prucedura](OmegaT.md#preparazione-di-i-schedarii-dopu-a-traduzzione)`Cunversione OmegaT(.strings)-VLC(.strings)` per fà a trasfurmazione à l’arritrosa, vole si dì trasfurmà u cuntenutu di i schedarii `.strings` da u furmatu cunnisciutu da _OmegaT_ ver di u so furmatu d’origine, per ch’ella sia
+2. [A seconda prucedura](OmegaT.md#preparazione-di-i-schedarii-dopu-a-traduzzione)`Cunversione OmegaT(.strings)-VLC(.strings)` per fà a trasfurmazione à l’arritrosa, vole si dì trasfurmà u cuntenutu di i schedarii `.strings` da u furmatu cunnisciutu da _OmegaT_ ver di u so furmatu d’origine
 
 #### Liami di navigazione nant’à stu situ
 - [Rivene à a lista di i membri di stu prughjettu](./)
