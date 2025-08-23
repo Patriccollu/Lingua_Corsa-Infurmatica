@@ -65,7 +65,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 ## Preparazione di i schedarii dopu a traduzzione
 
 ### Estensione .strings
-Ci vole à appruntà __solu__ i schedarii cù l’estensione `.strings` chì si trovanu in u cartulare `target` di u prughjettu _VLC_ in _OmegaT_.
+Ci vole à appruntà __solu__ i schedarii cù l’estensione `.strings` chì si trovanu in u cartulare `target` di u prughjettu _Thunderbird for Android_ in _OmegaT_.
 - Lancià _Notepad++_
 - Apre tutti i schedarii cù l’estensione `.strings`
 - Eseguisce a macro di cunversione `Cunversione OmegaT(.strings)-VLC(.strings)` installata pocu fà
