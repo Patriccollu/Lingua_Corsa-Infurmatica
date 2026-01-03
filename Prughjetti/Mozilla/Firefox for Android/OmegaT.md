@@ -56,6 +56,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/feature/webnotifications/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/service/firefox-relay/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/service/nimbus/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/base/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml  
@@ -96,6 +97,7 @@ components-feature-sitepermissions-strings.xml
 components-feature-tabs-strings.xml
 components-feature-webnotifications-strings.xml
 components-lib-crash-strings.xml
+components-service-firefox-relay-strings.xml
 components-service-nimbus-strings.xml
 components-support-base-strings.xml
 components-support-ktx-strings.xml
