@@ -5,7 +5,7 @@ Eccu l’istruzzioni per scaricà l’ultima versione di u schedariu di traduzzi
 ## Scaricamentu di i schedarii di lingua inglese
 
 - Nant’à un navigatore Internet, andà à st’indirizzu :  
-  https://github.com/mozilla-l10n/firefoxios-l10n/blob/master/templates/firefox-ios.xliff
+  https://github.com/mozilla-l10n/firefoxios-l10n/blob/main/templates/firefox-ios.xliff
 
 - Fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella.
 
