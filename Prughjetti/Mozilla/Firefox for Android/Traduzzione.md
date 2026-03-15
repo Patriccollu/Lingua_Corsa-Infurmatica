@@ -28,8 +28,8 @@
 - E fonte d’origine in inglese si trovanu in sottucartulari chjamati `/values/`
 - I schedarii in lingua corsa si trovanu in sottucartulari chjamati `/values-co/`
 - Per indettu, quelli di Fenix si trovanu quì :  
-  - [U schedariu d’origine in inglese](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values/strings.xml)
-  - [U schedariu in lingua corsa](https://github.com/mozilla-l10n/android-l10n/blob/master/mozilla-mobile/fenix/app/src/main/res/values-co/strings.xml)
+  - [U schedariu d’origine in inglese](https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/fenix/app/src/main/res/values/strings.xml)
+  - [U schedariu in lingua corsa](https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/fenix/app/src/main/res/values-co/strings.xml)
 
 U dipositu di tutta __a fonte__ di _Firefox for Android_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-mobile/fenix
