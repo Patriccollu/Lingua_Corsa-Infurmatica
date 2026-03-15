@@ -354,4 +354,4 @@ Per quelle è quelli chì volenu sapene di più, eccu parechji codici QR chì pe
 <br>
 
 ##
-_© Patriccollu di Santa Maria è Sichè, 2025_
+_© Patriccollu di Santa Maria è Sichè, 2026_
