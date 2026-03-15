@@ -23,7 +23,7 @@ _Per cumpresse o stringhje unu o parechji schedarii, o cartulari, in un solu sch
 ## ✨ Audacity <a href="./Prughjetti/Audacity/Traduzzione.md"><img src="./Icone/Audacity.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.audacityteam.org/  
 _Per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Per quelle è quelli ch’ùn volenu più impiegà _Audacity_ dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021, ci hè un’alternativa chì si chjama [_Tenacity_](./#-tenacity-).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Per quelle è quelli ch’ùn volenu più impiegà _Audacity_ dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021, ci hè un’alternativa chì si chjama [_Tenacity_](./README.md#-tenacity-).
 
 ## ✨ CCleaner <a href="./Prughjetti/CCleaner/Traduzzione.md"><img src="./Icone/CCleaner.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.ccleaner.com/ccleaner  
@@ -53,23 +53,23 @@ https://filezilla-project.org/download.php?show_all=1
 ## ✨ Firefox for Android <a href="./Prughjetti/Mozilla/Firefox%20for%20Android/Traduzzione.md"><img src="./Icone/Firefox%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=fr  
 _L’ultimu navigatore per Android (nome di codice **Fenix**) sviluppatu da Mozilla, l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella saluta. Rapidu, privatu, sicuru. Impiegatelu cum’è un navigatore privatu è vi aiuta cusì à cunservà u cuntrollu. Per fà ricerche, navigà da l’appiecazione, bluccà i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca. Stu navigatore cuntene parechje funzioni, cum’è a persunalizazione di a vostra metoda di ricerca, u modu scuru, e cullezzioni per urganizà i siti web visitati..._
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](./#-focus-for-android-).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _Android_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for Android](./README.md#-focus-for-android-).
 
 ## ✨ Firefox for iOS <a href="./Prughjetti/Mozilla/Firefox%20for%20iOS/Traduzzione.md"><img src="./Icone/Firefox%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-web-browser/id989804926  
 _Navigatore mobile è mudernu da Mozilla, l’urganismu senza prufittu chì s’impegna à difende un Web liberu è apertu. Si pò navigà nant’à parechje pagine web à u listessu tempu grazia à l’unghjette. Appughjate nant’à l’icona di maschera per passà in modu di navigazione privata. Ricercate à a vostra manera cù u vostru mutore di ricerca. Impiegate qualsisia appiecazione (è micca solu Mail) cù Firefox. Impiegate Sincrunizà per ritruvà l’indette, parolle d’intesa, è altri dati chì voi arregistrate in Firefox da i vostri altri apparechji._
 > 💡 __$\textcolor{orange}{\large{\text{Astuzia}}}$__ : Aghjunghje a lingua corsa in e preferenze generale di u vostru sistema _iOS_ : _Réglages > Général > Langue et région > Ajouter une langue... > Corsu_.  
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](./#-focus-for-ios-).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più simplice nant’à _iOS_, è chì vi rende a navigazione privata più faciule, hè piuttostu ricumandatu d’impiegà [Focus for iOS](./README.md#-focus-for-ios-).
 
 ## ✨ Focus for Android <a href="./Prughjetti/Mozilla/Focus%20for%20Android/Traduzzione.md"><img src="./Icone/Focus%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=fr  
 _Navigatore Firefox per Android, sviluppatu da Mozilla l’urganismu senza prufittu, per incuragisce un Internet apertu è in bella salute. U so scopu principale hè di rende a navigazione privata più faciule è simplice. Impiegatelu cum’è un navigatore privatu è cusì vi aiuta à cunservà u cuntrollu. Fate ricerche è navigate dapoi l’appiecazione, bluccate i perseguitatori (o mudificà e preferenze per auturizalli), squassà i canistrelli è ancu e crunulogie di navigazione è di ricerca._
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](./#-firefox-for-android-).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _Android_, hè piuttostu ricumandatu d’impiegà [Firefox for Android](./README.md#-firefox-for-android-).
 
 ## ✨ Focus for iOS <a href="./Prughjetti/Mozilla/Focus%20for%20iOS/Traduzzione.md"><img src="./Icone/Focus%20for%20iOS.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://apps.apple.com/fr/app/firefox-focus/id1055677337  
 _Navigate nant’à Internet cum’è s’è nimu vi fighjava. U scopu principale di Firefox Focus hè di rende a navigazione privata più faciule è simplice. St’appiecazione blucca autumaticamente una parte maiò di i perseguitatori, da quandu vi a lanciate fine à quandu vi a chjudite. Squassate di manera faciule a vostra cronolugia di navigazione, e vostre parolle d’intesa è i vostri canistrelli per liberavvi di certi elementi cum’è e publicità indesiderevule._
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](./#-firefox-for-ios-).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : S’è vo circate un navigatore Internet più cumpletu nant’à _iOS_, hè piuttostu ricumandatu d’impiegà [Firefox for iOS](./README.md#-firefox-for-ios-).
 
 ## ✨ fre:ac <a href="./Prughjetti/freac/Traduzzione.md"><img src="./Icone/freac.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://www.freac.org/  
@@ -103,7 +103,7 @@ OpenPGP
 _di i messaghji elettronichi (PGP/MIME) via l’installazione di l’appiecazione_
 OpenKeychain: Easy PGP.
 > 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : A lingua corsa hè distribuita cù a versione 6.902 è quelle più recente.  
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata [_Thunderbird for Android_](./#-thunderbird-for-android-). Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Ora, st’appiecazione, chì face parte di a famiglia _Thunderbird_ dapoi u 2022, hè diventata [_Thunderbird for Android_](./README.md#-thunderbird-for-android-). Eccu u [situ web per sapene di più nant’à stu cambiamentu](https://blog.thunderbird.net/category/mobile-news/).
 
 ## ✨ Lazarus/LCL <a href="#"><img src="./Icone/Lazarus.ico" width="30" height="30"></img></a>
 https://www.lazarus-ide.org/  
@@ -228,7 +228,7 @@ _Ghjè un prugramma liberu, di tipu fonte aperta, multipiattaforme, cuncepitu na
 Audacity
 _per arregistrà un sonu, un testu parlatu o una musica cù u microfonu di l’urdinatore è per trasfurmalli in schedarii MP3 o WAV. Si pò dinù mudificà i schedarii audio cù filtri numarosi, fà un mischiu cù parechji soni, è d’altre funzioni guasi prufessiunale. Stu prugramma funziuneghja nant’à Windows, Mac è Linux ma ci sò parechje sfarenze s’ellu si paraguneghja à_
 Audacity.
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Stu prugramma hè soprattuttu un’alternativa à [_Audacity_](./#-audacity-) dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021.
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : Stu prugramma hè soprattuttu un’alternativa à [_Audacity_](./README.md#-audacity-) dapoi a so cumprera da l’impresa _MuseGroup_ in u 2021.
 
 ## ✨ Thunderbird for Android <a href="./Prughjetti/Thunderbird%20for%20Android/Traduzzione.md"><img src="./Icone/Thunderbird%20for%20Android.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://play.google.com/store/apps/details?id=net.thunderbird.android  
@@ -237,7 +237,7 @@ Android
 _cù guasi tutti i furnidori di messaghjeria elettronica. Per indettu :_
 free, gmail, hotmail, laposte, orange, outlook, wanadoo, yahoo
 _è d’altri. Amministrate senza straziu parechji conti di messaghjeria via un’interfaccia grafica unica cù una scatula di ricezzione unificata chì permette una pruduttività massima. Custruita nant’à una tecnolugia à fonte aperta è sustenuta da una squadra dedicata di sviluppatori accant’à una cumunità glubale di vuluntarii, Thunderbird ùn tratta mai i vostri dati privati cum’è un pruduttu. Sustenutu solu da e cuntribuzioni finanziarie di i nostri utilizatori, ùn viderete mai più publicità mischiate à i vostri messaghji elettronichi._
-> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : St’appiecazione hè l’evoluzione di [_K-9 Mail_](./#-k-9-mail-) chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
+> 📗 __$\textcolor{orange}{\large{\text{Nota}}}$__ : St’appiecazione hè l’evoluzione di [_K-9 Mail_](./README.md#-k-9-mail-) chì hè assai cunnisciuta in u mondu di a messaghjeria à codice di fonte aperta, soprattuttu per u successu di e so funzioni.
 
 ## ✨ VeraCrypt <a href="./Prughjetti/VeraCrypt/Traduzzione.md"><img src="./Icone/VeraCrypt.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://veracrypt.fr/en/Home.html  
