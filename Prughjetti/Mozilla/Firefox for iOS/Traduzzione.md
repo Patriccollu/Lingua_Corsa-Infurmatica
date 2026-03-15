@@ -3,7 +3,7 @@
 ## Distribuzione
 
 - A prima traduzzione in lingua corsa hè stata fatta di dicembre di u 2018
-- Una cronolugia di [tutte e mudificazioni si trova nant’à GitHub](https://github.com/mozilla-l10n/firefoxios-l10n/commits/master/co)
+- Una cronolugia di [tutte e mudificazioni si trova nant’à GitHub](https://github.com/mozilla-l10n/firefoxios-l10n/commits/main/co)
 
 ## Traduttore
 - Patriccollu di Santa Maria è Sichè
@@ -23,8 +23,8 @@
 ## I schedarii di lingua à traduce
 
 - U furmatu di u schedariu : `.xliff`
-- [A fonte d’origine in inglese](https://github.com/mozilla-l10n/firefoxios-l10n/blob/master/templates/firefox-ios.xliff)
-- [U schedariu in lingua corsa](https://github.com/mozilla-l10n/firefoxios-l10n/blob/master/co/firefox-ios.xliff)
+- [A fonte d’origine in inglese](https://github.com/mozilla-l10n/firefoxios-l10n/blob/main/templates/firefox-ios.xliff)
+- [U schedariu in lingua corsa](https://github.com/mozilla-l10n/firefoxios-l10n/blob/main/co/firefox-ios.xliff)
 
 U dipositu di tutte __e lingue__ di _Firefox for iOS_ si trova nant’à _GitHub_ :  
    https://github.com/mozilla-l10n/firefoxios-l10n
