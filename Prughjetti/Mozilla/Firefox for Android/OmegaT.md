@@ -45,6 +45,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/downloads/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/findinpage/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/fxsuggest/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/importer/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/media/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/privatemode/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml  
@@ -53,10 +54,10 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/search/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml  
-  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
+    https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/summarize/src/main/res/values/strings.xml  
+https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/webnotifications/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml  
-  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/service/firefox-relay/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/service/nimbus/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/support/base/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml  
@@ -86,6 +87,7 @@ components-feature-customtabs-strings.xml
 components-feature-downloads-strings.xml
 components-feature-findinpage-strings.xml
 components-feature-fxsuggest-strings.xml
+components-feature-importer-strings.xml
 components-feature-media-strings.xml
 components-feature-privatemode-strings.xml
 components-feature-prompts-strings.xml
@@ -94,10 +96,10 @@ components-feature-qr-strings.xml
 components-feature-readerview-strings.xml
 components-feature-search-strings.xml
 components-feature-sitepermissions-strings.xml
+components-feature-summarize-strings.xml
 components-feature-tabs-strings.xml
 components-feature-webnotifications-strings.xml
 components-lib-crash-strings.xml
-components-service-firefox-relay-strings.xml
 components-service-nimbus-strings.xml
 components-support-base-strings.xml
 components-support-ktx-strings.xml
