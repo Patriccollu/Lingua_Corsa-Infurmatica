@@ -54,8 +54,8 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/search/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/sitepermissions/src/main/res/values/strings.xml  
-    https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/summarize/src/main/res/values/strings.xml  
-https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/summarize/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/tabs/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/webnotifications/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/lib/crash/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/service/nimbus/src/main/res/values/strings.xml  
@@ -63,6 +63,7 @@ https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-co
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/support/ktx/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/ui/tabcounter/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/ui/widgets/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/fenix/app/longfox/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/fenix/app/src/main/res/values/strings.xml  
 - Per ogni schedariu, fà un __cliccu dirittu__ nant’à u buttone `Raw`, insù è à dirittu, accant’à l’icone di u screnu, di a mina, è di a curbella
 
@@ -105,6 +106,7 @@ components-support-base-strings.xml
 components-support-ktx-strings.xml
 components-ui-tabcounter-strings.xml
 components-ui-widgets-strings.xml
+fenix-app-longfox-strings.xml
 fenix-app-strings.xml
 ```
 ## Preparazione di i schedarii nanzu a traduzzione
