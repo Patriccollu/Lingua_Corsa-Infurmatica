@@ -47,8 +47,10 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/fxsuggest/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/importer/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/media/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/password-importer/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/privatemode/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/prompts/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/protection-dashboard/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/pwa/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/qr/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/readerview/src/main/res/values/strings.xml  
@@ -90,8 +92,10 @@ components-feature-findinpage-strings.xml
 components-feature-fxsuggest-strings.xml
 components-feature-importer-strings.xml
 components-feature-media-strings.xml
+components-feature-password-importer-strings.xml
 components-feature-privatemode-strings.xml
 components-feature-prompts-strings.xml
+components-feature-protection-dashboard-strings.xml
 components-feature-pwa-strings.xml
 components-feature-qr-strings.xml
 components-feature-readerview-strings.xml
