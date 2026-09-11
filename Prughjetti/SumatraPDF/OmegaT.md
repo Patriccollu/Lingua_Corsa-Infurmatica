@@ -8,9 +8,7 @@
 
 ## Scaricamentu di e catene à traduce
 
-- Ci hè dui lochi induve si pò truvà ste catene à traduce, mischiate cù d’altre infurmazioni :
-  - nant’à una [pagina di u situ di traduzzione _apptranslator.org_](https://www.apptranslator.org/app/SumatraPDF/co)
-  - nant’à un [schedariu di u situ di sviluppu _GitHub_](https://github.com/sumatrapdfreader/sumatrapdf/blob/master/src/docs/translations.txt)
+- Si pò truvà e catene à traduce nant’à a [pagina di u situ di traduzzione _apptranslator.org_](https://www.apptranslator.org/app/SumatraPDF/co)
 
 ## Preparazione di e catene nanzu a traduzzione
 
@@ -24,26 +22,8 @@
 - Lancià u prugramma _Notepad++_ è apre un schedariu novu, dunque viotu
 - Incullacci tutte e linee di u preme’papei, per indettu via a cumanda CTRL-V
 - Ci vole à trasfurmà u so cuntenutu per cunservà solu e catene in inglese qu’ellu ci vole à traduce.
-- Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-- Selezziunà `Cunversione SumatraPDF.APP-OmegaT` per cunservà tutte e catene in inglese o `Cunversione SumatraPDF.APPn-OmegaT` per cunservà solu e catene nove à traduce
-- Cliccu nant’à `Eseguisce 1 volta`
-- Appughjà nant’à u buttone `Eseguisce`
-- Arregistrà u schedariu cù u nome `omegat_translations.txt`
-
-### Da u schedariu unicu di u situ di sviluppu _GitHub_
-
-- Scaricà l’ultima mudificazione di u schedariu `translations.txt` chì si trova nant’à u dipositu _GitHub_ :  
-https://github.com/sumatrapdfreader/sumatrapdf/blob/master/src/docs/translations.txt
-  - Fà un cliccu dirittu nant’à u buttone « _Raw_ » chì si trova à diritta, accant’à l’icone di u screnu, di a mina è di a curbella
-  - Sceglie l’ozzione « _Arregistrà a sibula di a leia sottu…_ »
-  - Arregistrà u schedariu cù u listessu nome
-- Ci vole à trasfurmà u so cuntenutu per cunservà solu e catene in inglese qu’ellu ci vole à traduce.
-- Lancià u prugramma _Notepad++_ è apre stu schedariu
-- Sceglie `Macro`, eppò `Eseguisce una macro parechje volte…`
-- Selezziunà `Cunversione SumatraPDF.TXT-OmegaT`
-- Cliccu nant’à `Eseguisce 1 volta`
-- Appughjà nant’à u buttone `Eseguisce`
-- Arregistrà u schedariu cù u nome `omegat_translations.txt`
+- Sceglie `Prucedura`, eppò selezziunà `Cunversione SumatraPDF.APP.inglese-OmegaT(.txt)`
+- Arregistrà u schedariu cù u nome `OmegaT_SumatraPDF.txt`
 
 ## Copia di i schedarii di lingua inglese
 
