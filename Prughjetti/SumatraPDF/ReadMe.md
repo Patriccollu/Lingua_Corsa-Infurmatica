@@ -25,6 +25,5 @@ Un schedariu `zip` chì cuntene a memoria di traduzzione in furmatu TMX di _Suma
 Tutti sti siti sò di lingua inglese.
 
 - [A pagina d’accolta di _SumatraPDF_](https://www.sumatrapdfreader.org/free-pdf-reader)
-- [U manuale in linea di _SumatraPDF_](https://www.sumatrapdfreader.org/manual)
-- [A ducumentazione più cumpleta di _SumatraPDF_](https://www.sumatrapdfreader.org/docs/SumatraPDF-documentation)
-- [I sughjetti chì trattanu di a lingua corsa nant’à u foru di _SumatraPDF_](https://forum.sumatrapdfreader.org/search?q=corsican)
+- [U manuale in linea di _SumatraPDF_](https://www.sumatrapdfreader.org/docs/SumatraPDF-documentation)
+- [I sughjetti chì trattanu di a lingua corsa nant’à u foru di _SumatraPDF_](https://github.com/sumatrapdfreader/sumatrapdf/discussions?discussions_q=corsican+)
