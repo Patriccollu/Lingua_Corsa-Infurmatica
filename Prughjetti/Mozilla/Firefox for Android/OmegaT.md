@@ -35,6 +35,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/compose/base/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/compose/browser-toolbar/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/compose/cfr/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/compose/menu/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/compose/tabstray/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/addons/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/app-links/src/main/res/values/strings.xml  
@@ -47,6 +48,7 @@ Ci hè parechji schedarii à traduce, è a lista cambia di quandu in quandu.
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/fxsuggest/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/importer/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/ipprotection/src/main/res/values/strings.xml  
+  https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/listentopage/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/media/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/password-importer/src/main/res/values/strings.xml  
   https://github.com/mozilla-l10n/android-l10n/blob/main/mozilla-mobile/android-components/components/feature/privatemode/src/main/res/values/strings.xml  
@@ -81,6 +83,7 @@ components-compose-awesomebar-strings.xml
 components-compose-base-strings.xml
 components-compose-browser-toolbar-strings.xml
 components-compose-cfr-strings.xml
+components-compose-menu-strings.xml
 components-compose-tabstray-strings.xml
 components-feature-addons-strings.xml
 components-feature-app-links-strings.xml
@@ -93,6 +96,7 @@ components-feature-findinpage-strings.xml
 components-feature-fxsuggest-strings.xml
 components-feature-importer-strings.xml
 components-feature-ipprotection-strings.xml
+components-feature-listentopage-strings.xml
 components-feature-media-strings.xml
 components-feature-password-importer-strings.xml
 components-feature-privatemode-strings.xml
