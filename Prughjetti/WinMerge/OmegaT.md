@@ -9,21 +9,21 @@ Eccu l’istruzzioni per scaricà l’ultima versione di i schedarii di traduzzi
 Si pò scaricà i schedarii __in lingua inglese__ da quì :  
 - [per l’interfaccia](https://github.com/WinMerge/winmerge/blob/master/Translations/WinMerge/English.pot)
 - [per u _Shell_](https://github.com/WinMerge/winmerge/blob/master/Translations/ShellExtension/English.pot)
-- [per u stalladore](https://github.com/WinMerge/winmerge/blob/master/Translations/InnoSetup/English.isl)
+- [per u stalladore](https://github.com/WinMerge/winmerge/blob/master/Translations/InnoSetup/English.islu)
 - [per u schedariu _ReadMe_](https://github.com/WinMerge/winmerge/blob/master/Docs/Users/ReadMe.txt)
 - [per u situ web](https://github.com/WinMerge/website/blob/master/po/en-US.pot)
 
 S’ella hè bisognu, eccu l'indirizzi per scaricà i schedarii in __lingua corsa__ :  
 - [per l’interfaccia](https://github.com/WinMerge/winmerge/tree/master/Translations/WinMerge/Corsican.po)
 - [per u _Shell_](https://github.com/WinMerge/winmerge/tree/master/Translations/ShellExtension/Corsican.po)
-- [per u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup/Corsican.isl)
+- [per u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup/Corsican.islu)
 - [per u schedariu _ReadMe_](https://github.com/WinMerge/winmerge/blob/master/Translations/Docs/Readme/ReadMe-Corsican.txt)
 - [per u situ web](https://github.com/WinMerge/website/tree/master/po/co.po)
 
 ## Preparazione di i schedarii nanzu a traduzzione
 
 - Ci vole à appruntà i schedarii cù l’estensioni : `.po` è `.pot`
-- Ùn ci hè nunda à fà per l’estensioni `.isl` è `.txt`
+- Ùn ci hè nunda à fà per l’estensioni `.islu` è `.txt`
 
 ### Estensione .po
 - Lancià _Poedit_
