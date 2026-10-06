@@ -16,7 +16,7 @@
 - Richiestu
   - Un contu nant’à _GitHub_
 - Ricumandatu
-  - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.isl`, `.po` o `.txt`
+  - _OmegaT_, prugramma per traduce i schedarii cù l’estensioni `.islu`, `.po` o `.txt`
   - _Poedit_, prugramma per mudificà i schedarii _gettext_ cù l’estensioni `.po`
   - _Notepad++_, prugramma per mudificà un testu, paragunà duie versioni di testu, o trasfurmà u cuntenutu cù una prucedura pre-arregistrata
   - _Thunderbird_, prugramma di messaghjeria chì permette d’urganizà tutti i vostri messaghji è indirizzi elettronichi in una interfaccia unica, ma soprattuttu d’abbunassi à i flussi d’attualità di _GitHub_
@@ -24,7 +24,7 @@
 
 ## I schedarii di lingua à traduce
 
-- I furmati di schedariu : `.isl`, `.po` è `.txt`
+- I furmati di schedariu : `.islu`, `.po` è `.txt`
 
 ### Situ officiale di traduzzione
 
@@ -58,7 +58,7 @@ Per sapene di più, fighjate l’istruzzioni per [impiegà un flussu di _GitHub_
 Eccu i flussi à cuttighjà ch’ella ci vole à definisce in _Thunderbird_ grazia à un abbunamentu :  
 - https://github.com/WinMerge/winmerge/commits/master/Translations/WinMerge/English.pot.atom
 - https://github.com/WinMerge/winmerge/commits/master/Translations/ShellExtension/English.pot.atom
-- https://github.com/WinMerge/winmerge/commits/master/Translations/InnoSetup/English.isl.atom
+- https://github.com/WinMerge/winmerge/commits/master/Translations/InnoSetup/English.islu.atom
 - https://github.com/WinMerge/winmerge/commits/master/Docs/Users/ReadMe.txt.atom
 - https://github.com/WinMerge/website/commits/master/po/en-US.pot.atom
 
@@ -71,7 +71,7 @@ Omu po esse infurmatu nant’à e prossime versioni via a pagina di i mozi :
 
 - _WinMerge_ ùn prupone alcuna appiecazione - lucale o nant’à u Web - per fà a traduzzione
 
-- Hè ricummandatu d’impiegà __OmegaT__ per fà què perchè hè capace di mudificà i furmati di schedariu `.isl`, `.po`, `.pot` è `.txt`. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md)
+- Hè ricummandatu d’impiegà __OmegaT__ per fà què perchè hè capace di mudificà i furmati di schedariu `.islu`, `.po`, `.pot` è `.txt`. Per sapene di più, seguitate l’[istruzzioni per l’adopru di l’appiecazione _OmegaT_](OmegaT.md)
 - Si pò impiegà dinù _Poedit_, ma solu per i furmati di schedariu `.po` è `.pot`
   
 Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinatore, ci vole à impiegà _GitHub_ per pigliallu in contu, vole si dì dumandà a mudificazione di a versione attuale di u schedariu di destinazione per ch’ella sia rimpiazzata da a vostra versione lucale.
@@ -81,7 +81,7 @@ Quandu u vostru schedariu di lingua corsa hè prontu nant’à u vostru urdinato
 - Andà nant’à u situ ufficiale di WinMerge, secondu à u schedariu à mudificà :
   - [per l’interfaccia](https://github.com/WinMerge/winmerge/tree/master/Translations/WinMerge/Corsican.po)
   - [per u _Shell_](https://github.com/WinMerge/winmerge/tree/master/Translations/ShellExtension/Corsican.po)
-  - [per u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup/Corsican.isl)
+  - [per u stalladore](https://github.com/WinMerge/winmerge/tree/master/Translations/InnoSetup/Corsican.islu)
   - [per u schedariu _ReadMe_](https://github.com/WinMerge/winmerge/blob/master/Translations/Docs/Readme/ReadMe-Corsican.txt)
   - [per u situ web](https://github.com/WinMerge/website/tree/master/po/co.po)
 
