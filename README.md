@@ -141,7 +141,7 @@ _Prugramma per creà un assistente d’installazione (o stalladore) nant’à Wi
 
 ## ✨ OmegaT	<a href="./Prughjetti/OmegaT/Traduzzione.md"><img src="./Icone/OmegaT.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://omegat.org/co/  
-_Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule._
+_Attrezzu di traduzzione assistita da l’urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma (Windows, Mac è Linux), scrittu in Java - chì cuntene funzioni putente cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule. CI hè più d’una trentina di furmati di schedariu chì sò accettati via u modulu d’estensione di i filtri Okapi : Microsoft Office Word, Excel, PowerPoint (2007 o più recente), XHTML è HTML, OpenDocument (furmatu di schedariu nativu per LibreOffice è Apache OpenOffice), MediaWiki (Wikipedia), testu in chjaru, ecc…_
 > ❤️ __$\textcolor{orange}{\large{\text{Nota}}}$__ : Ancu u [situ web hè traduttu in lingua corsa](https://omegat.org/co/).
 
 ## ✨ OpenTracks <a href="#"><img src="./Icone/OpenTracks.png" width="30" height="30"></img></a>
@@ -192,7 +192,7 @@ _Indipendente di u sistema (Windows, Mac è Linux) è cuncepitu per estrae o fra
 
 ## ✨ Poedit	<a href="./Prughjetti/Poedit/Traduzzione.md"><img src="./Icone/Poedit.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://poedit.net/  
-_**Poedit** permette di creà è mudificà i schedarii .PO (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. Stu prugramma funziuneghja nant’à Windows, Mac è Linux. **WinSparkle** hè u so prugramma d’installazione nant’à Windows._
+_Editore putente di traduzzione chì permette di creà è mudificà i schedarii .po (Portable Object) per l’appiecazioni o i siti Internet chì adopranu « gettext » per e so traduzzioni. In più di què, st’altri furmati di schedariu sò accettati dinù : schedarii JSON (.json è .arb), XLIFF (.xliff è .xlf), Qt Linguist TS (.ts), Microsoft RESX files (.resx), catalogu Apple (.xcloc). Stu prugramma funziuneghja nant’à Windows, Mac è Linux._
 
 ## ✨ PrivateBin	<a href="#"><img src="./Icone/PrivateBin.png" width="30" height="30"></img></a>
 https://privatebin.info/  
@@ -298,6 +298,10 @@ _impieghendu i protocolli di parolle d’intesa à usu unicu. I gettoni ponu ess
 http://mozbackup.jasnapaka.com/  
 _Attrezzu per creà una copia di securità (salvaguardia) d’un prufilu Firefox, Thunderbird, o d’altri prugrammi sviluppati da a fundazione Mozilla. È dopu, s’ella hè bisognu, d’impiegà sta copia per rimette in piazza (risturà) u prufilu, per indettu s’ellu hè statu alteratu o dannighjatu._
 > 💡 __$\textcolor{orange}{\large{\text{Astuzia}}}$__ : Cum’è MozBackup ùn cunnosce chì una lingua unica à u listessu tempu, eccu l’[istruzzioni particulare per impiegà MozBackup in lingua corsa](./Prughjetti/MozBackup/Installazione.md).
+
+## ⏳ Virtaal <a href="#"><img src="./Icone/Virtaal.png" width="30" height="30"></img></a>
+https://virtaal.translatehouse.org/  
+_Attrezzu graficu di traduzzione, liberu è multipiattaforma (Windows, Mac è Linux), per aiutà un traduttore umanu à traduce schedarii in altre lingue. U so scopu hè d’offre una cumbinazione deliziosa di simplicità è di putenza. S’integra cù risorse in linea selezziunate per rende a traduzzione piacevule, aiutendu dinù à amendanne a qualità. U so puntu fucale iniziale hè a traduzzione di prugrammi (lucalizazione o l10n), ma à dilla franca, hè cuncipitu per esse ghjuvevule cum’è un attrezzu generale per a traduzzione assistata da l’urdinatore (TAO in francese è CAT in inglese). E so funzioni principale sò : riadopru di traduzzione (memoria di traduzzione), assistenza per a terminolugia, cumpienda è currettore autumatichi, persunalizazione di i cuntrolli di qualità per parechje lingue, accessu faciule à i schedarii è a documentazione recenti, l’elementi ricunnisciuti ùn richiedenu micca d’esse stampittati, cuntrolli di qualità durante a stampittata, è ancu di più. I furmati di schedariu chì sò accettati sò : Gettext (.po è .mo), XLIFF (.xlf), TMX, TBX, WordFast TM (.txt), Qt Linguist (.ts), Qt Phrase Book (.qph), glossariu OmegaT (.tab è .utf8). U so nome - Virtaal - hè un ghjocu di parolla in Afrikaans chì vole dì « per a lingua » ma chì si referisce dinù à a traduzzione._
 
 ## ⏳ WinCDEmu <a href="./Prughjetti/WinCDEmu/ReadMe.md"><img src="./Icone/WinCDEmu.png" width="30" height="30" title="Leghje l’infurmazione nant’à a traduzzione in lingua corsa di stu prugramma"></img></a>
 https://wincdemu.sysprogs.org/  
